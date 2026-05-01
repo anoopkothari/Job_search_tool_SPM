@@ -29,7 +29,7 @@ HIGHLIGHTS
 - Led platform reliability strategy across 100+ internal teams, reducing MTTR 45% and increasing release velocity 80% via AI-automation without incident growth.
 
 EXPERIENCE — Equifax, Technical Product Manager, Cloud Infrastructure & Data Platform (Feb 2020 – Nov 2025)
-Owned product strategy and roadmap for the Equifax Data Fabric, a cloud-native enterprise data platform consolidating 250B+ records from 100+ previously siloed sources and serving 800M+ consumers across 24 global markets and 7 GCP regions. Delivered end-to-end product lifecycle across high-throughput data query APIs, self-service infrastructure tooling, and developer platforms for both internal engineering teams and external B2B enterprise customers.
+Owned product strategy and roadmap for the Equifax Data Fabric, a cloud-native enterprise data platform consolidating 250B+ records from 100+ previously siloed sources and serving 800M+ consumers across 24 global markets and 7 GCP regions. Combined hands-on SRE execution — including CI/CD pipeline design and implementation using Jenkins and GitHub Actions for deployment automation, test automation, and release management — with end-to-end TPM ownership across high-throughput data query APIs, self-service infrastructure tooling, and developer platforms for both internal engineering teams and external B2B enterprise customers.
 
 API Performance & Revenue Protection:
 - Eliminated a critical performance bottleneck in Equifax's highest-revenue credit data query API by redesigning Bigtable cluster architecture, reducing latency 91% from 5s to 450ms for millions of daily B2B enterprise queries.
