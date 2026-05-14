@@ -6,7 +6,13 @@
 const fs   = require('fs');
 const path = require('path');
 
+// 🛑 UPDATED CODE BLOCK WITH ACTIVE GENERATION PAUSE:
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+
+console.log('🛑 [ACTIVE PAUSE]: Script execution has been intercepted.');
+console.log('👉 Resume generation and API key ingestion are completely disabled.');
+process.exit(0); // Safely shuts down the script with a success code before checking keys
+
 if (!ANTHROPIC_API_KEY) {
   console.error('ERROR: ANTHROPIC_API_KEY environment variable is required');
   process.exit(1);
