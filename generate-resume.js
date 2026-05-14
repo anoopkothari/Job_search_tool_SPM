@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // generate-resume.js — Tailors resume using Claude Haiku
-// Usage: node generate-resume.js --auto      (score>=7 jobs without resume)
+// Usage: node generate-resume.js --auto      (score>=70 jobs without resume)
 //        node generate-resume.js <job_id>    (specific job)
 
 const fs   = require('fs');
@@ -21,36 +21,54 @@ if (!fs.existsSync(resumesDir)) fs.mkdirSync(resumesDir, { recursive: true });
 // ── Base resume content (for Claude context only) ──
 const BASE_RESUME = `
 SUMMARY
-Technical Product Manager with 5+ years owning cloud infrastructure, internal developer platform, and enterprise data products at global scale. Proven track record driving measurable outcomes across both internal engineering platforms and external B2B customer-facing products, translating complex infrastructure constraints into scalable platform capabilities that protect revenue, accelerate delivery, and improve developer experience.
+Product leader with deep expertise in advertising platforms, AI-powered data products, growth systems, and B2C experiences across travel, e-commerce, and telecom. Builds high-impact consumer- and advertiser-facing products—including ad platforms serving 20K+ customers (scaling to 1M+ ads), bot-intelligence systems with 99% visibility, and measurement platforms that accelerate decision velocity. Leads cross-functional teams from 0-to-1 through enterprise scale, modernizing data pipelines, improving AI/ML signal quality, and solving complex system-level challenges. Recognized for translating ambiguous problems into actionable strategies and delivering 23–30% gains in accuracy, efficiency, and adoption.
 
-HIGHLIGHTS
-- Redesigned Bigtable architecture to resolve a critical credit data API performance crisis, reducing latency 91% (5s → 450ms), protecting $100M+ in SLA exposure, and generating $5M in annual revenue across enterprise B2B customers.
-- Conceived and shipped Admin Portal, a 0→1 self-service cloud infrastructure provisioning platform serving both internal engineering teams and external B2B enterprise customers globally, eliminating 95% of ServiceNow tickets and cutting customer onboarding time by 60% across 15+ teams.
-- Led platform reliability strategy across 100+ internal teams, reducing MTTR 45% and increasing release velocity 80% via AI-automation without incident growth.
+EXPERIENCE
+Product Manager | Expedia (04/2023 – till date)
+- Launched two foundational SEO intelligence products (COBALT, URL DIM), reducing weekly trading analysis from hours to minutes.
+- Resolved long-standing ambiguous “SEO Dark” issues by challenging legacy assumptions, improving metric accuracy by 23%.
+- Built an AI‑driven search‑engine discovery and evaluation system using Claude Code, cutting analysis time from a full day to minutes (99%+ efficiency gain), and accelerating integration of new search engines.
+- Led end‑to‑end development of BOTMOBILE, a bot‑detection and analytics platform providing 99% visibility into crawler behavior, enabling accurate experiment readouts, and preventing 30% of good‑bot blockages.
+- Built the business case demonstrating that link sharing drives ~10% of direct traffic, securing executive investment for attribution improvements.
+- Led org-wide shift from Visits → Entry Clicks for traffic measurement, delivering a more accurate behavioral signal for attribution and AI/ML models and significantly increasing trust in the underlying data.
+- Modernized data pipelines—including GSC BigQuery ingestion, canonical intelligence, and taxonomy v4—improving signal quality, enabling stronger AI‑driven recommendations and classification, and strengthening trust in downstream AI systems.
+- Revitalized a neglected direct channel by identifying multi‑million‑dollar leakage‑related inflation and directing traffic reallocation to the appropriate channels, significantly strengthening attribution accuracy.
 
-EXPERIENCE — Equifax, Technical Product Manager, Cloud Infrastructure & Data Platform (Feb 2020 – Nov 2025)
-Owned product strategy and roadmap for the Equifax Data Fabric, a cloud-native enterprise data platform consolidating 250B+ records from 100+ previously siloed sources and serving 800M+ consumers across 24 global markets and 7 GCP regions. Combined hands-on SRE execution with end-to-end TPM ownership across high-throughput data query APIs, self-service infrastructure tooling, and developer platforms for both internal engineering teams and external B2B enterprise customers.
+Product Manager | Microsoft (12/2020 – 05/2022)
+- Product Manager for search ads product (Dynamic search ads, Responsive search ads & Multimedia ad extension, built various features from concept till GA (Global Availability) to help advertiser reduce ad creation time & effort by ~5%.
+- Launched Facebook import open beta for 40+ managed and 20k unmanaged customers with zero issues to enable advertiser to get the rich demand containing images and videos from Facebook.
+- Successfully completed DSA Campaign type deprecation and migration to Mixed mode campaign, helping remove barriers to DSA adoption, saved time by eliminating redundant operations and increasing Mixed mode campaign by 30% within a quarter.
+- Delivered DSA deprecation and migration to Mixed Campaign mode, increasing Mixed Mode campaign adoption by 30% in one quarter.
+- Accomplished the target of 1M ads within 3 months of soft launch of Multimedia ad, differentiator from Microsoft to enhance advertiser brand value with large visual imagery and video to showcase brand and product to increase traffic.
+- Led development of key Multimedia Ads features (CTA, bid modifiers, multi-asset models, logo support, previews) across the entire product lifecycle.
 
-API Performance & Revenue Protection:
-- Eliminated a critical performance bottleneck in Equifax's highest-revenue credit data query API by redesigning Bigtable cluster architecture, reducing latency 91% from 5s to 450ms for millions of daily B2B enterprise queries.
-- Protected $100M+ in SLA exposure by stabilizing API performance during a high-growth enterprise demand surge across financial institutions and lenders.
-- Generated $5M in annual revenue by defining monetization strategy across upgraded enterprise Bigtable infrastructure tiers.
-- Improved enterprise customer retention 40% by restoring SLA compliance and sustained 99.9% service availability on Google Cloud.
+Product Manager | EBAY (09/2019 – 02/2020)
+- Received the ‘You Made My Day Award’ for agile process implementation and enhancement of Extended Identifiers and ECDL within 4 weeks of joining.
+- Inherited a delayed eBay data-product launch and shipped MVP in 6 weeks by refining roadmap & priorities.
+- Championed Data Product (ECDL - eBay Common data layer) to provide easy availability of streaming ecommerce data (Big Data), and aggregation of data in self-serve manner to analytics, Machine Learning (ML) for actionable insights.
 
-Self-Service Platform & Developer Productivity:
-- Reduced infrastructure provisioning time 60% by owning 0→1 launch of self-service Admin Portal.
-- Eliminated 95% of ServiceNow ticket volume and cut customer onboarding time by 60% by replacing manual provisioning workflows with a secure UI-based self-service platform.
-- Improved delivery velocity 40% across 15+ engineering teams by defining reusable Kubernetes deployment standards and self-service infrastructure workflows.
-- Reduced MTTR 45% by standardizing monitoring and on-call frameworks across 100+ engineering teams.
-- Increased release velocity 80% without incident growth by leading cross-functional reliability readiness tradeoffs and introducing AI-assisted incident automation.
-- Managed cloud infrastructure lifecycle across global platforms using Terraform (IaC), enabling consistent, auditable provisioning across GCP and AWS at scale.
+Product Manager | MOODY’S ANALYTICS (06/2019 – 09/2019)
+- Improved product delivery by 20% by implementing new agile processes and facilitating core ceremonies to enhance team alignment and velocity.
+- Drove clarity and alignment by gathering 100% of stakeholder requirements and managing expectations for the control plane. Built and continuously refined the product roadmap and PRDs to guide high‑value delivery.
 
-EDUCATION: George Mason University · Master of Science, Computer Engineering
+Product Manager | T-MOBILE (06/2017 – 06/2019)
+- Developed and executed the product vision and strategy, driving a 15% increase in delivery speed through clear communication and team alignment. Recognized as Star Performer for increasing product adoption by 20%.
+- Decreased shipping issues and related costs by 30% through a data‑driven analysis of the shipping workflow and creation of a streamlined process flow.
+- Cut ticket return rates to 10% by strengthening product functionality with accurate, current requirements—driving a more consistent and user‑friendly experience.
 
-SKILLS
-Product & Strategy: Platform & Infrastructure Products, 0→1 Product Builds, Roadmapping, OKRs & KPI Design, Go-to-Market Strategy, SLA Governance, Developer Experience (DX), B2B SaaS, Monetization Strategy
-Cloud & Infrastructure: Google Cloud Platform (GCP), AWS, Kubernetes, Bigtable, BigQuery, API Design & Strategy, Observability & Monitoring, SLOs/SLIs, Infrastructure as Code (Terraform), Distributed Systems, Incident Management
-Leadership & Execution: Cross-Functional Leadership, Stakeholder Alignment, Executive Communication, Release Planning, Tradeoff Management, Agile / Scrum
+Product Manager | TECH MAHINDRA (11/2014 – 06/2019)
+- As Part of Makers Lab conceptualized innovative products using Machine Learning and Artificial Intelligence to help change market perception.
+- Consulted on strategy formulation for various Digital Enterprise and Transformation Services; conducted market research for business case development, Total Cost of Ownership (TCO) and Return On Investment (ROI) analysis, and strategy formulation.
+
+RELEVANT CAREER HISTORY
+CML Consultant | CYBERTECH SYSTEM and SOFTWARE LIMITED INC | 09/2012 – 11/2014
+Software Development Senior Advisor | DELL INDIA PVT. LTD. | 12/2008 – 08/2011
+Technical Associate | TECH MAHINDRA LTD | 06/2005 – 12/2008
+
+EDUCATION
+Masters Business Administration (M.B.A.) | INDIAN INSTITUTE OF MANAGEMENT (IIM)
+International Immersion Module | UNIVERSITY OF PITTSBURGH
+Bachelor of Science (B.S.), Technology | NATIONAL INSTITUTE OF TECHNOLOGY
 `;
 
 // ── Call Claude Haiku ──
@@ -77,147 +95,103 @@ async function callClaude(prompt) {
   return data.content[0].text;
 }
 
-// ── Build final HTML by injecting tailored content into template ──
+// ── Build final HTML by injecting tailored summary into completed template ──
 function buildHtml(tailored) {
   let html = fs.readFileSync(templatePath, 'utf8');
-
-  // Strip any <li>/<\/li> Claude may have included before wrapping
-  const stripLi = b => b.replace(/^\s*<li>/i, '').replace(/<\/li>\s*$/i, '').trim();
-  const liItems = arr => arr.map(b => `          <li>${stripLi(b)}</li>`).join('\n');
-
-  html = html.replace('{{SUMMARY_TEXT}}',    tailored.summary_text);
-  html = html.replace('{{HIGHLIGHTS_ITEMS}}', liItems(tailored.highlights_items));
-  html = html.replace('{{JOB_DESC}}',         tailored.job_desc);
-  html = html.replace('{{GROUP1_TITLE}}',     tailored.group1_title);
-  html = html.replace('{{GROUP1_BULLETS}}',   liItems(tailored.group1_bullets));
-  html = html.replace('{{GROUP2_TITLE}}',     tailored.group2_title);
-  html = html.replace('{{GROUP2_BULLETS}}',   liItems(tailored.group2_bullets));
-
+  
+  // Directly targets our completed template's placeholder summary macro
+  html = html.replace('{{SUMMARY_TEXT}}', tailored.summary_text);
   return html;
 }
 
 // ── Generate resume for one job ──
 async function generateResume(job) {
-  console.log(`  Generating: ${job.role} @ ${job.company}`);
+  console.log(`  Generating tailored profile summary for: ${job.title} @ ${job.company}`);
 
-  const jd = job.description_snippet || '(no description available)';
+  const jd = job.description || '(no description available)';
 
-  const prompt = `You are helping tailor a resume for a specific job application. Your job is to lightly adjust specific sections so the resume better matches the job description — while keeping everything sounding natural and authentic, written in first person, not AI-generated.
+  const prompt = `You are helping tailor a resume summary for a specific job application. Your job is to lightly adjust the executive summary section so it maps to the job description — while keeping everything sounding natural, written in first person, and authentic.
 
 STRICT RULES:
-- Do NOT invent new achievements, skills, or experiences not in the base resume
-- Keep ALL metrics exactly as-is (91%, $100M+, $5M, 60%, 95%, 45%, 80%, 40%)
-- Only reorder bullets, subtly rephrase, or swap emphasis to match JD priorities
-- Use <strong> tags only where the original resume uses them — do not over-bold
-- Tone must sound like a real person wrote it, not an AI
-- The job_desc field describes what I (Avinash) owned and delivered at Equifax — it is NOT about the target job. Write it in first person past tense ("Owned...", "Led...", "Delivered..."), based only on the base resume content. Lightly shift emphasis toward aspects of my Equifax experience that are most relevant to this JD, but it must always read as my actual experience at Equifax, never as a description of the job I am applying for
-- highlights_items: pick the 3 most relevant highlights from the base resume for this JD
-- group1 and group2: reorganize the existing bullets into two logical groups that fit this JD best
+- Do NOT invent new achievements, skills, or experiences not in the base resume.
+- Keep ALL metrics exactly as-is (23%, 99%, 30%, 10%, 20%, 40k, 1M+).
+- Tone must sound like a real person wrote it, not an AI.
+- Shift emphasis toward aspects of my experience (such as platform architecture, pipelines, or orchestration) that are most relevant to this JD.
+- The output text must read as my actual experience (Anoop's history).
 
 BASE RESUME:
 ${BASE_RESUME}
 
-JOB TITLE: ${job.role}
+JOB TITLE: ${job.title}
 COMPANY: ${job.company}
 JOB DESCRIPTION EXCERPT:
 ${jd}
 
-Return ONLY valid JSON, no markdown, no explanation. Array items must be plain text strings (no <li> tags — those are added automatically):
+Return ONLY valid JSON, no markdown formatting, no text before or after the JSON structure:
 {
-  "match_percentage": <integer 0-100>,
-  "summary_text": "<p content — can use <strong> tags, 2-3 sentences>",
-  "highlights_items": [
-    "plain text bullet content, optional <strong> tags allowed",
-    "plain text bullet content",
-    "plain text bullet content"
-  ],
-  "job_desc": "<2-3 sentences in first person past tense describing what I owned/delivered at Equifax, NOT what the target job wants>",
-  "group1_title": "<group title text>",
-  "group1_bullets": ["plain text bullet content", "..."],
-  "group2_title": "<group title text>",
-  "group2_bullets": ["plain text bullet content", "..."]
+  "match_percentage": 90,
+  "summary_text": "Your customized first-person summary paragraph here."
 }`;
 
-  const raw = await callClaude(prompt);
-
-  let tailored;
   try {
-    const jsonMatch = raw.match(/\{[\s\S]*\}/);
-    if (!jsonMatch) throw new Error('No JSON found in response');
-    tailored = JSON.parse(jsonMatch[0]);
-    const required = ['summary_text','highlights_items','job_desc','group1_title','group1_bullets','group2_title','group2_bullets'];
-    for (const f of required) {
-      if (!tailored[f]) throw new Error(`Missing field: ${f}`);
-    }
-  } catch (e) {
-    throw new Error(`Parse error: ${e.message}\nRaw: ${raw.substring(0, 300)}`);
+    const rawOutput = await callClaude(prompt);
+    
+    // Clean up possible markdown code block wrap tags if generated
+    const cleanJsonString = rawOutput.replace(/```json/g, '').replace(/```/g, '').trim();
+    const tailored = JSON.parse(cleanJsonString);
+
+    const finalHtml = buildHtml(tailored);
+    const outputFilename = `resume_${job.id || Date.now()}.html`;
+    const outputPath = path.join(resumesDir, outputFilename);
+    
+    fs.writeFileSync(outputPath, finalHtml);
+    console.log(`  Success! Tailored output generated at: ${outputPath}`);
+    
+    // Log matching index criteria back to dashboard loop
+    job.resume_generated = true;
+    job.match_percentage = tailored.match_percentage;
+
+  } catch (error) {
+    console.error(`  Failed generation cycle for job ${job.id}:`, error.message);
   }
-
-  const filename = `resume_${job.id}.html`;
-  fs.writeFileSync(path.join(resumesDir, filename), buildHtml(tailored));
-
-  console.log(`  Saved: resumes/${filename} (Match: ${tailored.match_percentage}%)`);
-  return {
-    resume_link:        `resumes/${filename}`,
-    resume_match_score: tailored.match_percentage
-  };
 }
 
-// ── Main ──
+// ==========================================
+// 4. BATCH EXECUTION RUNTIME PIPELINE
+// ==========================================
 async function main() {
-  const args   = process.argv.slice(2);
-  const isAuto = args.includes('--auto');
-  const jobId  = args.find(a => !a.startsWith('--'));
+  const args = process.argv.slice(2);
+  if (args.length === 0) {
+    console.log("Usage instructions: node generate-resume.js --auto OR node generate-resume.js <job_id>");
+    process.exit(0);
+  }
 
-  console.log('=== Resume Generator ===');
-
-  const data = JSON.parse(fs.readFileSync(jobsPath, 'utf8'));
-  const jobs = data.jobs || [];
-  let generated = 0;
-
-  if (isAuto) {
-    const targets = jobs.filter(j => (j.match_score || 0) >= 7 && !j.resume_link);
-    console.log(`Auto mode: ${targets.length} job(s) queued (score >= 7, no resume yet)`);
-
-    for (const job of targets) {
-      try {
-        const result = await generateResume(job);
-        const idx = jobs.findIndex(j => j.id === job.id);
-        if (idx !== -1) {
-          jobs[idx].resume_link        = result.resume_link;
-          jobs[idx].resume_match_score = result.resume_match_score;
-        }
-        generated++;
-        await new Promise(r => setTimeout(r, 1200));
-      } catch (err) {
-        console.error(`  SKIP ${job.role}: ${err.message}`);
-      }
-    }
-
-  } else if (jobId) {
-    const job = jobs.find(j => j.id === jobId);
-    if (!job) { console.error(`Job not found: ${jobId}`); process.exit(1); }
-
-    try {
-      const result = await generateResume(job);
-      const idx = jobs.findIndex(j => j.id === jobId);
-      jobs[idx].resume_link        = result.resume_link;
-      jobs[idx].resume_match_score = result.resume_match_score;
-      generated++;
-    } catch (err) {
-      console.error(`Error: ${err.message}`); process.exit(1);
-    }
-
-  } else {
-    console.error('Usage: node generate-resume.js --auto  OR  node generate-resume.js <job_id>');
+  if (!fs.existsSync(jobsPath)) {
+    console.error(`ERROR: database index not found at ${jobsPath}. Run fetch-jobs.js first.`);
     process.exit(1);
   }
 
-  if (generated > 0) {
-    fs.writeFileSync(jobsPath, JSON.stringify(data, null, 2));
-    console.log(`\nUpdated jobs.json — ${generated} resume(s) generated`);
+  const jobs = JSON.parse(fs.readFileSync(jobsPath, 'utf8'));
+
+  if (args[0] === '--auto') {
+    console.log("Running automation sequence: Scanning for local jobs with match score >= 70...");
+    // Auto-generates layouts for high-intent Seattle matches
+    const highMatchJobs = jobs.filter(j => j.score >= 70);
+    
+    for (const job of highMatchJobs) {
+      await generateResume(job);
+    }
+    // Sync indices back to schema storage file
+    fs.writeFileSync(jobsPath, JSON.stringify(jobs, null, 2));
+  } else {
+    const targetId = args[0];
+    const targetJob = jobs.find(j => j.id === targetId);
+    if (!targetJob) {
+      console.error(`ERROR: Job reference ID "${targetId}" not found in current data index entries.`);
+      process.exit(1);
+    }
+    await generateResume(targetJob);
   }
-  console.log('=== Done ===');
 }
 
-main().catch(err => { console.error('Fatal:', err); process.exit(1); });
+main();
