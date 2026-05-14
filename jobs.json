@@ -1,4 +1,62 @@
-json
 {
-  "jobs": []
+  "last_updated": "2026-05-14T08:17:13.049Z",
+  "total_fetched_today": 4,
+  "jobs": [
+    {
+      "id": "jsearch_AVmwJ-u692rcgBwwAAAAAA==",
+      "role": "Remote Group Product Manager",
+      "company": "RoomPriceGenie",
+      "link": "https://www.jobleads.com/us/job/remote-group-product-manager-integrations-m-f-d--germany--ed7261a784067278c513e347db983d129",
+      "posted_date": "2026-05-08",
+      "location": "Ohio",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "JobLeads",
+      "description_snippet": "About RoomPriceGenie\n\nFounded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. We understand that many small hotels face challenges with digitalization, making their operations increasingly complex and often resulting in lost revenue. We have developed a powerful solution that enables hotels to set the right prices in just seconds. Our state‑of‑the‑art algorithm analyzes both internal hotel data and market trends to recommend pricing strategies that enhance revenue and improve booking rates. With customers spanning the globe, RoomPriceGenie ha"
+    },
+    {
+      "id": "jsearch_oe9KyPtjSGG2LXasAAAAAA==",
+      "role": "Senior Product Manager, AI and Computing Infrastructure Orchestration, Security and Compliance",
+      "company": "Google",
+      "link": "https://www.indeed.com/viewjob?jk=37caad1cdb5fdf9d",
+      "posted_date": "2026-05-12",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Indeed",
+      "description_snippet": "In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\n• Health, dental, vision, life, disability insurance\n\n• Retirement Benefits: 401(k) with company match\n\n• Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n\n• Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\n\n• Maternity Leave (Short-Term Disability + Baby Bonding): "
+    },
+    {
+      "id": "jsearch_zUuowJcu1mtH6swnAAAAAA==",
+      "role": "Sr Product Manager - Tech, Finance Technology",
+      "company": "Amazon.com",
+      "link": "https://bebee.com/us/jobs/sr-product-manager-tech-finance-technology-amazoncom-bellevue-wa--theirstack-679763674",
+      "posted_date": "2026-05-08",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "BeBee",
+      "description_snippet": "DESCRIPTION\n\nAre you interested in building high-performance, globally scalable financial systems and infrastructure that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation? Does the idea of solving one of the most complex financial coordination challenges at a global scale — where every transaction touches tax, accounting, and treasury simultaneously — sound like your kind of problem? If so, the Amazon Finance Technology (FinTech) team is for you!\nAmazon FinTech is looking for a Senior Product Manager – Technical (PM-T) to deliver scalabl"
+    },
+    {
+      "id": "jsearch_6GkcQf0ct5wCBKPfAAAAAA==",
+      "role": "Sr. Technical Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://virtualjobs.usnlx.com/dover-de/sr-technical-product-manager-remote/AD11477F2CB347178394142AA7E8FEAD/job/",
+      "posted_date": "2026-05-13",
+      "location": "Dover, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "USNLX Virtual Jobs - National Labor Exchange",
+      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
+    }
+  ]
 }
