@@ -171,7 +171,15 @@ async function main() {
     process.exit(1);
   }
 
-  const jobs = JSON.parse(fs.readFileSync(jobsPath, 'utf8'));
+  // WITH THIS:
+const rawData = JSON.parse(fs.readFileSync(jobsPath, 'utf8'));
+const jobs = Array.isArray(rawData) ? rawData : (rawData.jobs || rawData.data || []);
+
+if (!Array.isArray(jobs)) {
+  console.error('ERROR: Could not find a valid job array within jobs.json.');
+  process.exit(1);
+}
+
 
   if (args[0] === '--auto') {
     console.log("Running automation sequence: Scanning for local jobs with match score >= 70...");
