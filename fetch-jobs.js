@@ -128,12 +128,28 @@ async function main() {
 
   // Filter to PM titles only, exclude senior leadership levels
   const EXCLUDE_LEVELS = ['director', 'vice president', ' vp ', 'vp,', 'chief ', ' cpo', ' cto', 'head of', 'group manager'];
-  const pmOnly = rawResults.filter(r => {
-    const title = (r.job_title || '').toLowerCase();
-    const isPM = title.includes('product manager') || title.includes('product owner');
-    const isTooSenior = EXCLUDE_LEVELS.some(lvl => title.includes(lvl));
-    return isPM && !isTooSenior;
-  });
+//  REPLACE IT EXACTLY WITH THIS LOGIC:
+const PREFERRED_LOCATIONS = ['seattle', 'remote', 'bellevue', 'wa'];
+
+const pmOnly = rawResults.filter(r => {
+  // 1. Existing Title Filters
+  const title = (r.job_title || '').toLowerCase();
+  const isPM = title.includes('product manager') || title.includes('product owner');
+  const isTooSenior = EXCLUDE_LEVELS.some(lvl => title.includes(lvl));
+
+  // 2. New Location Filters (Consolidate city, state, and remote flag strings)
+  const city = (r.job_city || '').toLowerCase();
+  const state = (r.job_state || '').toLowerCase();
+  const isRemoteFlag = r.job_is_remote === true || r.job_is_remote === 'true';
+  const fullLocationText = `${city} ${state}`;
+
+  const matchesLocation = PREFERRED_LOCATIONS.some(loc => fullLocationText.includes(loc));
+  const isRemote = isRemoteFlag || title.includes('remote') || fullLocationText.includes('remote');
+
+  // 3. Keep the job only if it matches title requirements AND location requirements
+  return isPM && !isTooSenior && (matchesLocation || isRemote);
+});
+
   console.log(`PM-title filtered: ${pmOnly.length}`);
 
   // Score on raw data, then normalize
