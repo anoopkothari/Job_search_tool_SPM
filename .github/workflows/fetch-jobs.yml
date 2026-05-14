@@ -2,14 +2,18 @@ name: Fetch Jobs Daily
 
 on:
   schedule:
-    - cron: '0 15 * * *'   # Trigger sequence maps to exactly 8 AM Pacific Time (PT) / 11 AM Eastern Time (ET)
-  workflow_dispatch:       # Preserves the option to trigger manual data refreshes via the GitHub UI
+    - cron: '0 15 * * *'   # 8 AM Pacific Time (PT)
+  workflow_dispatch:       # Manual Trigger
 
 jobs:
   fetch-jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
+    # FIX: Place the environment variable inside the actual job context block
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
     steps:
       - name: Checkout repository
