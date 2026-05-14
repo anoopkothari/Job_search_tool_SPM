@@ -2,8 +2,8 @@ name: Fetch Jobs Daily
 
 on:
   schedule:
-    - cron: '0 13 * * *'   # Runs daily at 9 AM EST / 8 AM EDT
-  workflow_dispatch:         # Also allows manual trigger from GitHub UI
+    - cron: '0 15 * * *'   # Trigger sequence maps to exactly 8 AM Pacific Time (PT) / 11 AM Eastern Time (ET)
+  workflow_dispatch:       # Preserves the option to trigger manual data refreshes via the GitHub UI
 
 jobs:
   fetch-jobs:
@@ -25,7 +25,7 @@ jobs:
         env:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
 
-      - name: Generate resumes for high-match jobs (score >= 7)
+      - name: Generate resumes for high-match jobs (score >= 70)
         run: node generate-resume.js --auto
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -35,5 +35,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add jobs.json resumes/
-          git diff --staged --quiet || git commit -m "Auto-update jobs + resumes — $(date +'%Y-%m-%d %H:%M UTC')"
+          git diff --staged --quiet || git commit -m "Auto-update local Seattle jobs + resumes — $(date +'%Y-%m-%d %H:%M UTC')"
           git push
