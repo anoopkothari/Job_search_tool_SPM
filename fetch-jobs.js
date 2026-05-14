@@ -32,7 +32,7 @@ async function fetchPage(page) {
   console.log(`Fetching page ${page}...`);
   const res = await fetch(url.toString(), {
     headers: {
-      'X-RapidAPI-Key':  (process.env. || '').trim().replace(/[\r\n]/g, ''),
+      'X-RapidAPI-Key':  RAPIDAPI_KEY,
       'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
     }
   });
