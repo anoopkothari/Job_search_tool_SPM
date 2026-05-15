@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-05-14T16:57:32.276Z",
-  "total_fetched_today": 0,
+  "last_updated": "2026-05-15T16:48:09.229Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_POXPtaTORi7yl-FjAAAAAA==",
+      "role": "Senior Product Manager — AI Recruiting",
+      "company": "SeekOut",
+      "link": "https://www.builtinseattle.com/job/senior-product-manager/8830815",
+      "posted_date": "2026-05-10",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "Built In Seattle",
+      "description_snippet": "What is SeekOut?\n\nSeekOut helps organizations hire, grow, and retain talent by bringing together recruiting, talent management, and analytics into one platform. The goal is simple: help companies better understand their people and connect them to the right opportunities.\nWhat are we looking to add to our team?\n\nWe’re looking for a Senior Product Manager to help define and build the next generation of AI-powered recruiting experiences.\n\nYou’ll work across product, engineering, and design to create tools that improve how recruiters source, evaluate, and engage talent. This includes automation, d"
+    },
+    {
+      "id": "jsearch_zczE2AOlDZTxpyhtAAAAAA==",
+      "role": "Product Manager, AI Recommendations - Intelligent Planning",
+      "company": "remoterocketship",
+      "link": "https://www.talent.com/view?id=619203395211767711",
+      "posted_date": "2026-05-12",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Talent.com",
+      "description_snippet": "Job Description: The end-to-end product strategy and roadmap for Loop's Recommendations Skill — from signal to approved action Planning rules as a first-class product concept: how organizations define, manage, and version the guardrails that govern when and how recommendations are generated The recommendation surface: how Loop presents prioritized, explainable recommendations to the right stakeholder at the right moment — with full reasoning visible Governance and approval workflows: how recommendations move through human review, queuing, escalation, and batch approval without creating bottlen"
+    },
+    {
+      "id": "jsearch_qrvr-pJ1OrqvQhG7AAAAAA==",
+      "role": "Group Product Manager I, Connections",
+      "company": "Pinterest",
+      "link": "https://www.pinterestcareers.com/jobs/7525112/group-product-manager-i-connections/?gh_jid=7525112",
+      "posted_date": "2026-05-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Pinterest Careers",
+      "description_snippet": "About Pinterest:\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a fea"
+    },
+    {
+      "id": "jsearch_9t1I3-BGanIpx_HOAAAAAA==",
+      "role": "IT Project and Product Manager",
+      "company": "Kavant Solutions",
+      "link": "https://www.indeed.com/viewjob?jk=75397341d34aea6c",
+      "posted_date": "2026-05-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Indeed",
+      "description_snippet": "Overview\n\nWe are seeking an IT Project and Product Manager to support a large federal agency in delivering mission-critical technology programs. This role focuses on managing program execution, including schedule, risk, and budget oversight, while driving modern product delivery practices across agile-enabled teams.\n\nIn this role, you will work closely with government stakeholders, technical teams, and cross-functional partners to ensure successful program delivery and alignment with agency priorities. You will serve as a trusted advisor to the client, translating business needs into actionabl"
+    },
+    {
+      "id": "jsearch_6GkcQf0ct5wCBKPfAAAAAA==",
+      "role": "Sr. Technical Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://virtualjobs.usnlx.com/dover-de/sr-technical-product-manager-remote/AD11477F2CB347178394142AA7E8FEAD/job/",
+      "posted_date": "2026-05-12",
+      "location": "Dover, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "USNLX Virtual Jobs - National Labor Exchange",
+      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
+    },
     {
       "id": "jsearch_AVmwJ-u692rcgBwwAAAAAA==",
       "role": "Remote Group Product Manager",
@@ -43,20 +113,6 @@
       "match_score": 5,
       "source": "BeBee",
       "description_snippet": "DESCRIPTION\n\nAre you interested in building high-performance, globally scalable financial systems and infrastructure that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation? Does the idea of solving one of the most complex financial coordination challenges at a global scale — where every transaction touches tax, accounting, and treasury simultaneously — sound like your kind of problem? If so, the Amazon Finance Technology (FinTech) team is for you!\nAmazon FinTech is looking for a Senior Product Manager – Technical (PM-T) to deliver scalabl"
-    },
-    {
-      "id": "jsearch_6GkcQf0ct5wCBKPfAAAAAA==",
-      "role": "Sr. Technical Product Manager (Remote)",
-      "company": "GovCIO",
-      "link": "https://virtualjobs.usnlx.com/dover-de/sr-technical-product-manager-remote/AD11477F2CB347178394142AA7E8FEAD/job/",
-      "posted_date": "2026-05-13",
-      "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "USNLX Virtual Jobs - National Labor Exchange",
-      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
     }
   ]
 }
