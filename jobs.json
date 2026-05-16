@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-15T16:48:09.229Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-05-16T15:51:45.638Z",
+  "total_fetched_today": 1,
   "jobs": [
+    {
+      "id": "jsearch_qrvr-pJ1OrqvQhG7AAAAAA==",
+      "role": "Group Product Manager I, Connections",
+      "company": "Pinterest",
+      "link": "https://www.pinterestcareers.com/jobs/7525112/group-product-manager-i-connections/",
+      "posted_date": "2026-05-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Pinterest Careers",
+      "description_snippet": "About Pinterest:\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a fea"
+    },
     {
       "id": "jsearch_POXPtaTORi7yl-FjAAAAAA==",
       "role": "Senior Product Manager — AI Recruiting",
