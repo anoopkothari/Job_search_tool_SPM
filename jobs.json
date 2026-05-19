@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T17:28:21.179Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-05-19T17:36:29.797Z",
+  "total_fetched_today": 13,
   "jobs": [
     {
       "id": "jsearch_q-0bxFR_3xYtivtOAAAAAA==",
@@ -17,18 +17,18 @@
       "description_snippet": "The application window is expected to close on: 06/13/2026Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nSenior Staff Product Manager - Splunk AI Foundations\nSplunk is looking for a Principal Product Manager to join our AI Foundations Team! We are building the core models and tools that power our entire product portfolio for global customers. In this role, you will help define the roadmap for high-scale AI, focusing on domain-specific models, agentic protocols, and orchestration platforms.\n\nMeet the Team:\n\nTheSplunk AI Foun"
     },
     {
-      "id": "jsearch_oe9KyPtjSGG2LXasAAAAAA==",
-      "role": "Senior Product Manager, AI and Computing Infrastructure Orchestration, Security and Compliance",
-      "company": "Google",
-      "link": "https://www.indeed.com/viewjob?jk=37caad1cdb5fdf9d",
-      "posted_date": "2026-05-12",
-      "location": "Seattle, Washington",
+      "id": "jsearch_GZ3HVTMvv87KjKySAAAAAA==",
+      "role": "Senior Manager, Technical Product Owner - Regulatory Strategy",
+      "company": "J&J Family of Companies",
+      "link": "https://lensa.com/job-v1/jj-family-of-companies/washington-crossing-pa/senior-product-manager/9e9ccc116ccba632a3f2303d492d3f1c",
+      "posted_date": "2026-05-14",
+      "location": "Washington Crossing, Pennsylvania",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Indeed",
-      "description_snippet": "In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\n• Health, dental, vision, life, disability insurance\n\n• Retirement Benefits: 401(k) with company match\n\n• Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n\n• Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\n\n• Maternity Leave (Short-Term Disability + Baby Bonding): "
+      "match_score": 11,
+      "source": "Lensa",
+      "description_snippet": "Senior Manager, Technical Product Owner (TPO) for Regulatory Strategy\n\nWe are seeking the best talent for a Senior Manager, Technical Product Owner (TPO) for Regulatory Strategy, located in Raritan, NJ or Titusville, NJ.\n\nThis role is responsible for maximizing the value of one or more technology products that enable getting our global submissions prepared faster and enabling drugs to get to patients faster. The role partners closely with business and technology stakeholders to define and prioritize the product backlog, translate needs into clear user stories with acceptance criteria, and ensu"
     },
     {
       "id": "jsearch_qrvr-pJ1OrqvQhG7AAAAAA==",
@@ -45,6 +45,20 @@
       "description_snippet": "About Pinterest:\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a fea"
     },
     {
+      "id": "jsearch_6GkcQf0ct5wCBKPfAAAAAA==",
+      "role": "Sr. Technical Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://virtualjobs.usnlx.com/dover-de/sr-technical-product-manager-remote/AD11477F2CB347178394142AA7E8FEAD/job/",
+      "posted_date": "2026-05-12",
+      "location": "Dover, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "USNLX Virtual Jobs - National Labor Exchange",
+      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
+    },
+    {
       "id": "jsearch_awqGXFLb3hiS6eCBAAAAAA==",
       "role": "Sr. Technical Product Manager (Remote)",
       "company": "GovCIO",
@@ -59,6 +73,62 @@
       "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
     },
     {
+      "id": "jsearch_al4j0NY9_EpqJ1xeAAAAAA==",
+      "role": "Sr. Technical Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://dejobs.org/harrisburg-pa/sr-technical-product-manager-remote/DBDD79CB329F4902A3A779AF582DD3E7/job/",
+      "posted_date": "2026-05-12",
+      "location": "Harrisburg, Pennsylvania",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Dejobs.org",
+      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
+    },
+    {
+      "id": "jsearch_9t1I3-BGanIpx_HOAAAAAA==",
+      "role": "IT Project and Product Manager",
+      "company": "Kavant Solutions",
+      "link": "https://www.indeed.com/viewjob?jk=75397341d34aea6c",
+      "posted_date": "2026-05-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Indeed",
+      "description_snippet": "Overview\n\nWe are seeking an IT Project and Product Manager to support a large federal agency in delivering mission-critical technology programs. This role focuses on managing program execution, including schedule, risk, and budget oversight, while driving modern product delivery practices across agile-enabled teams.\n\nIn this role, you will work closely with government stakeholders, technical teams, and cross-functional partners to ensure successful program delivery and alignment with agency priorities. You will serve as a trusted advisor to the client, translating business needs into actionabl"
+    },
+    {
+      "id": "jsearch_E0fJX-Fz_r7YwjY7AAAAAA==",
+      "role": "Senior Product Manager, Guest Lifecycle & Loyalty",
+      "company": "Owner.com",
+      "link": "https://jobs.ashbyhq.com/owner/e20c78e7-296c-448b-8ccf-d0fcccd4ebb6",
+      "posted_date": "2026-05-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Jobs",
+      "description_snippet": "About Owner\n\nOwner is the AI-native system local business owners use to succeed, starting with restaurants.\n\nWe’re building the system that replaces the many tools owners use to run their business.\n\nIt powers everything from the restaurant’s website, online ordering, CRM, POS, and more.\n\nProduct philosophy\n\nMost small business software makes owners do the work to get what they want: sales growth and profit growth. Owner does the work for them agentically.\n\nOur system drives demand, converts it, and helps operators run their business day to day. As it improves, the business improves with it.\n\nU"
+    },
+    {
+      "id": "jsearch_02Xhv4jCh7xdchNPAAAAAA==",
+      "role": "Product Manager - Sustainability Analytics (Remote)",
+      "company": "Aisle8",
+      "link": "https://bebee.com/us/jobs/product-manager-sustainability-analytics-remote-aisle8-new-york-ny-united-states--appcast-7428_4771781e5c3a3c142a695246ca3e7cfb52ca382f4576830325883c1e7404893e",
+      "posted_date": "2026-05-18",
+      "location": "New York, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "An innovative technology firm is seeking a Product Manager for Sustainability Solutions to lead the development of sustainability tracking features. The role involves collaborating with Fortune 500 clients and experts to build tools that drive measurable impact. Candidates should have 4+ years in product management, preferably with a focus on sustainability. Benefits include a competitive salary, equity package, and flexible work arrangements."
+    },
+    {
       "id": "jsearch_34-E-OaYBmA3HjHcAAAAAA==",
       "role": "Product Manager (Remote)",
       "company": "Jobgether",
@@ -71,6 +141,62 @@
       "match_score": 2,
       "source": "BeBee",
       "description_snippet": "Product ManagerThis position is posted by Jobgether on behalf of a partner company.We are currently looking for a Product Manager in New York (USA).This role offers an exciting opportunity to shape products that directly address client needs and drive measurable impact.You will serve as the primary advocate for the client within the product development team, translating research insights into actionable product decisions.The role involves conducting client research, defining product roadmaps, and prioritizing initiatives to ensure the delivery of high-value solutions.You will collaborate close"
+    },
+    {
+      "id": "jsearch_wTzRyzEEhb2ZtNa_AAAAAA==",
+      "role": "Staff Product Manager: Generative & Agentic AI (Remote)",
+      "company": "EDB",
+      "link": "https://bebee.com/us/jobs/staff-product-manager-generative-agentic-ai-remote-edb-jefferson-city-mo-united-states--appcast-7428_51b334ff9787507413a7133476e9f787e974169ce14ace362154390113ba1ec0",
+      "posted_date": "2026-05-16",
+      "location": "Jefferson City, Missouri",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "A leading technology company is seeking a remote Product Manager to drive product strategy for generative AI. The ideal candidate will have proven experience in product management, a strong understanding of the generative AI landscape, and exceptional collaboration and communication skills.\n\nResponsibilities include engaging with customers, translating market dynamics into a product vision, and partnering closely with engineering. Join us to unlock the potential of AI in enterprises and promote a healthy work-life balance."
+    },
+    {
+      "id": "jsearch_aYv_oStf8yacYWoPAAAAAA==",
+      "role": "Product Manager, Digital Health",
+      "company": "VirtualVocations",
+      "link": "https://www.talent.com/view?id=619534544997920737",
+      "posted_date": "2026-05-14",
+      "location": "Renton, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Talent.com",
+      "description_snippet": "Product Manager, Digital Health, is a full-time position responsible for leading a cross-functional product team focused on patient engagement, driving product discovery and delivery, and ensuring alignment with strategic goals and user needs. Key Responsibilities Own and prioritize the product roadmap, collaborating with cross-functional teams to define and frame customer problems Drive structured product discovery and validate ideas through various testing methodologies Champion cross-functional collaboration and elevate the voice of the customer to inform product decisions Required Qualific"
+    },
+    {
+      "id": "jsearch_Ui9Lhf3fbXbCWAifAAAAAA==",
+      "role": "Senior Technical Product Manager - Remote Healthcare Tech",
+      "company": "GovCIO",
+      "link": "https://bebee.com/us/jobs/senior-technical-product-manager-remote-healthcare-tech-govcio-cheyenne-wy-united-states--appcast-7428_e477eb87c36230cfc7254cdbd8e031761888af77554e46064d292973af01ec6b",
+      "posted_date": "2026-05-18",
+      "location": "Cheyenne, Wyoming",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "A leading government IT transformation company is seeking a Technical Product Manager to oversee the software development lifecycle for its products. This fully remote position allows you to work collaboratively across engineering and design teams to ensure quality and alignment with customer needs. Candidates should have over 8 years of experience in product management within a healthcare setting, strong communication skills, and proficiency in Agile methodologies.\n\nThis role offers a competitive salary range of $150,000 to $160,000 annually."
+    },
+    {
+      "id": "jsearch_oe9KyPtjSGG2LXasAAAAAA==",
+      "role": "Senior Product Manager, AI and Computing Infrastructure Orchestration, Security and Compliance",
+      "company": "Google",
+      "link": "https://www.indeed.com/viewjob?jk=37caad1cdb5fdf9d",
+      "posted_date": "2026-05-12",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Indeed",
+      "description_snippet": "In accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n\n• Health, dental, vision, life, disability insurance\n\n• Retirement Benefits: 401(k) with company match\n\n• Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n\n• Sick Time: 40 hours/year (increased to 69 hours/year for Seattle) including 5 discretionary sick days per instance\n\n• Maternity Leave (Short-Term Disability + Baby Bonding): "
     },
     {
       "id": "jsearch_AVmwJ-u692rcgBwwAAAAAA==",
@@ -113,48 +239,6 @@
       "match_score": 6,
       "source": "Workday",
       "description_snippet": "We anticipate the application window for this opening will close on - 22 May 2026 At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life At Medtronic, we bring bold ideas forward with speed and decisiveness to put patients first in everything we do. This position is remote to enhance our competitive edge and expand our cross-functional collaboration efforts. This role will require travel 50%"
-    },
-    {
-      "id": "jsearch_6GkcQf0ct5wCBKPfAAAAAA==",
-      "role": "Sr. Technical Product Manager (Remote)",
-      "company": "GovCIO",
-      "link": "https://virtualjobs.usnlx.com/dover-de/sr-technical-product-manager-remote/AD11477F2CB347178394142AA7E8FEAD/job/",
-      "posted_date": "2026-05-13",
-      "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "USNLX Virtual Jobs - National Labor Exchange",
-      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
-    },
-    {
-      "id": "jsearch_9t1I3-BGanIpx_HOAAAAAA==",
-      "role": "IT Project and Product Manager",
-      "company": "Kavant Solutions",
-      "link": "https://www.indeed.com/viewjob?jk=75397341d34aea6c",
-      "posted_date": "2026-05-13",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Indeed",
-      "description_snippet": "Overview\n\nWe are seeking an IT Project and Product Manager to support a large federal agency in delivering mission-critical technology programs. This role focuses on managing program execution, including schedule, risk, and budget oversight, while driving modern product delivery practices across agile-enabled teams.\n\nIn this role, you will work closely with government stakeholders, technical teams, and cross-functional partners to ensure successful program delivery and alignment with agency priorities. You will serve as a trusted advisor to the client, translating business needs into actionabl"
-    },
-    {
-      "id": "jsearch_aYv_oStf8yacYWoPAAAAAA==",
-      "role": "Product Manager, Digital Health",
-      "company": "VirtualVocations",
-      "link": "https://www.talent.com/view?id=619534544997920737",
-      "posted_date": "2026-05-14",
-      "location": "Renton, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Talent.com",
-      "description_snippet": "Product Manager, Digital Health, is a full-time position responsible for leading a cross-functional product team focused on patient engagement, driving product discovery and delivery, and ensuring alignment with strategic goals and user needs. Key Responsibilities Own and prioritize the product roadmap, collaborating with cross-functional teams to define and frame customer problems Drive structured product discovery and validate ideas through various testing methodologies Champion cross-functional collaboration and elevate the voice of the customer to inform product decisions Required Qualific"
     },
     {
       "id": "jsearch_zczE2AOlDZTxpyhtAAAAAA==",
