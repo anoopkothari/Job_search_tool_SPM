@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-20T17:52:38.456Z",
-  "total_fetched_today": 16,
+  "last_updated": "2026-05-21T17:27:39.508Z",
+  "total_fetched_today": 1,
   "jobs": [
+    {
+      "id": "jsearch_u3WyklItzMdSU5h3AAAAAA==",
+      "role": "Sr Product Manager - Logitech for Business Services Growth",
+      "company": "Logitech",
+      "link": "https://bebee.com/us/jobs/sr-product-manager-logitech-for-business-services-growth-logitech-camas--techmap_us_55F04032FB454372ABE3435126DDFD57",
+      "posted_date": "2026-05-19",
+      "location": "Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "Logitech is the Sweet Spot for people who want their actions to have a positive global impact while having the flexibility to do it in their own way.\n\nTh e Team and Role:\n\nWithin the Logitech for Business division, the Services team is responsible for defining, creating, launching and operating revenue-generating services that complement our market leading hardware and software solutions for video collaboration and personal productivity. This is a fast-growing area within Logitech for Business responsible for many “v1” initiatives that challenge the status quo for what a “product” is at Logite"
+    },
     {
       "id": "jsearch_q-0bxFR_3xYtivtOAAAAAA==",
       "role": "Senior Staff Product Manager - Splunk AI Foundations (Remote, USA)",
