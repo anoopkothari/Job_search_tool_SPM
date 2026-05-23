@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-05-22T17:04:52.045Z",
-  "total_fetched_today": 12,
+  "last_updated": "2026-05-23T15:57:30.634Z",
+  "total_fetched_today": 2,
   "jobs": [
+    {
+      "id": "jsearch_bOVRHI2LRaXSEz3yAAAAAA==",
+      "role": "Senior Product Manager, Clinical Platform (Remote, ATX or NY Preferred)",
+      "company": "Femtech Insider Ltd.",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-clinical-platform-remote-atx-or-ny-preferred-femtech-insider-ltd-new-york-ny---appcast-7428_f4c62473d8d8ad0449a4d8e28df16612624929881f6d29d12281093b914195b2",
+      "posted_date": "2026-05-20",
+      "location": "New York, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "BeBee",
+      "description_snippet": "Getting a lab test used to mean taking time off work, sitting in a waiting room, and hoping your doctor ordered the right thing. We changed that. Everlywell pioneered at-home lab testing and has since expanded into in-person diagnostics, telehealth, and AI-powered health guidance.\n\nWe've helped millions of people understand their health on their own terms — from hormone levels to heart health to food sensitivities to sexual health. And we're just getting started. Today, we power diagnostics for consumers, major health plans, and enterprise partners.\n\nOur platform handles everything from test f"
+    },
+    {
+      "id": "jsearch_vtA1kA1YpqpmyQZoAAAAAA==",
+      "role": "Remote Product Manager for AI Mineral Exploration",
+      "company": "KoBold Metals",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-for-ai-mineral-exploration-kobold-metals-new-york-ny-united-states--appcast-7428_53d6fad71e1fc606a01f68264adac36d69baa307e13ca9e1cefc8f4d897cb94c",
+      "posted_date": "2026-05-20",
+      "location": "New York, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "A leading mineral exploration company is seeking a Product Manager to discover world-class mineral deposits. This full-time remote position involves collaboration with engineering, geology, and data science teams to analyze data and develop strategic insights for exploration. Ideal candidates will have a scientific background, at least 5 years of relevant experience, and strong communication skills.\n\nThe role requires intellectual curiosity and a willingness to travel occasionally, with a competitive salary range of $155,000 to $225,000 plus equity and benefits."
+    },
     {
       "id": "jsearch_enc5L4hnzO478UPUAAAAAA==",
       "role": "Technical Product Manager – Security & Compliance",
@@ -99,20 +127,6 @@
       "match_score": 2,
       "source": "BeBee",
       "description_snippet": "Omada Health seeks a Senior Product Manager for Data Enablement in San Francisco. This role involves owning the product strategy for enterprise analytics, driving governance frameworks, and collaborating across multiple teams to enhance data-driven decision-making. Applicants should have over 10 years of experience in product management, a strong background in data technologies, and the ability to influence diverse stakeholders.\n\nThe role offers competitive salary, work-from-home flexibility, and comprehensive benefits."
-    },
-    {
-      "id": "jsearch_vtA1kA1YpqpmyQZoAAAAAA==",
-      "role": "Remote Product Manager for AI Mineral Exploration",
-      "company": "KoBold Metals",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-for-ai-mineral-exploration-kobold-metals-new-york-ny-united-states--appcast-7428_53d6fad71e1fc606a01f68264adac36d69baa307e13ca9e1cefc8f4d897cb94c",
-      "posted_date": "2026-05-20",
-      "location": "New York, New York",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "A leading mineral exploration company is seeking a Product Manager to discover world-class mineral deposits. This full-time remote position involves collaboration with engineering, geology, and data science teams to analyze data and develop strategic insights for exploration. Ideal candidates will have a scientific background, at least 5 years of relevant experience, and strong communication skills.\n\nThe role requires intellectual curiosity and a willingness to travel occasionally, with a competitive salary range of $155,000 to $225,000 plus equity and benefits."
     },
     {
       "id": "jsearch_Ada4TSMGTXUeeZ8JAAAAAA==",
