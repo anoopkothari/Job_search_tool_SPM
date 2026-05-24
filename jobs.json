@@ -1,34 +1,48 @@
 {
-  "last_updated": "2026-05-23T15:57:30.634Z",
-  "total_fetched_today": 2,
+  "last_updated": "2026-05-24T15:59:08.252Z",
+  "total_fetched_today": 19,
   "jobs": [
     {
-      "id": "jsearch_bOVRHI2LRaXSEz3yAAAAAA==",
-      "role": "Senior Product Manager, Clinical Platform (Remote, ATX or NY Preferred)",
-      "company": "Femtech Insider Ltd.",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-clinical-platform-remote-atx-or-ny-preferred-femtech-insider-ltd-new-york-ny---appcast-7428_f4c62473d8d8ad0449a4d8e28df16612624929881f6d29d12281093b914195b2",
-      "posted_date": "2026-05-20",
-      "location": "New York, New York",
+      "id": "jsearch_q-0bxFR_3xYtivtOAAAAAA==",
+      "role": "Senior Staff Product Manager - Splunk AI Foundations (Remote, USA)",
+      "company": "Cisco",
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2012281EXTERNALENGLOBAL/Senior-Staff-Product-Manager-Splunk-AI-Foundations-Remote-USA",
+      "posted_date": "2026-05-23",
+      "location": "United States",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "BeBee",
-      "description_snippet": "Getting a lab test used to mean taking time off work, sitting in a waiting room, and hoping your doctor ordered the right thing. We changed that. Everlywell pioneered at-home lab testing and has since expanded into in-person diagnostics, telehealth, and AI-powered health guidance.\n\nWe've helped millions of people understand their health on their own terms — from hormone levels to heart health to food sensitivities to sexual health. And we're just getting started. Today, we power diagnostics for consumers, major health plans, and enterprise partners.\n\nOur platform handles everything from test f"
+      "match_score": 12,
+      "source": "Cisco Careers",
+      "description_snippet": "The application window is expected to close on: 06/13/2026Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nSenior Staff Product Manager - Splunk AI Foundations\n\nSplunk is looking for a Principal Product Manager to join our AI Foundations Team! We are building the core models and tools that power our entire product portfolio for global customers. In this role, you will help define the roadmap for high-scale AI, focusing on domain-specific models, agentic protocols, and orchestration platforms.\n\nMeet the Team:\n\nThe Splunk AI Fo"
     },
     {
-      "id": "jsearch_vtA1kA1YpqpmyQZoAAAAAA==",
-      "role": "Remote Product Manager for AI Mineral Exploration",
-      "company": "KoBold Metals",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-for-ai-mineral-exploration-kobold-metals-new-york-ny-united-states--appcast-7428_53d6fad71e1fc606a01f68264adac36d69baa307e13ca9e1cefc8f4d897cb94c",
-      "posted_date": "2026-05-20",
-      "location": "New York, New York",
+      "id": "jsearch_m9FBgyZibHlR3AZuAAAAAA==",
+      "role": "Senior Atlassian Product Owner - AI Automation",
+      "company": "T-Rex Solutions, LLC",
+      "link": "https://www.linkedin.com/jobs/view/senior-atlassian-product-owner-ai-automation-at-t-rex-solutions-llc-4416965246",
+      "posted_date": "2026-05-19",
+      "location": "Remote",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "A leading mineral exploration company is seeking a Product Manager to discover world-class mineral deposits. This full-time remote position involves collaboration with engineering, geology, and data science teams to analyze data and develop strategic insights for exploration. Ideal candidates will have a scientific background, at least 5 years of relevant experience, and strong communication skills.\n\nThe role requires intellectual curiosity and a willingness to travel occasionally, with a competitive salary range of $155,000 to $225,000 plus equity and benefits."
+      "match_score": 10,
+      "source": "LinkedIn",
+      "description_snippet": "T-Rex Solutions is seeking a highly capable Senior Product Owner – AI Automation & Atlassian Transformation, to be responsible for driving product strategy, operational transformation, AI-enabled automation, and platform modernization across SDLCNext, an enterprise Atlassian platform supporting SDLC and ITSM operations throughout the DHMS portfolio. This role combines strong product ownership, Jira/Atlassian platform leadership, and advanced AI/automation expertise. The individual will own backlog prioritization, delivery execution, platform governance, and operational transformation initiativ"
+    },
+    {
+      "id": "jsearch_MVy8DXYjggZPmgtTAAAAAA==",
+      "role": "Senior Product Manager - Identity and Access Management (Chronosphere)",
+      "company": "Palo Alto Networks",
+      "link": "https://www.linkedin.com/jobs/view/senior-product-manager-identity-and-access-management-chronosphere-at-palo-alto-networks-4413608664",
+      "posted_date": "2026-05-20",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "LinkedIn",
+      "description_snippet": "Our Mission\n\nAt Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place.\n\nWho We Are\n\nIn order to be the cybersecurity partner of choice, we must trailblaze the path and shape the future of our industry. This is something our employees wor"
     },
     {
       "id": "jsearch_enc5L4hnzO478UPUAAAAAA==",
@@ -45,18 +59,18 @@
       "description_snippet": "Job Title: Technical Product Manager Security & Compliance\nIndustry: Information Technology\nLocation: Onsite Washington DC\nEmployment Type: Full-Time on contract (9-month contract till December 2026- possibility of an extension).\n\nJob Summary:\n\nOur client is seeking a Technical Product Manager specializing in Security & Compliance to support the Governance Risk and Compliance (GRC) team within the IT division at the client. This team is responsible for defining implementing and managing processes that support compliance policy outreach and privacy-related work across the organization.\n\nKey Res"
     },
     {
-      "id": "jsearch_SWMiwGPIvIzkBwesAAAAAA==",
-      "role": "Enterprise Product Manager",
-      "company": "VirtualVocations",
-      "link": "https://www.talent.com/view?id=562405441426956596",
-      "posted_date": "2026-05-18",
-      "location": "Vancouver, Washington",
+      "id": "jsearch_pTF2tKQ_tMathfF3AAAAAA==",
+      "role": "Principal Product Manager (remote USA)",
+      "company": "Alteryx",
+      "link": "https://bebee.com/us/jobs/principal-product-manager-remote-usa-alteryx-los-angeles--lensa-7428_5e14112c992ed747d8fc3e1d3161c8f95147206da0940132ddcabc3d9f9438f9",
+      "posted_date": "2026-05-23",
+      "location": "Los Angeles, California",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "Talent.com",
-      "description_snippet": "Owning the product roadmap for Truework's enterprise customer segment, the full-time Enterprise Product Manager will translate complex needs of large lenders and financial institutions into scalable product solutions while collaborating closely with Sales, Customer Success, Engineering, and Design. Key responsibilities Own and manage the product roadmap for enterprise customers, ensuring alignment with their evolving needs Build and maintain relationships with enterprise clients, serving as the product voice in strategic discussions Define and track enterprise-specific KPIs to drive prioritiza"
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "Principal Product Manager (remote USA) page is loaded## Principal Product Manager (remote USA)posted on: Posted Yesterdayjob requisition id: R11925We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self.\n\nYou know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when th"
     },
     {
       "id": "jsearch_9F7Fr-EM0G5MTTf6AAAAAA==",
@@ -73,18 +87,18 @@
       "description_snippet": "North-American agri-tech and automation company Position Overview\n\nAs a Product Manager , youll shape the next generation of automation technology. Youll work directly with customers to understand their challenges and translate their needs into product features that our engineering and software teams can bring to life. Youll define requirements, prioritize development work, and guide hardware and software enhancements across our automation ecosystem.\n\nYou will act as the voice of the customer, serving as a product advocate and evangelist to ensure our products meet real-world needs. This posit"
     },
     {
-      "id": "jsearch_u3WyklItzMdSU5h3AAAAAA==",
-      "role": "Sr Product Manager - Logitech for Business Services Growth",
-      "company": "Logitech",
-      "link": "https://bebee.com/us/jobs/sr-product-manager-logitech-for-business-services-growth-logitech-camas--techmap_us_55F04032FB454372ABE3435126DDFD57",
-      "posted_date": "2026-05-19",
-      "location": "Washington, District of Columbia",
+      "id": "jsearch_x7RFWMhgmLPXoQOUAAAAAA==",
+      "role": "Growth-Driven Product Manager, SEO & Web Platform (Remote)",
+      "company": "Capital One",
+      "link": "https://bebee.com/us/jobs/growth-driven-product-manager-seo-web-platform-remote-capital-one-bismarck-nd-united-states--appcast-7428_194bc023dd1dc5d5ec8c82d2846b637b50b28f53314b7b8a88a5b9a6bc144886",
+      "posted_date": "2026-05-18",
+      "location": "Bismarck, North Dakota",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 2,
+      "match_score": 3,
       "source": "BeBee",
-      "description_snippet": "Logitech is the Sweet Spot for people who want their actions to have a positive global impact while having the flexibility to do it in their own way.\n\nTh e Team and Role:\n\nWithin the Logitech for Business division, the Services team is responsible for defining, creating, launching and operating revenue-generating services that complement our market leading hardware and software solutions for video collaboration and personal productivity. This is a fast-growing area within Logitech for Business responsible for many “v1” initiatives that challenge the status quo for what a “product” is at Logite"
+      "description_snippet": "A leading financial services company is seeking a Senior Product Manager, Growth for the Capital One Shopping team. This remote-eligible position focuses on using data to drive product initiatives, enhance technical SEO, and optimize user experience. The successful candidate will have significant experience in Product Management, ideally with a strong background in SEO product roles.\n\nResponsibilities include launching merchant-focused products and managing day-to-day operations. This role offers a competitive salary and benefits package."
     },
     {
       "id": "jsearch_02Xhv4jCh7xdchNPAAAAAA==",
@@ -115,6 +129,20 @@
       "description_snippet": "A financial services firm is seeking a Product Manager to lead the design and delivery of technology solutions that meet business goals.\n\nResponsibilities include managing product lifecycles, collaborating with cross-functional teams, and identifying opportunities for enhancement. The ideal candidate has 5–7 years of experience, strong project management skills, and a customer-centric approach. This role offers a comprehensive benefits package including paid time off, insurance options, and a matching 401(k) plan."
     },
     {
+      "id": "jsearch_u3WyklItzMdSU5h3AAAAAA==",
+      "role": "Sr Product Manager - Logitech for Business Services Growth",
+      "company": "Logitech",
+      "link": "https://bebee.com/us/jobs/sr-product-manager-logitech-for-business-services-growth-logitech-camas--techmap_us_55F04032FB454372ABE3435126DDFD57",
+      "posted_date": "2026-05-19",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "Logitech is the Sweet Spot for people who want their actions to have a positive global impact while having the flexibility to do it in their own way.\n\nTh e Team and Role:\n\nWithin the Logitech for Business division, the Services team is responsible for defining, creating, launching and operating revenue-generating services that complement our market leading hardware and software solutions for video collaboration and personal productivity. This is a fast-growing area within Logitech for Business responsible for many “v1” initiatives that challenge the status quo for what a “product” is at Logite"
+    },
+    {
       "id": "jsearch_sW8VWXHPMVHzkD8zAAAAAA==",
       "role": "Senior Product Manager, Data Enablement Remote Analytics",
       "company": "Omada Health",
@@ -129,18 +157,46 @@
       "description_snippet": "Omada Health seeks a Senior Product Manager for Data Enablement in San Francisco. This role involves owning the product strategy for enterprise analytics, driving governance frameworks, and collaborating across multiple teams to enhance data-driven decision-making. Applicants should have over 10 years of experience in product management, a strong background in data technologies, and the ability to influence diverse stakeholders.\n\nThe role offers competitive salary, work-from-home flexibility, and comprehensive benefits."
     },
     {
-      "id": "jsearch_Ada4TSMGTXUeeZ8JAAAAAA==",
-      "role": "Sr OEM Product Manager",
-      "company": "T-Mobile",
-      "link": "https://www.linkedin.com/jobs/view/sr-oem-product-manager-at-t-mobile-4417705202",
-      "posted_date": "2026-05-21",
-      "location": "Bellevue, Washington",
+      "id": "jsearch_vjRHjFL4BftJoOucAAAAAA==",
+      "role": "Growth Product Manager: Programmatic SEO & UX (Remote)",
+      "company": "Capital One",
+      "link": "https://bebee.com/us/jobs/growth-product-manager-programmatic-seo-ux-remote-capital-one-boise-id-united-states--appcast-7428_2e914449905d000258d9fe8589e406ced4512caf3dc362403e47a5fcd87412d1",
+      "posted_date": "2026-05-19",
+      "location": "Boise, Idaho",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "A leading financial institution seeks a Senior Product Manager to join its Capital One Shopping team. This role focuses on driving innovative growth strategies through data analysis and technical SEO. The candidate should have extensive experience in product management and a strong background in working with SQL and AI.\n\nExcellent communication skills and a customer-first mindset are essential. This remote-eligible position offers competitive compensation and is open to candidates across various locations."
+    },
+    {
+      "id": "jsearch_vtA1kA1YpqpmyQZoAAAAAA==",
+      "role": "Remote Product Manager for AI Mineral Exploration",
+      "company": "KoBold Metals",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-for-ai-mineral-exploration-kobold-metals-new-york-ny-united-states--appcast-7428_53d6fad71e1fc606a01f68264adac36d69baa307e13ca9e1cefc8f4d897cb94c",
+      "posted_date": "2026-05-20",
+      "location": "New York, New York",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
       "match_score": 1,
-      "source": "LinkedIn",
-      "description_snippet": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees!\n\nThe Sr. Product Manager will expertly lead the overall business relationship with T-Mobile’s strategic hardware OEM supplier partners. Specifically, this "
+      "source": "BeBee",
+      "description_snippet": "A leading mineral exploration company is seeking a Product Manager to discover world-class mineral deposits. This full-time remote position involves collaboration with engineering, geology, and data science teams to analyze data and develop strategic insights for exploration. Ideal candidates will have a scientific background, at least 5 years of relevant experience, and strong communication skills.\n\nThe role requires intellectual curiosity and a willingness to travel occasionally, with a competitive salary range of $155,000 to $225,000 plus equity and benefits."
+    },
+    {
+      "id": "jsearch_PpONy3wzsyxIgEeoAAAAAA==",
+      "role": "Product Manager, Consumer",
+      "company": "VirtualVocations",
+      "link": "https://www.talent.com/view?id=620625933254468559",
+      "posted_date": "2026-05-22",
+      "location": "Renton, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "Talent.com",
+      "description_snippet": "Driving execution on the Consumer business, the full-time remote Product Manager, Consumer will own the Consumer funnel, focusing on metrics such as conversion and retention through experimentation, optimization, and product delivery. Key responsibilities: Manage Consumer funnel performance, including checkout, results experiences, and post-purchase lifecycle Lead an experimentation program with A/B testing and continuous optimization Execute the product roadmap by translating strategy into actionable specifications and delivering shipped products Required qualifications: 4-6 years of product "
     },
     {
       "id": "jsearch_HwWaHgz8V_vZmibvAAAAAA==",
@@ -155,6 +211,20 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "A technology company is seeking a Product Manager for Environmental Asset Management. This role involves defining product strategy, conducting market research, and collaborating with cross-functional teams. Ideal candidates must have over 5 years of product management experience in the software industry and a strong technical background in IoT and API products.\n\nThis position allows for remote work in the Eastern or Central Time Zones, offering a competitive salary between $96,800 to $125,000 annually."
+    },
+    {
+      "id": "jsearch_Ada4TSMGTXUeeZ8JAAAAAA==",
+      "role": "Sr OEM Product Manager",
+      "company": "T-Mobile",
+      "link": "https://www.linkedin.com/jobs/view/sr-oem-product-manager-at-t-mobile-4417705202",
+      "posted_date": "2026-05-21",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "LinkedIn",
+      "description_snippet": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees!\n\nThe Sr. Product Manager will expertly lead the overall business relationship with T-Mobile’s strategic hardware OEM supplier partners. Specifically, this "
     },
     {
       "id": "jsearch_bexBoJ5H0jDY-n82AAAAAA==",
@@ -183,6 +253,48 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "A leading government IT transformation company is seeking a Technical Product Manager to oversee the software development lifecycle for its products. This fully remote position allows you to work collaboratively across engineering and design teams to ensure quality and alignment with customer needs. Candidates should have over 8 years of experience in product management within a healthcare setting, strong communication skills, and proficiency in Agile methodologies.\n\nThis role offers a competitive salary range of $150,000 to $160,000 annually."
+    },
+    {
+      "id": "jsearch_ZNATctPvz0tdFVV3AAAAAA==",
+      "role": "Remote NetSuite Product Manager Finance Systems",
+      "company": "United Site Services, Inc",
+      "link": "https://bebee.com/us/jobs/remote-netsuite-product-manager-finance-systems-united-site-services-inc-meridian-id-united-states--appcast-7428_404116ae645fd53a16c926514dbcab5aae00b5548c77bbcebbad3f8805a2fcad",
+      "posted_date": "2026-05-18",
+      "location": "Meridian, Idaho",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "United Site Services, Inc is looking for a skilled remote Product Manager for NetSuite. You will define and drive product vision and strategy for the NetSuite ERP platform while collaborating with multiple departments to ensure system optimization. The ideal candidate will possess a Bachelor's degree and at least 5 years of experience managing financial systems.\n\nThis role emphasizes ERP functionality and requires strong stakeholder management skills. Join us to help transform our financial systems and drive business success."
+    },
+    {
+      "id": "jsearch_bOVRHI2LRaXSEz3yAAAAAA==",
+      "role": "Senior Product Manager, Clinical Platform (Remote, ATX or NY Preferred)",
+      "company": "Femtech Insider Ltd.",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-clinical-platform-remote-atx-or-ny-preferred-femtech-insider-ltd-new-york-ny---appcast-7428_f4c62473d8d8ad0449a4d8e28df16612624929881f6d29d12281093b914195b2",
+      "posted_date": "2026-05-20",
+      "location": "New York, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "BeBee",
+      "description_snippet": "Getting a lab test used to mean taking time off work, sitting in a waiting room, and hoping your doctor ordered the right thing. We changed that. Everlywell pioneered at-home lab testing and has since expanded into in-person diagnostics, telehealth, and AI-powered health guidance.\n\nWe've helped millions of people understand their health on their own terms — from hormone levels to heart health to food sensitivities to sexual health. And we're just getting started. Today, we power diagnostics for consumers, major health plans, and enterprise partners.\n\nOur platform handles everything from test f"
+    },
+    {
+      "id": "jsearch_SWMiwGPIvIzkBwesAAAAAA==",
+      "role": "Enterprise Product Manager",
+      "company": "VirtualVocations",
+      "link": "https://www.talent.com/view?id=562405441426956596",
+      "posted_date": "2026-05-18",
+      "location": "Vancouver, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "Talent.com",
+      "description_snippet": "Owning the product roadmap for Truework's enterprise customer segment, the full-time Enterprise Product Manager will translate complex needs of large lenders and financial institutions into scalable product solutions while collaborating closely with Sales, Customer Success, Engineering, and Design. Key responsibilities Own and manage the product roadmap for enterprise customers, ensuring alignment with their evolving needs Build and maintain relationships with enterprise clients, serving as the product voice in strategic discussions Define and track enterprise-specific KPIs to drive prioritiza"
     },
     {
       "id": "jsearch_q-0bxFR_3xYtivtOAAAAAA==",
@@ -311,20 +423,6 @@
       "description_snippet": "Product Manager, Digital Health, is a full-time position responsible for leading a cross-functional product team focused on patient engagement, driving product discovery and delivery, and ensuring alignment with strategic goals and user needs. Key Responsibilities Own and prioritize the product roadmap, collaborating with cross-functional teams to define and frame customer problems Drive structured product discovery and validate ideas through various testing methodologies Champion cross-functional collaboration and elevate the voice of the customer to inform product decisions Required Qualific"
     },
     {
-      "id": "jsearch_vjRHjFL4BftJoOucAAAAAA==",
-      "role": "Growth Product Manager: Programmatic SEO & UX (Remote)",
-      "company": "Capital One",
-      "link": "https://bebee.com/us/jobs/growth-product-manager-programmatic-seo-ux-remote-capital-one-boise-id-united-states--appcast-7428_2e914449905d000258d9fe8589e406ced4512caf3dc362403e47a5fcd87412d1",
-      "posted_date": "2026-05-19",
-      "location": "Boise, Idaho",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "BeBee",
-      "description_snippet": "A leading financial institution seeks a Senior Product Manager to join its Capital One Shopping team. This role focuses on driving innovative growth strategies through data analysis and technical SEO. The candidate should have extensive experience in product management and a strong background in working with SQL and AI.\n\nExcellent communication skills and a customer-first mindset are essential. This remote-eligible position offers competitive compensation and is open to candidates across various locations."
-    },
-    {
       "id": "jsearch_g3iHhs_yiNnw2zrkAAAAAA==",
       "role": "Remote Product Manager — Builder & New Construction",
       "company": "Progressive Insurance",
@@ -337,20 +435,6 @@
       "match_score": 1,
       "source": "JobLeads",
       "description_snippet": "Progressive Insurance seeks a Product Manager to lead the Builder Product Line remotely. This role involves developing strategies, managing daily operations, and collaborating with cross-functional teams to optimize performance. Candidates must have a Bachelor's degree in a related field and at least 4 years of analytical experience, ideally in property casualty insurance. Competitive salary ranges from $140,800 to $173,040 annually with gainshare incentives. A comprehensive benefits package is included, offering 401(k) matching and medical coverage."
-    },
-    {
-      "id": "jsearch_ZNATctPvz0tdFVV3AAAAAA==",
-      "role": "Remote NetSuite Product Manager Finance Systems",
-      "company": "United Site Services, Inc",
-      "link": "https://bebee.com/us/jobs/remote-netsuite-product-manager-finance-systems-united-site-services-inc-meridian-id-united-states--appcast-7428_404116ae645fd53a16c926514dbcab5aae00b5548c77bbcebbad3f8805a2fcad",
-      "posted_date": "2026-05-18",
-      "location": "Meridian, Idaho",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "United Site Services, Inc is looking for a skilled remote Product Manager for NetSuite. You will define and drive product vision and strategy for the NetSuite ERP platform while collaborating with multiple departments to ensure system optimization. The ideal candidate will possess a Bachelor's degree and at least 5 years of experience managing financial systems.\n\nThis role emphasizes ERP functionality and requires strong stakeholder management skills. Join us to help transform our financial systems and drive business success."
     },
     {
       "id": "jsearch_qrvr-pJ1OrqvQhG7AAAAAA==",
