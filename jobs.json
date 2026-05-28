@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-27T17:54:09.529Z",
-  "total_fetched_today": 6,
+  "last_updated": "2026-05-28T17:59:06.027Z",
+  "total_fetched_today": 9,
   "jobs": [
+    {
+      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
+      "role": "Principal Product Manager",
+      "company": "NetApp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4417219689",
+      "posted_date": "2026-05-27",
+      "location": "Waltham, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 17,
+      "source": "LinkedIn",
+      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
+    },
     {
       "id": "jsearch_SYGbWS-drDMWEdc_AAAAAA==",
       "role": "Principal AI Product Manager, Technical",
@@ -17,18 +31,18 @@
       "description_snippet": "This is NOT a remote position. T-Mobile is a hybrid work environment requiring the successful candidate be in the office three (3) days per week. This position is open to candidates in Bellevue, WA only.\n\nJob Overview\nPrincipal Innovation Product Manager, Technical is a visionary, strategist, analyst, customer evangelist, respected leader of business and technology execution, and professional relationship builder all rolled into a single dynamic package. Every product at T-Mobile is envisioned and created to achieve a specific business purpose or set of business results. The Product Manager, T"
     },
     {
-      "id": "jsearch_vKF6VQ2EK2llO-AEAAAAAA==",
-      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
-      "company": "C-4 Analytics",
-      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/9229399",
-      "posted_date": "2026-05-26",
-      "location": "Wakefield, Massachusetts",
+      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
+      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
+      "company": "Snowflake",
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
+      "posted_date": "2026-05-23",
+      "location": "Bellevue, Washington",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Built In Boston",
-      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
+      "match_score": 5,
+      "source": "Snowflake Careers",
+      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
       "id": "jsearch_VDH5mvlNjaC-kM1DAAAAAA==",
@@ -59,6 +73,34 @@
       "description_snippet": "Principal Product Manager (remote USA) page is loaded## Principal Product Manager (remote USA)posted on: Posted Yesterdayjob requisition id: R11925We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self.\n\nYou know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when th"
     },
     {
+      "id": "jsearch__UB8s7i9KHhW7go1AAAAAA==",
+      "role": "Product Manager, Technology (Remote)",
+      "company": "RBC",
+      "link": "https://bebee.com/us/jobs/product-manager-technology-remote-rbc-minneapolis--dc-47FFCFCF87DCF0FCF0A2E8CE97359207",
+      "posted_date": "2026-05-26",
+      "location": "Minneapolis, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "Job Description Technology Product Manager What is the opportunity?\n\nThe Technology Product\n\nManager is responsible for delivering the industry’s leading technology platforms, helping firms by providing innovative and integrated technology tools for their advisors that supports our client’s business growth. They work independently to manage a range of moderately complex products from development to delivery. Define and communicate the Clearing & Custody product vision and strategy by delivering quality deliverables based on customer needs and competitive landscape.\n\nManage the product roadmap,"
+    },
+    {
+      "id": "jsearch_-2L-sQCdfPpR2cSJAAAAAA==",
+      "role": "Remote Associate Product Manager Life Insurance Growth",
+      "company": "Legal & General America",
+      "link": "https://bebee.com/us/jobs/remote-associate-product-manager-life-insurance-growth-legal-general-america-frederick--lensa-7428_bb027b3463cc10801c051c989c832d7fd1d8e34764519e46a3ee2d78e4cafb37",
+      "posted_date": "2026-05-24",
+      "location": "Frederick, Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "A financial services provider is looking for an Associate Product Manager to lead scrum teams and manage product implementations. This role requires 3+ years of experience in project management within life insurance and a Bachelor’s degree in business or finance. You'll partner with the Head of Product Management and ensure timely delivery of product initiatives.\n\nThe position offers a competitive salary range of $90,800 to $124,900 and various benefits including health insurance and a 401(k) match."
+    },
+    {
       "id": "jsearch_Bl1u8WavN3qVGszMAAAAAA==",
       "role": "Senior Product Manager, AI-Driven Real Estate Solutions",
       "company": "SitusAMC",
@@ -73,6 +115,34 @@
       "description_snippet": "SitusAMC is seeking an experienced product manager in Dover, Delaware. This role ensures product decisions align with the organization's strategy while advocating for stakeholders’ needs. The ideal candidate has 6+ years of experience in product or service development, excellent analytical skills, and experience in Agile methodologies. The position offers an annual salary between $120,000 and $140,000, along with various benefits including medical and dental insurance, PTO, and a 401(k)."
     },
     {
+      "id": "jsearch_ASIGMYqLzZYjCcqSAAAAAA==",
+      "role": "Remote Product Manager - Lighting/Electrical",
+      "company": "Arrow Electronics",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-lighting-electrical-arrow-electronics-colorado-springs--dc-E3AA273B6477A5AB5118F89DD19DDBDC",
+      "posted_date": "2026-05-26",
+      "location": "Colorado Springs, Colorado",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "Position: Product Manager Job Description: What You’ll Be Doing: Responsible for the analysis of market trends, supplier performance, internal developments and objectives to facilitate ongoing development of Arrow's adder and quoting strategy. Facilitate interaction and feedback from segment managers, product specialists and sales management. Monitor, measure and report supplier market price performance.\n\nPrepare negotiation material as well as support the negotiation process. Works with technology business managers and product specialists to establish negotiation strategy. Strategic customer "
+    },
+    {
+      "id": "jsearch_vKF6VQ2EK2llO-AEAAAAAA==",
+      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
+      "company": "C-4 Analytics",
+      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/9229399",
+      "posted_date": "2026-05-26",
+      "location": "Wakefield, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Built In Boston",
+      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
+    },
+    {
       "id": "jsearch_vtA1kA1YpqpmyQZoAAAAAA==",
       "role": "Remote Product Manager for AI Mineral Exploration",
       "company": "KoBold Metals",
@@ -85,20 +155,6 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "A leading mineral exploration company is seeking a Product Manager to discover world-class mineral deposits. This full-time remote position involves collaboration with engineering, geology, and data science teams to analyze data and develop strategic insights for exploration. Ideal candidates will have a scientific background, at least 5 years of relevant experience, and strong communication skills.\n\nThe role requires intellectual curiosity and a willingness to travel occasionally, with a competitive salary range of $155,000 to $225,000 plus equity and benefits."
-    },
-    {
-      "id": "jsearch_-2L-sQCdfPpR2cSJAAAAAA==",
-      "role": "Remote Associate Product Manager Life Insurance Growth",
-      "company": "Legal & General America",
-      "link": "https://bebee.com/us/jobs/remote-associate-product-manager-life-insurance-growth-legal-general-america-frederick--lensa-7428_bb027b3463cc10801c051c989c832d7fd1d8e34764519e46a3ee2d78e4cafb37",
-      "posted_date": "2026-05-24",
-      "location": "Frederick, Maryland",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "A financial services provider is looking for an Associate Product Manager to lead scrum teams and manage product implementations. This role requires 3+ years of experience in project management within life insurance and a Bachelor’s degree in business or finance. You'll partner with the Head of Product Management and ensure timely delivery of product initiatives.\n\nThe position offers a competitive salary range of $90,800 to $124,900 and various benefits including health insurance and a 401(k) match."
     },
     {
       "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
@@ -421,20 +477,6 @@
       "match_score": 9,
       "source": "WalmartJobs",
       "description_snippet": "Now Hiring: Senior Product Manager- Sourcing\nThe Opportunity\n• OPPORTUNITY: Earn extra income as a Senior Product Manager- Sourcing\n• Hiring: Walmart\n• Worksite: Auburn Area\n• Work in Auburn, WA.\n• Join Walmart and grow your skills.\nCompensation\n• Pay Rate: $117k-$234k/yr ($168.75/hr)\n• Perks: Fast-paced environment.\n• Great for supplemental income.\n\nPosition Summary...\\nWhat you'll do...Own core capabilities in our sourcing optimization and costing suite that help procurement teams compare complex bids, model total landed cost, and make faster, higher‑confidence award decisions—directly insid"
-    },
-    {
-      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
-      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
-      "company": "Snowflake",
-      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-05-17",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Snowflake Careers",
-      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
       "id": "jsearch_7WHHPoD8cYnwMHDBAAAAAA==",
