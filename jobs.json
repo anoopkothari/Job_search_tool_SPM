@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T17:59:06.027Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-05-29T18:08:53.433Z",
+  "total_fetched_today": 6,
   "jobs": [
     {
       "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
@@ -15,20 +15,6 @@
       "match_score": 17,
       "source": "LinkedIn",
       "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
-    },
-    {
-      "id": "jsearch_SYGbWS-drDMWEdc_AAAAAA==",
-      "role": "Principal AI Product Manager, Technical",
-      "company": "T-Mobile",
-      "link": "https://www.theladders.com/job/principal-ai-product-manager-technical-tmobile-washington-dc_87013010",
-      "posted_date": "2026-05-21",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Ladders",
-      "description_snippet": "This is NOT a remote position. T-Mobile is a hybrid work environment requiring the successful candidate be in the office three (3) days per week. This position is open to candidates in Bellevue, WA only.\n\nJob Overview\nPrincipal Innovation Product Manager, Technical is a visionary, strategist, analyst, customer evangelist, respected leader of business and technology execution, and professional relationship builder all rolled into a single dynamic package. Every product at T-Mobile is envisioned and created to achieve a specific business purpose or set of business results. The Product Manager, T"
     },
     {
       "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
@@ -73,20 +59,6 @@
       "description_snippet": "Principal Product Manager (remote USA) page is loaded## Principal Product Manager (remote USA)posted on: Posted Yesterdayjob requisition id: R11925We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self.\n\nYou know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when th"
     },
     {
-      "id": "jsearch__UB8s7i9KHhW7go1AAAAAA==",
-      "role": "Product Manager, Technology (Remote)",
-      "company": "RBC",
-      "link": "https://bebee.com/us/jobs/product-manager-technology-remote-rbc-minneapolis--dc-47FFCFCF87DCF0FCF0A2E8CE97359207",
-      "posted_date": "2026-05-26",
-      "location": "Minneapolis, Minnesota",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "Job Description Technology Product Manager What is the opportunity?\n\nThe Technology Product\n\nManager is responsible for delivering the industry’s leading technology platforms, helping firms by providing innovative and integrated technology tools for their advisors that supports our client’s business growth. They work independently to manage a range of moderately complex products from development to delivery. Define and communicate the Clearing & Custody product vision and strategy by delivering quality deliverables based on customer needs and competitive landscape.\n\nManage the product roadmap,"
-    },
-    {
       "id": "jsearch_-2L-sQCdfPpR2cSJAAAAAA==",
       "role": "Remote Associate Product Manager Life Insurance Growth",
       "company": "Legal & General America",
@@ -113,6 +85,34 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "SitusAMC is seeking an experienced product manager in Dover, Delaware. This role ensures product decisions align with the organization's strategy while advocating for stakeholders’ needs. The ideal candidate has 6+ years of experience in product or service development, excellent analytical skills, and experience in Agile methodologies. The position offers an annual salary between $120,000 and $140,000, along with various benefits including medical and dental insurance, PTO, and a 401(k)."
+    },
+    {
+      "id": "jsearch_SYGbWS-drDMWEdc_AAAAAA==",
+      "role": "Principal AI Product Manager, Technical",
+      "company": "T-Mobile",
+      "link": "https://www.theladders.com/job/principal-ai-product-manager-technical-tmobile-washington-dc_87013010",
+      "posted_date": "2026-05-21",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Ladders",
+      "description_snippet": "This is NOT a remote position. T-Mobile is a hybrid work environment requiring the successful candidate be in the office three (3) days per week. This position is open to candidates in Bellevue, WA only.\n\nJob Overview\nPrincipal Innovation Product Manager, Technical is a visionary, strategist, analyst, customer evangelist, respected leader of business and technology execution, and professional relationship builder all rolled into a single dynamic package. Every product at T-Mobile is envisioned and created to achieve a specific business purpose or set of business results. The Product Manager, T"
+    },
+    {
+      "id": "jsearch__UB8s7i9KHhW7go1AAAAAA==",
+      "role": "Product Manager, Technology (Remote)",
+      "company": "RBC",
+      "link": "https://bebee.com/us/jobs/product-manager-technology-remote-rbc-minneapolis--dc-47FFCFCF87DCF0FCF0A2E8CE97359207",
+      "posted_date": "2026-05-26",
+      "location": "Minneapolis, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "Job Description Technology Product Manager What is the opportunity?\n\nThe Technology Product\n\nManager is responsible for delivering the industry’s leading technology platforms, helping firms by providing innovative and integrated technology tools for their advisors that supports our client’s business growth. They work independently to manage a range of moderately complex products from development to delivery. Define and communicate the Clearing & Custody product vision and strategy by delivering quality deliverables based on customer needs and competitive landscape.\n\nManage the product roadmap,"
     },
     {
       "id": "jsearch_ASIGMYqLzZYjCcqSAAAAAA==",
