@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T18:08:53.433Z",
-  "total_fetched_today": 6,
+  "last_updated": "2026-05-30T16:01:30.142Z",
+  "total_fetched_today": 7,
   "jobs": [
     {
       "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
@@ -17,11 +17,39 @@
       "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
     },
     {
+      "id": "jsearch_F4cm9ubvlhe8SbcuAAAAAA==",
+      "role": "(USA) Principal, Product Manager",
+      "company": "Walmart",
+      "link": "https://www.linkedin.com/jobs/view/usa-principal-product-manager-at-walmart-4417973881",
+      "posted_date": "2026-05-29",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "LinkedIn",
+      "description_snippet": "Position Summary...\n\nWhat you'll do...Role summary:\n\nAs a Principal Product Manager for AI Shopping, you will lead product strategy across multiple related products, driving organization-wide decisions through deep expertise and data-driven insights. This role involves shaping long-term product vision, managing complex customer problems, and guiding cross-functional teams to deliver scalable solutions. You will influence senior stakeholders, establish best practices, and oversee product lifecycle execution while fostering a culture of continuous improvement. Your leadership will ensure alignme"
+    },
+    {
+      "id": "jsearch_vKF6VQ2EK2llO-AEAAAAAA==",
+      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
+      "company": "C-4 Analytics",
+      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/9229399",
+      "posted_date": "2026-05-26",
+      "location": "Wakefield, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Built In Boston",
+      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
+    },
+    {
       "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
       "role": "Staff Product Manager, Unistore (Hybrid Tables)",
       "company": "Snowflake",
       "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-05-23",
+      "posted_date": "2026-05-30",
       "location": "Bellevue, Washington",
       "active": true,
       "resume_link": "",
@@ -31,25 +59,25 @@
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
-      "id": "jsearch_VDH5mvlNjaC-kM1DAAAAAA==",
-      "role": "Global Fluid Network Lifecycle Product Manager",
-      "company": "Vertiv Holdings",
-      "link": "https://bebee.com/us/jobs/global-fluid-network-lifecycle-product-manager-vertiv-holdings-washington--lensa-2365_e13d53fc04bdc6d388b635f5f51bcc0f45941a6fb4954739ee5dbd61f0fbaf76",
-      "posted_date": "2026-05-22",
-      "location": "Washington, District of Columbia",
+      "id": "jsearch_Gimw2LimubR1-djUAAAAAA==",
+      "role": "Group Product Manager, Universal Ads",
+      "company": "Universal Ads",
+      "link": "https://jobs.comcast.com/job/washington/group-product-manager-universal-ads/45483/95678985232",
+      "posted_date": "2026-05-27",
+      "location": "Langley, Washington",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
       "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "Global Fluid Network Lifecycle Services Product Manager\nThe Global Fluid Network Lifecycle Services Product Manager is responsible for defining, developing, and scaling Vertiv's global lifecycle service offerings for liquid cooling systems, fluid distribution networks, and thermal management infrastructure. This role owns the service portfolio strategy from concept through global deployment, ensuring offerings are serviceable, scalable, and digitally enabled. The role partners closely with regional services teams, thermal product management, engineering, and digital teams to launch new service"
+      "source": "Comcast Careers",
+      "description_snippet": "Universal Ads, a part of Comcast, enables any brand, of any size, to seamlessly make and buy commercials across premium video reaching new qualified audiences at scale. Universal Ads combines premium and brand-safe video content directly from the most influential media companies with the ease and familiarity of social ad buying. It is your one-stop shop for high-quality video ads delivering performance and unmatched scale.\n\nJob Summary\nThis job focuses on directing junior product managers and owning the strategic planning for product content, pricing, packaging, and features. It entails defini"
     },
     {
       "id": "jsearch_pTF2tKQ_tMathfF3AAAAAA==",
       "role": "Principal Product Manager (remote USA)",
       "company": "Alteryx",
       "link": "https://bebee.com/us/jobs/principal-product-manager-remote-usa-alteryx-los-angeles--lensa-7428_5e14112c992ed747d8fc3e1d3161c8f95147206da0940132ddcabc3d9f9438f9",
-      "posted_date": "2026-05-23",
+      "posted_date": "2026-05-28",
       "location": "Los Angeles, California",
       "active": true,
       "resume_link": "",
@@ -71,6 +99,20 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "A financial services provider is looking for an Associate Product Manager to lead scrum teams and manage product implementations. This role requires 3+ years of experience in project management within life insurance and a Bachelor’s degree in business or finance. You'll partner with the Head of Product Management and ensure timely delivery of product initiatives.\n\nThe position offers a competitive salary range of $90,800 to $124,900 and various benefits including health insurance and a 401(k) match."
+    },
+    {
+      "id": "jsearch_VDH5mvlNjaC-kM1DAAAAAA==",
+      "role": "Global Fluid Network Lifecycle Product Manager",
+      "company": "Vertiv Holdings",
+      "link": "https://bebee.com/us/jobs/global-fluid-network-lifecycle-product-manager-vertiv-holdings-washington--lensa-2365_e13d53fc04bdc6d388b635f5f51bcc0f45941a6fb4954739ee5dbd61f0fbaf76",
+      "posted_date": "2026-05-22",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "Global Fluid Network Lifecycle Services Product Manager\nThe Global Fluid Network Lifecycle Services Product Manager is responsible for defining, developing, and scaling Vertiv's global lifecycle service offerings for liquid cooling systems, fluid distribution networks, and thermal management infrastructure. This role owns the service portfolio strategy from concept through global deployment, ensuring offerings are serviceable, scalable, and digitally enabled. The role partners closely with regional services teams, thermal product management, engineering, and digital teams to launch new service"
     },
     {
       "id": "jsearch_Bl1u8WavN3qVGszMAAAAAA==",
@@ -127,20 +169,6 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "Position: Product Manager Job Description: What You’ll Be Doing: Responsible for the analysis of market trends, supplier performance, internal developments and objectives to facilitate ongoing development of Arrow's adder and quoting strategy. Facilitate interaction and feedback from segment managers, product specialists and sales management. Monitor, measure and report supplier market price performance.\n\nPrepare negotiation material as well as support the negotiation process. Works with technology business managers and product specialists to establish negotiation strategy. Strategic customer "
-    },
-    {
-      "id": "jsearch_vKF6VQ2EK2llO-AEAAAAAA==",
-      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
-      "company": "C-4 Analytics",
-      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/9229399",
-      "posted_date": "2026-05-26",
-      "location": "Wakefield, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Built In Boston",
-      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
     },
     {
       "id": "jsearch_vtA1kA1YpqpmyQZoAAAAAA==",
