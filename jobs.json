@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-30T16:01:30.142Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-05-31T16:02:57.463Z",
+  "total_fetched_today": 12,
   "jobs": [
     {
       "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
@@ -31,6 +31,20 @@
       "description_snippet": "Position Summary...\n\nWhat you'll do...Role summary:\n\nAs a Principal Product Manager for AI Shopping, you will lead product strategy across multiple related products, driving organization-wide decisions through deep expertise and data-driven insights. This role involves shaping long-term product vision, managing complex customer problems, and guiding cross-functional teams to deliver scalable solutions. You will influence senior stakeholders, establish best practices, and oversee product lifecycle execution while fostering a culture of continuous improvement. Your leadership will ensure alignme"
     },
     {
+      "id": "jsearch_TvPxenheqvxzhM_YAAAAAA==",
+      "role": "Principal Product Manager, General Compute (Seattle)",
+      "company": "Crusoe Energy Systems",
+      "link": "https://www.climatetechlist.com/job/crusoe-energy-systems-principal-product-manager-general-compute-seattle-NToQ1LkgnT0pOX",
+      "posted_date": "2026-05-29",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "ClimateTechList",
+      "description_snippet": "Crusoe is on a mission to accelerate the abundance of energy and intelligence. As the only vertically integrated AI infrastructure company built from the ground up, we own and operate each layer of the stack — from electrons to tokens — to power the world's most ambitious AI workloads. When you join Crusoe, you join a team that is building the future, faster.\n\nWe're in the midst of the greatest industrial revolution of our time. The demand for AI compute is boundless, and power is a bottleneck. We're solving that — with an energy-first approach that makes AI infrastructure better for the world"
+    },
+    {
       "id": "jsearch_vKF6VQ2EK2llO-AEAAAAAA==",
       "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
       "company": "C-4 Analytics",
@@ -43,20 +57,6 @@
       "match_score": 6,
       "source": "Built In Boston",
       "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
-    },
-    {
-      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
-      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
-      "company": "Snowflake",
-      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-05-30",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Snowflake Careers",
-      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
       "id": "jsearch_Gimw2LimubR1-djUAAAAAA==",
@@ -87,6 +87,34 @@
       "description_snippet": "Principal Product Manager (remote USA) page is loaded## Principal Product Manager (remote USA)posted on: Posted Yesterdayjob requisition id: R11925We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self.\n\nYou know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when th"
     },
     {
+      "id": "jsearch_s4GTmru2ETzGJ76hAAAAAA==",
+      "role": "Associate Product Manager - Auto Originations",
+      "company": "JPMorganChase",
+      "link": "https://www.indeed.com/viewjob?jk=0e7f9a2a45a0d37a",
+      "posted_date": "2026-05-27",
+      "location": "Wilmington, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Indeed",
+      "description_snippet": "JOB DESCRIPTION\n\nChase Auto is a leading provider of auto financing with a portfolio of more than $80 billion in assets and relationships with 75% of U.S. franchised automotive dealers. The business is part of the JPMorganChase franchise and serves auto dealers, consumers, and vehicle manufacturers. It offers a range of products and services to meet the financial needs of its clients from retail lending, captive financing, and floorplan products to cash management, private banking, and payment processing.\n\nAs an Associate Product Manager in Auto Originations, you will be in a pivotal role resp"
+    },
+    {
+      "id": "jsearch_awqGXFLb3hiS6eCBAAAAAA==",
+      "role": "Sr. Technical Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://virtualjobs.usnlx.com/juneau-ak/sr-technical-product-manager-remote/33377C71653C4EC78877D301BA2182A7/job/",
+      "posted_date": "2026-05-25",
+      "location": "Juneau, Alaska",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "USNLX Virtual Jobs - National Labor Exchange",
+      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
+    },
+    {
       "id": "jsearch_-2L-sQCdfPpR2cSJAAAAAA==",
       "role": "Remote Associate Product Manager Life Insurance Growth",
       "company": "Legal & General America",
@@ -99,6 +127,62 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "A financial services provider is looking for an Associate Product Manager to lead scrum teams and manage product implementations. This role requires 3+ years of experience in project management within life insurance and a Bachelor’s degree in business or finance. You'll partner with the Head of Product Management and ensure timely delivery of product initiatives.\n\nThe position offers a competitive salary range of $90,800 to $124,900 and various benefits including health insurance and a 401(k) match."
+    },
+    {
+      "id": "jsearch_o6WQTdX35PeoC57vAAAAAA==",
+      "role": "Remote Product Manager: Core Protocol & Blockchain Scaling",
+      "company": "Framework Ventures",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-core-protocol-blockchain-scaling-framework-ventures-new-york--lensa-7428_790d5f3fd62b441a6fc0749891db8a4251d6f4250347c61f4f4bef79f6c0b3fa",
+      "posted_date": "2026-05-26",
+      "location": "New York, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "Framework Ventures is seeking a Product Manager for Core Protocol to drive the roadmap of Arbitrum Nitro, a revolutionary blockchain scaling solution. The role involves interfacing with engineering and research teams to implement product innovations effectively.\n\nThe ideal candidate has 3-5 years of experience in product management or a related field with a strong understanding of blockchain technologies. The position offers remote work, professional development reimbursement, and comprehensive medical benefits."
+    },
+    {
+      "id": "jsearch_ASIGMYqLzZYjCcqSAAAAAA==",
+      "role": "Remote Product Manager - Lighting/Electrical",
+      "company": "Arrow Electronics",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-lighting-electrical-arrow-electronics-colorado-springs--dc-E3AA273B6477A5AB5118F89DD19DDBDC",
+      "posted_date": "2026-05-26",
+      "location": "Colorado Springs, Colorado",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "Position: Product Manager Job Description: What You’ll Be Doing: Responsible for the analysis of market trends, supplier performance, internal developments and objectives to facilitate ongoing development of Arrow's adder and quoting strategy. Facilitate interaction and feedback from segment managers, product specialists and sales management. Monitor, measure and report supplier market price performance.\n\nPrepare negotiation material as well as support the negotiation process. Works with technology business managers and product specialists to establish negotiation strategy. Strategic customer "
+    },
+    {
+      "id": "jsearch_XBgxVIQIe3rTA_7IAAAAAA==",
+      "role": "Global Product Manager: Strategy, Client Liaison & Travel",
+      "company": "Harrison Scott Associates",
+      "link": "https://www.jobleads.com/us/job/global-product-manager-strategy-client-liaison-travel--national--e43c68fe7bc9fb4bf3b24991ddc191b09",
+      "posted_date": "2026-05-27",
+      "location": "National, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Harrison Scott Associates is seeking a Product Manager to act as the interface between clients and the technical department. This role is vital for the vision and profitability of software solutions, requiring market research and coordination across teams. Candidates should have a blend of business and technical skills, with experience in product management. This position entails national and international travel, and advantageous qualifications include familiarity with XMPie. A competitive salary of £45k to £50k pa plus a company car is offered."
+    },
+    {
+      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
+      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
+      "company": "Snowflake",
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
+      "posted_date": "2026-05-30",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Snowflake Careers",
+      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
       "id": "jsearch_VDH5mvlNjaC-kM1DAAAAAA==",
@@ -155,20 +239,6 @@
       "match_score": 3,
       "source": "BeBee",
       "description_snippet": "Job Description Technology Product Manager What is the opportunity?\n\nThe Technology Product\n\nManager is responsible for delivering the industry’s leading technology platforms, helping firms by providing innovative and integrated technology tools for their advisors that supports our client’s business growth. They work independently to manage a range of moderately complex products from development to delivery. Define and communicate the Clearing & Custody product vision and strategy by delivering quality deliverables based on customer needs and competitive landscape.\n\nManage the product roadmap,"
-    },
-    {
-      "id": "jsearch_ASIGMYqLzZYjCcqSAAAAAA==",
-      "role": "Remote Product Manager - Lighting/Electrical",
-      "company": "Arrow Electronics",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-lighting-electrical-arrow-electronics-colorado-springs--dc-E3AA273B6477A5AB5118F89DD19DDBDC",
-      "posted_date": "2026-05-26",
-      "location": "Colorado Springs, Colorado",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "Position: Product Manager Job Description: What You’ll Be Doing: Responsible for the analysis of market trends, supplier performance, internal developments and objectives to facilitate ongoing development of Arrow's adder and quoting strategy. Facilitate interaction and feedback from segment managers, product specialists and sales management. Monitor, measure and report supplier market price performance.\n\nPrepare negotiation material as well as support the negotiation process. Works with technology business managers and product specialists to establish negotiation strategy. Strategic customer "
     },
     {
       "id": "jsearch_vtA1kA1YpqpmyQZoAAAAAA==",
@@ -611,20 +681,6 @@
       "link": "https://virtualjobs.usnlx.com/dover-de/sr-technical-product-manager-remote/AD11477F2CB347178394142AA7E8FEAD/job/",
       "posted_date": "2026-05-12",
       "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "USNLX Virtual Jobs - National Labor Exchange",
-      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
-    },
-    {
-      "id": "jsearch_awqGXFLb3hiS6eCBAAAAAA==",
-      "role": "Sr. Technical Product Manager (Remote)",
-      "company": "GovCIO",
-      "link": "https://virtualjobs.usnlx.com/juneau-ak/sr-technical-product-manager-remote/33377C71653C4EC78877D301BA2182A7/job/",
-      "posted_date": "2026-05-12",
-      "location": "Juneau, Alaska",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
