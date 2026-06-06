@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T17:09:48.745Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-06-06T16:03:08.793Z",
+  "total_fetched_today": 4,
   "jobs": [
     {
       "id": "jsearch_4vytDxYSZpiCmT1GAAAAAA==",
@@ -15,34 +15,6 @@
       "match_score": 6,
       "source": "Remote.co",
       "description_snippet": "Title: Product Manager\n\nLocation: Sandy, UT, United States\n\nJob Description:\n\nAt NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.\n\nSo, what’s the role all about?\n\nWe are seeking an experienced Product Manager to lead the ongoing development and evolution of our NiCE Knowledge Management product solutions and features. In this role, you will drive product str"
-    },
-    {
-      "id": "jsearch_06nZw3F5n3mM5W7cAAAAAA==",
-      "role": "Product Manager, New Products",
-      "company": "C-4 Analytics",
-      "link": "https://us.trabajo.org/job-4023-4054c9b21743c6ddbcaa31631812d16a",
-      "posted_date": "2026-05-31",
-      "location": "Wakefield, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Trabajo.org",
-      "description_snippet": "Overview C-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value. This role focuses on what’s next. We’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations. This is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products. You won’t just define ideas—you’ll bring them to life and prove their va"
-    },
-    {
-      "id": "jsearch_AvDiFEZ2oq25vz4ZAAAAAA==",
-      "role": "Principal Global Upstream Product Manager - PillCam Platform Strategy, Endoscopy",
-      "company": "COV Covidien LP",
-      "link": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Principal-Global-Upstream-Product-Manager---PillCam-Platform-Strategy--Endoscopy_R68892-2",
-      "posted_date": "2026-06-02",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Workday",
-      "description_snippet": "We anticipate the application window for this opening will close on - 17 Jun 2026 At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life At Medtronic, we bring bold ideas forward with speed and decisiveness to put patients first in everything we do. In-person exchanges are invaluable to our work. We’re working a minimum of 4 days a week onsite as part of our commitment to fostering a culture"
     },
     {
       "id": "jsearch_qrvr-pJ1OrqvQhG7AAAAAA==",
@@ -71,6 +43,48 @@
       "match_score": 4,
       "source": "LinkedIn",
       "description_snippet": "SAE Industry Technologies Consortia (ITC), Performance Review Institute (PRI) and SAE International (SAE), deliver shared solutions to industry's common challenges.\n\nJoin us and create a higher standard for a better world.\n\nThe Senior Product Manager is a commercial product manager role that is responsible for supporting the strategic vision, development, and lifecycle management of innovative information, digital, and SaaS products that serve mobility and related industries. Acting as the voice of the customer and users, the Senior Product Manager collaborates with cross-functional teams to c"
+    },
+    {
+      "id": "jsearch_D2WzxHanAS9MN3T1AAAAAA==",
+      "role": "Remote Product Manager, Environmental Asset Mgmt - IoT in , United States",
+      "company": "Energy Jobline ATTB",
+      "link": "https://www.energyjobline.com/job/remote-product-manager-environmental-asset-mgmt-iot-united-states-30104496",
+      "posted_date": "2026-06-04",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "Energy Jobline",
+      "description_snippet": "A global technology company is seeking a Product Manager for Environmental Asset Management solutions. This role involves defining product strategy, collaborating with cross-functional teams, and managing products throughout their lifecycle. A minimum of 5 years in product management, preference for experience in the fuel and convenience retail sector, is required. The position is remote within the United States, offering an annual salary between $96,800 and $125,000 along with comprehensive benefits including health programs and paid time off.\n\n#J-18808-Ljbffr"
+    },
+    {
+      "id": "jsearch_06nZw3F5n3mM5W7cAAAAAA==",
+      "role": "Product Manager, New Products",
+      "company": "C-4 Analytics",
+      "link": "https://us.trabajo.org/job-4023-4054c9b21743c6ddbcaa31631812d16a",
+      "posted_date": "2026-05-31",
+      "location": "Wakefield, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Trabajo.org",
+      "description_snippet": "Overview C-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value. This role focuses on what’s next. We’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations. This is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products. You won’t just define ideas—you’ll bring them to life and prove their va"
+    },
+    {
+      "id": "jsearch_AvDiFEZ2oq25vz4ZAAAAAA==",
+      "role": "Principal Global Upstream Product Manager - PillCam Platform Strategy, Endoscopy",
+      "company": "COV Covidien LP",
+      "link": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Principal-Global-Upstream-Product-Manager---PillCam-Platform-Strategy--Endoscopy_R68892-2",
+      "posted_date": "2026-06-02",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Workday",
+      "description_snippet": "We anticipate the application window for this opening will close on - 17 Jun 2026 At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life At Medtronic, we bring bold ideas forward with speed and decisiveness to put patients first in everything we do. In-person exchanges are invaluable to our work. We’re working a minimum of 4 days a week onsite as part of our commitment to fostering a culture"
     },
     {
       "id": "jsearch_AIOcBsa8mUum2DJmAAAAAA==",
