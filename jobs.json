@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-06T16:03:08.793Z",
+  "last_updated": "2026-06-07T16:09:03.892Z",
   "total_fetched_today": 4,
   "jobs": [
+    {
+      "id": "jsearch_pXNx12gIaxItRszAAAAAAA==",
+      "role": "Sr. Technical Product Manager, eCommerce Search Experience",
+      "company": "McKesson",
+      "link": "https://www.ziprecruiter.com/c/McKesson/Job/Sr.-Technical-Product-Manager,-eCommerce-Search-Experience/-in-Remote,OR?jid=61440e62115f7dba",
+      "posted_date": "2026-06-01",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 13,
+      "source": "ZipRecruiter",
+      "description_snippet": "McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve - we care.\n\nWhat you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow's health today, we want to h"
+    },
     {
       "id": "jsearch_4vytDxYSZpiCmT1GAAAAAA==",
       "role": "Product Manager job at NiCE Ltd. in Sandy, UT",
