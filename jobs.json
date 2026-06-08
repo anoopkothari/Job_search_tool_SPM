@@ -1,34 +1,20 @@
 {
-  "last_updated": "2026-06-07T16:09:03.892Z",
+  "last_updated": "2026-06-08T17:46:14.629Z",
   "total_fetched_today": 4,
   "jobs": [
     {
-      "id": "jsearch_pXNx12gIaxItRszAAAAAAA==",
-      "role": "Sr. Technical Product Manager, eCommerce Search Experience",
-      "company": "McKesson",
-      "link": "https://www.ziprecruiter.com/c/McKesson/Job/Sr.-Technical-Product-Manager,-eCommerce-Search-Experience/-in-Remote,OR?jid=61440e62115f7dba",
-      "posted_date": "2026-06-01",
-      "location": "Remote, Oregon",
+      "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
+      "role": "Principal Product Manager, AI Data Solutions",
+      "company": "FactSet",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-data-solutions-at-factset-4404112971",
+      "posted_date": "2026-06-07",
+      "location": "Norwalk, Connecticut",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
       "match_score": 13,
-      "source": "ZipRecruiter",
-      "description_snippet": "McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve - we care.\n\nWhat you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow's health today, we want to h"
-    },
-    {
-      "id": "jsearch_4vytDxYSZpiCmT1GAAAAAA==",
-      "role": "Product Manager job at NiCE Ltd. in Sandy, UT",
-      "company": "NiCE Ltd.",
-      "link": "https://remote.co/job-details/product-manager-83cf4985-3b01-45fa-b290-3b40268ac24c",
-      "posted_date": "2026-06-03",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Remote.co",
-      "description_snippet": "Title: Product Manager\n\nLocation: Sandy, UT, United States\n\nJob Description:\n\nAt NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.\n\nSo, what’s the role all about?\n\nWe are seeking an experienced Product Manager to lead the ongoing development and evolution of our NiCE Knowledge Management product solutions and features. In this role, you will drive product str"
+      "source": "LinkedIn",
+      "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
     },
     {
       "id": "jsearch_qrvr-pJ1OrqvQhG7AAAAAA==",
@@ -57,6 +43,48 @@
       "match_score": 4,
       "source": "LinkedIn",
       "description_snippet": "SAE Industry Technologies Consortia (ITC), Performance Review Institute (PRI) and SAE International (SAE), deliver shared solutions to industry's common challenges.\n\nJoin us and create a higher standard for a better world.\n\nThe Senior Product Manager is a commercial product manager role that is responsible for supporting the strategic vision, development, and lifecycle management of innovative information, digital, and SaaS products that serve mobility and related industries. Acting as the voice of the customer and users, the Senior Product Manager collaborates with cross-functional teams to c"
+    },
+    {
+      "id": "jsearch_QMPGvKFzjrHbRycDAAAAAA==",
+      "role": "Product Manager (Fulltime | Remote)",
+      "company": "Solenis",
+      "link": "https://bebee.com/us/jobs/product-manager-fulltime-remote-solenis-florida--jooble-8698901212077212535--0149b876d02303c82d57ac0a0345d054",
+      "posted_date": "2026-06-05",
+      "location": "Florida",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "Solenis is a leading global provider of water and hygiene solutions. The company’s product portfolio includes a broad array of water treatment chemistries, process aids, functional additives, cleaners, disinfectants, and state-of-the-art monitoring, control and delivery systems. These technologies are used by customers to improve operational efficiencies, enhance product quality, protect plant assets, minimize environmental impact, and create cleaner and safer environments.\n\nHeadquartered in Wilmington, Delaware, the company has 78 manufacturing facilities strategically located around the glob"
+    },
+    {
+      "id": "jsearch_pXNx12gIaxItRszAAAAAAA==",
+      "role": "Sr. Technical Product Manager, eCommerce Search Experience",
+      "company": "McKesson",
+      "link": "https://www.ziprecruiter.com/c/McKesson/Job/Sr.-Technical-Product-Manager,-eCommerce-Search-Experience/-in-Remote,OR?jid=61440e62115f7dba",
+      "posted_date": "2026-06-01",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 13,
+      "source": "ZipRecruiter",
+      "description_snippet": "McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve - we care.\n\nWhat you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow's health today, we want to h"
+    },
+    {
+      "id": "jsearch_4vytDxYSZpiCmT1GAAAAAA==",
+      "role": "Product Manager job at NiCE Ltd. in Sandy, UT",
+      "company": "NiCE Ltd.",
+      "link": "https://remote.co/job-details/product-manager-83cf4985-3b01-45fa-b290-3b40268ac24c",
+      "posted_date": "2026-06-03",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Remote.co",
+      "description_snippet": "Title: Product Manager\n\nLocation: Sandy, UT, United States\n\nJob Description:\n\nAt NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.\n\nSo, what’s the role all about?\n\nWe are seeking an experienced Product Manager to lead the ongoing development and evolution of our NiCE Knowledge Management product solutions and features. In this role, you will drive product str"
     },
     {
       "id": "jsearch_D2WzxHanAS9MN3T1AAAAAA==",
