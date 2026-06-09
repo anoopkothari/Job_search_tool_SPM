@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T17:46:14.629Z",
-  "total_fetched_today": 4,
+  "last_updated": "2026-06-09T17:19:56.280Z",
+  "total_fetched_today": 5,
   "jobs": [
     {
       "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
@@ -15,6 +15,62 @@
       "match_score": 13,
       "source": "LinkedIn",
       "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
+    },
+    {
+      "id": "jsearch_CCOeZWrMiu4bYpWlAAAAAA==",
+      "role": "Product Manager, Analysis",
+      "company": "John Deere",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-analysis-at-john-deere-4425625509",
+      "posted_date": "2026-06-08",
+      "location": "Des Moines, Iowa",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "There are over 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before! Here the world's brightest minds are tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll put you to work. RIGHT NOW.\n\nJohn Deere is an equal opportunity employer, including disabled & v"
+    },
+    {
+      "id": "jsearch_4vytDxYSZpiCmT1GAAAAAA==",
+      "role": "Product Manager job at NiCE Ltd. in Sandy, UT",
+      "company": "NiCE Ltd.",
+      "link": "https://remote.co/job-details/product-manager-83cf4985-3b01-45fa-b290-3b40268ac24c",
+      "posted_date": "2026-06-03",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Remote.co",
+      "description_snippet": "Title: Product Manager\n\nLocation: Sandy, UT, United States\n\nJob Description:\n\nAt NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.\n\nSo, what’s the role all about?\n\nWe are seeking an experienced Product Manager to lead the ongoing development and evolution of our NiCE Knowledge Management product solutions and features. In this role, you will drive product str"
+    },
+    {
+      "id": "jsearch_AvDiFEZ2oq25vz4ZAAAAAA==",
+      "role": "Principal Global Upstream Product Manager - PillCam Platform Strategy, Endoscopy",
+      "company": "COV Covidien LP",
+      "link": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Principal-Global-Upstream-Product-Manager---PillCam-Platform-Strategy--Endoscopy_R68892-2",
+      "posted_date": "2026-06-02",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Workday",
+      "description_snippet": "We anticipate the application window for this opening will close on - 17 Jun 2026 At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life At Medtronic, we bring bold ideas forward with speed and decisiveness to put patients first in everything we do. In-person exchanges are invaluable to our work. We’re working a minimum of 4 days a week onsite as part of our commitment to fostering a culture"
+    },
+    {
+      "id": "jsearch_g2RfWq3IMbiWTlM9AAAAAA==",
+      "role": "Product Manager-CAMA & Tax Solutions",
+      "company": "Vision Government Solutions Inc",
+      "link": "https://vgsi.applytojob.com/apply/7PCZFxK1CY/Product-ManagerCAMA-Tax-Solutions",
+      "posted_date": "2026-06-07",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Vision Government Solutions - JazzHR",
+      "description_snippet": "About Us\nVision Government Solutions is a leading software and services company providing cutting-edge property tax and appraisal software to more than 500 towns, cities, and counties across the United States. Vision is at an exciting inflection point of growth and has been rapidly adding clients to our community. We are looking for an exceptional individual to join our Product Management team to help us continue designing and building our industry-leading CAMA platform.\n\nRole Summary\nWe are actively seeking a creative, motivated, and self-starting Product Manager to join our fast-paced organi"
     },
     {
       "id": "jsearch_qrvr-pJ1OrqvQhG7AAAAAA==",
@@ -73,20 +129,6 @@
       "description_snippet": "McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve - we care.\n\nWhat you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow's health today, we want to h"
     },
     {
-      "id": "jsearch_4vytDxYSZpiCmT1GAAAAAA==",
-      "role": "Product Manager job at NiCE Ltd. in Sandy, UT",
-      "company": "NiCE Ltd.",
-      "link": "https://remote.co/job-details/product-manager-83cf4985-3b01-45fa-b290-3b40268ac24c",
-      "posted_date": "2026-06-03",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Remote.co",
-      "description_snippet": "Title: Product Manager\n\nLocation: Sandy, UT, United States\n\nJob Description:\n\nAt NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changers. And we play to win. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you.\n\nSo, what’s the role all about?\n\nWe are seeking an experienced Product Manager to lead the ongoing development and evolution of our NiCE Knowledge Management product solutions and features. In this role, you will drive product str"
-    },
-    {
       "id": "jsearch_D2WzxHanAS9MN3T1AAAAAA==",
       "role": "Remote Product Manager, Environmental Asset Mgmt - IoT in , United States",
       "company": "Energy Jobline ATTB",
@@ -113,20 +155,6 @@
       "match_score": 6,
       "source": "Trabajo.org",
       "description_snippet": "Overview C-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value. This role focuses on what’s next. We’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations. This is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products. You won’t just define ideas—you’ll bring them to life and prove their va"
-    },
-    {
-      "id": "jsearch_AvDiFEZ2oq25vz4ZAAAAAA==",
-      "role": "Principal Global Upstream Product Manager - PillCam Platform Strategy, Endoscopy",
-      "company": "COV Covidien LP",
-      "link": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Principal-Global-Upstream-Product-Manager---PillCam-Platform-Strategy--Endoscopy_R68892-2",
-      "posted_date": "2026-06-02",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Workday",
-      "description_snippet": "We anticipate the application window for this opening will close on - 17 Jun 2026 At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life At Medtronic, we bring bold ideas forward with speed and decisiveness to put patients first in everything we do. In-person exchanges are invaluable to our work. We’re working a minimum of 4 days a week onsite as part of our commitment to fostering a culture"
     },
     {
       "id": "jsearch_AIOcBsa8mUum2DJmAAAAAA==",
