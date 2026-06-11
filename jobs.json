@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-06-10T17:54:30.758Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-06-11T18:08:39.044Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
+      "role": "Principal Product Manager, AI Data Solutions",
+      "company": "FactSet",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-data-solutions-at-factset-4404112971",
+      "posted_date": "2026-06-07",
+      "location": "Norwalk, Connecticut",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 13,
+      "source": "LinkedIn",
+      "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
+    },
+    {
+      "id": "jsearch_vyWrlB0LZILnjLOCAAAAAA==",
+      "role": "Remote Enterprise Product Manager",
+      "company": "Planera",
+      "link": "https://bebee.com/us/jobs/remote-enterprise-product-manager-planera-baltimore--talent-623070786831328142",
+      "posted_date": "2026-06-07",
+      "location": "Baltimore, Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "BeBee",
+      "description_snippet": "About Us:\n\nPlanera is a fast-growing software startup revolutionizing construction planning and scheduling. We are disrupting an industry that has seen little innovation in decades, and the opportunity for change – and upside – is big. Our culture is dynamic, smart, and spirited, and we are committed to solving critical problems for general contractors and project owners. Join us and help to grow a company that will change how the world is built.\n\nPosition Overview:\n\nWe are seeking an experienced and driven Product Manager to join our team. The ideal candidate will have 3-5 years of SaaS produ"
+    },
+    {
+      "id": "jsearch_g2RfWq3IMbiWTlM9AAAAAA==",
+      "role": "Product Manager-CAMA & Tax Solutions",
+      "company": "Vision Government Solutions Inc",
+      "link": "https://vgsi.applytojob.com/apply/7PCZFxK1CY/Product-ManagerCAMA-Tax-Solutions",
+      "posted_date": "2026-06-07",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Vision Government Solutions - JazzHR",
+      "description_snippet": "About Us\nVision Government Solutions is a leading software and services company providing cutting-edge property tax and appraisal software to more than 500 towns, cities, and counties across the United States. Vision is at an exciting inflection point of growth and has been rapidly adding clients to our community. We are looking for an exceptional individual to join our Product Management team to help us continue designing and building our industry-leading CAMA platform.\n\nRole Summary\nWe are actively seeking a creative, motivated, and self-starting Product Manager to join our fast-paced organi"
+    },
+    {
+      "id": "jsearch_QMPGvKFzjrHbRycDAAAAAA==",
+      "role": "Product Manager (Fulltime | Remote)",
+      "company": "Solenis",
+      "link": "https://bebee.com/us/jobs/product-manager-fulltime-remote-solenis-florida--jooble-8698901212077212535--0149b876d02303c82d57ac0a0345d054",
+      "posted_date": "2026-06-05",
+      "location": "Florida",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "Solenis is a leading global provider of water and hygiene solutions. The company’s product portfolio includes a broad array of water treatment chemistries, process aids, functional additives, cleaners, disinfectants, and state-of-the-art monitoring, control and delivery systems. These technologies are used by customers to improve operational efficiencies, enhance product quality, protect plant assets, minimize environmental impact, and create cleaner and safer environments.\n\nHeadquartered in Wilmington, Delaware, the company has 78 manufacturing facilities strategically located around the glob"
+    },
+    {
+      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
+      "role": "Product Manager II",
+      "company": "Indeed",
+      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
+      "posted_date": "2026-06-04",
+      "location": "Dover, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
+    },
     {
       "id": "jsearch_GHyx-jmh7nj7ypd9AAAAAA==",
       "role": "AI Senior Product Manager",
@@ -73,34 +143,6 @@
       "description_snippet": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.\n\nWith the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employe"
     },
     {
-      "id": "jsearch_vyWrlB0LZILnjLOCAAAAAA==",
-      "role": "Remote Enterprise Product Manager",
-      "company": "Planera",
-      "link": "https://bebee.com/us/jobs/remote-enterprise-product-manager-planera-baltimore--talent-623070786831328142",
-      "posted_date": "2026-06-07",
-      "location": "Baltimore, Maryland",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "BeBee",
-      "description_snippet": "About Us:\n\nPlanera is a fast-growing software startup revolutionizing construction planning and scheduling. We are disrupting an industry that has seen little innovation in decades, and the opportunity for change – and upside – is big. Our culture is dynamic, smart, and spirited, and we are committed to solving critical problems for general contractors and project owners. Join us and help to grow a company that will change how the world is built.\n\nPosition Overview:\n\nWe are seeking an experienced and driven Product Manager to join our team. The ideal candidate will have 3-5 years of SaaS produ"
-    },
-    {
-      "id": "jsearch_g2RfWq3IMbiWTlM9AAAAAA==",
-      "role": "Product Manager-CAMA & Tax Solutions",
-      "company": "Vision Government Solutions Inc",
-      "link": "https://vgsi.applytojob.com/apply/7PCZFxK1CY/Product-ManagerCAMA-Tax-Solutions",
-      "posted_date": "2026-06-07",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Vision Government Solutions - JazzHR",
-      "description_snippet": "About Us\nVision Government Solutions is a leading software and services company providing cutting-edge property tax and appraisal software to more than 500 towns, cities, and counties across the United States. Vision is at an exciting inflection point of growth and has been rapidly adding clients to our community. We are looking for an exceptional individual to join our Product Management team to help us continue designing and building our industry-leading CAMA platform.\n\nRole Summary\nWe are actively seeking a creative, motivated, and self-starting Product Manager to join our fast-paced organi"
-    },
-    {
       "id": "jsearch_sNef40ueb_G-kOuBAAAAAA==",
       "role": "Remote Senior Product Manager [f/m/x] ( .5/week) | SaaS | Remote possible",
       "company": "Swat.io Gmbh",
@@ -127,20 +169,6 @@
       "match_score": 2,
       "source": "BeBee",
       "description_snippet": "Associate Product Manager\n\nJoin an Innovative Company with a Dynamic Culture!\n\nOur company prides itself on a culture of teamwork and camaraderie. Our primary goal is to attract and retain long-term employees with a friendly work environment, quality products, and challenging work.\n\nAdvanced Business\n\nIntegrators, Inc. (ABI) has always loved the challenge of automating monumental manual tasks, hence our motto “Managing the Unmanageable”.\n\nABI MasterMind® is the World’s Premier Workforce Management Solution\n\nABI MasterMind® serves over 900 of the most well-known venues in North America. ABI’s d"
-    },
-    {
-      "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
-      "role": "Principal Product Manager, AI Data Solutions",
-      "company": "FactSet",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-data-solutions-at-factset-4404112971",
-      "posted_date": "2026-06-07",
-      "location": "Norwalk, Connecticut",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 13,
-      "source": "LinkedIn",
-      "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
     },
     {
       "id": "jsearch_CCOeZWrMiu4bYpWlAAAAAA==",
@@ -211,20 +239,6 @@
       "match_score": 4,
       "source": "LinkedIn",
       "description_snippet": "SAE Industry Technologies Consortia (ITC), Performance Review Institute (PRI) and SAE International (SAE), deliver shared solutions to industry's common challenges.\n\nJoin us and create a higher standard for a better world.\n\nThe Senior Product Manager is a commercial product manager role that is responsible for supporting the strategic vision, development, and lifecycle management of innovative information, digital, and SaaS products that serve mobility and related industries. Acting as the voice of the customer and users, the Senior Product Manager collaborates with cross-functional teams to c"
-    },
-    {
-      "id": "jsearch_QMPGvKFzjrHbRycDAAAAAA==",
-      "role": "Product Manager (Fulltime | Remote)",
-      "company": "Solenis",
-      "link": "https://bebee.com/us/jobs/product-manager-fulltime-remote-solenis-florida--jooble-8698901212077212535--0149b876d02303c82d57ac0a0345d054",
-      "posted_date": "2026-06-05",
-      "location": "Florida",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "BeBee",
-      "description_snippet": "Solenis is a leading global provider of water and hygiene solutions. The company’s product portfolio includes a broad array of water treatment chemistries, process aids, functional additives, cleaners, disinfectants, and state-of-the-art monitoring, control and delivery systems. These technologies are used by customers to improve operational efficiencies, enhance product quality, protect plant assets, minimize environmental impact, and create cleaner and safer environments.\n\nHeadquartered in Wilmington, Delaware, the company has 78 manufacturing facilities strategically located around the glob"
     },
     {
       "id": "jsearch_pXNx12gIaxItRszAAAAAAA==",
@@ -421,20 +435,6 @@
       "match_score": 5,
       "source": "Snowflake Careers",
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
-    },
-    {
-      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
-      "role": "Product Manager II",
-      "company": "Indeed",
-      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
-      "posted_date": "2026-05-28",
-      "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JobLeads",
-      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
     },
     {
       "id": "jsearch_o6WQTdX35PeoC57vAAAAAA==",
