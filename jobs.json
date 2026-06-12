@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-11T18:08:39.044Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-06-12T17:33:57.054Z",
+  "total_fetched_today": 9,
   "jobs": [
+    {
+      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
+      "role": "Principal Product Manager",
+      "company": "NetApp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4417219689",
+      "posted_date": "2026-06-11",
+      "location": "Waltham, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 17,
+      "source": "LinkedIn",
+      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
+    },
     {
       "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
       "role": "Principal Product Manager, AI Data Solutions",
@@ -17,18 +31,46 @@
       "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
     },
     {
-      "id": "jsearch_vyWrlB0LZILnjLOCAAAAAA==",
-      "role": "Remote Enterprise Product Manager",
-      "company": "Planera",
-      "link": "https://bebee.com/us/jobs/remote-enterprise-product-manager-planera-baltimore--talent-623070786831328142",
-      "posted_date": "2026-06-07",
-      "location": "Baltimore, Maryland",
+      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
+      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
+      "company": "Snowflake",
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
+      "posted_date": "2026-06-11",
+      "location": "Bellevue, Washington",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 4,
+      "match_score": 6,
+      "source": "Snowflake Careers",
+      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
+    },
+    {
+      "id": "jsearch_IIEFaf6-yngKUAU3AAAAAA==",
+      "role": "Product Manager, SAP Order-to-Cash - CuraScript - Remote",
+      "company": "The Cigna Group",
+      "link": "https://jobs.thecignagroup.com/us/en/job/26006946/Product-Manager-SAP-Order-to-Cash-CuraScript-Remote",
+      "posted_date": "2026-06-10",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Cigna - The Cigna Group",
+      "description_snippet": "The job profile for this position is Product Management Senior Advisor, which is a Band 4 Senior Contributor Career Track Role.\n\nExcited to grow your career?\n\nWe value our talented employees, and whenever possible strive to help one of our associates grow professionally before recruiting new talent to our open positions. If you think the open position you see is right for you, we encourage you to apply!\n\nOur people make all the difference in our success.\n\nThe Product Management Senior Advisor for Chargebacks & Contracts operates as a senior strategy leader, owning the vision, strategy, and del"
+    },
+    {
+      "id": "jsearch_VeRBNLFsUjy39lUqAAAAAA==",
+      "role": "Remote Sr Product Manager (SNF Administration)",
+      "company": "Pointclickcare",
+      "link": "https://bebee.com/us/jobs/remote-sr-product-manager-snf-administration-pointclickcare-columbus--talent-623057623911631264",
+      "posted_date": "2026-06-07",
+      "location": "Columbus, Ohio",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
       "source": "BeBee",
-      "description_snippet": "About Us:\n\nPlanera is a fast-growing software startup revolutionizing construction planning and scheduling. We are disrupting an industry that has seen little innovation in decades, and the opportunity for change – and upside – is big. Our culture is dynamic, smart, and spirited, and we are committed to solving critical problems for general contractors and project owners. Join us and help to grow a company that will change how the world is built.\n\nPosition Overview:\n\nWe are seeking an experienced and driven Product Manager to join our team. The ideal candidate will have 3-5 years of SaaS produ"
+      "description_snippet": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.\n\nWith the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employe"
     },
     {
       "id": "jsearch_g2RfWq3IMbiWTlM9AAAAAA==",
@@ -43,6 +85,62 @@
       "match_score": 4,
       "source": "Vision Government Solutions - JazzHR",
       "description_snippet": "About Us\nVision Government Solutions is a leading software and services company providing cutting-edge property tax and appraisal software to more than 500 towns, cities, and counties across the United States. Vision is at an exciting inflection point of growth and has been rapidly adding clients to our community. We are looking for an exceptional individual to join our Product Management team to help us continue designing and building our industry-leading CAMA platform.\n\nRole Summary\nWe are actively seeking a creative, motivated, and self-starting Product Manager to join our fast-paced organi"
+    },
+    {
+      "id": "jsearch_5Fqe2FBA3H5iQZoWAAAAAA==",
+      "role": "Remote Credit Product Manager (Remote - WA, ID, OR, CA)",
+      "company": "Banner Bank",
+      "link": "https://bebee.com/us/jobs/remote-credit-product-manager-remote-wa-id-or-ca-banner-bank-washington--talent-623070802101085070",
+      "posted_date": "2026-06-07",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "The Credit Product Manager operates independently and provides leadership in the development of the banking strategy for loan products, providing marketing oversight and support to Commercial and Community Banking Teams. This role is accountable for the strategy development, recommending new product features and services, driving product innovation, market penetration, and client adoption.\n\nThe Credit Product\n\nManager performs the role of product advocate of cross-functional teams, presenting new product proposals and/or enhancements that support achievement of revenue and profit objectives as"
+    },
+    {
+      "id": "jsearch_F70JhOxtjLze-p8XAAAAAA==",
+      "role": "Remote Product Manager - Workforce Software",
+      "company": "Abi",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-workforce-software-abi-baltimore--talent-623057572633905568",
+      "posted_date": "2026-06-07",
+      "location": "Baltimore, Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "Associate Product Manager\n\nJoin an Innovative Company with a Dynamic Culture!\n\nOur company prides itself on a culture of teamwork and camaraderie. Our primary goal is to attract and retain long-term employees with a friendly work environment, quality products, and challenging work.\n\nAdvanced Business\n\nIntegrators, Inc. (ABI) has always loved the challenge of automating monumental manual tasks, hence our motto “Managing the Unmanageable”.\n\nABI MasterMind® is the World’s Premier Workforce Management Solution\n\nABI MasterMind® serves over 900 of the most well-known venues in North America. ABI’s d"
+    },
+    {
+      "id": "jsearch_ffr8yGNVD1uuHJHeAAAAAA==",
+      "role": "Credit Card Product Manager (Remote in WA, OR, ID)",
+      "company": "GESA CREDIT UNION",
+      "link": "https://www.indeed.com/viewjob?jk=c44678eea616f12c",
+      "posted_date": "2026-06-09",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "Indeed",
+      "description_snippet": "Take a leap and join our team!\n\nAt Gesa, we believe in the power of our people. Coming from all walks of life, our team members’ individual stories and unique experiences are our most valuable asset. But it’s how we come together, igniting our collective compassion and commitment to empowering our communities, that makes us succeed. Because we know we go further when we go together.\n\nHere you can join a team who is passionate about serving others, has a desire to do good, and shares a deep love of people. You can engage in meaningful work that impacts your community. You can challenge yourself"
+    },
+    {
+      "id": "jsearch_vyWrlB0LZILnjLOCAAAAAA==",
+      "role": "Remote Enterprise Product Manager",
+      "company": "Planera",
+      "link": "https://bebee.com/us/jobs/remote-enterprise-product-manager-planera-baltimore--talent-623070786831328142",
+      "posted_date": "2026-06-07",
+      "location": "Baltimore, Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "BeBee",
+      "description_snippet": "About Us:\n\nPlanera is a fast-growing software startup revolutionizing construction planning and scheduling. We are disrupting an industry that has seen little innovation in decades, and the opportunity for change – and upside – is big. Our culture is dynamic, smart, and spirited, and we are committed to solving critical problems for general contractors and project owners. Join us and help to grow a company that will change how the world is built.\n\nPosition Overview:\n\nWe are seeking an experienced and driven Product Manager to join our team. The ideal candidate will have 3-5 years of SaaS produ"
     },
     {
       "id": "jsearch_QMPGvKFzjrHbRycDAAAAAA==",
@@ -129,20 +227,6 @@
       "description_snippet": "Senior Product Manager About Orchid Software Solutions At Orchid, we build exceptional software to modernize the assisted reproduction technology (ART) industry. Through tailored applications, we increase efficiency and transparency for agencies, intended parents, and surrogates worldwide. Our mission is to simplify complex journeys through superior technology. The Role A \"Full-Stack\" Product Leader We are looking for a Senior Product Manager to become the dedicated engine for SeedTrust, our most critical escrow and financial management platform. This is a \"Full-Stack\" role you will own the hi"
     },
     {
-      "id": "jsearch_VeRBNLFsUjy39lUqAAAAAA==",
-      "role": "Remote Sr Product Manager (SNF Administration)",
-      "company": "Pointclickcare",
-      "link": "https://bebee.com/us/jobs/remote-sr-product-manager-snf-administration-pointclickcare-columbus--talent-623057623911631264",
-      "posted_date": "2026-06-07",
-      "location": "Columbus, Ohio",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "BeBee",
-      "description_snippet": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.\n\nWith the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employe"
-    },
-    {
       "id": "jsearch_sNef40ueb_G-kOuBAAAAAA==",
       "role": "Remote Senior Product Manager [f/m/x] ( .5/week) | SaaS | Remote possible",
       "company": "Swat.io Gmbh",
@@ -155,20 +239,6 @@
       "match_score": 4,
       "source": "BeBee",
       "description_snippet": "Swat.io is a Software-as-a-Service product that supports marketers in Social Media Publishing and Community Management. We are proud to be an independent, self-financed, product-led company, focused on building a product that users actually love. We follow a self-service-first approach and intentionally avoid aggressive sales tactics, putting user experience and value at the center of everything we do.\n\nToday, our goal is to continue growing sustainably and join the top 1% of SaaS companies with over €10 million in ARR. We want to create a meaningful impact for our customers, team, and company"
-    },
-    {
-      "id": "jsearch_F70JhOxtjLze-p8XAAAAAA==",
-      "role": "Remote Product Manager - Workforce Software",
-      "company": "Abi",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-workforce-software-abi-baltimore--talent-623057572633905568",
-      "posted_date": "2026-06-07",
-      "location": "Baltimore, Maryland",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "BeBee",
-      "description_snippet": "Associate Product Manager\n\nJoin an Innovative Company with a Dynamic Culture!\n\nOur company prides itself on a culture of teamwork and camaraderie. Our primary goal is to attract and retain long-term employees with a friendly work environment, quality products, and challenging work.\n\nAdvanced Business\n\nIntegrators, Inc. (ABI) has always loved the challenge of automating monumental manual tasks, hence our motto “Managing the Unmanageable”.\n\nABI MasterMind® is the World’s Premier Workforce Management Solution\n\nABI MasterMind® serves over 900 of the most well-known venues in North America. ABI’s d"
     },
     {
       "id": "jsearch_CCOeZWrMiu4bYpWlAAAAAA==",
@@ -423,20 +493,6 @@
       "description_snippet": "Prog Leasing LLC is seeking a Group Product Manager for B2B APIs, responsible for defining and scaling the API ecosystem that enables seamless integrations with retailers and partners. This remote role allows flexibility anywhere in the continental United States.\n\nThe ideal candidate will have over 5 years of experience in product leadership roles, especially within B2B SaaS, and a strong technical understanding of APIs and integrations. A bachelor's degree in a related field is required.\n\nProg Leasing LLC emphasizes a collaborative and inclusive culture, valuing diversity in the workplace and"
     },
     {
-      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
-      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
-      "company": "Snowflake",
-      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-05-29",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Snowflake Careers",
-      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
-    },
-    {
       "id": "jsearch_o6WQTdX35PeoC57vAAAAAA==",
       "role": "Remote Product Manager: Core Protocol & Blockchain Scaling",
       "company": "Framework Ventures",
@@ -449,20 +505,6 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "Framework Ventures is seeking a Product Manager for Core Protocol to drive the roadmap of Arbitrum Nitro, a revolutionary blockchain scaling solution. The role involves interfacing with engineering and research teams to implement product innovations effectively.\n\nThe ideal candidate has 3-5 years of experience in product management or a related field with a strong understanding of blockchain technologies. The position offers remote work, professional development reimbursement, and comprehensive medical benefits."
-    },
-    {
-      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
-      "role": "Principal Product Manager",
-      "company": "NetApp",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4417219689",
-      "posted_date": "2026-05-27",
-      "location": "Waltham, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 17,
-      "source": "LinkedIn",
-      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
     },
     {
       "id": "jsearch_TvPxenheqvxzhM_YAAAAAA==",
