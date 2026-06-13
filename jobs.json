@@ -1,21 +1,7 @@
 {
-  "last_updated": "2026-06-12T17:33:57.054Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-06-13T16:10:12.819Z",
+  "total_fetched_today": 6,
   "jobs": [
-    {
-      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
-      "role": "Principal Product Manager",
-      "company": "NetApp",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4417219689",
-      "posted_date": "2026-06-11",
-      "location": "Waltham, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 17,
-      "source": "LinkedIn",
-      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
-    },
     {
       "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
       "role": "Principal Product Manager, AI Data Solutions",
@@ -31,11 +17,25 @@
       "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
     },
     {
+      "id": "jsearch_IOZq5-5SKlDMYcVgAAAAAA==",
+      "role": "Sr Product Manager - Network Security(Remote Or Hybrid)",
+      "company": "Target",
+      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-network-security-remote-or-hybrid-at-target-4428160629",
+      "posted_date": "2026-06-12",
+      "location": "Brooklyn Park, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "LinkedIn",
+      "description_snippet": "The pay range is $115,000.00 - $206,000.00\n\nPay is based on several factors which vary based on position. These include labor markets and in some instances may include education, work experience and certifications. In addition to your pay, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Target offers eligible team members and their dependents comprehensive health benefits and programs, which may include medical, vision, dental, life insurance and more, to help you and your family take care of your whole selves. Other benefits for e"
+    },
+    {
       "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
       "role": "Staff Product Manager, Unistore (Hybrid Tables)",
       "company": "Snowflake",
       "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-06-11",
+      "posted_date": "2026-06-13",
       "location": "Bellevue, Washington",
       "active": true,
       "resume_link": "",
@@ -43,34 +43,6 @@
       "match_score": 6,
       "source": "Snowflake Careers",
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
-    },
-    {
-      "id": "jsearch_IIEFaf6-yngKUAU3AAAAAA==",
-      "role": "Product Manager, SAP Order-to-Cash - CuraScript - Remote",
-      "company": "The Cigna Group",
-      "link": "https://jobs.thecignagroup.com/us/en/job/26006946/Product-Manager-SAP-Order-to-Cash-CuraScript-Remote",
-      "posted_date": "2026-06-10",
-      "location": "United States",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Cigna - The Cigna Group",
-      "description_snippet": "The job profile for this position is Product Management Senior Advisor, which is a Band 4 Senior Contributor Career Track Role.\n\nExcited to grow your career?\n\nWe value our talented employees, and whenever possible strive to help one of our associates grow professionally before recruiting new talent to our open positions. If you think the open position you see is right for you, we encourage you to apply!\n\nOur people make all the difference in our success.\n\nThe Product Management Senior Advisor for Chargebacks & Contracts operates as a senior strategy leader, owning the vision, strategy, and del"
-    },
-    {
-      "id": "jsearch_VeRBNLFsUjy39lUqAAAAAA==",
-      "role": "Remote Sr Product Manager (SNF Administration)",
-      "company": "Pointclickcare",
-      "link": "https://bebee.com/us/jobs/remote-sr-product-manager-snf-administration-pointclickcare-columbus--talent-623057623911631264",
-      "posted_date": "2026-06-07",
-      "location": "Columbus, Ohio",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "BeBee",
-      "description_snippet": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.\n\nWith the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employe"
     },
     {
       "id": "jsearch_g2RfWq3IMbiWTlM9AAAAAA==",
@@ -99,6 +71,62 @@
       "match_score": 3,
       "source": "BeBee",
       "description_snippet": "The Credit Product Manager operates independently and provides leadership in the development of the banking strategy for loan products, providing marketing oversight and support to Commercial and Community Banking Teams. This role is accountable for the strategy development, recommending new product features and services, driving product innovation, market penetration, and client adoption.\n\nThe Credit Product\n\nManager performs the role of product advocate of cross-functional teams, presenting new product proposals and/or enhancements that support achievement of revenue and profit objectives as"
+    },
+    {
+      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
+      "role": "Product Manager II",
+      "company": "Indeed",
+      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
+      "posted_date": "2026-06-11",
+      "location": "Dover, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
+    },
+    {
+      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
+      "role": "Principal Product Manager",
+      "company": "NetApp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4417219689",
+      "posted_date": "2026-06-11",
+      "location": "Waltham, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 17,
+      "source": "LinkedIn",
+      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
+    },
+    {
+      "id": "jsearch_IIEFaf6-yngKUAU3AAAAAA==",
+      "role": "Product Manager, SAP Order-to-Cash - CuraScript - Remote",
+      "company": "The Cigna Group",
+      "link": "https://jobs.thecignagroup.com/us/en/job/26006946/Product-Manager-SAP-Order-to-Cash-CuraScript-Remote",
+      "posted_date": "2026-06-10",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Cigna - The Cigna Group",
+      "description_snippet": "The job profile for this position is Product Management Senior Advisor, which is a Band 4 Senior Contributor Career Track Role.\n\nExcited to grow your career?\n\nWe value our talented employees, and whenever possible strive to help one of our associates grow professionally before recruiting new talent to our open positions. If you think the open position you see is right for you, we encourage you to apply!\n\nOur people make all the difference in our success.\n\nThe Product Management Senior Advisor for Chargebacks & Contracts operates as a senior strategy leader, owning the vision, strategy, and del"
+    },
+    {
+      "id": "jsearch_VeRBNLFsUjy39lUqAAAAAA==",
+      "role": "Remote Sr Product Manager (SNF Administration)",
+      "company": "Pointclickcare",
+      "link": "https://bebee.com/us/jobs/remote-sr-product-manager-snf-administration-pointclickcare-columbus--talent-623057623911631264",
+      "posted_date": "2026-06-07",
+      "location": "Columbus, Ohio",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "BeBee",
+      "description_snippet": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.\n\nWith the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employe"
     },
     {
       "id": "jsearch_F70JhOxtjLze-p8XAAAAAA==",
@@ -155,20 +183,6 @@
       "match_score": 2,
       "source": "BeBee",
       "description_snippet": "Solenis is a leading global provider of water and hygiene solutions. The company’s product portfolio includes a broad array of water treatment chemistries, process aids, functional additives, cleaners, disinfectants, and state-of-the-art monitoring, control and delivery systems. These technologies are used by customers to improve operational efficiencies, enhance product quality, protect plant assets, minimize environmental impact, and create cleaner and safer environments.\n\nHeadquartered in Wilmington, Delaware, the company has 78 manufacturing facilities strategically located around the glob"
-    },
-    {
-      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
-      "role": "Product Manager II",
-      "company": "Indeed",
-      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
-      "posted_date": "2026-06-04",
-      "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JobLeads",
-      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
     },
     {
       "id": "jsearch_GHyx-jmh7nj7ypd9AAAAAA==",
