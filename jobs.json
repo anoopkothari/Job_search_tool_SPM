@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-06-15T19:00:58.962Z",
-  "total_fetched_today": 3,
+  "last_updated": "2026-06-16T18:53:19.092Z",
+  "total_fetched_today": 4,
   "jobs": [
+    {
+      "id": "jsearch_zUwMUUBtjKTagMALAAAAAA==",
+      "role": "Senior Product Manager - Delivery & Operations Product Lead – Authoring Platform",
+      "company": "Regeneron Pharmaceuticals Inc.",
+      "link": "https://careers.regeneron.com/fr/emplois/r47587/senior-product-manager-delivery-operations-product-lead-authoring-platform/",
+      "posted_date": "2026-06-10",
+      "location": "Warren, New Jersey",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "Regeneron Careers",
+      "description_snippet": "Global Development IT is seeking a strategic, hands-on Senior Product Manager to serve as Product Lead for Regeneron’s enterprise generative-AI document-authoring platform. You will be responsible for a multi-phase implementation that delivers governed, scalable AI capabilities across Clinical, Regulatory, Medical Affairs, Labeling, and other Global Development domains. Partnering with business and technology stakeholders, you will align platform strategy to scientific, regulatory, and operational needs, ensuring secure, compliant, and high-impact outcomes.\n\nReporting to the Associate Director"
+    },
+    {
+      "id": "jsearch_V6fuqd5iiICEMbqOAAAAAA==",
+      "role": "Product Manager | Fully Remote US",
+      "company": "HireVue, Inc.",
+      "link": "https://www.simplyhired.com/job/JlpC72rQn9Wg4__IxBP2jR840g1frESXB5w90PxpcJdbX5tSJoqwDw",
+      "posted_date": "2026-06-14",
+      "location": "Sandy, Utah",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "SimplyHired",
+      "description_snippet": "Company Description\n\nHirevue is where hiring happens – transforming the way organizations discover, engage, and hire the best talent. Connecting companies and candidates anytime, anywhere, Hirevue’s end-to-end hiring platform features video interviewing, assessments and conversational AI. The industry leader in science backed, modern hiring solutions powered by ethical AI, Hirevue has hosted more than 70 million video interviews and 200 million chat-based candidate engagements for over 1200 pioneering customers around the globe.\n\nJob Description\n\nWe are looking for a Technical Product Manager "
+    },
+    {
+      "id": "jsearch_vVcrTXb8S7iQ0la9AAAAAA==",
+      "role": "senior product manager, Digital Ordering",
+      "company": "Starbucks Coffee Company",
+      "link": "https://apply.starbucks.com/careers/job/481078686851?hl=en-CA",
+      "posted_date": "2026-06-16",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Careers At Starbucks Coffee Company - Starbucks",
+      "description_snippet": "Now Brewing – senior product manager, Digital Ordering! #ToBeAPartner\n\nFrom the beginning, Starbucks set out to be a different kind of company. One that not only celebrated coffee and the rich tradition, but that also brought a feeling of connection. We are known for developing extraordinary leaders who share this passion and are guided by their service to others.\n\nThe Global Digital Commerce team at Starbucks Coffee Company drives our digital future and reinforces our leadership in the market. They are accountable for delivering business outcomes and representing Starbucks brand through techn"
+    },
+    {
+      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
+      "role": "Product Manager II",
+      "company": "Indeed",
+      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
+      "posted_date": "2026-06-11",
+      "location": "Dover, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
+    },
     {
       "id": "jsearch_IOZq5-5SKlDMYcVgAAAAAA==",
       "role": "Sr Product Manager - Network Security(Remote Or Hybrid)",
@@ -29,20 +85,6 @@
       "match_score": 6,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: Oregon (USA)\nAbout Owner\n\nOwner is the AI-native system local business owners use to succeed, starting with restaurants.\n\nWe’re building the system that replaces the many tools owners use to run their business.\n\nIt powers everything from the restaurant’s website, online ordering, CRM, POS, and more.\n\nProduct philosophy\n\nMost small business software makes owners do the work to get what they want: sales growth and profit growth. Owner does the work for them agentically.\n\nOur system drives demand, converts it, and helps operators run their busi"
-    },
-    {
-      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
-      "role": "Product Manager II",
-      "company": "Indeed",
-      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
-      "posted_date": "2026-06-11",
-      "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JobLeads",
-      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
     },
     {
       "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
