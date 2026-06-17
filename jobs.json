@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T18:53:19.092Z",
-  "total_fetched_today": 4,
+  "last_updated": "2026-06-17T17:47:25.119Z",
+  "total_fetched_today": 9,
   "jobs": [
     {
       "id": "jsearch_zUwMUUBtjKTagMALAAAAAA==",
@@ -31,11 +31,39 @@
       "description_snippet": "Company Description\n\nHirevue is where hiring happens – transforming the way organizations discover, engage, and hire the best talent. Connecting companies and candidates anytime, anywhere, Hirevue’s end-to-end hiring platform features video interviewing, assessments and conversational AI. The industry leader in science backed, modern hiring solutions powered by ethical AI, Hirevue has hosted more than 70 million video interviews and 200 million chat-based candidate engagements for over 1200 pioneering customers around the globe.\n\nJob Description\n\nWe are looking for a Technical Product Manager "
     },
     {
+      "id": "jsearch_MC-xTFwRHRw-ptozAAAAAA==",
+      "role": "Principal Digital Product Owner",
+      "company": "Jobs via Dice",
+      "link": "https://www.linkedin.com/jobs/view/principal-digital-product-owner-at-jobs-via-dice-4428079748",
+      "posted_date": "2026-06-16",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Idexcel Inc., is seeking the following. Apply via Dice today!\n\nJob Title: Principal Digital Product Owner\n\nLocation: Washington, DC and Philadelphia, PA) / Remote/Need Locals\n\nDuration: 12+ Months\n\nRemote - Quarterly travel required for PI Planning (Northeast corridor, typically between Washington, DC and Philadelphia, PA)\n\nSummary: As a Principal Digital Product Owner, you will play a crucial role in ensuring the successful delivery of our data products and services, following the values, prin"
+    },
+    {
+      "id": "jsearch_0Q3MGHBySwLbu4MfAAAAAA==",
+      "role": "Digital Product Manager, OFS Digital Product Management - Remote 2361968 | Eden Prairie, MN | Remote",
+      "company": "UnitedHealthcare",
+      "link": "https://www.talent.com/view?id=624219526934045582",
+      "posted_date": "2026-06-16",
+      "location": "Eden Prairie, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Talent.com",
+      "description_snippet": "Product Manager\n\nOptum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start Caring. Connecting. Growing together"
+    },
+    {
       "id": "jsearch_vVcrTXb8S7iQ0la9AAAAAA==",
       "role": "senior product manager, Digital Ordering",
       "company": "Starbucks Coffee Company",
       "link": "https://apply.starbucks.com/careers/job/481078686851?hl=en-CA",
-      "posted_date": "2026-06-16",
+      "posted_date": "2026-06-15",
       "location": "Seattle, Washington",
       "active": true,
       "resume_link": "",
@@ -43,6 +71,62 @@
       "match_score": 6,
       "source": "Careers At Starbucks Coffee Company - Starbucks",
       "description_snippet": "Now Brewing – senior product manager, Digital Ordering! #ToBeAPartner\n\nFrom the beginning, Starbucks set out to be a different kind of company. One that not only celebrated coffee and the rich tradition, but that also brought a feeling of connection. We are known for developing extraordinary leaders who share this passion and are guided by their service to others.\n\nThe Global Digital Commerce team at Starbucks Coffee Company drives our digital future and reinforces our leadership in the market. They are accountable for delivering business outcomes and representing Starbucks brand through techn"
+    },
+    {
+      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
+      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
+      "company": "Snowflake",
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
+      "posted_date": "2026-06-14",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Snowflake Careers",
+      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
+    },
+    {
+      "id": "jsearch_zdrE7yjBCBcKhS2pAAAAAA==",
+      "role": "Product Manager - AI Solutions",
+      "company": "Dell Technologies",
+      "link": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/292642",
+      "posted_date": "2026-06-16",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Cloud Sign In",
+      "description_snippet": "Product Manager - AI Solutions\n\nSenior Advisor, Product Management\n\nAI is reshaping every aspect of how businesses operate. Your work will directly influence how our enterprise integrates AI to deliver game-changing efficiencies, elevate customer experiences, and create measurable business value. Are you ready to lead the forefront of AI innovation? We develop and deploy AI solutions for our Dell team members to accelerate, combing obsession over business outcomes with exceptional technical expertise and a bold mindset to help shape the future.\n\nJoin us to do the best work of your career and m"
+    },
+    {
+      "id": "jsearch_BxmuV1y8Mh9ECi-GAAAAAA==",
+      "role": "Sr. Product Manager, Fashion + Fitness, US Shoes Category",
+      "company": "Amazon.com Services LLC",
+      "link": "https://www.indeed.com/viewjob?jk=3c16c0786851cd2d",
+      "posted_date": "2026-06-11",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Indeed",
+      "description_snippet": "DESCRIPTION\n\nDo you get excited about launching strategic initiatives that are complex, require high judgement and a high degree of visibility? Do you thrive in roles where you have to roll-up your sleeves, while working with internal and external stakeholders to be successful?\n\nAmazon Fashion & Fitness (F2) is seeking a talented, driven and customer-obsessed Sr. Product Manager that will need to be a strategically-oriented individual with strong communication skills, be able to build relationships with internal stakeholders quickly, in addition to being detail-oriented and process driven.\n\nTh"
+    },
+    {
+      "id": "jsearch_tlOvbROO78nuuQl0AAAAAA==",
+      "role": "Remote Technical Product Manager - Screw Compressors",
+      "company": "Chart Industries, Inc.",
+      "link": "https://www.whatjobs.com/jobs/remote-technical-product-manager/salem-alabama?id=2810808187",
+      "posted_date": "2026-06-14",
+      "location": "Salem, Alabama",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "WhatJobs",
+      "description_snippet": "Chart Industries, Inc. is seeking a Screw Compressor Technical Product Manager to provide strategic representation for its products in North America. This role involves managing client relationships, supporting business development initiatives, and driving sales growth.\n\nThe perfect candidate will ideally hold a degree in Mechanical Engineering and have substantial experience within the engineering sector. Benefits include flexible medical plans and a competitive salary in the range of $124,900 - $146,600.\n#J-18808-Ljbffr"
     },
     {
       "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
@@ -141,20 +225,6 @@
       "match_score": 3,
       "source": "BeBee",
       "description_snippet": "The Credit Product Manager operates independently and provides leadership in the development of the banking strategy for loan products, providing marketing oversight and support to Commercial and Community Banking Teams. This role is accountable for the strategy development, recommending new product features and services, driving product innovation, market penetration, and client adoption.\n\nThe Credit Product\n\nManager performs the role of product advocate of cross-functional teams, presenting new product proposals and/or enhancements that support achievement of revenue and profit objectives as"
-    },
-    {
-      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
-      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
-      "company": "Snowflake",
-      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-06-13",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Snowflake Careers",
-      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
       "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
