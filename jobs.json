@@ -1,21 +1,7 @@
 {
-  "last_updated": "2026-06-20T16:13:32.735Z",
-  "total_fetched_today": 11,
+  "last_updated": "2026-06-21T16:26:40.407Z",
+  "total_fetched_today": 7,
   "jobs": [
-    {
-      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
-      "role": "Principal Product Manager",
-      "company": "NetApp",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4427318403",
-      "posted_date": "2026-06-20",
-      "location": "Waltham, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 17,
-      "source": "LinkedIn",
-      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
-    },
     {
       "id": "jsearch_N1QNiUfGsgTYeTs0AAAAAA==",
       "role": "Remote Staff Product Manager- Developer Experience",
@@ -31,25 +17,11 @@
       "description_snippet": "About Us dbt Labs is the pioneer of analytics engineering, helping data teams transform raw data into reliable, actionable insights. Since 2016, we’ve grown from an open source project into the leading analytics engineering platform, now used by over 90,000 teams every week, driving data transformations and AI use cases. As of February 2025, we’ve surpassed $100 million in annual recurring revenue (ARR) and serve more than 5,400 dbt Platform customers, including AstraZeneca, Sky, Nasdaq, Volvo, JetBlue, and SafetyCulture. We’re backed by top-tier investors including Andreessen Horowitz, Sequoi"
     },
     {
-      "id": "jsearch_Ufxfw9RYe8N19F_TAAAAAA==",
-      "role": "Remote Senior Product Manager, Data",
-      "company": "Logos",
-      "link": "https://us.trabajo.org/job-3137-b7fcdf7404d5e702982923d85e5f7038",
-      "posted_date": "2026-06-17",
-      "location": "San Diego, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "Trabajo.org",
-      "description_snippet": "Full-time Description About Logos Logos is a purpose-driven tech company dedicated to building technology solutions that equip the church to grow in the light of the Bible. Our team is committed to increasing biblical literacy and accessibility for every Christian around the world. We do so by delivering value along three fronts: software tools, community collaboration, and rich digital content. Logos’ solutions portfolio connects users to the Word and to their communities. Based in Bellingham, Washington, Logos also has operations in Chandler, Arizona and Puebla, Mexico. About the Role We are"
-    },
-    {
       "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
       "role": "Staff Product Manager, Unistore (Hybrid Tables)",
       "company": "Snowflake",
       "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-06-18",
+      "posted_date": "2026-06-19",
       "location": "Bellevue, Washington",
       "active": true,
       "resume_link": "",
@@ -59,25 +31,11 @@
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
-      "id": "jsearch_UGBjQQPZvgmt1XbGAAAAAA==",
-      "role": "Remote Sr/Staff Product Manager, Developer Platform",
-      "company": "Runway",
-      "link": "https://us.trabajo.org/job-3137-f579fbb61364b87532cc781d193456a6",
-      "posted_date": "2026-06-18",
-      "location": "Los Angeles, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Trabajo.org",
-      "description_snippet": "We are building AI to simulate the world through merging art and science. We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world. World models offer the most clear path to general-purpose simulation, changing how stories are to"
-    },
-    {
       "id": "jsearch_uCtrT-wlu81hzZgLAAAAAA==",
       "role": "Global Product Manager - Transformers",
       "company": "ABB",
       "link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-      "posted_date": "2026-06-20",
+      "posted_date": "2026-06-21",
       "location": "Washington, District of Columbia",
       "active": true,
       "resume_link": "",
@@ -85,6 +43,20 @@
       "match_score": 4,
       "source": "ABB Career",
       "description_snippet": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\nThis position reports to:\nBusiness Manager - Operations and Portfolio\n__\nYour role and responsibilities:\n\nAs the Global Product Manager for Low Voltage Dry Type Transformers, you will have the opportunity to manage the marketing of ABB’s offerings to targeted market segments and manage these offerings throughout their lifecycle, in line with market needs and product group"
+    },
+    {
+      "id": "jsearch_NQayD9AK3Tf7N-SwAAAAAA==",
+      "role": "Sr Product Manager-  Remote",
+      "company": "Ochsner Health",
+      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-remote-at-ochsner-health-4429505471",
+      "posted_date": "2026-06-16",
+      "location": "New Orleans, Louisiana",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "LinkedIn",
+      "description_snippet": "We've made a lot of progress since opening the doors in 1942, but one thing has never changed - our commitment to serve, heal, lead, educate, and innovate. We believe that every award earned, every record broken and every patient helped is because of the dedicated employees who fill our hallways.\n\nAt Ochsner, whether you work with patients every day or support those who do, you are making a difference and that matters. Come make a difference at Ochsner Health and discover your future today!\n\nThis job creates a detailed roadmap and defines future capabilities for digital and telehealth products"
     },
     {
       "id": "jsearch_qR9ZilQhDRsh4ZtZAAAAAA==",
@@ -115,6 +87,62 @@
       "description_snippet": "Sr Product Manager\nLTK is seeking a strategic, data-driven, and highly customer-centric Senior Product Manager to lead high-impact product initiatives across our creator, shopper, and brand ecosystem.\nThis role sits at the intersection of creator growth, consumer engagement, and brand monetization, helping shape experiences that deepen engagement, unlock monetization opportunities, and drive measurable business outcomes across the platform.\n\nWe are looking for product talent that can flex across both brand and creator experiences while balancing customer needs, business priorities, and technic"
     },
     {
+      "id": "jsearch_tlOvbROO78nuuQl0AAAAAA==",
+      "role": "Remote Technical Product Manager - Screw Compressors",
+      "company": "Chart Industries, Inc.",
+      "link": "https://www.whatjobs.com/jobs/remote-technical-product-manager/salem-alabama?id=2810808187",
+      "posted_date": "2026-06-14",
+      "location": "Salem, Alabama",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "WhatJobs",
+      "description_snippet": "Chart Industries, Inc. is seeking a Screw Compressor Technical Product Manager to provide strategic representation for its products in North America. This role involves managing client relationships, supporting business development initiatives, and driving sales growth.\n\nThe perfect candidate will ideally hold a degree in Mechanical Engineering and have substantial experience within the engineering sector. Benefits include flexible medical plans and a competitive salary in the range of $124,900 - $146,600.\n#J-18808-Ljbffr"
+    },
+    {
+      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
+      "role": "Principal Product Manager",
+      "company": "NetApp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4427318403",
+      "posted_date": "2026-06-20",
+      "location": "Waltham, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 17,
+      "source": "LinkedIn",
+      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
+    },
+    {
+      "id": "jsearch_Ufxfw9RYe8N19F_TAAAAAA==",
+      "role": "Remote Senior Product Manager, Data",
+      "company": "Logos",
+      "link": "https://us.trabajo.org/job-3137-b7fcdf7404d5e702982923d85e5f7038",
+      "posted_date": "2026-06-17",
+      "location": "San Diego, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Trabajo.org",
+      "description_snippet": "Full-time Description About Logos Logos is a purpose-driven tech company dedicated to building technology solutions that equip the church to grow in the light of the Bible. Our team is committed to increasing biblical literacy and accessibility for every Christian around the world. We do so by delivering value along three fronts: software tools, community collaboration, and rich digital content. Logos’ solutions portfolio connects users to the Word and to their communities. Based in Bellingham, Washington, Logos also has operations in Chandler, Arizona and Puebla, Mexico. About the Role We are"
+    },
+    {
+      "id": "jsearch_UGBjQQPZvgmt1XbGAAAAAA==",
+      "role": "Remote Sr/Staff Product Manager, Developer Platform",
+      "company": "Runway",
+      "link": "https://us.trabajo.org/job-3137-f579fbb61364b87532cc781d193456a6",
+      "posted_date": "2026-06-18",
+      "location": "Los Angeles, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Trabajo.org",
+      "description_snippet": "We are building AI to simulate the world through merging art and science. We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world. World models offer the most clear path to general-purpose simulation, changing how stories are to"
+    },
+    {
       "id": "jsearch_eFcCfIg1U6UlooS0AAAAAA==",
       "role": "Full Stack Product Manager",
       "company": "VirtualVocations",
@@ -143,20 +171,6 @@
       "description_snippet": "A healthcare technology company is seeking a Product Operations professional to optimize their Salesforce Health Cloud workflows. This fully remote role involves responsibilities such as documentation, testing, and cross-team collaboration, alongside a clear growth path to a Product Manager position. Ideal candidates will have 2-4 years of product management experience, strong documentation skills, and hands-on knowledge of CRM platforms. The position offers a competitive salary between $95,000 and $125,000 based on experience, with opportunities for professional development. #J-18808-Ljbffr"
     },
     {
-      "id": "jsearch_tlOvbROO78nuuQl0AAAAAA==",
-      "role": "Remote Technical Product Manager - Screw Compressors",
-      "company": "Chart Industries, Inc.",
-      "link": "https://www.whatjobs.com/jobs/remote-technical-product-manager/salem-alabama?id=2810808187",
-      "posted_date": "2026-06-14",
-      "location": "Salem, Alabama",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "WhatJobs",
-      "description_snippet": "Chart Industries, Inc. is seeking a Screw Compressor Technical Product Manager to provide strategic representation for its products in North America. This role involves managing client relationships, supporting business development initiatives, and driving sales growth.\n\nThe perfect candidate will ideally hold a degree in Mechanical Engineering and have substantial experience within the engineering sector. Benefits include flexible medical plans and a competitive salary in the range of $124,900 - $146,600.\n#J-18808-Ljbffr"
-    },
-    {
       "id": "jsearch_vVcrTXb8S7iQ0la9AAAAAA==",
       "role": "senior product manager, Digital Ordering",
       "company": "Starbucks Coffee Company",
@@ -183,20 +197,6 @@
       "match_score": 6,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: Oregon (USA)\nAbout Owner\n\nOwner is the AI-native system local business owners use to succeed, starting with restaurants.\n\nWe’re building the system that replaces the many tools owners use to run their business.\n\nIt powers everything from the restaurant’s website, online ordering, CRM, POS, and more.\n\nProduct philosophy\n\nMost small business software makes owners do the work to get what they want: sales growth and profit growth. Owner does the work for them agentically.\n\nOur system drives demand, converts it, and helps operators run their busi"
-    },
-    {
-      "id": "jsearch_NQayD9AK3Tf7N-SwAAAAAA==",
-      "role": "Sr Product Manager-  Remote",
-      "company": "Ochsner Health",
-      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-remote-at-ochsner-health-4429505471",
-      "posted_date": "2026-06-16",
-      "location": "New Orleans, Louisiana",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "LinkedIn",
-      "description_snippet": "We've made a lot of progress since opening the doors in 1942, but one thing has never changed - our commitment to serve, heal, lead, educate, and innovate. We believe that every award earned, every record broken and every patient helped is because of the dedicated employees who fill our hallways.\n\nAt Ochsner, whether you work with patients every day or support those who do, you are making a difference and that matters. Come make a difference at Ochsner Health and discover your future today!\n\nThis job creates a detailed roadmap and defines future capabilities for digital and telehealth products"
     },
     {
       "id": "jsearch__57YxDfDaOmdEmFDAAAAAA==",
