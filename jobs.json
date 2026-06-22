@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-21T16:26:40.407Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-06-22T18:43:31.306Z",
+  "total_fetched_today": 9,
   "jobs": [
+    {
+      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
+      "role": "Principal Product Manager",
+      "company": "NetApp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4427318403",
+      "posted_date": "2026-06-19",
+      "location": "Waltham, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 17,
+      "source": "LinkedIn",
+      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
+    },
     {
       "id": "jsearch_N1QNiUfGsgTYeTs0AAAAAA==",
       "role": "Remote Staff Product Manager- Developer Experience",
@@ -15,6 +29,20 @@
       "match_score": 9,
       "source": "Trabajo.org",
       "description_snippet": "About Us dbt Labs is the pioneer of analytics engineering, helping data teams transform raw data into reliable, actionable insights. Since 2016, we’ve grown from an open source project into the leading analytics engineering platform, now used by over 90,000 teams every week, driving data transformations and AI use cases. As of February 2025, we’ve surpassed $100 million in annual recurring revenue (ARR) and serve more than 5,400 dbt Platform customers, including AstraZeneca, Sky, Nasdaq, Volvo, JetBlue, and SafetyCulture. We’re backed by top-tier investors including Andreessen Horowitz, Sequoi"
+    },
+    {
+      "id": "jsearch_V6fuqd5iiICEMbqOAAAAAA==",
+      "role": "Product Manager | Fully Remote US",
+      "company": "HireVue Inc",
+      "link": "https://www.theladders.com/job/product-manager-fully-remote-us-hirevue-sandy-ut_87341009",
+      "posted_date": "2026-06-17",
+      "location": "Sandy, Utah",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Ladders",
+      "description_snippet": "Job Description\n\nWe are looking for a Technical Product Manager to own the strategy, roadmap, and execution of our integrations product area. In this role, you will bridge the gap between deep technical architecture and meaningful customer outcomes, ensuring our platform connects seamlessly with our customers' enterprise Human Capital Management (HCM) ecosystems-with a heavy emphasis on Workday.\n\nIf you love diving into API documentation, collaborating with brilliant engineers, and launching products that solve massive data workflow problems for global enterprises, let's talk.\n\nWhat You'll Do\n"
     },
     {
       "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
@@ -31,6 +59,34 @@
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
+      "id": "jsearch_iBXMYcTNIlw_PmnfAAAAAA==",
+      "role": "Sr. Product Manager, CRM",
+      "company": "URUS Group",
+      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-crm-at-urus-group-4429650960",
+      "posted_date": "2026-06-19",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "Transform How We Manage Customer Relationships Globally\n\nURUS is building a global CRM ecosystem to create a unified view of our customers, strengthen commercial execution, and support future growth across a diverse portfolio of businesses.\n\nWe're seeking a Senior Product Manager, CRM to lead this transformation. This role will define the CRM vision, strategy, and roadmap while driving implementation, adoption, and continuous improvement across a global, multi-brand organization.\n\nThis is a unique opportunity to build a foundational business capability from the ground up and shape how customer"
+    },
+    {
+      "id": "jsearch_UGBjQQPZvgmt1XbGAAAAAA==",
+      "role": "Remote Sr/Staff Product Manager, Developer Platform",
+      "company": "Runway",
+      "link": "https://us.trabajo.org/job-3137-f579fbb61364b87532cc781d193456a6",
+      "posted_date": "2026-06-18",
+      "location": "Los Angeles, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Trabajo.org",
+      "description_snippet": "We are building AI to simulate the world through merging art and science. We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world. World models offer the most clear path to general-purpose simulation, changing how stories are to"
+    },
+    {
       "id": "jsearch_uCtrT-wlu81hzZgLAAAAAA==",
       "role": "Global Product Manager - Transformers",
       "company": "ABB",
@@ -43,6 +99,34 @@
       "match_score": 4,
       "source": "ABB Career",
       "description_snippet": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\nThis position reports to:\nBusiness Manager - Operations and Portfolio\n__\nYour role and responsibilities:\n\nAs the Global Product Manager for Low Voltage Dry Type Transformers, you will have the opportunity to manage the marketing of ABB’s offerings to targeted market segments and manage these offerings throughout their lifecycle, in line with market needs and product group"
+    },
+    {
+      "id": "jsearch_NSvkahnxaO3Hj8pJAAAAAA==",
+      "role": "Websites Product Manager - Remote 42",
+      "company": "Hostinger",
+      "link": "https://www.jobilize.com/job/us-sd-all-cities-websites-product-manager-remote-42-hostinger-hiring",
+      "posted_date": "2026-06-17",
+      "location": "South Dakota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Jobilize",
+      "description_snippet": "Product Manager\n\nJoin Hostinger, and we'll grow fast! We're shaping the future of online success - powered by AI and driven by people. With 900+ talented professionals and over 5 million clients in 150 countries, we help creators and entrepreneurs bring their ideas to life faster and easier than ever before.\n\nOur mission:\nTo provide tools that help individuals and small businesses succeed online faster and easier.\n\nOur culture:\nGuided by 10 company principles.\n\nOur formula for success:\nCustomer obsession, innovative products, and talented teams.\n\nYour role at Hostinger\n\nWe're looking for a Pro"
+    },
+    {
+      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
+      "role": "Product Manager II",
+      "company": "Indeed",
+      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
+      "posted_date": "2026-06-18",
+      "location": "Dover, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
     },
     {
       "id": "jsearch_NQayD9AK3Tf7N-SwAAAAAA==",
@@ -101,20 +185,6 @@
       "description_snippet": "Chart Industries, Inc. is seeking a Screw Compressor Technical Product Manager to provide strategic representation for its products in North America. This role involves managing client relationships, supporting business development initiatives, and driving sales growth.\n\nThe perfect candidate will ideally hold a degree in Mechanical Engineering and have substantial experience within the engineering sector. Benefits include flexible medical plans and a competitive salary in the range of $124,900 - $146,600.\n#J-18808-Ljbffr"
     },
     {
-      "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
-      "role": "Principal Product Manager",
-      "company": "NetApp",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-netapp-4427318403",
-      "posted_date": "2026-06-20",
-      "location": "Waltham, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 17,
-      "source": "LinkedIn",
-      "description_snippet": "Own Every Moment at NetApp\n\nAt NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.\n\nReady to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins.\n\nJob Summary\n\nNetApp is hiring "
-    },
-    {
       "id": "jsearch_Ufxfw9RYe8N19F_TAAAAAA==",
       "role": "Remote Senior Product Manager, Data",
       "company": "Logos",
@@ -127,20 +197,6 @@
       "match_score": 9,
       "source": "Trabajo.org",
       "description_snippet": "Full-time Description About Logos Logos is a purpose-driven tech company dedicated to building technology solutions that equip the church to grow in the light of the Bible. Our team is committed to increasing biblical literacy and accessibility for every Christian around the world. We do so by delivering value along three fronts: software tools, community collaboration, and rich digital content. Logos’ solutions portfolio connects users to the Word and to their communities. Based in Bellingham, Washington, Logos also has operations in Chandler, Arizona and Puebla, Mexico. About the Role We are"
-    },
-    {
-      "id": "jsearch_UGBjQQPZvgmt1XbGAAAAAA==",
-      "role": "Remote Sr/Staff Product Manager, Developer Platform",
-      "company": "Runway",
-      "link": "https://us.trabajo.org/job-3137-f579fbb61364b87532cc781d193456a6",
-      "posted_date": "2026-06-18",
-      "location": "Los Angeles, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Trabajo.org",
-      "description_snippet": "We are building AI to simulate the world through merging art and science. We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world. World models offer the most clear path to general-purpose simulation, changing how stories are to"
     },
     {
       "id": "jsearch_eFcCfIg1U6UlooS0AAAAAA==",
@@ -225,20 +281,6 @@
       "match_score": 6,
       "source": "Talent.com",
       "description_snippet": "Product Manager\n\nOptum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start Caring. Connecting. Growing together"
-    },
-    {
-      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
-      "role": "Product Manager II",
-      "company": "Indeed",
-      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
-      "posted_date": "2026-06-11",
-      "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JobLeads",
-      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
     },
     {
       "id": "jsearch_zUwMUUBtjKTagMALAAAAAA==",
