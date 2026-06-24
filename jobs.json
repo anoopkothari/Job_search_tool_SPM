@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-06-23T17:13:52.615Z",
-  "total_fetched_today": 10,
+  "last_updated": "2026-06-24T17:01:41.884Z",
+  "total_fetched_today": 3,
   "jobs": [
+    {
+      "id": "jsearch_I-m6Di71GZ4w5NJFAAAAAA==",
+      "role": "Senior Manager - Digital Product Manager",
+      "company": "CVS Health",
+      "link": "https://jobs.cvshealth.com/us/en/job/R0840519/Senior-Manager-Digital-Product-Manager",
+      "posted_date": "2026-06-22",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "CVS Health",
+      "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\nPOSITION SUMMARY\nIf you are eager to make a real impact in the health care industry through your own meaningful contributions, explore a role in technology "
+    },
+    {
+      "id": "jsearch_88QfCKnJ2x1GP19sAAAAAA==",
+      "role": "Remote Product Manager",
+      "company": "Veeva Systems",
+      "link": "https://us.trabajo.org/job-3137-11547f016c0802a2af0ece0719b6612b",
+      "posted_date": "2026-06-19",
+      "location": "Salt Lake City, Utah",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Trabajo.org",
+      "description_snippet": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $2B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As "
+    },
+    {
+      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
+      "role": "Product Manager II",
+      "company": "Indeed",
+      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
+      "posted_date": "2026-06-18",
+      "location": "Dover, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
+    },
     {
       "id": "jsearch_IXFnNvgadS5DTTRmAAAAAA==",
       "role": "Principal Product Manager",
@@ -29,20 +71,6 @@
       "match_score": 9,
       "source": "Trabajo.org",
       "description_snippet": "About Us dbt Labs is the pioneer of analytics engineering, helping data teams transform raw data into reliable, actionable insights. Since 2016, we’ve grown from an open source project into the leading analytics engineering platform, now used by over 90,000 teams every week, driving data transformations and AI use cases. As of February 2025, we’ve surpassed $100 million in annual recurring revenue (ARR) and serve more than 5,400 dbt Platform customers, including AstraZeneca, Sky, Nasdaq, Volvo, JetBlue, and SafetyCulture. We’re backed by top-tier investors including Andreessen Horowitz, Sequoi"
-    },
-    {
-      "id": "jsearch_I-m6Di71GZ4w5NJFAAAAAA==",
-      "role": "Senior Manager - Digital Product Manager",
-      "company": "CVS Health",
-      "link": "https://jobs.cvshealth.com/us/en/job/R0840519/Senior-Manager-Digital-Product-Manager",
-      "posted_date": "2026-06-23",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "CVS Health",
-      "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\nPOSITION SUMMARY\nIf you are eager to make a real impact in the health care industry through your own meaningful contributions, explore a role in technology "
     },
     {
       "id": "jsearch_JU2Q3J2zFNj_LMJNAAAAAA==",
@@ -127,20 +155,6 @@
       "match_score": 2,
       "source": "Talent.com",
       "description_snippet": "A healthcare technology company is seeking a Product Operations professional to optimize their Salesforce Health Cloud workflows. This fully remote role involves responsibilities such as documentation, testing, and cross-team collaboration, alongside a clear growth path to a Product Manager position. Ideal candidates will have 2-4 years of product management experience, strong documentation skills, and hands-on knowledge of CRM platforms. The position offers a competitive salary between $95,000 and $125,000 based on experience, with opportunities for professional development. #J-18808-Ljbffr"
-    },
-    {
-      "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
-      "role": "Product Manager II",
-      "company": "Indeed",
-      "link": "https://www.jobleads.com/us/job/product-manager-ii--dover--ee2a889e380dae5b0505730c50d1741eb",
-      "posted_date": "2026-06-18",
-      "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JobLeads",
-      "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
     },
     {
       "id": "jsearch_V6fuqd5iiICEMbqOAAAAAA==",
