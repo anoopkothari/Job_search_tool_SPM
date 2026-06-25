@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T17:01:41.884Z",
-  "total_fetched_today": 3,
+  "last_updated": "2026-06-25T17:05:47.513Z",
+  "total_fetched_today": 6,
   "jobs": [
     {
       "id": "jsearch_I-m6Di71GZ4w5NJFAAAAAA==",
@@ -17,6 +17,20 @@
       "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\nPOSITION SUMMARY\nIf you are eager to make a real impact in the health care industry through your own meaningful contributions, explore a role in technology "
     },
     {
+      "id": "jsearch_HePLd-oGE579n6JKAAAAAA==",
+      "role": "P&C Product Manager III, Product Innovation - Remote",
+      "company": "CSAA Insurance Services, Inc.",
+      "link": "https://www.simplyhired.com/job/nHCOz1VRu3qxH_vG5T4ODnqNYn7Y99JFvZ_KsHsy5RHSCgia83oizA",
+      "posted_date": "2026-06-23",
+      "location": "Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "SimplyHired",
+      "description_snippet": "External candidates: In order for your application to be correctly processed please sign-in before you apply\n\nInternal candidates: Please go to Workday and click \"Find Jobs\" link under Career\n\nThank you for considering opportunities with us!\n\nJob Title\n\nP&C Product Manager III, Product Innovation - Remote\n\nRequisition Number\n\nR7716 P&C Product Manager III, Product Innovation - Remote (Open)\n\nLocation\n\nArizona - Home Teleworkers\n\nAdditional Locations\n\nAlabama - Home Teleworkers, Alabama - Home Teleworkers, Arkansas - Home Teleworkers, California - Home Teleworkers, Colorado - Home Teleworkers, "
+    },
+    {
       "id": "jsearch_88QfCKnJ2x1GP19sAAAAAA==",
       "role": "Remote Product Manager",
       "company": "Veeva Systems",
@@ -29,6 +43,48 @@
       "match_score": 5,
       "source": "Trabajo.org",
       "description_snippet": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $2B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As "
+    },
+    {
+      "id": "jsearch_TTLOm4JksUf7_00rAAAAAA==",
+      "role": "Remote Principal Product Manager, AI Product",
+      "company": "Arcadia",
+      "link": "https://us.trabajo.org/job-3137-c9160fcbdc5f054c3b19e02b837a85e6",
+      "posted_date": "2026-06-22",
+      "location": "Houston, Texas",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Trabajo.org",
+      "description_snippet": "We’re a team of fiercely driven individuals committed to making healthcare more sustainable—and we’re looking for passionate people to help us get there. For more information, visit arcadia.io . Why This Role Is Important to Arcadia Healthcare is entering a new era where AI can fundamentally transform how organizations understand populations, improve outcomes, reduce administrative burden, and deliver better experiences for patients and providers. Arcadia is uniquely positioned at the intersection of healthcare data, analytics, and workflow intelligence to bring these capabilities to market. W"
+    },
+    {
+      "id": "jsearch_cShKqKH619sSbzaqAAAAAA==",
+      "role": "Remote Product Manager",
+      "company": "Nomi Health",
+      "link": "https://us.trabajo.org/job-3137-a5c4baa220adf849a4d7eb477c224809",
+      "posted_date": "2026-06-23",
+      "location": "Honolulu, Hawaii",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Trabajo.org",
+      "description_snippet": "We were tired of hearing that healthcare is broken, so we decided to do something about it. At Nomi Health, we believe the care itself isn’t broken — it’s the business of healthcare that gets in the way. Every year, more than $1 trillion is wasted on paperwork, delays, and middle layers that drive up costs and keep people from the care they need. We’re rebuilding the system so it works the way it should: clear prices you can trust, faster payments that keep providers focused on patients, and data that helps employers make better decisions. Our work has already touched more than 30 million live"
+    },
+    {
+      "id": "jsearch_g1eZwImowj-kZ5gCAAAAAA==",
+      "role": "Senior Product Manager - Remote",
+      "company": "Stryker",
+      "link": "https://careers.stryker.com/senior-product-manager-remote/job/50DE4369E8E079C65C9A10AB7F5FFBC9",
+      "posted_date": "2026-06-24",
+      "location": "Mahwah, New Jersey",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Stryker",
+      "description_snippet": "​​The Sr. Product Manager, AI/Digital for myMako sits at the forefront of transforming orthopaedic care through intelligent, connected digital solutions. This role owns the downstream experience of a high-impact AI-enabled product, driving how it is positioned, experienced, and adopted by surgeons, hospitals, and field teams.\n\n​\n\n​This Marketer brings the product to life translating complex capabilities into a clear, differentiated value proposition that fuels adoption, engagement, and long-term advocacy. Through sharp storytelling, consistent branding, and agile, insight-driven messaging, the"
     },
     {
       "id": "jsearch_KcDHdArd85Twj2TWAAAAAA==",
