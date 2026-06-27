@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-26T16:56:52.263Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-06-27T16:00:20.407Z",
+  "total_fetched_today": 8,
   "jobs": [
     {
-      "id": "jsearch_I-m6Di71GZ4w5NJFAAAAAA==",
-      "role": "Senior Manager - Digital Product Manager",
-      "company": "CVS Health",
-      "link": "https://jobs.cvshealth.com/us/en/job/R0840519/Senior-Manager-Digital-Product-Manager",
-      "posted_date": "2026-06-22",
-      "location": "Washington, District of Columbia",
+      "id": "jsearch_AL2_FyG6ajc-Yk6KAAAAAA==",
+      "role": "Staff Product Manager 6sense - Remote United States of America 20",
+      "company": "SoftBank Investment Advisers",
+      "link": "https://www.jobilize.com/job/us-ma-all-cities-staff-product-manager-6sense-remote-united-states",
+      "posted_date": "2026-06-24",
+      "location": "Massachusetts",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
       "match_score": 7,
-      "source": "CVS Health",
-      "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\nPOSITION SUMMARY\nIf you are eager to make a real impact in the health care industry through your own meaningful contributions, explore a role in technology "
+      "source": "Jobilize",
+      "description_snippet": "Staff Product Manager\n6sense is on a mission to revolutionize the way B2B organizations create revenue by predicting customers most likely to buy and recommending the best course of action to engage anonymous buying teams.\n\nThe Role:\nStaff Product Manager, Advertising\nAre you a strategic product leader who thrives at the intersection of programmatic advertising, data-driven measurement, and AI-powered go-to-market execution? At 6sense, we are building the most intelligent B2B advertising platform on the market.\nWe are looking for a Staff Product Manager to own the systems, partnerships, and pr"
     },
     {
       "id": "jsearch_HePLd-oGE579n6JKAAAAAA==",
@@ -31,18 +31,18 @@
       "description_snippet": "External candidates: In order for your application to be correctly processed please sign-in before you apply\n\nInternal candidates: Please go to Workday and click \"Find Jobs\" link under Career\n\nThank you for considering opportunities with us!\n\nJob Title\n\nP&C Product Manager III, Product Innovation - Remote\n\nRequisition Number\n\nR7716 P&C Product Manager III, Product Innovation - Remote (Open)\n\nLocation\n\nArizona - Home Teleworkers\n\nAdditional Locations\n\nAlabama - Home Teleworkers, Alabama - Home Teleworkers, Arkansas - Home Teleworkers, California - Home Teleworkers, Colorado - Home Teleworkers, "
     },
     {
-      "id": "jsearch_-zrQSRk6FfqaacUoAAAAAA==",
-      "role": "Remote Lead Product Manager, Enterprise AI",
-      "company": "MQ Referrals Only",
-      "link": "https://us.trabajo.org/job-3137-be68c5d21ab3d73314722178648e897a",
-      "posted_date": "2026-06-23",
-      "location": "Philadelphia, Pennsylvania",
+      "id": "jsearch_tURXeilOZf5oaIzbAAAAAA==",
+      "role": "P&C Product Manager III, Product Innovation - Remote",
+      "company": "CSAA Insurance Services, Inc.",
+      "link": "https://www.simplyhired.com/job/n6SKNVY2U6wWYGPsuaEyCoIoA8QXh2NNZIdhz38jHDi4MbwSJelWZg",
+      "posted_date": "2026-06-24",
+      "location": "Montpelier, Vermont",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Trabajo.org",
-      "description_snippet": "We're looking for a Lead Product Manager, Enterprise AI and Automation to define how Marqeta identifies, governs, and scales AI and automation across the organization, focusing on the internal enterprise platform and employee-facing tooling to drive value across Marqeta’s internal operations and employee experience. You'll collaboratively design the AI vision for the enterprise, partner to build the governance and adoption frameworks that make it real, and work hands-on to evaluate tools, run pilots, and drive measurable business value. You'll partner closely with business unit leaders, the AI"
+      "match_score": 6,
+      "source": "SimplyHired",
+      "description_snippet": "External candidates: In order for your application to be correctly processed please sign-in before you apply\n\nInternal candidates: Please go to Workday and click \"Find Jobs\" link under Career\n\nThank you for considering opportunities with us!\n\nJob Title\n\nP&C Product Manager III, Product Innovation - Remote\n\nRequisition Number\n\nR7716 P&C Product Manager III, Product Innovation - Remote (Open)\n\nLocation\n\nArizona - Home Teleworkers\n\nAdditional Locations\n\nAlabama - Home Teleworkers, Alabama - Home Teleworkers, Arkansas - Home Teleworkers, California - Home Teleworkers, Colorado - Home Teleworkers, "
     },
     {
       "id": "jsearch_cShKqKH619sSbzaqAAAAAA==",
@@ -73,11 +73,25 @@
       "description_snippet": "​​The Sr. Product Manager, AI/Digital for myMako sits at the forefront of transforming orthopaedic care through intelligent, connected digital solutions. This role owns the downstream experience of a high-impact AI-enabled product, driving how it is positioned, experienced, and adopted by surgeons, hospitals, and field teams.\n\n​\n\n​This Marketer brings the product to life translating complex capabilities into a clear, differentiated value proposition that fuels adoption, engagement, and long-term advocacy. Through sharp storytelling, consistent branding, and agile, insight-driven messaging, the"
     },
     {
+      "id": "jsearch_eeEDXkt765_qn0wFAAAAAA==",
+      "role": "Remote Technical Product Manager",
+      "company": "Lightning Labs",
+      "link": "https://us.trabajo.org/job-3137-d6cb6f2cc17c134e4723439069c7c743",
+      "posted_date": "2026-06-23",
+      "location": "Aurora, Colorado",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Trabajo.org",
+      "description_snippet": "We’re building a team that’s passionate about cryptography, bitcoin, decentralization, security, and privacy. We’re looking for a Technical Product Manager who embodies those values and who’s passionate about bringing Bitcoin and Lightning to the masses. An ideal candidate would have experience solving complex technical problems and a strong understanding of the software development process. Further, they should have knowledge and/or experience with network and routing concepts, along with an understanding of their applicability to Lightning payments. Responsibilities: - Define product vision,"
+    },
+    {
       "id": "jsearch_1QrL_aXn5gL-CsuQAAAAAA==",
       "role": "Hybrid Product Manager, Digital Experience & AI",
       "company": "American Chemical Society",
       "link": "https://www.jobleads.com/us/job/hybrid-product-manager-digital-experience-ai--washington--e54a9c4f131814c5a841e2909462d3fc6",
-      "posted_date": "2026-06-23",
+      "posted_date": "2026-06-24",
       "location": "Washington, District of Columbia",
       "active": true,
       "resume_link": "",
@@ -85,6 +99,48 @@
       "match_score": 1,
       "source": "JobLeads",
       "description_snippet": "The American Chemical Society is hiring a Product Manager for its Digital Product and Experience team in Washington, DC. This role focuses on leading a portfolio of digital initiatives, requiring a strategic mindset and strong execution skills. The ideal candidate will have 3-5 years of digital product management experience and the ability to navigate through continuous discovery and collaborate across teams.\n\nThe position offers a hybrid work environment, with a competitive salary range of $125,000 to $145,000 annually, along with comprehensive benefits such as health insurance, paid leave, a"
+    },
+    {
+      "id": "jsearch_ks6Sird7rTdYiObeAAAAAA==",
+      "role": "Regional Product Manager",
+      "company": "CopperPoint Insurance Companies",
+      "link": "https://www.linkedin.com/jobs/view/regional-product-manager-at-copperpoint-insurance-companies-4430666663",
+      "posted_date": "2026-06-27",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "LinkedIn",
+      "description_snippet": "The Regional Product Manager helps drive portfolio performance across all commercial P&C lines of business within an assigned region. This role assesses portfolio health, identifies opportunities to improve profitability and growth, and delivers analysis and recommendations that impact results. This is a high-visibility role in a newly established product management function, with real influence over regional performance.\n\nJob Responsibilities:\n\n• Manage regional portfolio performance jointly with field leadership, including loss ratio, rate adequacy, retention, growth, and mix across all line"
+    },
+    {
+      "id": "jsearch_I-m6Di71GZ4w5NJFAAAAAA==",
+      "role": "Senior Manager - Digital Product Manager",
+      "company": "CVS Health",
+      "link": "https://jobs.cvshealth.com/us/en/job/R0840519/Senior-Manager-Digital-Product-Manager",
+      "posted_date": "2026-06-22",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "CVS Health",
+      "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\nPOSITION SUMMARY\nIf you are eager to make a real impact in the health care industry through your own meaningful contributions, explore a role in technology "
+    },
+    {
+      "id": "jsearch_-zrQSRk6FfqaacUoAAAAAA==",
+      "role": "Remote Lead Product Manager, Enterprise AI",
+      "company": "MQ Referrals Only",
+      "link": "https://us.trabajo.org/job-3137-be68c5d21ab3d73314722178648e897a",
+      "posted_date": "2026-06-23",
+      "location": "Philadelphia, Pennsylvania",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Trabajo.org",
+      "description_snippet": "We're looking for a Lead Product Manager, Enterprise AI and Automation to define how Marqeta identifies, governs, and scales AI and automation across the organization, focusing on the internal enterprise platform and employee-facing tooling to drive value across Marqeta’s internal operations and employee experience. You'll collaboratively design the AI vision for the enterprise, partner to build the governance and adoption frameworks that make it real, and work hands-on to evaluate tools, run pilots, and drive measurable business value. You'll partner closely with business unit leaders, the AI"
     },
     {
       "id": "jsearch_vtA1kA1YpqpmyQZoAAAAAA==",
