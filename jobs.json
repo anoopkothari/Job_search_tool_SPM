@@ -1,21 +1,7 @@
 {
-  "last_updated": "2026-06-27T16:00:20.407Z",
-  "total_fetched_today": 8,
+  "last_updated": "2026-06-28T16:05:08.782Z",
+  "total_fetched_today": 5,
   "jobs": [
-    {
-      "id": "jsearch_AL2_FyG6ajc-Yk6KAAAAAA==",
-      "role": "Staff Product Manager 6sense - Remote United States of America 20",
-      "company": "SoftBank Investment Advisers",
-      "link": "https://www.jobilize.com/job/us-ma-all-cities-staff-product-manager-6sense-remote-united-states",
-      "posted_date": "2026-06-24",
-      "location": "Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "Jobilize",
-      "description_snippet": "Staff Product Manager\n6sense is on a mission to revolutionize the way B2B organizations create revenue by predicting customers most likely to buy and recommending the best course of action to engage anonymous buying teams.\n\nThe Role:\nStaff Product Manager, Advertising\nAre you a strategic product leader who thrives at the intersection of programmatic advertising, data-driven measurement, and AI-powered go-to-market execution? At 6sense, we are building the most intelligent B2B advertising platform on the market.\nWe are looking for a Staff Product Manager to own the systems, partnerships, and pr"
-    },
     {
       "id": "jsearch_HePLd-oGE579n6JKAAAAAA==",
       "role": "P&C Product Manager III, Product Innovation - Remote",
@@ -29,6 +15,76 @@
       "match_score": 6,
       "source": "SimplyHired",
       "description_snippet": "External candidates: In order for your application to be correctly processed please sign-in before you apply\n\nInternal candidates: Please go to Workday and click \"Find Jobs\" link under Career\n\nThank you for considering opportunities with us!\n\nJob Title\n\nP&C Product Manager III, Product Innovation - Remote\n\nRequisition Number\n\nR7716 P&C Product Manager III, Product Innovation - Remote (Open)\n\nLocation\n\nArizona - Home Teleworkers\n\nAdditional Locations\n\nAlabama - Home Teleworkers, Alabama - Home Teleworkers, Arkansas - Home Teleworkers, California - Home Teleworkers, Colorado - Home Teleworkers, "
+    },
+    {
+      "id": "jsearch_MfPJtHmXlMskK_OvAAAAAA==",
+      "role": "Product Manager (Remote US)",
+      "company": "Splice",
+      "link": "https://www.ziprecruiter.com/c/Splice/Job/Product-Manager-(Remote-US)/-in-New-York,NY?jid=f766677c6eb70a90",
+      "posted_date": "2026-06-25",
+      "location": "New York, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "ZipRecruiter",
+      "description_snippet": "WHO WE ARE:\n\nSplice is a creative platform for people who make music. Serious producers choose Splice Sounds to bring their ideas to life. A subscription to Splice inspires and accelerates creative success for digital music creators with an industry-leading catalog of sounds and samples and an expanding AI stack. With a rent-to-own marketplace of DAWs and plugins, the Splice experience seamlessly integrates into any music production workflow, regardless of DAW (Digital Audio Workstation). Via Splice, an unparalleled team of sound designers and sample creators are fueling the success of a growi"
+    },
+    {
+      "id": "jsearch_g1eZwImowj-kZ5gCAAAAAA==",
+      "role": "Senior Product Manager - Remote",
+      "company": "Stryker",
+      "link": "https://careers.stryker.com/senior-product-manager-remote/job/50DE4369E8E079C65C9A10AB7F5FFBC9",
+      "posted_date": "2026-06-24",
+      "location": "Mahwah, New Jersey",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Stryker",
+      "description_snippet": "​​The Sr. Product Manager, AI/Digital for myMako sits at the forefront of transforming orthopaedic care through intelligent, connected digital solutions. This role owns the downstream experience of a high-impact AI-enabled product, driving how it is positioned, experienced, and adopted by surgeons, hospitals, and field teams.\n\n​\n\n​This Marketer brings the product to life translating complex capabilities into a clear, differentiated value proposition that fuels adoption, engagement, and long-term advocacy. Through sharp storytelling, consistent branding, and agile, insight-driven messaging, the"
+    },
+    {
+      "id": "jsearch_r6tHdYnlYq3llqNQAAAAAA==",
+      "role": "Remote Staff Product Manager, Core Primitives",
+      "company": "Temporal Technologies",
+      "link": "https://us.trabajo.org/job-3137-a5203caf3f6ca3497e2cf88f2163efff",
+      "posted_date": "2026-06-23",
+      "location": "Long Beach, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Trabajo.org",
+      "description_snippet": "About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen. Our values guide us —they are present in how we show up, make decisions, and work together to make an impact. We’re curious, driven, collaborative, genuine and humble. Temporal is growing and we are looking for those who share our values, challenge 'standard' thinking, an"
+    },
+    {
+      "id": "jsearch_ks6Sird7rTdYiObeAAAAAA==",
+      "role": "Regional Product Manager",
+      "company": "CopperPoint Insurance Companies",
+      "link": "https://www.linkedin.com/jobs/view/regional-product-manager-at-copperpoint-insurance-companies-4430666663",
+      "posted_date": "2026-06-27",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "LinkedIn",
+      "description_snippet": "The Regional Product Manager helps drive portfolio performance across all commercial P&C lines of business within an assigned region. This role assesses portfolio health, identifies opportunities to improve profitability and growth, and delivers analysis and recommendations that impact results. This is a high-visibility role in a newly established product management function, with real influence over regional performance.\n\nJob Responsibilities:\n\n• Manage regional portfolio performance jointly with field leadership, including loss ratio, rate adequacy, retention, growth, and mix across all line"
+    },
+    {
+      "id": "jsearch_AL2_FyG6ajc-Yk6KAAAAAA==",
+      "role": "Staff Product Manager 6sense - Remote United States of America 20",
+      "company": "SoftBank Investment Advisers",
+      "link": "https://www.jobilize.com/job/us-ma-all-cities-staff-product-manager-6sense-remote-united-states",
+      "posted_date": "2026-06-24",
+      "location": "Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "Jobilize",
+      "description_snippet": "Staff Product Manager\n6sense is on a mission to revolutionize the way B2B organizations create revenue by predicting customers most likely to buy and recommending the best course of action to engage anonymous buying teams.\n\nThe Role:\nStaff Product Manager, Advertising\nAre you a strategic product leader who thrives at the intersection of programmatic advertising, data-driven measurement, and AI-powered go-to-market execution? At 6sense, we are building the most intelligent B2B advertising platform on the market.\nWe are looking for a Staff Product Manager to own the systems, partnerships, and pr"
     },
     {
       "id": "jsearch_tURXeilOZf5oaIzbAAAAAA==",
@@ -59,20 +115,6 @@
       "description_snippet": "We were tired of hearing that healthcare is broken, so we decided to do something about it. At Nomi Health, we believe the care itself isn’t broken — it’s the business of healthcare that gets in the way. Every year, more than $1 trillion is wasted on paperwork, delays, and middle layers that drive up costs and keep people from the care they need. We’re rebuilding the system so it works the way it should: clear prices you can trust, faster payments that keep providers focused on patients, and data that helps employers make better decisions. Our work has already touched more than 30 million live"
     },
     {
-      "id": "jsearch_g1eZwImowj-kZ5gCAAAAAA==",
-      "role": "Senior Product Manager - Remote",
-      "company": "Stryker",
-      "link": "https://careers.stryker.com/senior-product-manager-remote/job/50DE4369E8E079C65C9A10AB7F5FFBC9",
-      "posted_date": "2026-06-24",
-      "location": "Mahwah, New Jersey",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Stryker",
-      "description_snippet": "​​The Sr. Product Manager, AI/Digital for myMako sits at the forefront of transforming orthopaedic care through intelligent, connected digital solutions. This role owns the downstream experience of a high-impact AI-enabled product, driving how it is positioned, experienced, and adopted by surgeons, hospitals, and field teams.\n\n​\n\n​This Marketer brings the product to life translating complex capabilities into a clear, differentiated value proposition that fuels adoption, engagement, and long-term advocacy. Through sharp storytelling, consistent branding, and agile, insight-driven messaging, the"
-    },
-    {
       "id": "jsearch_eeEDXkt765_qn0wFAAAAAA==",
       "role": "Remote Technical Product Manager",
       "company": "Lightning Labs",
@@ -99,20 +141,6 @@
       "match_score": 1,
       "source": "JobLeads",
       "description_snippet": "The American Chemical Society is hiring a Product Manager for its Digital Product and Experience team in Washington, DC. This role focuses on leading a portfolio of digital initiatives, requiring a strategic mindset and strong execution skills. The ideal candidate will have 3-5 years of digital product management experience and the ability to navigate through continuous discovery and collaborate across teams.\n\nThe position offers a hybrid work environment, with a competitive salary range of $125,000 to $145,000 annually, along with comprehensive benefits such as health insurance, paid leave, a"
-    },
-    {
-      "id": "jsearch_ks6Sird7rTdYiObeAAAAAA==",
-      "role": "Regional Product Manager",
-      "company": "CopperPoint Insurance Companies",
-      "link": "https://www.linkedin.com/jobs/view/regional-product-manager-at-copperpoint-insurance-companies-4430666663",
-      "posted_date": "2026-06-27",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "LinkedIn",
-      "description_snippet": "The Regional Product Manager helps drive portfolio performance across all commercial P&C lines of business within an assigned region. This role assesses portfolio health, identifies opportunities to improve profitability and growth, and delivers analysis and recommendations that impact results. This is a high-visibility role in a newly established product management function, with real influence over regional performance.\n\nJob Responsibilities:\n\n• Manage regional portfolio performance jointly with field leadership, including loss ratio, rate adequacy, retention, growth, and mix across all line"
     },
     {
       "id": "jsearch_I-m6Di71GZ4w5NJFAAAAAA==",
