@@ -1,13 +1,41 @@
 {
-  "last_updated": "2026-06-28T16:05:08.782Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-06-29T17:30:21.725Z",
+  "total_fetched_today": 8,
   "jobs": [
+    {
+      "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
+      "role": "Principal Product Manager, AI Data Solutions",
+      "company": "FactSet",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-data-solutions-at-factset-4404112971",
+      "posted_date": "2026-06-28",
+      "location": "Norwalk, Connecticut",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 13,
+      "source": "LinkedIn",
+      "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
+    },
+    {
+      "id": "jsearch_LvMVr3U2-JJ8h2HOAAAAAA==",
+      "role": "Sr Product Manager, Product Usage (VIRTUAL, WA, US, 00000)",
+      "company": "NRG",
+      "link": "https://remotejobs.org/remote-jobs/sr-product-manager-product-usage-virtual-wa-us-00000-nrg",
+      "posted_date": "2026-06-27",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "RemoteJobs.org",
+      "description_snippet": "Welcome to the intersection of energy and home services. At NRG, we’re driven by our passion to create a smarter, cleaner and more connected future.\n\nVivint Smart Home, an NRG owned company, is a leading smart home company in the United States, dedicated to redefining the home experience with intelligent products and services. We find purpose in proactively protecting and keeping our customers connected to home, no matter where they are. Join the Smart Home team to create smarter, safer and more sustainable homes.\n\nThe Senior Manager of Product Usage & Insights will act as a single-threaded bu"
+    },
     {
       "id": "jsearch_HePLd-oGE579n6JKAAAAAA==",
       "role": "P&C Product Manager III, Product Innovation - Remote",
       "company": "CSAA Insurance Services, Inc.",
       "link": "https://www.simplyhired.com/job/nHCOz1VRu3qxH_vG5T4ODnqNYn7Y99JFvZ_KsHsy5RHSCgia83oizA",
-      "posted_date": "2026-06-24",
+      "posted_date": "2026-06-23",
       "location": "Maryland",
       "active": true,
       "resume_link": "",
@@ -21,7 +49,7 @@
       "role": "Product Manager (Remote US)",
       "company": "Splice",
       "link": "https://www.ziprecruiter.com/c/Splice/Job/Product-Manager-(Remote-US)/-in-New-York,NY?jid=f766677c6eb70a90",
-      "posted_date": "2026-06-25",
+      "posted_date": "2026-06-24",
       "location": "New York, New York",
       "active": true,
       "resume_link": "",
@@ -31,18 +59,18 @@
       "description_snippet": "WHO WE ARE:\n\nSplice is a creative platform for people who make music. Serious producers choose Splice Sounds to bring their ideas to life. A subscription to Splice inspires and accelerates creative success for digital music creators with an industry-leading catalog of sounds and samples and an expanding AI stack. With a rent-to-own marketplace of DAWs and plugins, the Splice experience seamlessly integrates into any music production workflow, regardless of DAW (Digital Audio Workstation). Via Splice, an unparalleled team of sound designers and sample creators are fueling the success of a growi"
     },
     {
-      "id": "jsearch_g1eZwImowj-kZ5gCAAAAAA==",
-      "role": "Senior Product Manager - Remote",
-      "company": "Stryker",
-      "link": "https://careers.stryker.com/senior-product-manager-remote/job/50DE4369E8E079C65C9A10AB7F5FFBC9",
-      "posted_date": "2026-06-24",
-      "location": "Mahwah, New Jersey",
+      "id": "jsearch_pEG5wUyc51Ih8uswAAAAAA==",
+      "role": "Remote Staff Product Manager, AI",
+      "company": "Overstory",
+      "link": "https://us.trabajo.org/job-3137-6509dcf224087f5b273caf890bb425a2",
+      "posted_date": "2026-06-26",
+      "location": "Jersey City, New Jersey",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
       "match_score": 3,
-      "source": "Stryker",
-      "description_snippet": "​​The Sr. Product Manager, AI/Digital for myMako sits at the forefront of transforming orthopaedic care through intelligent, connected digital solutions. This role owns the downstream experience of a high-impact AI-enabled product, driving how it is positioned, experienced, and adopted by surgeons, hospitals, and field teams.\n\n​\n\n​This Marketer brings the product to life translating complex capabilities into a clear, differentiated value proposition that fuels adoption, engagement, and long-term advocacy. Through sharp storytelling, consistent branding, and agile, insight-driven messaging, the"
+      "source": "Trabajo.org",
+      "description_snippet": "The climate crisis is the defining challenge of our time—but it’s also the greatest opportunity for innovation, and a challenge we’re proud to take on. At Overstory, we’re harnessing cutting-edge technology to enable a resilient electrical grid that keeps communities thriving as our world changes. The grid is the backbone of life as we know it. It powers hospitals, keeps food fresh, and ensures communities stay connected. But extreme weather, aging infrastructure, and growing wildfire risks are putting this critical system under pressure. All of this combined makes the electric utility industr"
     },
     {
       "id": "jsearch_r6tHdYnlYq3llqNQAAAAAA==",
@@ -57,6 +85,48 @@
       "match_score": 3,
       "source": "Trabajo.org",
       "description_snippet": "About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen. Our values guide us —they are present in how we show up, make decisions, and work together to make an impact. We’re curious, driven, collaborative, genuine and humble. Temporal is growing and we are looking for those who share our values, challenge 'standard' thinking, an"
+    },
+    {
+      "id": "jsearch_g1eZwImowj-kZ5gCAAAAAA==",
+      "role": "Senior Product Manager - Remote",
+      "company": "Stryker",
+      "link": "https://www.ziprecruiter.com/c/Stryker/Job/Senior-Product-Manager-Remote/-in-Menlo-Park,CA?jid=e32cf58b2b6957ae",
+      "posted_date": "2026-06-24",
+      "location": "Menlo Park, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "ZipRecruiter",
+      "description_snippet": "Work Flexibility: Remote or Hybrid or Onsite\n\nThe Sr. Product Manager, AI/Digital formyMakosits at the forefront of transformingorthopaediccare through intelligent, connected digital solutions. This role owns the downstreamexperience of a high-impact AI-enabled product, driving how it is positioned, experienced, and adopted by surgeons, hospitals, and field teams.\n\nThisMarketerbrings the product to life translating complex capabilities into a clear, differentiated value proposition that fuels adoption, engagement, and long-term advocacy. Through sharp storytelling, consistent branding, and agi"
+    },
+    {
+      "id": "jsearch_AIOcBsa8mUum2DJmAAAAAA==",
+      "role": "Salesforce Product Manager",
+      "company": "Global Partners",
+      "link": "https://careers.globalp.com/salesforce-product-manager/job/P1-4832466-0",
+      "posted_date": "2026-06-26",
+      "location": "Waltham, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Careers At Global Partners - Global Partners LP",
+      "description_snippet": "Salesforce Product Manager oversees the Salesforce technical strategy and roadmap. They bridge the gap between engineering and business teams, translating user needs and business goals into technical requirements, managing product development, and ensuring products meet both technical specifications.\n\nAt Global Partners, business starts with people. Since 1933, we’ve believed in taking care of our customers, our guests, our communities, and each other—and that belief continues to guide us.\n\nThe Global Spirit is the cornerstone of our commitment to success. As a Fortune 500 company with 90+ yea"
+    },
+    {
+      "id": "jsearch_g1eZwImowj-kZ5gCAAAAAA==",
+      "role": "Senior Product Manager - Remote",
+      "company": "Stryker",
+      "link": "https://careers.stryker.com/senior-product-manager-remote/job/50DE4369E8E079C65C9A10AB7F5FFBC9",
+      "posted_date": "2026-06-24",
+      "location": "Mahwah, New Jersey",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Stryker",
+      "description_snippet": "​​The Sr. Product Manager, AI/Digital for myMako sits at the forefront of transforming orthopaedic care through intelligent, connected digital solutions. This role owns the downstream experience of a high-impact AI-enabled product, driving how it is positioned, experienced, and adopted by surgeons, hospitals, and field teams.\n\n​\n\n​This Marketer brings the product to life translating complex capabilities into a clear, differentiated value proposition that fuels adoption, engagement, and long-term advocacy. Through sharp storytelling, consistent branding, and agile, insight-driven messaging, the"
     },
     {
       "id": "jsearch_ks6Sird7rTdYiObeAAAAAA==",
@@ -605,20 +675,6 @@
       "description_snippet": "The pay range is $115,000.00 - $206,000.00\n\nPay is based on several factors which vary based on position. These include labor markets and in some instances may include education, work experience and certifications. In addition to your pay, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Target offers eligible team members and their dependents comprehensive health benefits and programs, which may include medical, vision, dental, life insurance and more, to help you and your family take care of your whole selves. Other benefits for e"
     },
     {
-      "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
-      "role": "Principal Product Manager, AI Data Solutions",
-      "company": "FactSet",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-data-solutions-at-factset-4404112971",
-      "posted_date": "2026-06-07",
-      "location": "Norwalk, Connecticut",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 13,
-      "source": "LinkedIn",
-      "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
-    },
-    {
       "id": "jsearch_RxcxYVRxkxPNc1-HAAAAAA==",
       "role": "Senior Product Manager, Data & Instructional Insights",
       "company": "Summit K12",
@@ -939,20 +995,6 @@
       "match_score": 6,
       "source": "Trabajo.org",
       "description_snippet": "Overview C-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value. This role focuses on what’s next. We’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations. This is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products. You won’t just define ideas—you’ll bring them to life and prove their va"
-    },
-    {
-      "id": "jsearch_AIOcBsa8mUum2DJmAAAAAA==",
-      "role": "Salesforce Product Manager",
-      "company": "Global Partners",
-      "link": "https://careers.globalp.com/salesforce-product-manager/job/P1-4832466-0",
-      "posted_date": "2026-06-02",
-      "location": "Waltham, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Careers At Global Partners - Global Partners LP",
-      "description_snippet": "Salesforce Product Manager oversees the Salesforce technical strategy and roadmap. They bridge the gap between engineering and business teams, translating user needs and business goals into technical requirements, managing product development, and ensuring products meet both technical specifications.\n\nAt Global Partners, business starts with people. Since 1933, we’ve believed in taking care of our customers, our guests, our communities, and each other—and that belief continues to guide us.\n\nThe Global Spirit is the cornerstone of our commitment to success. As a Fortune 500 company with 90+ yea"
     },
     {
       "id": "jsearch_YO_Ndjn6qe7yreO3AAAAAA==",
