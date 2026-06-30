@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T17:30:21.725Z",
-  "total_fetched_today": 8,
+  "last_updated": "2026-06-30T17:02:36.810Z",
+  "total_fetched_today": 14,
   "jobs": [
     {
       "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
@@ -15,6 +15,48 @@
       "match_score": 13,
       "source": "LinkedIn",
       "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
+    },
+    {
+      "id": "jsearch_Giyz7TvSqboBbXyWAAAAAA==",
+      "role": "Sr Business Analyst /Product Manager -  US",
+      "company": "Photon",
+      "link": "https://www.builtinnyc.com/job/sr-business-analyst-product-manager-us/9913857",
+      "posted_date": "2026-06-24",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Built In NYC",
+      "description_snippet": "Job Title\n\nProduct Manager – Data Platform, Analytics & Cloud (GCP)\n\nRole Summary\n\nWe are seeking an experienced Product Manager to own and drive a cloud-native data platform spanning databases, ETL/ELT pipelines, streaming, analytics, and reporting. This role will work closely with onshore architects, data engineering leads, analytics teams, and offshore delivery teams to define product vision, roadmap, and execution for enterprise-scale data solutions on Google Cloud Platform (GCP).\n\nThe Product Manager will bridge business requirements and technical implementation, ensuring scalable, reliab"
+    },
+    {
+      "id": "jsearch_F4cm9ubvlhe8SbcuAAAAAA==",
+      "role": "(USA) Distinguished, Product Manager",
+      "company": "Walmart",
+      "link": "https://www.linkedin.com/jobs/view/usa-distinguished-product-manager-at-walmart-4431558539",
+      "posted_date": "2026-06-30",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "LinkedIn",
+      "description_snippet": "Position Summary...\n\nWhat you'll do...The most senior IC product role in the organization. Drives enterprise-wide product strategy, shapes organizational capability, and influences Walmart's competitive positioning through pioneering product thinking. Owns multiple complex customer problems and product lines by integrating market trends, competitive dynamics, customer segments, and business strategies. Creates strategic frameworks including Whole Product concepts and go-to-market approaches that drive mass adoption and enterprise value creation. Equivalent in scope and impact to Director, Prod"
+    },
+    {
+      "id": "jsearch_nxjTeci3RfLeWYQiAAAAAA==",
+      "role": "Remote Senior Product Manager",
+      "company": "Greenbox Capital",
+      "link": "https://us.trabajo.org/job-3137-5c32c1d0dde7243ee1c7dba5deea51e1",
+      "posted_date": "2026-06-26",
+      "location": "St. Petersburg, Florida",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "Trabajo.org",
+      "description_snippet": "Senior Product Manager, Salesforce Platform Why This Role Matters At Greenbox Capital, we are transforming how businesses access capital by building technology that simplifies underwriting, accelerates decisions, and improves operational efficiency. As a Senior Product Manager focused on the Salesforce platform, you will lead the roadmap for the systems that power our lending lifecycle across servicing, collections and Salesforce-driven operational workflows Your work will ensure Salesforce and related systems operate as a cohesive platform that supports scalable growth, operational efficiency"
     },
     {
       "id": "jsearch_LvMVr3U2-JJ8h2HOAAAAAA==",
@@ -59,11 +101,53 @@
       "description_snippet": "WHO WE ARE:\n\nSplice is a creative platform for people who make music. Serious producers choose Splice Sounds to bring their ideas to life. A subscription to Splice inspires and accelerates creative success for digital music creators with an industry-leading catalog of sounds and samples and an expanding AI stack. With a rent-to-own marketplace of DAWs and plugins, the Splice experience seamlessly integrates into any music production workflow, regardless of DAW (Digital Audio Workstation). Via Splice, an unparalleled team of sound designers and sample creators are fueling the success of a growi"
     },
     {
+      "id": "jsearch_oyorK97mCwEPNvx4AAAAAA==",
+      "role": "Remote Product Manager, Billing",
+      "company": "Omada Health",
+      "link": "https://us.trabajo.org/job-3137-60980030b40002d9a6013ae6143d600f",
+      "posted_date": "2026-06-26",
+      "location": "Pittsburgh, Pennsylvania",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Trabajo.org",
+      "description_snippet": "Omada Health is on a mission to inspire and engage people in lifelong health, one step at a time. Job overview: Omada is at the forefront of virtual-first care, specializing in weight health, diabetes, hypertension, and musculoskeletal issues. As a Product Manager, Billing, you will own a critical part of Omada’s platform that directly enables revenue generation and operational scalability through AI-driven product development. This role sits at the intersection of product, finance, and operations. You will lead the evolution of our billing systems to support increasingly complex products, pri"
+    },
+    {
+      "id": "jsearch_IXGLVw5WRbsoCtwUAAAAAA==",
+      "role": "Remote Senior Product Manager",
+      "company": "Made Card",
+      "link": "https://us.trabajo.org/job-3137-4a8a463ec2ec4984f7a117efc3a11dc6",
+      "posted_date": "2026-06-26",
+      "location": "Lubbock, Texas",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Trabajo.org",
+      "description_snippet": "About the Company Made’s mission is to help homeowners save time, money, and stress. It starts with Made Card - a credit card designed specifically for homeowners, with unmatched rewards on mortgage payments, home improvements, utilities, and essential purchases. Each swipe powers a personalized home management platform where users can manage home systems & appliances, stay ahead on upkeep, and get help - from AI-driven guidance to in-person services - exactly when they need it most. By bringing together financial tools, data, and trusted professionals, we give people more control, more saving"
+    },
+    {
+      "id": "jsearch_cShKqKH619sSbzaqAAAAAA==",
+      "role": "Remote Product Manager",
+      "company": "Nomi Health",
+      "link": "https://us.trabajo.org/job-3137-a5c4baa220adf849a4d7eb477c224809",
+      "posted_date": "2026-06-26",
+      "location": "Honolulu, Hawaii",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Trabajo.org",
+      "description_snippet": "We were tired of hearing that healthcare is broken, so we decided to do something about it. At Nomi Health, we believe the care itself isn’t broken — it’s the business of healthcare that gets in the way. Every year, more than $1 trillion is wasted on paperwork, delays, and middle layers that drive up costs and keep people from the care they need. We’re rebuilding the system so it works the way it should: clear prices you can trust, faster payments that keep providers focused on patients, and data that helps employers make better decisions. Our work has already touched more than 30 million live"
+    },
+    {
       "id": "jsearch_pEG5wUyc51Ih8uswAAAAAA==",
       "role": "Remote Staff Product Manager, AI",
       "company": "Overstory",
       "link": "https://us.trabajo.org/job-3137-6509dcf224087f5b273caf890bb425a2",
-      "posted_date": "2026-06-26",
+      "posted_date": "2026-06-27",
       "location": "Jersey City, New Jersey",
       "active": true,
       "resume_link": "",
@@ -71,20 +155,6 @@
       "match_score": 3,
       "source": "Trabajo.org",
       "description_snippet": "The climate crisis is the defining challenge of our time—but it’s also the greatest opportunity for innovation, and a challenge we’re proud to take on. At Overstory, we’re harnessing cutting-edge technology to enable a resilient electrical grid that keeps communities thriving as our world changes. The grid is the backbone of life as we know it. It powers hospitals, keeps food fresh, and ensures communities stay connected. But extreme weather, aging infrastructure, and growing wildfire risks are putting this critical system under pressure. All of this combined makes the electric utility industr"
-    },
-    {
-      "id": "jsearch_r6tHdYnlYq3llqNQAAAAAA==",
-      "role": "Remote Staff Product Manager, Core Primitives",
-      "company": "Temporal Technologies",
-      "link": "https://us.trabajo.org/job-3137-a5203caf3f6ca3497e2cf88f2163efff",
-      "posted_date": "2026-06-23",
-      "location": "Long Beach, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Trabajo.org",
-      "description_snippet": "About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen. Our values guide us —they are present in how we show up, make decisions, and work together to make an impact. We’re curious, driven, collaborative, genuine and humble. Temporal is growing and we are looking for those who share our values, challenge 'standard' thinking, an"
     },
     {
       "id": "jsearch_g1eZwImowj-kZ5gCAAAAAA==",
@@ -115,6 +185,34 @@
       "description_snippet": "Salesforce Product Manager oversees the Salesforce technical strategy and roadmap. They bridge the gap between engineering and business teams, translating user needs and business goals into technical requirements, managing product development, and ensuring products meet both technical specifications.\n\nAt Global Partners, business starts with people. Since 1933, we’ve believed in taking care of our customers, our guests, our communities, and each other—and that belief continues to guide us.\n\nThe Global Spirit is the cornerstone of our commitment to success. As a Fortune 500 company with 90+ yea"
     },
     {
+      "id": "jsearch_ks6Sird7rTdYiObeAAAAAA==",
+      "role": "Regional Product Manager",
+      "company": "CopperPoint Insurance Companies",
+      "link": "https://www.linkedin.com/jobs/view/regional-product-manager-at-copperpoint-insurance-companies-4430666663",
+      "posted_date": "2026-06-26",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "LinkedIn",
+      "description_snippet": "The Regional Product Manager helps drive portfolio performance across all commercial P&C lines of business within an assigned region. This role assesses portfolio health, identifies opportunities to improve profitability and growth, and delivers analysis and recommendations that impact results. This is a high-visibility role in a newly established product management function, with real influence over regional performance.\n\nJob Responsibilities:\n\n• Manage regional portfolio performance jointly with field leadership, including loss ratio, rate adequacy, retention, growth, and mix across all line"
+    },
+    {
+      "id": "jsearch_r6tHdYnlYq3llqNQAAAAAA==",
+      "role": "Remote Staff Product Manager, Core Primitives",
+      "company": "Temporal Technologies",
+      "link": "https://us.trabajo.org/job-3137-a5203caf3f6ca3497e2cf88f2163efff",
+      "posted_date": "2026-06-23",
+      "location": "Long Beach, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Trabajo.org",
+      "description_snippet": "About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer’s toolbox, and are building the team that will make that happen. Our values guide us —they are present in how we show up, make decisions, and work together to make an impact. We’re curious, driven, collaborative, genuine and humble. Temporal is growing and we are looking for those who share our values, challenge 'standard' thinking, an"
+    },
+    {
       "id": "jsearch_g1eZwImowj-kZ5gCAAAAAA==",
       "role": "Senior Product Manager - Remote",
       "company": "Stryker",
@@ -127,20 +225,6 @@
       "match_score": 3,
       "source": "Stryker",
       "description_snippet": "​​The Sr. Product Manager, AI/Digital for myMako sits at the forefront of transforming orthopaedic care through intelligent, connected digital solutions. This role owns the downstream experience of a high-impact AI-enabled product, driving how it is positioned, experienced, and adopted by surgeons, hospitals, and field teams.\n\n​\n\n​This Marketer brings the product to life translating complex capabilities into a clear, differentiated value proposition that fuels adoption, engagement, and long-term advocacy. Through sharp storytelling, consistent branding, and agile, insight-driven messaging, the"
-    },
-    {
-      "id": "jsearch_ks6Sird7rTdYiObeAAAAAA==",
-      "role": "Regional Product Manager",
-      "company": "CopperPoint Insurance Companies",
-      "link": "https://www.linkedin.com/jobs/view/regional-product-manager-at-copperpoint-insurance-companies-4430666663",
-      "posted_date": "2026-06-27",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "LinkedIn",
-      "description_snippet": "The Regional Product Manager helps drive portfolio performance across all commercial P&C lines of business within an assigned region. This role assesses portfolio health, identifies opportunities to improve profitability and growth, and delivers analysis and recommendations that impact results. This is a high-visibility role in a newly established product management function, with real influence over regional performance.\n\nJob Responsibilities:\n\n• Manage regional portfolio performance jointly with field leadership, including loss ratio, rate adequacy, retention, growth, and mix across all line"
     },
     {
       "id": "jsearch_AL2_FyG6ajc-Yk6KAAAAAA==",
@@ -169,20 +253,6 @@
       "match_score": 6,
       "source": "SimplyHired",
       "description_snippet": "External candidates: In order for your application to be correctly processed please sign-in before you apply\n\nInternal candidates: Please go to Workday and click \"Find Jobs\" link under Career\n\nThank you for considering opportunities with us!\n\nJob Title\n\nP&C Product Manager III, Product Innovation - Remote\n\nRequisition Number\n\nR7716 P&C Product Manager III, Product Innovation - Remote (Open)\n\nLocation\n\nArizona - Home Teleworkers\n\nAdditional Locations\n\nAlabama - Home Teleworkers, Alabama - Home Teleworkers, Arkansas - Home Teleworkers, California - Home Teleworkers, Colorado - Home Teleworkers, "
-    },
-    {
-      "id": "jsearch_cShKqKH619sSbzaqAAAAAA==",
-      "role": "Remote Product Manager",
-      "company": "Nomi Health",
-      "link": "https://us.trabajo.org/job-3137-a5c4baa220adf849a4d7eb477c224809",
-      "posted_date": "2026-06-23",
-      "location": "Honolulu, Hawaii",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Trabajo.org",
-      "description_snippet": "We were tired of hearing that healthcare is broken, so we decided to do something about it. At Nomi Health, we believe the care itself isn’t broken — it’s the business of healthcare that gets in the way. Every year, more than $1 trillion is wasted on paperwork, delays, and middle layers that drive up costs and keep people from the care they need. We’re rebuilding the system so it works the way it should: clear prices you can trust, faster payments that keep providers focused on patients, and data that helps employers make better decisions. Our work has already touched more than 30 million live"
     },
     {
       "id": "jsearch_eeEDXkt765_qn0wFAAAAAA==",
