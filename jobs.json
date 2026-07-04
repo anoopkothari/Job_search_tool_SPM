@@ -1,20 +1,34 @@
 {
-  "last_updated": "2026-07-03T16:20:36.205Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-07-04T15:56:10.446Z",
+  "total_fetched_today": 6,
   "jobs": [
     {
-      "id": "jsearch_BxbkYaprzCNMPjrtAAAAAA==",
-      "role": "Principal Product Manager",
-      "company": "Tract Capital Management",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-tract-capital-management-4434332889",
-      "posted_date": "2026-06-30",
-      "location": "Mercer Island, Washington",
+      "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
+      "role": "Principal Product Manager, AI Data Solutions",
+      "company": "FactSet",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-data-solutions-at-factset-4404112971",
+      "posted_date": "2026-06-28",
+      "location": "Norwalk, Connecticut",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 7,
+      "match_score": 13,
       "source": "LinkedIn",
-      "description_snippet": "Tract Capital adopts a unique approach to digital infrastructure investment. Leveraging experience and strategic insights honed over three decades of creating successful companies in the space, we excel in nurturing and advancing leading-edge digital infrastructure enterprises. Our team of specialized experts are united by a singular purpose: to support the growth of digital infrastructure. Tract Capital goes beyond simple investment by acting as a strategic partner and catalyst for innovation within the sector. We ensure our engagements not only generate strong financial results but also deve"
+      "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
+    },
+    {
+      "id": "jsearch_IYPUK2HgfEOio-4dAAAAAA==",
+      "role": "Product Manager, IT",
+      "company": "confidential",
+      "link": "https://ixdf.org/jobs/product-manager-it-pennsylvania",
+      "posted_date": "2026-07-03",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "IxDF",
+      "description_snippet": "Job Description\n\nJob Description\n\nThe Product Manager – PowerSchool Solutions serves as the strategic and operational lead for products and integrations supporting the PowerSchool ecosystem. This role partners cross-functionally with engineering, implementation, customer success, curriculum, and school operations teams to deliver scalable, user-centered solutions that improve the educational experience for students, families, educators, and administrators.\n\nThe Product Manager combines deep understanding of K–12 education systems, SIS workflows, and customer needs with strong product execution"
     },
     {
       "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
@@ -29,6 +43,62 @@
       "match_score": 6,
       "source": "Snowflake Careers",
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
+    },
+    {
+      "id": "jsearch_0-yB4lI4PrqYrt7AAAAAAA==",
+      "role": "Forward Deployed Product Manager",
+      "company": "Kin + Carta",
+      "link": "https://jobgether.com/offer/6a46f4b0ac00a71a5a778077-forward-deployed-product-manager",
+      "posted_date": "2026-07-02",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: North America, United States, Latin America\nWhy Valtech? We’re the experience innovation company - a trusted partner to the world’s most recognized brands. To our people we offer growth opportunities, a values-driven culture, international careers and the chance to shape the future of experience.\n\nWe are proud of:\n\n• The work we do and the innovation we drive\n\n• Our values of share, care and dare\n\n• A workplace culture that fosters creativity, diversity and autonomy\n\n• Our borderless, global framework, which enables seamless collaboration\n\nJ"
+    },
+    {
+      "id": "jsearch_s8WqJS60MXUVCgJaAAAAAA==",
+      "role": "North America Regional Product Manager (Protein Diagnostics)",
+      "company": "ThermoFisher Scientific",
+      "link": "https://www.adzuna.com/details/5786320910",
+      "posted_date": "2026-07-01",
+      "location": "Suwanee, Georgia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Adzuna",
+      "description_snippet": "**Work Schedule** Standard (Mon-Fri) **Environmental Conditions** Office **Job Description** **Regional Product Manager, North America** **Position Summary & Scope** The Regional Product Manager, North America is responsible for driving the commercial success, growth, lifecycle management, and customer adoption of the PDX product portfolio across the United States and Canada. Serving as the regional business owner for assigned products, this role translates global strategy into regional execution, ensuring alignment with customer needs, market dynamics, reimbursement considerations, and commer"
+    },
+    {
+      "id": "jsearch_m8nRzt0rExTK3JrPAAAAAA==",
+      "role": "PRODUCT MANAGER - 2ND SHIFT",
+      "company": "JBS Foods",
+      "link": "https://jobs.jbsfoodsgroup.com/jobs/17941709-product-manager-2nd-shift",
+      "posted_date": "2026-06-29",
+      "location": "Marshalltown, Iowa",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JBS Foods Careers",
+      "description_snippet": "Description\n\nProduct Manager\n\nDivision/Department: Pork\n\nLocation: Marshalltown\n\nJob title: Product Manager\n\nReports to: Marco Herrera\n\nSalary Class: Exempt\n\nType of position:\n\nFull-time\n\nHours: 2nd Shift\n\nGeneral Description:\n\nMonitor all plant operations; encourage and confirm correct procedures are being followed to maximize value and increase productivity. Audit products manually and receive audits to verify proper procedures and efficiency. Test new products and packaging for cost effectiveness, efficiency and value. Communicate in person or by phone with customers to increase satisfactio"
+    },
+    {
+      "id": "jsearch_BxbkYaprzCNMPjrtAAAAAA==",
+      "role": "Principal Product Manager",
+      "company": "Tract Capital Management",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-at-tract-capital-management-4434332889",
+      "posted_date": "2026-06-30",
+      "location": "Mercer Island, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "Tract Capital adopts a unique approach to digital infrastructure investment. Leveraging experience and strategic insights honed over three decades of creating successful companies in the space, we excel in nurturing and advancing leading-edge digital infrastructure enterprises. Our team of specialized experts are united by a singular purpose: to support the growth of digital infrastructure. Tract Capital goes beyond simple investment by acting as a strategic partner and catalyst for innovation within the sector. We ensure our engagements not only generate strong financial results but also deve"
     },
     {
       "id": "jsearch_vycB0PfbABm--0S7AAAAAA==",
@@ -59,20 +129,6 @@
       "description_snippet": "The climate crisis is the defining challenge of our time—but it’s also the greatest opportunity for innovation, and a challenge we’re proud to take on. At Overstory, we’re harnessing cutting-edge technology to enable a resilient electrical grid that keeps communities thriving as our world changes. The grid is the backbone of life as we know it. It powers hospitals, keeps food fresh, and ensures communities stay connected. But extreme weather, aging infrastructure, and growing wildfire risks are putting this critical system under pressure. All of this combined makes the electric utility industr"
     },
     {
-      "id": "jsearch_s8WqJS60MXUVCgJaAAAAAA==",
-      "role": "North America Regional Product Manager (Protein Diagnostics)",
-      "company": "ThermoFisher Scientific",
-      "link": "https://www.adzuna.com/details/5786320910",
-      "posted_date": "2026-07-01",
-      "location": "Suwanee, Georgia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Adzuna",
-      "description_snippet": "**Work Schedule** Standard (Mon-Fri) **Environmental Conditions** Office **Job Description** **Regional Product Manager, North America** **Position Summary & Scope** The Regional Product Manager, North America is responsible for driving the commercial success, growth, lifecycle management, and customer adoption of the PDX product portfolio across the United States and Canada. Serving as the regional business owner for assigned products, this role translates global strategy into regional execution, ensuring alignment with customer needs, market dynamics, reimbursement considerations, and commer"
-    },
-    {
       "id": "jsearch_1QrL_aXn5gL-CsuQAAAAAA==",
       "role": "Hybrid Product Manager, Digital Experience & AI",
       "company": "American Chemical Society",
@@ -87,20 +143,6 @@
       "description_snippet": "The American Chemical Society is hiring a Product Manager for its Digital Product and Experience team in Washington, DC. This role focuses on leading a portfolio of digital initiatives, requiring a strategic mindset and strong execution skills. The ideal candidate will have 3-5 years of digital product management experience and the ability to navigate through continuous discovery and collaborate across teams.\n\nThe position offers a hybrid work environment, with a competitive salary range of $125,000 to $145,000 annually, along with comprehensive benefits such as health insurance, paid leave, a"
     },
     {
-      "id": "jsearch_m8nRzt0rExTK3JrPAAAAAA==",
-      "role": "PRODUCT MANAGER - 2ND SHIFT",
-      "company": "JBS Foods",
-      "link": "https://jobs.jbsfoodsgroup.com/jobs/17941709-product-manager-2nd-shift",
-      "posted_date": "2026-06-29",
-      "location": "Marshalltown, Iowa",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JBS Foods Careers",
-      "description_snippet": "Description\n\nProduct Manager\n\nDivision/Department: Pork\n\nLocation: Marshalltown\n\nJob title: Product Manager\n\nReports to: Marco Herrera\n\nSalary Class: Exempt\n\nType of position:\n\nFull-time\n\nHours: 2nd Shift\n\nGeneral Description:\n\nMonitor all plant operations; encourage and confirm correct procedures are being followed to maximize value and increase productivity. Audit products manually and receive audits to verify proper procedures and efficiency. Test new products and packaging for cost effectiveness, efficiency and value. Communicate in person or by phone with customers to increase satisfactio"
-    },
-    {
       "id": "jsearch_VdHjzTybS_lnVyB-AAAAAA==",
       "role": "Senior Product Manager for Incident Analysis Solutions",
       "company": "PagerDuty",
@@ -113,20 +155,6 @@
       "match_score": 14,
       "source": "BeBee",
       "description_snippet": "PagerDuty, Inc. is a leading name in digital operations management, trusted by nearly half of both the Fortune 500 and the Forbes AI 50, as well as approximately two-thirds of the Fortune 100. At PagerDuty, you'll tackle complex challenges, collaborate with talented individuals, and contribute to creating a more equitable workplace.We are seeking a Senior Product Manager specifically focused on Incident Analysis to join our dedicated Incident Management team! Reporting to the Director of Product for Incident Management, you will work closely with design, engineering, and marketing teams to cre"
-    },
-    {
-      "id": "jsearch_QExYtGiwidso2Pq0AAAAAA==",
-      "role": "Principal Product Manager, AI Data Solutions",
-      "company": "FactSet",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-data-solutions-at-factset-4404112971",
-      "posted_date": "2026-06-28",
-      "location": "Norwalk, Connecticut",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 13,
-      "source": "LinkedIn",
-      "description_snippet": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access\n\nto financial data and analytics that investors use to make crucial decisions.\n\nAt FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding the"
     },
     {
       "id": "jsearch_nxjTeci3RfLeWYQiAAAAAA==",
