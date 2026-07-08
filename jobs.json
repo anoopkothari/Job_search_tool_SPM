@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-07-07T17:08:23.757Z",
-  "total_fetched_today": 13,
+  "last_updated": "2026-07-08T16:26:01.920Z",
+  "total_fetched_today": 4,
   "jobs": [
+    {
+      "id": "jsearch_2ISzXQdCi4uM4-VnAAAAAA==",
+      "role": "Senior Digital Product Manager, Pickup Visibility",
+      "company": "Federal Express Corporation",
+      "link": "https://careers.fedex.com/senior-digital-product-manager-pickup-visibility/job/P25-352206-1",
+      "posted_date": "2026-07-07",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "FedEx Careers",
+      "description_snippet": "As a Senior Digital Product Manager, you will lead cross-functional teams to deliver high-impact, customer-centric solutions that align with company strategy. You will own complex product domains or capabilities, deeply understand customer pain points, and translate strategy into a clear roadmap with measurable outcomes. You will operate with autonomy and are trusted to drive results across teams.\n\nEssential Functions\n• Own the vision, strategy, and roadmap for a critical product area or customer journey.\n• Lead discovery work—customer interviews, competitive research, and data analysis—to ide"
+    },
+    {
+      "id": "jsearch_BV3WwmvECsoRNUc7AAAAAA==",
+      "role": "Remote Product Manager, Partnerships",
+      "company": "Better Collective A/S",
+      "link": "https://us.trabajo.org/job-3137-d5c10b37d97ad23e52ca3d6f1f9b4b9c",
+      "posted_date": "2026-07-06",
+      "location": "Virginia Beach, Virginia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Trabajo.org",
+      "description_snippet": "Job description Who we are Better Collective is a global digital sports media group on a mission to excite sports fans and build communities worldwide. We operate at the intersection of sports, media, technology, betting, and prediction markets. With brands like FUTBIN, HLTV, Action Network, Playmaker HQ, VegasInsider, Bolavip, FutbolSites, and more, we engage 450+ million monthly users worldwide. We combine the scale of a corporation with the speed and mindset of a startup. About the role We’re looking for a Product Manager, Partnerships to join Better Collective and help us drive user engage"
+    },
+    {
+      "id": "jsearch_g8i_aDMD7mn6g3ivAAAAAA==",
+      "role": "Product Manager-REMOTE",
+      "company": "Legrand Group",
+      "link": "https://www.indeed.com/viewjob?jk=98234cd1ca5c5253",
+      "posted_date": "2026-07-06",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Indeed",
+      "description_snippet": "Legrand has an exciting opportunity for a Product Manager to join the Data Center, Power, and Control Team. The Product Manager will lead the life cycle management of the Power product line, solve market problems, create value and help delight customers with solutions to their data center power distribution and measurement requirements. This role is responsible for market development of new and existing products into the existing business structure as well as support pricing strategy, travel with sales team, initiate & respond to training requests for the new markets. The Product Manager, is e"
+    },
+    {
+      "id": "jsearch_65Nt7uQJNpVoyfRCAAAAAA==",
+      "role": "Remote Senior Product Manager: Growth & Platform",
+      "company": "Oowlish Technology",
+      "link": "https://www.whatjobs.com/jobs/senior-product-manager-growth/remote?id=2860956907",
+      "posted_date": "2026-07-05",
+      "location": "Boston, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "WhatJobs",
+      "description_snippet": "Oowlish Technology, based in the United States, is seeking a Senior Product Manager to shape the future of their growing platform focused on events, fundraising, and nonprofit technology. This fully remote position emphasizes collaboration with global engineering teams and requires strong product instincts and analytical thinking.\n\nThe ideal candidate will have at least 5 years of Product Management experience and a proven track record in dynamic environments, balancing strategic vision with execution.\n#J-18808-Ljbffr"
+    },
     {
       "id": "jsearch_5Wy1w3f1wDr8W3uxAAAAAA==",
       "role": "Product Manager - DevSecOps - Division of Information Technology",
@@ -71,20 +127,6 @@
       "match_score": 5,
       "source": "BeBee",
       "description_snippet": "Compensation: $115,000-$140,000 annually Job Overview: As a Sr. TPM working within the DH&ES organization at Ambry Genetics, you will analyze and define system requirements to support the software products in the clinical genetics domain area. The Sr.\n\nTPM will oversee the software enhancements through the entire SDLC, from discovery, design, development, and validation. The Sr. TPM is responsible for communicating technical and functional requirements with stakeholders and users, creating JIRA tickets detailing requirements for the Engineering team, creating timelines for deliverables, and re"
-    },
-    {
-      "id": "jsearch_g8i_aDMD7mn6g3ivAAAAAA==",
-      "role": "Product Manager-REMOTE",
-      "company": "Legrand Group",
-      "link": "https://www.indeed.com/viewjob?jk=98234cd1ca5c5253",
-      "posted_date": "2026-07-06",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Indeed",
-      "description_snippet": "Legrand has an exciting opportunity for a Product Manager to join the Data Center, Power, and Control Team. The Product Manager will lead the life cycle management of the Power product line, solve market problems, create value and help delight customers with solutions to their data center power distribution and measurement requirements. This role is responsible for market development of new and existing products into the existing business structure as well as support pricing strategy, travel with sales team, initiate & respond to training requests for the new markets. The Product Manager, is e"
     },
     {
       "id": "jsearch_2ZIZEyNlqwBYjLM-AAAAAA==",
