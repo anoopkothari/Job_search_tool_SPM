@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-08T16:26:01.920Z",
-  "total_fetched_today": 4,
+  "last_updated": "2026-07-09T17:14:43.657Z",
+  "total_fetched_today": 6,
   "jobs": [
     {
       "id": "jsearch_2ISzXQdCi4uM4-VnAAAAAA==",
       "role": "Senior Digital Product Manager, Pickup Visibility",
       "company": "Federal Express Corporation",
       "link": "https://careers.fedex.com/senior-digital-product-manager-pickup-visibility/job/P25-352206-1",
-      "posted_date": "2026-07-07",
+      "posted_date": "2026-07-09",
       "location": "Remote",
       "active": true,
       "resume_link": "",
@@ -43,6 +43,48 @@
       "match_score": 4,
       "source": "Indeed",
       "description_snippet": "Legrand has an exciting opportunity for a Product Manager to join the Data Center, Power, and Control Team. The Product Manager will lead the life cycle management of the Power product line, solve market problems, create value and help delight customers with solutions to their data center power distribution and measurement requirements. This role is responsible for market development of new and existing products into the existing business structure as well as support pricing strategy, travel with sales team, initiate & respond to training requests for the new markets. The Product Manager, is e"
+    },
+    {
+      "id": "jsearch_KKDVaYqWe2Es8FJ5AAAAAA==",
+      "role": "Remote Senior Staff Product Manager, Fertility",
+      "company": "Maven Clinic Co",
+      "link": "https://us.trabajo.org/job-3137-08d12cc6ce70901a5dcbeb93a1f689d2",
+      "posted_date": "2026-07-06",
+      "location": "Philadelphia, Pennsylvania",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Trabajo.org",
+      "description_snippet": "Maven is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Maven's award-winning digital programs provide clinical, emotional, and financial support all in one platform, spanning fertility & family building, maternity & newborn care, parenting & pediatrics, and menopause & midlife. More than 2,000 employers and health plans trust Maven's end-to-end platform to improve clinical outcomes, reduce healthcare costs, and provide equity in benefits programs. Recognized for innovation and industry leadership, Maven has been named to the Time "
+    },
+    {
+      "id": "jsearch_ezwgf2YCORFA_8KFAAAAAA==",
+      "role": "Product Manager II - TOM Products, TOM Products",
+      "company": "Amazon.com",
+      "link": "https://bebee.com/us/jobs/product-manager-ii-tom-products-tom-products-amazoncom-bellevue-wa--t7xk-747256814",
+      "posted_date": "2026-07-02",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "DESCRIPTION\n\nTransform Amazon's transportation infrastructure by developing innovative solutions that reshape how we manage yards, gates, and operational processes. As a strategic product leader, you'll drive technological advancements that optimize efficiency and safety across our complex transportation network.\nThe person in this role will own the product definition and operational mechanisms for TOM's planning and operations portfolio. This includes identifying automation opportunities within yard management workflows, crafting product requirements for new capabilities, defining stakeholder"
+    },
+    {
+      "id": "jsearch_fahT7rs6Ap57OmuFAAAAAA==",
+      "role": "Regional Product Manager Growth & Strategy (Remote)",
+      "company": "TE Connectivity",
+      "link": "https://bebee.com/us/jobs/regional-product-manager-growth-strategy-remote-te-connectivity-troy--lensa-7428_11dce60943dd3f0e238a0ebf9b4ee64a59d970a911f2b919d9df895f26bf2f39",
+      "posted_date": "2026-07-07",
+      "location": "Troy, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview\n\nTE Connectivity's Product Management Teams manage all aspects of a product, from driving new product development to manufacturing to marketing. They are responsible for overall product strategy, business leadership and capacity plans in order to meet sales and profit targets. Manages all aspects of a regional product line or portfolio, driving new product development, manufacturing, marketing and sales.\n\nRuns the portfolio as "
     },
     {
       "id": "jsearch_65Nt7uQJNpVoyfRCAAAAAA==",
