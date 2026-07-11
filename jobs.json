@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-07-10T16:51:21.431Z",
-  "total_fetched_today": 11,
+  "last_updated": "2026-07-11T15:46:59.709Z",
+  "total_fetched_today": 3,
   "jobs": [
+    {
+      "id": "jsearch_tURXeilOZf5oaIzbAAAAAA==",
+      "role": "P&C Product Manager III, Product Innovation - Remote",
+      "company": "CSAA Insurance Services, Inc.",
+      "link": "https://www.indeed.com/viewjob?jk=712e1cbcd437ae71",
+      "posted_date": "2026-07-07",
+      "location": "Montpelier, Vermont",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Indeed",
+      "description_snippet": "External candidates: In order for your application to be correctly processed please sign-in before you apply\n\nInternal candidates: Please go to Workday and click \"Find Jobs\" link under Career\n\nThank you for considering opportunities with us!\n\nJob Title\nP&C Product Manager III, Product Innovation - Remote\n\nRequisition Number\nR7716 P&C Product Manager III, Product Innovation - Remote (Open)\n\nLocation\nArizona - Home Teleworkers\n\nAdditional Locations\nAlabama - Home Teleworkers, Alabama - Home Teleworkers, Arkansas - Home Teleworkers, California - Home Teleworkers, Colorado - Home Teleworkers, Conn"
+    },
+    {
+      "id": "jsearch_6tc9nKwG-5IBe2kKAAAAAA==",
+      "role": "P&C Product Manager III, Product Innovation - Remote",
+      "company": "CSAA Insurance Services, Inc.",
+      "link": "https://www.simplyhired.com/job/rbQ7WhUGqiEOwQtZHUTzdZnt_aZ3fGMVLpJ2CT7GZ08l2n5qYrnt-A",
+      "posted_date": "2026-07-07",
+      "location": "Layton, Florida",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "SimplyHired",
+      "description_snippet": "External candidates: In order for your application to be correctly processed please sign-in before you apply\n\nInternal candidates: Please go to Workday and click \"Find Jobs\" link under Career\n\nThank you for considering opportunities with us!\n\nJob Title\n\nP&C Product Manager III, Product Innovation - Remote\n\nRequisition Number\n\nR7716 P&C Product Manager III, Product Innovation - Remote (Open)\n\nLocation\n\nArizona - Home Teleworkers\n\nAdditional Locations\n\nAlabama - Home Teleworkers, Alabama - Home Teleworkers, Arkansas - Home Teleworkers, California - Home Teleworkers, Colorado - Home Teleworkers, "
+    },
+    {
+      "id": "jsearch_g8i_aDMD7mn6g3ivAAAAAA==",
+      "role": "Product Manager-REMOTE",
+      "company": "Legrand Group",
+      "link": "https://www.indeed.com/viewjob?jk=98234cd1ca5c5253",
+      "posted_date": "2026-07-06",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Indeed",
+      "description_snippet": "Legrand has an exciting opportunity for a Product Manager to join the Data Center, Power, and Control Team. The Product Manager will lead the life cycle management of the Power product line, solve market problems, create value and help delight customers with solutions to their data center power distribution and measurement requirements. This role is responsible for market development of new and existing products into the existing business structure as well as support pricing strategy, travel with sales team, initiate & respond to training requests for the new markets. The Product Manager, is e"
+    },
     {
       "id": "jsearch_GsniE67rzdZ7lzKyAAAAAA==",
       "role": "Principal Product Manager, Public Sector - Remote",
@@ -169,20 +211,6 @@
       "match_score": 9,
       "source": "FedEx Careers",
       "description_snippet": "As a Senior Digital Product Manager, you will lead cross-functional teams to deliver high-impact, customer-centric solutions that align with company strategy. You will own complex product domains or capabilities, deeply understand customer pain points, and translate strategy into a clear roadmap with measurable outcomes. You will operate with autonomy and are trusted to drive results across teams.\n\nEssential Functions\n• Own the vision, strategy, and roadmap for a critical product area or customer journey.\n• Lead discovery work—customer interviews, competitive research, and data analysis—to ide"
-    },
-    {
-      "id": "jsearch_g8i_aDMD7mn6g3ivAAAAAA==",
-      "role": "Product Manager-REMOTE",
-      "company": "Legrand Group",
-      "link": "https://www.indeed.com/viewjob?jk=98234cd1ca5c5253",
-      "posted_date": "2026-07-06",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Indeed",
-      "description_snippet": "Legrand has an exciting opportunity for a Product Manager to join the Data Center, Power, and Control Team. The Product Manager will lead the life cycle management of the Power product line, solve market problems, create value and help delight customers with solutions to their data center power distribution and measurement requirements. This role is responsible for market development of new and existing products into the existing business structure as well as support pricing strategy, travel with sales team, initiate & respond to training requests for the new markets. The Product Manager, is e"
     },
     {
       "id": "jsearch_KKDVaYqWe2Es8FJ5AAAAAA==",
