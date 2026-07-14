@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-07-13T17:09:16.941Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-07-14T16:09:45.140Z",
+  "total_fetched_today": 2,
   "jobs": [
+    {
+      "id": "jsearch_65Nt7uQJNpVoyfRCAAAAAA==",
+      "role": "Remote Senior Product Manager: Growth & Platform",
+      "company": "Oowlish Technology",
+      "link": "https://bebee.com/us/jobs/remote-senior-product-manager-growth-platform-oowlish-technology-boston--lensa-7428_149fc32b173e3b1519afb166dadfb87efea671f5f784775dbc9bb88eb4c5e30e",
+      "posted_date": "2026-07-11",
+      "location": "Boston, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "Oowlish Technology, based in the United States, is seeking a Senior Product Manager to shape the future of their growing platform focused on events, fundraising, and nonprofit technology. This fully remote position emphasizes collaboration with global engineering teams and requires strong product instincts and analytical thinking.\n\nThe ideal candidate will have at least 5 years of Product Management experience and a proven track record in dynamic environments, balancing strategic vision with execution."
+    },
+    {
+      "id": "jsearch_C1PZSeQE5ocVrX50AAAAAA==",
+      "role": "Remote Product Manager: Health AI & Data Services",
+      "company": "Providence Health & Service",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-health-ai-data-services-providence-health-service-new-york--lensa-7428_89247c0336761b9ff76b07dc56becf9f2acdb35d323aeb8a92480db0dc42b9c6",
+      "posted_date": "2026-07-12",
+      "location": "New York, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "Providence Health & Services is seeking a full-time Remote Product Manager to lead cross-functional teams in the design and development of technical applications. The ideal candidate will assess customer needs, create product roadmaps, and oversee the product life cycle for health services research and AI initiatives.\n\nThis position requires strong skills in technical product management and a Bachelor’s Degree in a related field or relevant experience. Join us in enhancing product delivery in healthcare!"
+    },
     {
       "id": "jsearch_HePLd-oGE579n6JKAAAAAA==",
       "role": "P&C Product Manager III, Product Innovation - Remote",
