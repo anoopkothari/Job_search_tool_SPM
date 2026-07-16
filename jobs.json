@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-07-15T16:16:47.385Z",
-  "total_fetched_today": 10,
+  "last_updated": "2026-07-16T16:11:16.194Z",
+  "total_fetched_today": 1,
   "jobs": [
+    {
+      "id": "jsearch_V_PLcgXU75XdFq99AAAAAA==",
+      "role": "Product Manager, Amazon Fuse",
+      "company": "Amazon",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-amazon-fuse-at-amazon-4441285724",
+      "posted_date": "2026-07-16",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "LinkedIn",
+      "description_snippet": "Description\n\nWould you like to be part of a team that is creating new ways for customers to discover and engage with Amazon? The Fuse team builds products that connect partner ecosystems to Amazon, creating new entry points for customers who haven't yet experienced what Amazon has to offer. Our products enable partners to distribute their services directly on Amazon, turning routine transactions into gateways for discovery, engagement, and long-term customer relationships.\n\nAmazon Fuse is seeking a Product Manager to drive planning, execution, and delivery of customer experiences with team-lev"
+    },
     {
       "id": "jsearch_SfTPofaZtHkBkP9dAAAAAA==",
       "role": "Sr Product Manager (Customer Solutions & Integration – Skywalker Sound)",
