@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-07-17T16:08:30.831Z",
-  "total_fetched_today": 1,
+  "last_updated": "2026-07-18T15:48:09.125Z",
+  "total_fetched_today": 7,
   "jobs": [
+    {
+      "id": "jsearch_-8Ft_0nJdcabGH2uAAAAAA==",
+      "role": "Senior Product Manager - Platform",
+      "company": "Delinea",
+      "link": "https://jobs.ashbyhq.com/delinea/b0d82a51-4494-4928-840a-7800abba8af6",
+      "posted_date": "2026-07-15",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Jobs",
+      "description_snippet": "About Delinea:\nDelinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delinea’s leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle – across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities – including workforce, IT administrator, developers, and machines – assign approp"
+    },
+    {
+      "id": "jsearch_2TVM-SgEMxnEEIHZAAAAAA==",
+      "role": "Sr. Product Manager, Hardware",
+      "company": "Promethean",
+      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-hardware-at-promethean-4441660332",
+      "posted_date": "2026-07-16",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "At Promethean...\n\nWe're on a mission to transform the way people learn and collaborate around the world. For over 25 years, we've been empowering educators, innovators, and business leaders with our award-winning interactive displays and software solutions that transform learning and workspaces into connected, creative environments.\n\nOur company is rooted in our values , igniting a culture that fosters collaboration and innovation, as well as promoting an inclusive environment. As a global leader in edtech, we are also passionate about four key areas where we can make a difference: growing acc"
+    },
+    {
+      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
+      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
+      "company": "Snowflake",
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
+      "posted_date": "2026-07-16",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Snowflake Careers",
+      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
+    },
+    {
+      "id": "jsearch_ZossUaz5alzV7XhHAAAAAA==",
+      "role": "AI Product Manager",
+      "company": "PACCAR",
+      "link": "https://www.indeed.com/viewjob?jk=461ce5fca508c6b2",
+      "posted_date": "2026-07-14",
+      "location": "Renton, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Indeed",
+      "description_snippet": "Start applying with LinkedIn\n\na.dialogApplyBtn { display: none; }\n\nDate: Jul 9, 2026\n\nLocation: Renton, WA, US, 98057\n\n#job-location.job-location-inline { display: inline; }\n\nCompany: PACCAR\n\nThe AI Product Manager lead analysis, development and implementation of an AI strategy within ITD applications.\n\nJob Functions/Responsibilities\n\nDefine the direction for AI at PACCAR ITD Applications – craft a strategy and roadmap that aligns business outcomes, data/platform realities, and responsible AI Standards.\n\nLead the AI Applications team of matrixed resources including developers\n\nCultivate relati"
+    },
+    {
+      "id": "jsearch_j2SvJMkpJoRh5G8MAAAAAA==",
+      "role": "Remote Staff Product Manager, Growth (Monetization)",
+      "company": "val's services",
+      "link": "https://www.linkedin.com/jobs/view/remote-staff-product-manager-growth-monetization-at-val-s-services-4442193544",
+      "posted_date": "2026-07-17",
+      "location": "Indianapolis, Indiana",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "LinkedIn",
+      "description_snippet": "Role Overview\n\nSeeking an experienced monetization owner to lead pricing, packaging, billing, and placement strategies for a profitable, remote SaaS company. The role involves strategy and execution to enhance conversion rates, develop an AI credit system, and evolve pricing models for an AI-native environment. The candidate will work cross-functionally with engineering, marketing, finance, and sales to align product offerings with customer value and business goals.\n\nKey responsibilities include owning monetization components, running experiments, and partnering on billing infrastructure. The "
+    },
+    {
+      "id": "jsearch_QIfv1SleU9yN60j7AAAAAA==",
+      "role": "PRODUCT MANAGER - REMOTE",
+      "company": "Palco",
+      "link": "https://www.ziprecruiter.com/c/Palco/Job/PRODUCT-MANAGER-REMOTE/-in-Scranton,PA?jid=4b669ab9a33ff2a6",
+      "posted_date": "2026-07-14",
+      "location": "Scranton, Pennsylvania",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "ZipRecruiter",
+      "description_snippet": "PRODUCT MANAGER (REMOTE)\n\nWe’re Palco. We provide the management, support, and systems behind self-directed programs—the services that help people hire, pay, and manage their own caregivers with confidence. With 25+ years of experience as a national provider operating in over 17 states, we keep people at the center of everything we do. Through innovative technology and decades of expertise, we help states and partners run stronger, more compliant, and efficient programs. Our mission is to challenge the status quo and build smarter, more human-centered solutions that put power back in people’s "
+    },
+    {
+      "id": "jsearch_C1PZSeQE5ocVrX50AAAAAA==",
+      "role": "Remote Product Manager: Health AI & Data Services",
+      "company": "Providence Health & Service",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-health-ai-data-services-providence-health-service-new-york--lensa-7428_89247c0336761b9ff76b07dc56becf9f2acdb35d323aeb8a92480db0dc42b9c6",
+      "posted_date": "2026-07-12",
+      "location": "New York, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "Providence Health & Services is seeking a full-time Remote Product Manager to lead cross-functional teams in the design and development of technical applications. The ideal candidate will assess customer needs, create product roadmaps, and oversee the product life cycle for health services research and AI initiatives.\n\nThis position requires strong skills in technical product management and a Bachelor’s Degree in a related field or relevant experience. Join us in enhancing product delivery in healthcare!"
+    },
     {
       "id": "jsearch_V_PLcgXU75XdFq99AAAAAA==",
       "role": "Product Manager, Amazon Fuse",
@@ -43,20 +141,6 @@
       "match_score": 8,
       "source": "Trabajo.org",
       "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit . Team Description: The Ads Marketplace team is a strategic growth engine for Reddit Ads. Our mission is to democratize high-performance advertising by enabling bran"
-    },
-    {
-      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
-      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
-      "company": "Snowflake",
-      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-07-13",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Snowflake Careers",
-      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
       "id": "jsearch_5FnR3rTH2l_1_yOEAAAAAA==",
@@ -141,20 +225,6 @@
       "match_score": 1,
       "source": "Wellfound",
       "description_snippet": "Product Manager – Loyalty & Rewards\n\nLocation: Remote (U.S. Preferred)\n\nEmployment Type: Part-Time\n\nAbout Jetzy\n\nJetzy is a social lifestyle platform connecting people through experiences, travel, dining, wellness, and exclusive member benefits.\n\nRole\n\nHelp shape Jetzy's loyalty and rewards ecosystem, including member benefits, points, premium experiences, and partner offers.\n\nResponsibilities\n\nDefine product requirements\n\nWork with engineering and design teams\n\nAnalyze user feedback\n\nImprove engagement and retention\n\nSupport feature launches\n\nRequirements\n\nBachelor's degree and/or currently p"
-    },
-    {
-      "id": "jsearch_C1PZSeQE5ocVrX50AAAAAA==",
-      "role": "Remote Product Manager: Health AI & Data Services",
-      "company": "Providence Health & Service",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-health-ai-data-services-providence-health-service-new-york--lensa-7428_89247c0336761b9ff76b07dc56becf9f2acdb35d323aeb8a92480db0dc42b9c6",
-      "posted_date": "2026-07-12",
-      "location": "New York, New York",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "Providence Health & Services is seeking a full-time Remote Product Manager to lead cross-functional teams in the design and development of technical applications. The ideal candidate will assess customer needs, create product roadmaps, and oversee the product life cycle for health services research and AI initiatives.\n\nThis position requires strong skills in technical product management and a Bachelor’s Degree in a related field or relevant experience. Join us in enhancing product delivery in healthcare!"
     },
     {
       "id": "jsearch_HePLd-oGE579n6JKAAAAAA==",
@@ -2731,34 +2801,6 @@
       "match_score": 5,
       "source": "Talent.com",
       "description_snippet": "Job Description: The end-to-end product strategy and roadmap for Loop's Recommendations Skill — from signal to approved action Planning rules as a first-class product concept: how organizations define, manage, and version the guardrails that govern when and how recommendations are generated The recommendation surface: how Loop presents prioritized, explainable recommendations to the right stakeholder at the right moment — with full reasoning visible Governance and approval workflows: how recommendations move through human review, queuing, escalation, and batch approval without creating bottlen"
-    },
-    {
-      "id": "jsearch_qrvr-pJ1OrqvQhG7AAAAAA==",
-      "role": "Group Product Manager I, Connections",
-      "company": "Pinterest",
-      "link": "https://www.pinterestcareers.com/jobs/7525112/group-product-manager-i-connections/?gh_jid=7525112",
-      "posted_date": "2026-05-13",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Pinterest Careers",
-      "description_snippet": "About Pinterest:\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a fea"
-    },
-    {
-      "id": "jsearch_zUuowJcu1mtH6swnAAAAAA==",
-      "role": "Sr Product Manager - Tech, Finance Technology",
-      "company": "Amazon.com",
-      "link": "https://bebee.com/us/jobs/sr-product-manager-tech-finance-technology-amazoncom-bellevue-wa--theirstack-679763674",
-      "posted_date": "2026-05-08",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "BeBee",
-      "description_snippet": "DESCRIPTION\n\nAre you interested in building high-performance, globally scalable financial systems and infrastructure that support Amazon's current and future growth? Are you seeking an environment where you can drive innovation? Does the idea of solving one of the most complex financial coordination challenges at a global scale — where every transaction touches tax, accounting, and treasury simultaneously — sound like your kind of problem? If so, the Amazon Finance Technology (FinTech) team is for you!\nAmazon FinTech is looking for a Senior Product Manager – Technical (PM-T) to deliver scalabl"
     }
   ]
 }
