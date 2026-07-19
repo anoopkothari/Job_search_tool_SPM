@@ -1,41 +1,13 @@
 {
-  "last_updated": "2026-07-18T15:48:09.125Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-07-19T15:50:31.047Z",
+  "total_fetched_today": 4,
   "jobs": [
-    {
-      "id": "jsearch_-8Ft_0nJdcabGH2uAAAAAA==",
-      "role": "Senior Product Manager - Platform",
-      "company": "Delinea",
-      "link": "https://jobs.ashbyhq.com/delinea/b0d82a51-4494-4928-840a-7800abba8af6",
-      "posted_date": "2026-07-15",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "Jobs",
-      "description_snippet": "About Delinea:\nDelinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delinea’s leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle – across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities – including workforce, IT administrator, developers, and machines – assign approp"
-    },
-    {
-      "id": "jsearch_2TVM-SgEMxnEEIHZAAAAAA==",
-      "role": "Sr. Product Manager, Hardware",
-      "company": "Promethean",
-      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-hardware-at-promethean-4441660332",
-      "posted_date": "2026-07-16",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "LinkedIn",
-      "description_snippet": "At Promethean...\n\nWe're on a mission to transform the way people learn and collaborate around the world. For over 25 years, we've been empowering educators, innovators, and business leaders with our award-winning interactive displays and software solutions that transform learning and workspaces into connected, creative environments.\n\nOur company is rooted in our values , igniting a culture that fosters collaboration and innovation, as well as promoting an inclusive environment. As a global leader in edtech, we are also passionate about four key areas where we can make a difference: growing acc"
-    },
     {
       "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
       "role": "Staff Product Manager, Unistore (Hybrid Tables)",
       "company": "Snowflake",
       "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-07-16",
+      "posted_date": "2026-07-17",
       "location": "Bellevue, Washington",
       "active": true,
       "resume_link": "",
@@ -71,6 +43,48 @@
       "match_score": 4,
       "source": "LinkedIn",
       "description_snippet": "Role Overview\n\nSeeking an experienced monetization owner to lead pricing, packaging, billing, and placement strategies for a profitable, remote SaaS company. The role involves strategy and execution to enhance conversion rates, develop an AI credit system, and evolve pricing models for an AI-native environment. The candidate will work cross-functionally with engineering, marketing, finance, and sales to align product offerings with customer value and business goals.\n\nKey responsibilities include owning monetization components, running experiments, and partnering on billing infrastructure. The "
+    },
+    {
+      "id": "jsearch_fJQWanAyr71oy9MKAAAAAA==",
+      "role": "Senior Lead Digital Product Manager – Web Store",
+      "company": "Activision Blizzard",
+      "link": "https://www.linkedin.com/jobs/view/senior-lead-digital-product-manager-%E2%80%93-web-store-at-activision-blizzard-4439281143",
+      "posted_date": "2026-07-17",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "LinkedIn",
+      "description_snippet": "Job Title\n\nSenior Lead Digital Product Manager – Web Store\n\nRequisition ID\n\nR027689\n\nJob Description\n\nJob Title: Senior Lead Digital Product Manager\n\nReporting To: Senior Manager, Digital Product Management\n\nDepartment: Digital Marketing\n\nLocation: Remote\n\nYOUR MISSION\n\nWe’re looking for a Senior Lead Digital Product Manager to lead the vision and execution of the Call of Duty web store and interactive marketing platform. You’ll own the roadmaps, partner with design & engineering, and build scalable systems that power commerce-driven experiences and dynamic marketing campaigns for millions of "
+    },
+    {
+      "id": "jsearch_-8Ft_0nJdcabGH2uAAAAAA==",
+      "role": "Senior Product Manager - Platform",
+      "company": "Delinea",
+      "link": "https://jobs.ashbyhq.com/delinea/b0d82a51-4494-4928-840a-7800abba8af6",
+      "posted_date": "2026-07-15",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Jobs",
+      "description_snippet": "About Delinea:\nDelinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delinea’s leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle – across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities – including workforce, IT administrator, developers, and machines – assign approp"
+    },
+    {
+      "id": "jsearch_2TVM-SgEMxnEEIHZAAAAAA==",
+      "role": "Sr. Product Manager, Hardware",
+      "company": "Promethean",
+      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-hardware-at-promethean-4441660332",
+      "posted_date": "2026-07-16",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "At Promethean...\n\nWe're on a mission to transform the way people learn and collaborate around the world. For over 25 years, we've been empowering educators, innovators, and business leaders with our award-winning interactive displays and software solutions that transform learning and workspaces into connected, creative environments.\n\nOur company is rooted in our values , igniting a culture that fosters collaboration and innovation, as well as promoting an inclusive environment. As a global leader in edtech, we are also passionate about four key areas where we can make a difference: growing acc"
     },
     {
       "id": "jsearch_QIfv1SleU9yN60j7AAAAAA==",
@@ -2787,20 +2801,6 @@
       "match_score": 6,
       "source": "Workday",
       "description_snippet": "We anticipate the application window for this opening will close on - 22 May 2026 At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life At Medtronic, we bring bold ideas forward with speed and decisiveness to put patients first in everything we do. This position is remote to enhance our competitive edge and expand our cross-functional collaboration efforts. This role will require travel 50%"
-    },
-    {
-      "id": "jsearch_zczE2AOlDZTxpyhtAAAAAA==",
-      "role": "Product Manager, AI Recommendations - Intelligent Planning",
-      "company": "remoterocketship",
-      "link": "https://www.talent.com/view?id=619203395211767711",
-      "posted_date": "2026-05-12",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Talent.com",
-      "description_snippet": "Job Description: The end-to-end product strategy and roadmap for Loop's Recommendations Skill — from signal to approved action Planning rules as a first-class product concept: how organizations define, manage, and version the guardrails that govern when and how recommendations are generated The recommendation surface: how Loop presents prioritized, explainable recommendations to the right stakeholder at the right moment — with full reasoning visible Governance and approval workflows: how recommendations move through human review, queuing, escalation, and batch approval without creating bottlen"
     }
   ]
 }
