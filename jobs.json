@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-19T15:50:31.047Z",
-  "total_fetched_today": 4,
+  "last_updated": "2026-07-20T16:21:06.677Z",
+  "total_fetched_today": 5,
   "jobs": [
     {
       "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
       "role": "Staff Product Manager, Unistore (Hybrid Tables)",
       "company": "Snowflake",
       "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-07-17",
+      "posted_date": "2026-07-20",
       "location": "Bellevue, Washington",
       "active": true,
       "resume_link": "",
@@ -17,18 +17,18 @@
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
-      "id": "jsearch_ZossUaz5alzV7XhHAAAAAA==",
-      "role": "AI Product Manager",
-      "company": "PACCAR",
-      "link": "https://www.indeed.com/viewjob?jk=461ce5fca508c6b2",
-      "posted_date": "2026-07-14",
-      "location": "Renton, Washington",
+      "id": "jsearch_vQucLMFCNhZEvDSBAAAAAA==",
+      "role": "Product Manager (Fulltime | Remote)",
+      "company": "PayPal",
+      "link": "https://bebee.com/us/jobs/product-manager-fulltime-remote-paypal-san-jose-ca--jooble--9064428514197717964--0149b876d02303c82d57ac0a0345d054",
+      "posted_date": "2026-07-17",
+      "location": "San Jose, California",
       "active": true,
       "resume_link": "",
       "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Indeed",
-      "description_snippet": "Start applying with LinkedIn\n\na.dialogApplyBtn { display: none; }\n\nDate: Jul 9, 2026\n\nLocation: Renton, WA, US, 98057\n\n#job-location.job-location-inline { display: inline; }\n\nCompany: PACCAR\n\nThe AI Product Manager lead analysis, development and implementation of an AI strategy within ITD applications.\n\nJob Functions/Responsibilities\n\nDefine the direction for AI at PACCAR ITD Applications – craft a strategy and roadmap that aligns business outcomes, data/platform realities, and responsible AI Standards.\n\nLead the AI Applications team of matrixed resources including developers\n\nCultivate relati"
+      "match_score": 4,
+      "source": "BeBee",
+      "description_snippet": "We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdra"
     },
     {
       "id": "jsearch_j2SvJMkpJoRh5G8MAAAAAA==",
@@ -57,6 +57,34 @@
       "match_score": 4,
       "source": "LinkedIn",
       "description_snippet": "Job Title\n\nSenior Lead Digital Product Manager – Web Store\n\nRequisition ID\n\nR027689\n\nJob Description\n\nJob Title: Senior Lead Digital Product Manager\n\nReporting To: Senior Manager, Digital Product Management\n\nDepartment: Digital Marketing\n\nLocation: Remote\n\nYOUR MISSION\n\nWe’re looking for a Senior Lead Digital Product Manager to lead the vision and execution of the Call of Duty web store and interactive marketing platform. You’ll own the roadmaps, partner with design & engineering, and build scalable systems that power commerce-driven experiences and dynamic marketing campaigns for millions of "
+    },
+    {
+      "id": "jsearch_CTqcLcEfQEetd1KUAAAAAA==",
+      "role": "Remote Senior Product Manager, Dispenser",
+      "company": "Vontier",
+      "link": "https://us.trabajo.org/job-3329-5a511555684b418333f4fd352edff104",
+      "posted_date": "2026-07-14",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "Trabajo.org",
+      "description_snippet": "Vontier is seeking a Senior Manager, Product - Dispenser & Payment Terminal Asset Management, primarily open to remote candidates. This role involves leading product vision and collaborating with various teams to ensure alignment with market needs. Applicants should have over 7 years of product management experience, ideally in asset management software, and a BS degree in a relevant field. The position offers a competitive salary and a range of health and wellness benefits, along with 15 days of paid time off. J-18808-Ljbffr"
+    },
+    {
+      "id": "jsearch_ZossUaz5alzV7XhHAAAAAA==",
+      "role": "AI Product Manager",
+      "company": "PACCAR",
+      "link": "https://www.indeed.com/viewjob?jk=461ce5fca508c6b2",
+      "posted_date": "2026-07-14",
+      "location": "Renton, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Indeed",
+      "description_snippet": "Start applying with LinkedIn\n\na.dialogApplyBtn { display: none; }\n\nDate: Jul 9, 2026\n\nLocation: Renton, WA, US, 98057\n\n#job-location.job-location-inline { display: inline; }\n\nCompany: PACCAR\n\nThe AI Product Manager lead analysis, development and implementation of an AI strategy within ITD applications.\n\nJob Functions/Responsibilities\n\nDefine the direction for AI at PACCAR ITD Applications – craft a strategy and roadmap that aligns business outcomes, data/platform realities, and responsible AI Standards.\n\nLead the AI Applications team of matrixed resources including developers\n\nCultivate relati"
     },
     {
       "id": "jsearch_-8Ft_0nJdcabGH2uAAAAAA==",
@@ -2773,34 +2801,6 @@
       "match_score": 10,
       "source": "JobLeads",
       "description_snippet": "About RoomPriceGenie\n\nFounded in 2017, RoomPriceGenie is dedicated to helping hoteliers around the globe achieve optimal pricing. We understand that many small hotels face challenges with digitalization, making their operations increasingly complex and often resulting in lost revenue. We have developed a powerful solution that enables hotels to set the right prices in just seconds. Our state‑of‑the‑art algorithm analyzes both internal hotel data and market trends to recommend pricing strategies that enhance revenue and improve booking rates. With customers spanning the globe, RoomPriceGenie ha"
-    },
-    {
-      "id": "jsearch_POXPtaTORi7yl-FjAAAAAA==",
-      "role": "Senior Product Manager — AI Recruiting",
-      "company": "SeekOut",
-      "link": "https://www.builtinseattle.com/job/senior-product-manager/8830815",
-      "posted_date": "2026-05-10",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "Built In Seattle",
-      "description_snippet": "What is SeekOut?\n\nSeekOut helps organizations hire, grow, and retain talent by bringing together recruiting, talent management, and analytics into one platform. The goal is simple: help companies better understand their people and connect them to the right opportunities.\nWhat are we looking to add to our team?\n\nWe’re looking for a Senior Product Manager to help define and build the next generation of AI-powered recruiting experiences.\n\nYou’ll work across product, engineering, and design to create tools that improve how recruiters source, evaluate, and engage talent. This includes automation, d"
-    },
-    {
-      "id": "jsearch_-8Ft_0nJdcabGH2uAAAAAA==",
-      "role": "Senior Product Manager - US Clinical Marketing, Robotic Surgical Technologies",
-      "company": "COV Covidien LP",
-      "link": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Senior-Product-Manager---US-Clinical-Marketing--Robotic-Surgical-Technologies_R64815-1",
-      "posted_date": "2026-05-10",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Workday",
-      "description_snippet": "We anticipate the application window for this opening will close on - 22 May 2026 At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world. A Day in the Life At Medtronic, we bring bold ideas forward with speed and decisiveness to put patients first in everything we do. This position is remote to enhance our competitive edge and expand our cross-functional collaboration efforts. This role will require travel 50%"
     }
   ]
 }
