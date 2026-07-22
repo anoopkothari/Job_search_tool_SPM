@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-07-21T16:18:34.803Z",
-  "total_fetched_today": 8,
+  "last_updated": "2026-07-22T16:17:21.970Z",
+  "total_fetched_today": 9,
   "jobs": [
+    {
+      "id": "jsearch_Giyz7TvSqboBbXyWAAAAAA==",
+      "role": "Sr Business Analyst /Product Manager -  US",
+      "company": "Photon",
+      "link": "https://www.builtinnyc.com/job/sr-business-analyst-product-manager-us/9913857",
+      "posted_date": "2026-07-20",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Built In NYC",
+      "description_snippet": "Job Title\n\nProduct Manager – Data Platform, Analytics & Cloud (GCP)\n\nRole Summary\n\nWe are seeking an experienced Product Manager to own and drive a cloud-native data platform spanning databases, ETL/ELT pipelines, streaming, analytics, and reporting. This role will work closely with onshore architects, data engineering leads, analytics teams, and offshore delivery teams to define product vision, roadmap, and execution for enterprise-scale data solutions on Google Cloud Platform (GCP).\n\nThe Product Manager will bridge business requirements and technical implementation, ensuring scalable, reliab"
+    },
     {
       "id": "jsearch_aEFbnczetgeRLU74AAAAAA==",
       "role": "Senior Product Manager - Tech External Services, Amazon Elastic Block Store (EBS)",
@@ -17,6 +31,104 @@
       "description_snippet": "DESCRIPTION\n\nAmazon Elastic Block Store (EBS) is looking for an seasoned product manager and disruptive thinker to help us define the vision and strategy for block storage on AWS. As a member of the team you'll work alongside engineers and leaders to develop and operate one of the largest distributed systems in the world.\n\nIn this position, you will define product requirements, business and go-to-market strategy, and pricing for a set of critical new EBS features, while tirelessly champion the needs of our customers. This role will require coordination across many internal and external teams a"
     },
     {
+      "id": "jsearch_TvPxenheqvxzhM_YAAAAAA==",
+      "role": "Principal Product Manager, General Compute (Seattle)",
+      "company": "Crusoe Energy Systems",
+      "link": "https://www.climatetechlist.com/job/crusoe-energy-systems-principal-product-manager-general-compute-seattle-NToQ1LkgnT0pOX",
+      "posted_date": "2026-07-20",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "ClimateTechList",
+      "description_snippet": "Crusoe is on a mission to accelerate the abundance of energy and intelligence. As the only vertically integrated AI infrastructure company built from the ground up, we own and operate each layer of the stack — from electrons to tokens — to power the world's most ambitious AI workloads. When you join Crusoe, you join a team that is building the future, faster.\n\nWe're in the midst of the greatest industrial revolution of our time. The demand for AI compute is boundless, and power is a bottleneck. We're solving that — with an energy-first approach that makes AI infrastructure better for the world"
+    },
+    {
+      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
+      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
+      "company": "Snowflake",
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
+      "posted_date": "2026-07-20",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Snowflake Careers",
+      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
+    },
+    {
+      "id": "jsearch_QWcsysp4CpDBisARAAAAAA==",
+      "role": "Senior Product Manager - AI Platform 0→1 (Remote)",
+      "company": "Remote",
+      "link": "https://www.jobleads.com/us/job/senior-product-manager-ai-platform-0-1-remote--chili--e286ce9dd8d4c0e5445e307566c8389d7",
+      "posted_date": "2026-07-16",
+      "location": "Chili, Wisconsin",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "JobLeads",
+      "description_snippet": "Remote is seeking a Senior Product Manager to build a new product line focused on AI agents and automation. In this fully remote role, you will own demand signals and work alongside cross-functional teams to ensure alignment. A proven track record in product management, particularly with APIs, is essential.\n\nCompensation includes a salary between $149,750 and $168,500, complemented by a comprehensive benefits package. Flexibility is key, offering work from anywhere and generous paid leave policies."
+    },
+    {
+      "id": "jsearch_uWQftpHa7VrFWcjqAAAAAA==",
+      "role": "Product Operations and Payment Cards, Product Manager - MN Market - Remote",
+      "company": "UnitedHealth Group",
+      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/product-operations-and-payment-cards-product-manager-mn-market-remote/34088/98093661712",
+      "posted_date": "2026-07-20",
+      "location": "Minnetonka, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "UnitedHealth Group Careers",
+      "description_snippet": "At UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable and optimized. Ready to make a difference? Join us to start Caring. Connecting. Growing together\n\nAs a member of the Product Operations Strategy team, this role supports the development and execution of initiatives that guide product delivery for UnitedHealthcare's Medicare Advantage plans and progra"
+    },
+    {
+      "id": "jsearch_V_PLcgXU75XdFq99AAAAAA==",
+      "role": "Product Manager, Amazon Fuse",
+      "company": "Amazon.com",
+      "link": "https://bebee.com/us/jobs/product-manager-amazon-fuse-amazoncom-seattle-wa--t7xk-765950298",
+      "posted_date": "2026-07-16",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "DESCRIPTION\n\nWould you like to be part of a team that is creating new ways for customers to discover and engage with Amazon? The Fuse team builds products that connect partner ecosystems to Amazon, creating new entry points for customers who haven't yet experienced what Amazon has to offer. Our products enable partners to distribute their services directly on Amazon, turning routine transactions into gateways for discovery, engagement, and long-term customer relationships.\nAmazon Fuse is seeking a Product Manager to drive planning, execution, and delivery of customer experiences with team-leve"
+    },
+    {
+      "id": "jsearch_WtOlcplqdofmRwfeAAAAAA==",
+      "role": "Remote Product Manager, Distributed Computing",
+      "company": "nTopology Inc. (nTop, Inc.)",
+      "link": "https://www.jobleads.com/us/job/remote-product-manager-distributed-computing--united-states--e08ad5fb3014fd8d762b25c7f51debc99",
+      "posted_date": "2026-07-22",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "JobLeads",
+      "description_snippet": "nTopology Inc. (nTop, Inc.) is seeking a Product Manager for distributed computing to own the product roadmap, launch integrations, and monitor usage patterns in a remote work environment.\n\nYou will define and prioritize the roadmap for distributed computing, lead the first integration with external platforms, and inform pricing and packaging decisions for compute-intensive workloads based on data. Ideal candidates have 4–7 years of product management experience in complex B2B software, with a"
+    },
+    {
+      "id": "jsearch_6dao7NAKXtbfF60ZAAAAAA==",
+      "role": "Digital Product Manager, III",
+      "company": "Sutter Health",
+      "link": "https://jobs.sutterhealth.org/us/en/job/R-133096/Digital-Product-Manager-III",
+      "posted_date": "2026-07-19",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "Sutter Health",
+      "description_snippet": "We are so glad you are interested in joining Sutter Health!\n\nOrganization:\nSHSO-Sutter Health System Office-Bay\nPosition Overview:\nContributes to the product lifecycle of information technology solutions that improve experiences for patients, clinicians, and operations. Collaborates with data scientists, engineers, designers, and clinical or business stakeholders to shape requirements, inform the roadmap, and help bring concepts to market. Support product leadership by translating ideas into actionable steps, coordinating across cross-functional teams, and ensuring that delivery aligns with es"
+    },
+    {
       "id": "jsearch_06nZw3F5n3mM5W7cAAAAAA==",
       "role": "Product Manager, New Products",
       "company": "C-4 Analytics",
@@ -29,20 +141,6 @@
       "match_score": 6,
       "source": "Trabajo.org",
       "description_snippet": "Overview C-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value. This role focuses on what’s next. We’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations. This is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products. You won’t just define ideas—you’ll bring them to life and prove their va"
-    },
-    {
-      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
-      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
-      "company": "Snowflake",
-      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-07-21",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Snowflake Careers",
-      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
       "id": "jsearch_EaXNFwCo3FbqqtLkAAAAAA==",
@@ -73,20 +171,6 @@
       "description_snippet": "We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdra"
     },
     {
-      "id": "jsearch_V_PLcgXU75XdFq99AAAAAA==",
-      "role": "Product Manager, Amazon Fuse",
-      "company": "Amazon.com",
-      "link": "https://bebee.com/us/jobs/product-manager-amazon-fuse-amazoncom-seattle-wa--t7xk-765950298",
-      "posted_date": "2026-07-16",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "DESCRIPTION\n\nWould you like to be part of a team that is creating new ways for customers to discover and engage with Amazon? The Fuse team builds products that connect partner ecosystems to Amazon, creating new entry points for customers who haven't yet experienced what Amazon has to offer. Our products enable partners to distribute their services directly on Amazon, turning routine transactions into gateways for discovery, engagement, and long-term customer relationships.\nAmazon Fuse is seeking a Product Manager to drive planning, execution, and delivery of customer experiences with team-leve"
-    },
-    {
       "id": "jsearch_WTlczb8VqBfS5L0iAAAAAA==",
       "role": "Remote Product Manager",
       "company": "Worklio",
@@ -99,20 +183,6 @@
       "match_score": 3,
       "source": "Trabajo.org",
       "description_snippet": "Worklio is hiring a Product Manager in Chicago to manage payroll feature development tailored for the U.S. market. The role requires at least 5 years of experience in payroll-related software and a strong understanding of U.S. payroll tax structures. You will work closely with engineering, QA, and compliance teams, ensuring timely and compliant releases. The position offers remote work flexibility and a salary range of $115,000 - $145,000 a year based on experience. Join us to shape the future of payroll infrastructure. #J-18808-Ljbffr"
-    },
-    {
-      "id": "jsearch_6dao7NAKXtbfF60ZAAAAAA==",
-      "role": "Digital Product Manager, III",
-      "company": "Sutter Health",
-      "link": "https://jobs.sutterhealth.org/us/en/job/R-133096/Digital-Product-Manager-III",
-      "posted_date": "2026-07-19",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "Sutter Health",
-      "description_snippet": "We are so glad you are interested in joining Sutter Health!\n\nOrganization:\nSHSO-Sutter Health System Office-Bay\nPosition Overview:\nContributes to the product lifecycle of information technology solutions that improve experiences for patients, clinicians, and operations. Collaborates with data scientists, engineers, designers, and clinical or business stakeholders to shape requirements, inform the roadmap, and help bring concepts to market. Support product leadership by translating ideas into actionable steps, coordinating across cross-functional teams, and ensuring that delivery aligns with es"
     },
     {
       "id": "jsearch_j2SvJMkpJoRh5G8MAAAAAA==",
@@ -281,20 +351,6 @@
       "match_score": 5,
       "source": "LinkedIn",
       "description_snippet": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing"
-    },
-    {
-      "id": "jsearch_QWcsysp4CpDBisARAAAAAA==",
-      "role": "Senior Product Manager - AI Platform 0→1 (Remote)",
-      "company": "Remote",
-      "link": "https://www.jobleads.com/us/job/senior-product-manager-ai-platform-0-1-remote--chili--e286ce9dd8d4c0e5445e307566c8389d7",
-      "posted_date": "2026-07-09",
-      "location": "Chili, Wisconsin",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "JobLeads",
-      "description_snippet": "Remote is seeking a Senior Product Manager to build a new product line focused on AI agents and automation. In this fully remote role, you will own demand signals and work alongside cross-functional teams to ensure alignment. A proven track record in product management, particularly with APIs, is essential.\n\nCompensation includes a salary between $149,750 and $168,500, complemented by a comprehensive benefits package. Flexibility is key, offering work from anywhere and generous paid leave policies."
     },
     {
       "id": "jsearch_RxT3NjvdRf2tpNPXAAAAAA==",
@@ -1151,20 +1207,6 @@
       "description_snippet": "Senior Product Manager, Salesforce Platform Why This Role Matters At Greenbox Capital, we are transforming how businesses access capital by building technology that simplifies underwriting, accelerates decisions, and improves operational efficiency. As a Senior Product Manager focused on the Salesforce platform, you will lead the roadmap for the systems that power our lending lifecycle across servicing, collections and Salesforce-driven operational workflows Your work will ensure Salesforce and related systems operate as a cohesive platform that supports scalable growth, operational efficiency"
     },
     {
-      "id": "jsearch_TvPxenheqvxzhM_YAAAAAA==",
-      "role": "Principal Product Manager, General Compute (Seattle)",
-      "company": "Crusoe Energy Systems",
-      "link": "https://www.climatetechlist.com/job/crusoe-energy-systems-principal-product-manager-general-compute-seattle-NToQ1LkgnT0pOX",
-      "posted_date": "2026-07-01",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "ClimateTechList",
-      "description_snippet": "Crusoe is on a mission to accelerate the abundance of energy and intelligence. As the only vertically integrated AI infrastructure company built from the ground up, we own and operate each layer of the stack — from electrons to tokens — to power the world's most ambitious AI workloads. When you join Crusoe, you join a team that is building the future, faster.\n\nWe're in the midst of the greatest industrial revolution of our time. The demand for AI compute is boundless, and power is a bottleneck. We're solving that — with an energy-first approach that makes AI infrastructure better for the world"
-    },
-    {
       "id": "jsearch_LvMVr3U2-JJ8h2HOAAAAAA==",
       "role": "Sr Product Manager, Product Usage (VIRTUAL, WA, US, 00000)",
       "company": "NRG",
@@ -1247,20 +1289,6 @@
       "match_score": 3,
       "source": "Careers At Global Partners - Global Partners LP",
       "description_snippet": "Salesforce Product Manager oversees the Salesforce technical strategy and roadmap. They bridge the gap between engineering and business teams, translating user needs and business goals into technical requirements, managing product development, and ensuring products meet both technical specifications.\n\nAt Global Partners, business starts with people. Since 1933, we’ve believed in taking care of our customers, our guests, our communities, and each other—and that belief continues to guide us.\n\nThe Global Spirit is the cornerstone of our commitment to success. As a Fortune 500 company with 90+ yea"
-    },
-    {
-      "id": "jsearch_Giyz7TvSqboBbXyWAAAAAA==",
-      "role": "Sr Business Analyst /Product Manager -  US",
-      "company": "Photon",
-      "link": "https://www.builtinnyc.com/job/sr-business-analyst-product-manager-us/9913857",
-      "posted_date": "2026-06-24",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "Built In NYC",
-      "description_snippet": "Job Title\n\nProduct Manager – Data Platform, Analytics & Cloud (GCP)\n\nRole Summary\n\nWe are seeking an experienced Product Manager to own and drive a cloud-native data platform spanning databases, ETL/ELT pipelines, streaming, analytics, and reporting. This role will work closely with onshore architects, data engineering leads, analytics teams, and offshore delivery teams to define product vision, roadmap, and execution for enterprise-scale data solutions on Google Cloud Platform (GCP).\n\nThe Product Manager will bridge business requirements and technical implementation, ensuring scalable, reliab"
     },
     {
       "id": "jsearch_F4cm9ubvlhe8SbcuAAAAAA==",
@@ -2773,34 +2801,6 @@
       "match_score": 3,
       "source": "Dejobs.org",
       "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
-    },
-    {
-      "id": "jsearch_sHonHyi-h6qg5urzAAAAAA==",
-      "role": "Product Manager - AI-Driven SaaS for Lab LIMS (Remote)",
-      "company": "Astrix",
-      "link": "https://www.jobleads.com/us/job/product-manager-ai-driven-saas-for-lab-lims-remote--united-states--eee05277c215327c3c7758bacd6eaca5e",
-      "posted_date": "2026-05-17",
-      "location": "United States",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "JobLeads",
-      "description_snippet": "Astrix is seeking a Product Manager to drive product strategy and growth within their Food & Beverage portfolio. This cross-functional and highly visible role requires 5+ years of Product Management experience, particularly in SaaS and LIMS. The successful candidate will own the product lifecycle, define strategies, conduct market analysis, and ensure product innovations. The position offers a remote work option in the US, with a salary range from $100K to $154K plus bonuses."
-    },
-    {
-      "id": "jsearch_aYv_oStf8yacYWoPAAAAAA==",
-      "role": "Product Manager, Digital Health",
-      "company": "VirtualVocations",
-      "link": "https://www.talent.com/view?id=619534544997920737",
-      "posted_date": "2026-05-14",
-      "location": "Renton, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Talent.com",
-      "description_snippet": "Product Manager, Digital Health, is a full-time position responsible for leading a cross-functional product team focused on patient engagement, driving product discovery and delivery, and ensuring alignment with strategic goals and user needs. Key Responsibilities Own and prioritize the product roadmap, collaborating with cross-functional teams to define and frame customer problems Drive structured product discovery and validate ideas through various testing methodologies Champion cross-functional collaboration and elevate the voice of the customer to inform product decisions Required Qualific"
     }
   ]
 }
