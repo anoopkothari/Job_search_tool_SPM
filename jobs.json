@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-07-22T16:17:21.970Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-07-23T16:22:07.680Z",
+  "total_fetched_today": 4,
   "jobs": [
+    {
+      "id": "jsearch_5uB8DHdkchM0pNeSAAAAAA==",
+      "role": "Principal Product Manager - Technical, External Services, Amazon Aurora",
+      "company": "Amazon Development Center U.S., Inc.",
+      "link": "https://www.indeed.com/viewjob?jk=95a5ffec7072814a",
+      "posted_date": "2026-07-17",
+      "location": "Redmond, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Indeed",
+      "description_snippet": "DESCRIPTION\n\nAre you interested in building hyper-scale database services in the cloud? Do you want to revolutionize the way people manage vast volumes of data in the cloud? Do you want to have direct and immediate impact on hundreds of thousands of users who use AWS database services?\n\nAmazon Aurora is a MySQL and PostgreSQL-compatible, relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. Aurora also manages all the work needed to set up, operate, and scale a database, from pro"
+    },
+    {
+      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
+      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
+      "company": "Snowflake",
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
+      "posted_date": "2026-07-23",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Snowflake Careers",
+      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
+    },
+    {
+      "id": "jsearch_uWQftpHa7VrFWcjqAAAAAA==",
+      "role": "Product Operations and Payment Cards, Product Manager - MN Market - Remote",
+      "company": "UnitedHealth Group",
+      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/product-operations-and-payment-cards-product-manager-mn-market-remote/34088/98093661712",
+      "posted_date": "2026-07-21",
+      "location": "Minnetonka, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "UnitedHealth Group",
+      "description_snippet": "At UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable and optimized. Ready to make a difference? Join us to start Caring. Connecting. Growing together\n\nAs a member of the Product Operations Strategy team, this role supports the development and execution of initiatives that guide product delivery for UnitedHealthcare's Medicare Advantage plans and progra"
+    },
+    {
+      "id": "jsearch_V_PLcgXU75XdFq99AAAAAA==",
+      "role": "Product Manager, Amazon Fuse",
+      "company": "Amazon.com",
+      "link": "https://bebee.com/us/jobs/product-manager-amazon-fuse-amazoncom-seattle-wa--t7xk-765950298",
+      "posted_date": "2026-07-16",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "DESCRIPTION\n\nWould you like to be part of a team that is creating new ways for customers to discover and engage with Amazon? The Fuse team builds products that connect partner ecosystems to Amazon, creating new entry points for customers who haven't yet experienced what Amazon has to offer. Our products enable partners to distribute their services directly on Amazon, turning routine transactions into gateways for discovery, engagement, and long-term customer relationships.\nAmazon Fuse is seeking a Product Manager to drive planning, execution, and delivery of customer experiences with team-leve"
+    },
     {
       "id": "jsearch_Giyz7TvSqboBbXyWAAAAAA==",
       "role": "Sr Business Analyst /Product Manager -  US",
@@ -45,20 +101,6 @@
       "description_snippet": "Crusoe is on a mission to accelerate the abundance of energy and intelligence. As the only vertically integrated AI infrastructure company built from the ground up, we own and operate each layer of the stack — from electrons to tokens — to power the world's most ambitious AI workloads. When you join Crusoe, you join a team that is building the future, faster.\n\nWe're in the midst of the greatest industrial revolution of our time. The demand for AI compute is boundless, and power is a bottleneck. We're solving that — with an energy-first approach that makes AI infrastructure better for the world"
     },
     {
-      "id": "jsearch_Oqp_0uPxyNccLJnbAAAAAA==",
-      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
-      "company": "Snowflake",
-      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-07-20",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Snowflake Careers",
-      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
-    },
-    {
       "id": "jsearch_QWcsysp4CpDBisARAAAAAA==",
       "role": "Senior Product Manager - AI Platform 0→1 (Remote)",
       "company": "Remote",
@@ -71,34 +113,6 @@
       "match_score": 4,
       "source": "JobLeads",
       "description_snippet": "Remote is seeking a Senior Product Manager to build a new product line focused on AI agents and automation. In this fully remote role, you will own demand signals and work alongside cross-functional teams to ensure alignment. A proven track record in product management, particularly with APIs, is essential.\n\nCompensation includes a salary between $149,750 and $168,500, complemented by a comprehensive benefits package. Flexibility is key, offering work from anywhere and generous paid leave policies."
-    },
-    {
-      "id": "jsearch_uWQftpHa7VrFWcjqAAAAAA==",
-      "role": "Product Operations and Payment Cards, Product Manager - MN Market - Remote",
-      "company": "UnitedHealth Group",
-      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/product-operations-and-payment-cards-product-manager-mn-market-remote/34088/98093661712",
-      "posted_date": "2026-07-20",
-      "location": "Minnetonka, Minnesota",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "UnitedHealth Group Careers",
-      "description_snippet": "At UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable and optimized. Ready to make a difference? Join us to start Caring. Connecting. Growing together\n\nAs a member of the Product Operations Strategy team, this role supports the development and execution of initiatives that guide product delivery for UnitedHealthcare's Medicare Advantage plans and progra"
-    },
-    {
-      "id": "jsearch_V_PLcgXU75XdFq99AAAAAA==",
-      "role": "Product Manager, Amazon Fuse",
-      "company": "Amazon.com",
-      "link": "https://bebee.com/us/jobs/product-manager-amazon-fuse-amazoncom-seattle-wa--t7xk-765950298",
-      "posted_date": "2026-07-16",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "DESCRIPTION\n\nWould you like to be part of a team that is creating new ways for customers to discover and engage with Amazon? The Fuse team builds products that connect partner ecosystems to Amazon, creating new entry points for customers who haven't yet experienced what Amazon has to offer. Our products enable partners to distribute their services directly on Amazon, turning routine transactions into gateways for discovery, engagement, and long-term customer relationships.\nAmazon Fuse is seeking a Product Manager to drive planning, execution, and delivery of customer experiences with team-leve"
     },
     {
       "id": "jsearch_WtOlcplqdofmRwfeAAAAAA==",
@@ -2787,20 +2801,6 @@
       "match_score": 4,
       "source": "BeBee",
       "description_snippet": "This is a technology startup headquartered in Austin, TX, and we are revolutionizing the way everyday individuals engage in buying and selling businesses, moving away from the traditional realm of Wall Street. We believe that buying small businesses should be as easy as buying real estate. We serve as the vital link between one generation’s legacy of small business creation and the next generation who will buy and innovate within them.\n\nOur platform acts as a rapidly expanding marketplace for business transactions, complemented by a dedicated brokerage arm providing personalized support to rea"
-    },
-    {
-      "id": "jsearch_al4j0NY9_EpqJ1xeAAAAAA==",
-      "role": "Sr. Technical Product Manager (Remote)",
-      "company": "GovCIO",
-      "link": "https://dejobs.org/harrisburg-pa/sr-technical-product-manager-remote/DBDD79CB329F4902A3A779AF582DD3E7/job/",
-      "posted_date": "2026-05-19",
-      "location": "Harrisburg, Pennsylvania",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Dejobs.org",
-      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
     }
   ]
 }
