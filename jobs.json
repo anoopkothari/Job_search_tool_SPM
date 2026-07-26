@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-07-25T15:58:36.316Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-07-26T15:57:14.951Z",
+  "total_fetched_today": 7,
   "jobs": [
+    {
+      "id": "jsearch_R2l5ejdUdlNxYm9CYlh5V0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEkyV2xsdlgzZHNjamxHVVRkdGRYSlVORnB2ZFhaMFJtcFJZakE1VVRsVGRHcEJRbVZyTWxJelJrTTRiV0pDUjFGbFVtUTNlamRzYzI4M1MxTmpXRWRQU2xObU1VTktTbEpuVlhKMU1VcDNWVGMyV0c5eVpGbHROVjkxZEZOSWIyVXdWMFZHWldJNE1GcHdWV3hGYVVoRFExRm5ZakpFVVY5bU1qSkdaamRLY2pOc0xYVVNGMU5UTlcxaGMyWTVRM1ZsYzJoaVNWQXdObms0YzFGUkdpSkJSSE55T1daVE9HWkNZVEJ2V2pKb2FtNHljREp4V1cxMlNXRlJURk56U1VaQg",
+      "role": "Sr Business Analyst /Product Manager -  US",
+      "company": "Photon",
+      "link": "https://www.builtinnyc.com/job/sr-business-analyst-product-manager-us/9913857",
+      "posted_date": "2026-07-20",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Built In NYC",
+      "description_snippet": "Job Title\n\nProduct Manager – Data Platform, Analytics & Cloud (GCP)\n\nRole Summary\n\nWe are seeking an experienced Product Manager to own and drive a cloud-native data platform spanning databases, ETL/ELT pipelines, streaming, analytics, and reporting. This role will work closely with onshore architects, data engineering leads, analytics teams, and offshore delivery teams to define product vision, roadmap, and execution for enterprise-scale data solutions on Google Cloud Platform (GCP).\n\nThe Product Manager will bridge business requirements and technical implementation, ensuring scalable, reliab"
+    },
+    {
+      "id": "jsearch_Y1l1aW40X3ZMRGZRZW9LVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkJDVTNoNmVteEJlV2hvYm1OcWVVVmZZa295V1dobk5qRnhURzU1WWpCVFNHVlRRemhEVTI5TlJIVTNWMEZYWlhCaVJucDBZV1p3UkhWUGNqRkJha2xtUlhOR1pWRmpZVTlCWmpWRFUyUldOMFZ6YjE5NFlWaDZZVTFNYldWM2VEQnpaRUV4VDBsYU5sQjJOakZTWDJGZmExRk5XWGd3ZWs5NFFVTjZPR2x2YVVWR0xUSVNGMU5UTlcxaGMyWTVRM1ZsYzJoaVNWQXdObms0YzFGUkdpSkJSSE55T1daVGJtMHhlSGQ2V21SYVNYUkNUM05YTWxRNFNHOTRUMjlXTTNoQg",
+      "role": "Principal Product Manager, Core AI Platform",
+      "company": "Qualtrics",
+      "link": "https://www.qualtrics.com/careers/us/en/job/8055389/Principal-Product-Manager-Core-AI-Platform",
+      "posted_date": "2026-07-24",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Qualtrics",
+      "description_snippet": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.\n\nWhen you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressi"
+    },
+    {
+      "id": "jsearch_dVdRZnRwSGE3VnJGV2NqcUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzk2U3psSE5HMW5hWFIwTVU5VFZrOXNNVmhRUTA5cFduZGFVemh3UVV4RmVGbFlPRFZpT0MxTFNWRjRlSFIwZFRGaFlXaHVZVmc0V1doTVYzZE5iRGhaTjI1clltcFFVbUZvWkhFMU5uZDRhbEpXVG5STFlVOUVNa010UTNkYWVYcFpRVEV0VFV0Nk9YVkROVFZuZGxNM1dHSlZUVkZXYzE5S01WVnlkVFJtWWxoa2MyOFNGMHRUTlcxaGRFOXpRbDlMVHpsMU9GQXhaVXREZFZGdkdpSkJSSE55T1daUlQyaGZaVlZ4YVVSWE5ISXplalJ3WjNCaVdVSkhTM1ZhUmw5bg",
+      "role": "Product Operations and Payment Cards, Product Manager - MN Market - Remote",
+      "company": "UnitedHealth Group",
+      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/product-operations-and-payment-cards-product-manager-mn-market-remote/34088/98093661712",
+      "posted_date": "2026-07-21",
+      "location": "Minnetonka, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "UnitedHealth Group",
+      "description_snippet": "At UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable and optimized. Ready to make a difference? Join us to start Caring. Connecting. Growing together\n\nAs a member of the Product Operations Strategy team, this role supports the development and execution of initiatives that guide product delivery for UnitedHealthcare's Medicare Advantage plans and progra"
+    },
+    {
+      "id": "jsearch_Xy0xVlVCRGh6Ti1EaW4zUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3d4V2xGTVNYUXdkbEJYZG5SQmFtSnhjVkpFTUMxRlNFNVlOVzExVTBKdE9WRTBMVk5wWmpKQlVqTnNaa2hzTVZWWVEzWlJhWGxzY2kxVE5XVnhjR0o1VFhWa00xVktSalo0VnkxNVNWWjNVRU5HZUhWbGJFZzVSbEZETkUwMGQyMUNSbWN6TVc1a2NFTXdRVmhGUkZBemQwUkdkbkUyUTNRelpXSmhaVzlRYkRGQllqZ1NGMUJETlcxaGNtSXhTbUpUVEdoaVNWQnRjRFpXTmtFMEdpSkJSSE55T1daVU9UTjZiMjk0U0hFNGEydHdOMWwwVFRGZlExWkdZVU53YTNoUg",
+      "role": "Product Operations and Payment Cards, Product Manager - MN Market - Remote",
+      "company": "Optum",
+      "link": "https://builtin.com/job/product-operations-and-payment-cards-product-manager-mn-market-remote/10353507",
+      "posted_date": "2026-07-22",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Built In",
+      "description_snippet": "Requisition Number: 2374200\nAt UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable and optimized. Ready to make a difference? Join us to start Caring. Connecting. Growing together\nAs a member of the Product Operations Strategy team, this role supports the development and execution of initiatives that guide product delivery for UnitedHealthcare's Medicare"
+    },
+    {
+      "id": "jsearch_LVJ5UkppWWlnbEM2RFRTb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR0ZNY0ZSeFkzbGFaakJUT1hkTFdGSjNhMU5YVVhCMlJVWlhNRzFWT1cwM2VXRlBNVmMwWVdkQlN6SlRjRGd4Y0d4aVQwdFJjRFJzYVZSV2FFMUdWRzF4VlZWVVVHeEtlbGRPY1hCVlIwVnhNMUowYkdKR09GQm1SRkZGYjFSWWVVc3RkVVYxUmpsSGNHdHRXamx6ZEU1SVdqVjFUbTAxVTBKR1J6TktNRXhEWTFkQ2FIY1NGMU5UTlcxaGMyWTVRM1ZsYzJoaVNWQXdObms0YzFGUkdpSkJSSE55T1daVVJrazJOVlE1VVc1UlgxODVOMlJoVFZScFNubEVUbWQ2VVdSUg",
+      "role": "Remote Product Manager - SaaS & AI-Driven Workflows",
+      "company": "BookMyMentor",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-saas-ai-driven-workflows-bookmymentor-palo-alto--lensa-7428_fe8aed6545877597f93c2866c4e422bd5a8dc013047cbc85882e32abbf121887",
+      "posted_date": "2026-07-19",
+      "location": "Palo Alto, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "BookMyMentor in Palo Alto, CA is looking for a Mid-Level Product Manager with a passion for solving customer problems. You will work alongside engineering to build innovative products in a fast-paced startup environment.\nThe ideal candidate has a strong B2B SaaS background and at least 2 years of product management experience. This role offers permanent remote setup, team retreats, and health insurance among other benefits."
+    },
+    {
+      "id": "jsearch_MXgxeXZNTEowOW1vSmM1V0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWxqYTFoUFNYTXpNa1l0UW5GUVNEaG5jbUpHWDJGRk9VYzFUSGgzUnpsdlZuWTJTbFJCVTBwcGJGVnNkbmhFZVhkeGVsQTJjRk15ZG5Ob2NGZExjVlJXZVdkNmFYbEdWRmhvUTNkalVWVlBlamRvTm5SMFVFODVWSHBFTjJKM1gwbDBjVkJPZG5waldHVk1Nak5mWlZwMGVHOVVZbFpPVjA5WU1qTm5jM0JJUTBKNFkxVVNGMWRETlcxaGNGaFlRV1Y1VEhCMFVWQXhOMUJvZVZFd0dpSkJSSE55T1daUlpVaFVSamhmWkVOMVNXZGxWR1F5V1hwWGNrcEpaVlZOUVhKMw",
+      "role": "Principal Product Manager, Local Business",
+      "company": "OfferUp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-local-business-at-offerup-4443160883",
+      "posted_date": "2026-07-22",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "LinkedIn",
+      "description_snippet": "About the Role\n\nDo you want to help give small businesses tools to thrive and grow?\n\nOfferUp is looking for a Principal Product Manager to lead our Local Business product portfolio that includes our Storefronts and Motors business lines, which are our suite of solutions for SMB retailers and vehicle dealerships looking to connect with buyers in their local communities. This role sits at the intersection of B2B product strategy and revenue growth, and it's an opportunity to shape how thousands of local businesses across the country connect with customers on one of the largest local shopping pla"
+    },
+    {
+      "id": "jsearch_NmRhbzdOQUtYdGJmRjYwWkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2RFZDJoc2FYTm1hVTV3TVdvNVNIbDVaMTlwZFZKbGVXRkNVbHBMUWkxUWFXSlZWVVl0V0cxemFFUjNURTF3ZG10VFVqaEJWMWxYTjJObVdFZGtiV3hMVXpkeGFYbzBMVU5UYmt4UE1ESTNhbGRoWjNkUWFsWlNOVVJCT0cxWGNXMTZSalF0V1VKeGNrbE5NekEzZGxsWE9WSnJVWEJGVVdkek1XdG1VMmhuUTNCT2MxWVNGMU5UTlcxaGMyWTVRM1ZsYzJoaVNWQXdObms0YzFGUkdpSkJSSE55T1daVVVXMUdNa2hTUmxOUmRITm9hV1pHUW5OblFXNHlZMUp1T1Vobg",
+      "role": "Digital Product Manager, III",
+      "company": "Sutter Health",
+      "link": "https://jobs.sutterhealth.org/us/en/job/R-133096/Digital-Product-Manager-III",
+      "posted_date": "2026-07-19",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "Sutter Health",
+      "description_snippet": "We are so glad you are interested in joining Sutter Health!\n\nOrganization:\nSHSO-Sutter Health System Office-Bay\nPosition Overview:\nContributes to the product lifecycle of information technology solutions that improve experiences for patients, clinicians, and operations. Collaborates with data scientists, engineers, designers, and clinical or business stakeholders to shape requirements, inform the roadmap, and help bring concepts to market. Support product leadership by translating ideas into actionable steps, coordinating across cross-functional teams, and ensuring that delivery aligns with es"
+    },
     {
       "id": "jsearch_RFpuS0xzSDhjdkwyZmxzNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelZGYUVwT2NFNTFSVzFYUTA0eWNETldkblY2ZGxWdGREQjZjek5pYTFob1RYSXlVSFpvTmtJNVVrcFRWa3R4Y0haTFozbzRSREZyZGtwR1gxQk9TMDlYVUZScE4xVkpNRXh6U0haaVdYSkRaMnhzVGxweFRqaFVTVVo1ZUhOM1QxZHpkMjlVV21NNWRqRnpabmxRZFVFMk1qVk1VblZ6TUVGVVRHTkJkMWxqZUhOTGJ5MFNGMFU1TVd0aGNWaFNRMlUyU0RRdFJWQTVUMjAwTWxFNEdpSkJSSE55T1daU2RIWkpRbGhwWTNoalkyOURZWE5tUzBJeFFYcHVZbDlwYkRSQg",
       "role": "[Remote] USA REMOTE || Product Manager Order Management System (OMS)",
@@ -17,20 +115,6 @@
       "description_snippet": "Note: The job is a remote job and is open to candidates in USA. Dice is a company seeking a Product Manager for their Order Management System (OMS). The OMS Product Manager will be responsible for defining and enhancing the OMS to ensure it meets strategic business goals while collaborating with various stakeholders.\n\nResponsibilities\n• Define and own the OMS product vision, roadmap, and backlog aligned with business priorities\n• Identify opportunities to improve order lifecycle efficiency, scalability, and customer experience\n• Evaluate and prioritize enhancements related to order capture, al"
     },
     {
-      "id": "jsearch_dVdRZnRwSGE3VnJGV2NqcUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFJYYkVSRVZIUXlSMVJCWTBwVmEwRk5ZelJITVhOelQzTldaWEJPVm00d1VtMVZUWEowTFhscmVHcERiVVZHTUhGVlZEQnBjMUUyY0VadU5YZEpWRU4yTjA0eE5qVlNUVmc1TTBSR1dsazBORkU0UVVWc2ExZEtkMU5STWtsUk1qaDNNalJxYzIxclFWRlpla1JIVFcxQmFtcDJUR1V6ZDJReVUwaEpYMFJoUVY5eE0wUVNGMFU1TVd0aGNWaFNRMlUyU0RRdFJWQTVUMjAwTWxFNEdpSkJSSE55T1daUk4zUnZlVjlPWmxOamFFTkxaVjkzZUhaRFRqTXlTRmxKWlZwbg",
-      "role": "Product Operations and Payment Cards, Product Manager - MN Market - Remote",
-      "company": "UnitedHealth Group",
-      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/product-operations-and-payment-cards-product-manager-mn-market-remote/34088/98093661712",
-      "posted_date": "2026-07-21",
-      "location": "Minnetonka, Minnesota",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "UnitedHealth Group",
-      "description_snippet": "At UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable and optimized. Ready to make a difference? Join us to start Caring. Connecting. Growing together\n\nAs a member of the Product Operations Strategy team, this role supports the development and execution of initiatives that guide product delivery for UnitedHealthcare's Medicare Advantage plans and progra"
-    },
-    {
       "id": "jsearch_Z0gxNXFBZXpGclEtWHh6dkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbUl6Y2tWc1dVUktMVXQzWlRGQlVHaFVlWFkyUTNoNE1UY3RZa2g1VFdoamIxODBNblUzVkVaS1dYWTJSRTU2VEU1eFdFRjFValJ6TFVKaFZrUjRPRmcwUTB0SWIyTkJlV2RqYzNRelFXMXFiMmR6Y0dabmRuaENSMHMyV0dOM1NHczBVVVIyTFVsWGRUUkRMVGhtTkRac2NFSnFjVTVOTFhoWVNqUTBSekJvUjFkRVlsZ1NGMFU1TVd0aGNWaFNRMlUyU0RRdFJWQTVUMjAwTWxFNEdpSkJSSE55T1daUk1rSlBMWGRxWW1SdE1FVTBjM2xOV0hwMGRtZDFibTFGVW1kQg",
       "role": "Loyalty and Customer Engagement Product Manager",
       "company": "First Citizens Bank",
@@ -43,20 +127,6 @@
       "match_score": 3,
       "source": "LinkedIn",
       "description_snippet": "Overview\n\nThis is a remote role that could be hired in North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Tennessee, Kentucky, Louisiana, Texas, Arkansas\n\nThe Loyalty and Customer Engagement Product Manager supports Card Strategy at First Citizens Bank, focusing on Loyalty. The role is responsible for the execution of marketing campaign and market analysis, alongside enhancing and refining current Loyalty program. Reviews customer engagement, quantitative analysis, and market trends to facilitate development of the Loyalty product. Coordinates all functions of development "
-    },
-    {
-      "id": "jsearch_Xy0xVlVCRGh6Ti1EaW4zUUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTM296TUcxQmNuRm5TSFJPVFZZeVprMU9XR2xxYzI1cGRHdEdMVlJUYWs0NFkzSlpSbkkzUVcxZlVVaFhTWEJQUlc0d1MxbGlWSEYzYlUwMVJuZG1TMjVWWDNoVFowNTNVV0o2ZEhKelNIQkphWEZNZVROeWFEaEtVbEJmTlVGdFRuTTRNRUo1Tm1wQ1VXSjJZamRLWkd0VmF6ZFNTbVl3VVdWYVMzVXhUSE53U0ZCNlFqQVNGa2gwTVd0aGNFMUlOa3N0Um5OblgxSjZYMkZTUW1jYUlrRkVjM0k1WmxGMGMwWkpXbEJHY2xWNlYxTnBNVll0ZVRaVFFUZDNXRWhOWDJj",
-      "role": "Product Operations and Payment Cards, Product Manager - MN Market - Remote",
-      "company": "Optum",
-      "link": "https://builtin.com/job/product-operations-and-payment-cards-product-manager-mn-market-remote/10353507",
-      "posted_date": "2026-07-22",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Built In",
-      "description_snippet": "Requisition Number: 2374200\nAt UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable and optimized. Ready to make a difference? Join us to start Caring. Connecting. Growing together\nAs a member of the Product Operations Strategy team, this role supports the development and execution of initiatives that guide product delivery for UnitedHealthcare's Medicare"
     },
     {
       "id": "jsearch_VV9tWTFBOFhZTmpJaDhHVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2haVWtwRlFpMDJZa0psYlc1VlFteElka1l6U2xCWlNqTk9aVTFPWTBOUWQyVjNTVXhIVGtKWE4yeDNNRlpLV2tKUlQybExNMmhQUlVKVFZFUnRRM0F3Y0V4TWNXMDRNV2N6VlRSMVFucEtNV3R6VDNKU2RUUXhkRm95VlRGb1EyWTRiV0ZwU3pscGJGRkdiQzF1V25ORlpsVmZiMWxEVXpsTWNtdEZTMWcxVmxvMFRWWVNGMFU1TVd0aGNWaFNRMlUyU0RRdFJWQTVUMjAwTWxFNEdpSkJSSE55T1daVGFXcEhSM0JvVGxCUVNWRm1MVWR4WlhSclYydEpOR2xpZWkxMw",
@@ -157,20 +227,6 @@
       "description_snippet": "DESCRIPTION\n\nWould you like to be part of a team that is creating new ways for customers to discover and engage with Amazon? The Fuse team builds products that connect partner ecosystems to Amazon, creating new entry points for customers who haven't yet experienced what Amazon has to offer. Our products enable partners to distribute their services directly on Amazon, turning routine transactions into gateways for discovery, engagement, and long-term customer relationships.\nAmazon Fuse is seeking a Product Manager to drive planning, execution, and delivery of customer experiences with team-leve"
     },
     {
-      "id": "jsearch_Giyz7TvSqboBbXyWAAAAAA==",
-      "role": "Sr Business Analyst /Product Manager -  US",
-      "company": "Photon",
-      "link": "https://www.builtinnyc.com/job/sr-business-analyst-product-manager-us/9913857",
-      "posted_date": "2026-07-20",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "Built In NYC",
-      "description_snippet": "Job Title\n\nProduct Manager – Data Platform, Analytics & Cloud (GCP)\n\nRole Summary\n\nWe are seeking an experienced Product Manager to own and drive a cloud-native data platform spanning databases, ETL/ELT pipelines, streaming, analytics, and reporting. This role will work closely with onshore architects, data engineering leads, analytics teams, and offshore delivery teams to define product vision, roadmap, and execution for enterprise-scale data solutions on Google Cloud Platform (GCP).\n\nThe Product Manager will bridge business requirements and technical implementation, ensuring scalable, reliab"
-    },
-    {
       "id": "jsearch_aEFbnczetgeRLU74AAAAAA==",
       "role": "Senior Product Manager - Tech External Services, Amazon Elastic Block Store (EBS)",
       "company": "Amazon Development Center U.S., Inc.",
@@ -225,20 +281,6 @@
       "match_score": 3,
       "source": "JobLeads",
       "description_snippet": "nTopology Inc. (nTop, Inc.) is seeking a Product Manager for distributed computing to own the product roadmap, launch integrations, and monitor usage patterns in a remote work environment.\n\nYou will define and prioritize the roadmap for distributed computing, lead the first integration with external platforms, and inform pricing and packaging decisions for compute-intensive workloads based on data. Ideal candidates have 4–7 years of product management experience in complex B2B software, with a"
-    },
-    {
-      "id": "jsearch_6dao7NAKXtbfF60ZAAAAAA==",
-      "role": "Digital Product Manager, III",
-      "company": "Sutter Health",
-      "link": "https://jobs.sutterhealth.org/us/en/job/R-133096/Digital-Product-Manager-III",
-      "posted_date": "2026-07-19",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "Sutter Health",
-      "description_snippet": "We are so glad you are interested in joining Sutter Health!\n\nOrganization:\nSHSO-Sutter Health System Office-Bay\nPosition Overview:\nContributes to the product lifecycle of information technology solutions that improve experiences for patients, clinicians, and operations. Collaborates with data scientists, engineers, designers, and clinical or business stakeholders to shape requirements, inform the roadmap, and help bring concepts to market. Support product leadership by translating ideas into actionable steps, coordinating across cross-functional teams, and ensuring that delivery aligns with es"
     },
     {
       "id": "jsearch_06nZw3F5n3mM5W7cAAAAAA==",
@@ -2759,48 +2801,6 @@
       "match_score": 1,
       "source": "LinkedIn",
       "description_snippet": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees!\n\nThe Sr. Product Manager will expertly lead the overall business relationship with T-Mobile’s strategic hardware OEM supplier partners. Specifically, this "
-    },
-    {
-      "id": "jsearch_bexBoJ5H0jDY-n82AAAAAA==",
-      "role": "Senior Product Manager & LIMS (Remote)",
-      "company": "Jobgether",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-lims-remote-jobgether-denver-co-united-states--appcast-7428_979cc51148cf71e2be11ceb261893d2e31f5afbeb86bd531122d464fc4d6b466",
-      "posted_date": "2026-05-18",
-      "location": "Denver, Colorado",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "A global software company is seeking a Senior Product Manager to oversee a portfolio of SaaS and LIMS products in the Food & Beverage sector. This remote position involves driving market growth, managing the product lifecycle, and aligning go-to-market strategies. The ideal candidate must have a deep understanding of market dynamics and the ability to innovate within a regulated environment. A salary range of $94,000 to $154,000 is offered based on qualifications and experience."
-    },
-    {
-      "id": "jsearch_Ui9Lhf3fbXbCWAifAAAAAA==",
-      "role": "Senior Technical Product Manager - Remote Healthcare Tech",
-      "company": "GovCIO",
-      "link": "https://bebee.com/us/jobs/senior-technical-product-manager-remote-healthcare-tech-govcio-cheyenne-wy-united-states--appcast-7428_e477eb87c36230cfc7254cdbd8e031761888af77554e46064d292973af01ec6b",
-      "posted_date": "2026-05-18",
-      "location": "Cheyenne, Wyoming",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "A leading government IT transformation company is seeking a Technical Product Manager to oversee the software development lifecycle for its products. This fully remote position allows you to work collaboratively across engineering and design teams to ensure quality and alignment with customer needs. Candidates should have over 8 years of experience in product management within a healthcare setting, strong communication skills, and proficiency in Agile methodologies.\n\nThis role offers a competitive salary range of $150,000 to $160,000 annually."
-    },
-    {
-      "id": "jsearch_ZNATctPvz0tdFVV3AAAAAA==",
-      "role": "Remote NetSuite Product Manager Finance Systems",
-      "company": "United Site Services, Inc",
-      "link": "https://bebee.com/us/jobs/remote-netsuite-product-manager-finance-systems-united-site-services-inc-meridian-id-united-states--appcast-7428_404116ae645fd53a16c926514dbcab5aae00b5548c77bbcebbad3f8805a2fcad",
-      "posted_date": "2026-05-18",
-      "location": "Meridian, Idaho",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "United Site Services, Inc is looking for a skilled remote Product Manager for NetSuite. You will define and drive product vision and strategy for the NetSuite ERP platform while collaborating with multiple departments to ensure system optimization. The ideal candidate will possess a Bachelor's degree and at least 5 years of experience managing financial systems.\n\nThis role emphasizes ERP functionality and requires strong stakeholder management skills. Join us to help transform our financial systems and drive business success."
     }
   ]
 }
