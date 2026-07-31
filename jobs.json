@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-07-30T16:21:25.517Z",
-  "total_fetched_today": 6,
+  "last_updated": "2026-07-31T16:40:10.688Z",
+  "total_fetched_today": 7,
   "jobs": [
+    {
+      "id": "jsearch_cGlEOFU2bTE2enE4QkdoUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVJJVmpsa2IwUlNjVk5RY1V0dmRIWjBWRFZxYmpsS1lUVkpkR1IxVm1keGREQlZhakphYVdneE1taDBTRWsxWmkxeVRubHBUWGhYTW1zelZWQmFibkJaYmxOTVowUm5lV0pMYmxCR05XVkdRa0l3YkZod1VEQlBaa2N5VTJ0TlFsWTBWVmQ2WjJvNU5UWnBYeTB0TjJKVVZYWnlWbTR6UjNjMWFGVk5jMGhRVW5jMWIzZ1NGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daVVMzQjBXbEY1Vm1oaU0wWlZiRU4wZVdwbVJuaFBjVFZoVDJsbg",
+      "role": "Product Manager in Washington, DC location with our direct client",
+      "company": "Indotronix International Corporation",
+      "link": "https://www.ziprecruiter.com/c/Indotronix-International/Job/Product-Manager-in-Washington,-DC,-for-our-Direct-client/-in-Washington,DC?jid=cf79be4947b1685f",
+      "posted_date": "2026-07-27",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "ZipRecruiter",
+      "description_snippet": "Product Manager in Washington, DC location with our direct client | Washington, District of Columbia, United States\n\nIndotronix is seeking a Product Manager in Washington, DC location with our direct client\n\nPosition: Product Manager\n\nLocation: Washington, DC\n\nDuration: 6 Months with possible extension.\n\nBackground:\n\nWe are seeking a Product Manager to support the Security Engineering team within the client space. This team is responsible for the strategy, design, deployment, and maintenance of effective security solutions in cloud, local, and hybrid environments.\n\nRequirements:\n\nThe candidate"
+    },
+    {
+      "id": "jsearch_cTFBTFVCeE15SmlZRkpzY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1F5TWpsVWIyVkpWSEZEU1d4bFFsOXpkek5SUjBkZk1IZExaVmMzVWt0NE1WbDFRbEJCYWxsek5reExhVzkwU2tKelpGWk1iRmRKUlZneVdrWmxlazlWZW5JMVZEa3pOa1ZaWjBkVllYZFdhVzlyVkRacE5YTmFWM1pXVDJGU1UxaEdNVEZUUVZOUGVXeDJOeTFGUnpaVVRIQklhREJLYlU5dlJHNXBSak4wYkY5cVRWa1NGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daUlVHbEJXRXR0UTNKbWRuWTVRa05MYzFGTlZuZHVWelZGVG5kMw",
+      "role": "Product Manager, Payments",
+      "company": "Stash",
+      "link": "https://www.ziprecruiter.com/c/Stash/Job/Product-Manager,-Payments/-in-Remote,US?jid=e25c7cf156d71dc8",
+      "posted_date": "2026-07-31",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "ZipRecruiter",
+      "description_snippet": "About Stash\n\nStash is the direct-to-consumer commerce platform for game studios. We build the webshops, checkout experiences, and merchant-of-record infrastructure that let games sell directly to players - cutting the 30% app store tax and increasing LTV. Studios like SuperPlay, Rovio, Jagex, EA, and WB Games run their direct-to-player commerce on Stash, and we already process hundreds of millions of dollars a year in D2C revenue. We're scaling fast toward a 5x volume target in 2026, and we're building out the product team to match.\n\nAbout the role\n\nAs our first dedicated Payments PM, you'll o"
+    },
+    {
+      "id": "jsearch_YlZLUHl1WU5oaXBJcTdVOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1J5YlVGd2RscGFRVTF6V2xWNU5VRnBhWHA2VFRBNFl6TjZVRWxWVGxNMlZVWndVbGRUVTBJMlZGaG1NMkpuUTA5TFkzbGpRbkpvU2xKc1owOWxNazFxTTNVMmRraFNWRmRJTjBSV01UZFRRVTFtVUVzNFdsbHNTazR6U0Uxb2VUQTRWMmRsVG1OTFdqVkROVWRTWjJWRGJsRmpORzFpVGtkM2FuWXRZbTVRYjJkWFduVVNGelpOT1hOaGNUSTJSa3N5WVhCMFVWQmZPVmg2ZVVGM0dpSkJSSE55T1daVFZERTRObWRqWHpkRGJVaGZTREpCUTJ0bVJHd3lWSEZNTTJ4Mw",
+      "role": "(USA) Principal, Product Manager",
+      "company": "Walmart",
+      "link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Principal,-Product-Manager/-in-Newark,CA?jid=dd41218fc185877f",
+      "posted_date": "2026-07-25",
+      "location": "Newark, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "ZipRecruiter",
+      "description_snippet": "Position Summary...\n\nWhat you'll do...Role summary:\n\nAs a Principal Product Manager, you will lead product strategy across multiple related products, driving organization-wide decisions through deep expertise and data-driven insights. You will define and execute visionary product roadmaps, influence senior stakeholders, and oversee complex customer problem-solving. This role demands leadership in product lifecycle management, advanced analytics, and emerging technology evaluation. You will mentor peers, promote best practices, and ensure alignment with business priorities while fostering innov"
+    },
+    {
+      "id": "jsearch_dktGNlZRMkVLMmxsTy1BRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3c0ZDBGNE9FdFFNbWRHZGxWeVgzRTNZMGRrZVhsS1VsY3dla0ZPV2pKelJHbzFhRUp1Y1ZWcFRtUmtkbXhpV0ZCR2RFTndSVTVDVEZaM2NWTllUVGx5WVdkTU4za3pibGRLVHpkdU16Qk1jMDUzVmtsT2JIaGlVMVZzUjNoMk5sWlFZMUo1VDA0eVVWRjZWV3hGYlVKSmJVUlZUbFUyZVRKZmVGQkpUM1Z6ZDNKdmExTVNGek00T1hOaGNqWjNRbk0zWm5KMVJWQnlaVU5NYjFFMEdpSkJSSE55T1daVE5rNUpOMVZNUlRCZmNESlFTVEZFUmtWSWVubDVSbGxNU0doQg",
+      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
+      "company": "C-4 Analytics",
+      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/10011135",
+      "posted_date": "2026-07-25",
+      "location": "Wakefield, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Built In Boston",
+      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
+    },
+    {
+      "id": "jsearch_U1IxbS1oMHBLWmhBNTF4WkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbUpXVmxwcWRtZFRZVnBFY0dOd01IVm5iM2hqVFZOM2JWTmlXVUZYUWpSME4zZzJUalZwWVRrdFMwRjVVSGRUTVZWeUxVOU5UbGs0Y2tscFZsVmxPRTFXUzJRNVoycEtWRFZaTW1SbGREVTNVMGMxUnpsT1pGUkNUekJwWnkwMk9FZGZlV2MwUmxNM0xXTkJUVU5hVGtsdlNUUkZTMGRXUTJOdU4wY3hPV2RNWW1KS1NVY1NGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daUlYwMWljRWhKY2poekxUZEZkSHBsZEVkS2JEUjRaMWh5TlVsbg",
+      "role": "Product Manager  Full-Time · New York, Chicago or Charlotte",
+      "company": "Oula",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-full-time-%C2%B7-new-york-chicago-or-charlotte-at-oula-4446585301",
+      "posted_date": "2026-07-28",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "LinkedIn",
+      "description_snippet": "Oula delivers maternity care built around our patients—offering comprehensive support before, during, and after pregnancy. With fewer C-sections and higher VBAC success rates, our research-backed approach is delivering better outcomes. Our team of trusted midwives, OBGYNs, and dedicated care navigators ensure our patients get the type of care they need in the moments that matter most.\n\nSince launching in 2021, we’ve expanded to include Preconception and Miscarriage Care, Pregnancy Care, Postpartum Support, and Gynecology. We currently have 4 clinics in the tri-state area, with three new clinic"
+    },
+    {
+      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGxIYjBKQ1ZFMXhRMFJhUmxaeVpGSjBaR3AxVjFsZk4zRnRUV2xrWTJoSU1HRXplRTlzVkVSVGFWUnBaRzk0YTNsdWJtUjZZMjlITm5waGNVeDBjR0V5VnpRNE1tVnBORFV0YjAxQ05XY3djVXhMZW1SUVVtRnBTbkJvUldkS1J6VktlV1o1UlRObVl6Um5UMWxYVkc1WGIzSmpRa3BSVHpsc1ZGbEZWWFowY0MxaVZUTVNGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daUlowbGpkbEl0VEZsT1NEWlpSM3BaVkVOQmVIcHNNbWhrTlRGUg",
+      "role": "Remote Product Manager, Money Platform Drive Growth",
+      "company": "US News",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
+      "posted_date": "2026-07-27",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "BeBee",
+      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
+    },
+    {
+      "id": "jsearch_dnpIU0dwUWpDVUpLYmdNOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV2h1ZFZOVVFXeGlXbmh0TlhKNGFXTmFZVVJoUm1WdU0yaERXbTE1TFVaR2VEWllVSGxtYmtsZlpVeHhXV2xFUjIxM2FVTnFTMDluU1VKeVNteHhWM3BsWlRSR2MwbG5jMjFLUlV4Wlh6Sm1lSGhWWjBOM1pHdFlUREEyVTBkbWRYSmFkRGxVUkdGa1kzZEtPVEZNU2tKa0xTMXdObFJYTlZORkxVWjRXazlaUTNGblF5MFNGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daVFVUTnJZME5tUlU5d1VXRm5Ua2RZTm5OaE5IbHVUVE5NWkdGUg",
+      "role": "Lead Product Manager, Growth",
+      "company": "Jobgether",
+      "link": "https://bebee.com/us/jobs/lead-product-manager-growth-jobgether-washington--lensa-2365_a569ef41a09664e554fff4a6fdff1e1deb5ef6004563b3bd00a322a119c8a367",
+      "posted_date": "2026-07-27",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "Lead Product Manager, Growth\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Lead Product Manager, Growth based in United States.\n\nThis role offers the opportunity to lead product-led growth initiatives for a rapidly scaling consumer platform. You will own the strategy that drives user activation, engagement, retention, and adoption across an entire product ecosystem. Working at the intersection of product, analytics, design, and business strategy, you will define growth frameworks and experimentation roadmaps.\n\n"
+    },
     {
       "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa2hDT0hoNE0xTnVNWEl5VVhsbk16ZG9jalZ4ZEhadU1uUkdjVmd0UjNWeFdVeFlkMFUzTjFkYU9XNVZPREkxVTNGMWJHcG1kamRwV1hKd2VUa3dlbVl5ZWxvdGRtc3lkME5XT0ZSVlZHOVNjekp1YTB4clpqbDZRWGhMUjBwWkxUaHJja00zVmxVek1IZDFSa3hsWDNVemMwNXhVblJGWXpjNU5tTnBjRXhxZUdkbU9WY1NGelpJYkhKaGRpMDFTRkJpUjJ0UVNWQnhOVFpLTmtGckdpSkJSSE55T1daU1IxTm1NSHBRVVhwV1MwOVNOMjFQTFhGSVMyNU5SRXQzT1ZKMw",
       "role": "(USA) Staff, Product Manager - Financial Services",
@@ -17,34 +115,6 @@
       "description_snippet": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Staff Product Manager to lead high-impact product initiatives within the Enterprise Financial Services organization—a strategic function at the intersection of retail, technology, and financial innovation.\n\nYou will own the end-to-end product strategy for enterprise-scale financial capabilities spanning co-brand card programs, third-party wallet integrations, and lending enablement, powering how our customers and members transact, manage money, and engage with financial products across our ecosystem.\n\nThis role demands a leader who ca"
     },
     {
-      "id": "jsearch_cGlEOFU2bTE2enE4QkdoUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlZaTVROTk1uaHNjMGM0VW1sWll6TlJNbmd6UlUxb1NuaGpXbUpvZWtadmJYSlNXbFZNYTA5ZlpFVXdRbmhCZVVoVmNuTm1Oa1EyTVcxWFdqWlhYekZSTWpSdVNYVlhMUzFqU1RSU2N6ZHZVRFZSV1hSMGJXZ3pSR2szYURSUk1IRXdlbFV5U25aTmRVaHZjbGRQT1c0MVVYUjVWM0J3ZEZkTkxXWnNZVTB4Tms5TlZHc1NGelpJYkhKaGRpMDFTRkJpUjJ0UVNWQnhOVFpLTmtGckdpSkJSSE55T1daU1FqQjZZWEEzUTFoZmVXaHJkRzVNYmxOQ1V6VjFRMXBrWW1kMw",
-      "role": "Product Manager in Washington, DC location with our direct client",
-      "company": "Indotronix International Corporation",
-      "link": "https://www.ziprecruiter.com/c/Indotronix-International/Job/Product-Manager-in-Washington,-DC,-for-our-Direct-client/-in-Washington,DC?jid=cf79be4947b1685f",
-      "posted_date": "2026-07-27",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "ZipRecruiter",
-      "description_snippet": "Product Manager in Washington, DC location with our direct client | Washington, District of Columbia, United States\n\nIndotronix is seeking a Product Manager in Washington, DC location with our direct client\n\nPosition: Product Manager\n\nLocation: Washington, DC\n\nDuration: 6 Months with possible extension.\n\nBackground:\n\nWe are seeking a Product Manager to support the Security Engineering team within the client space. This team is responsible for the strategy, design, deployment, and maintenance of effective security solutions in cloud, local, and hybrid environments.\n\nRequirements:\n\nThe candidate"
-    },
-    {
-      "id": "jsearch_dktGNlZRMkVLMmxsTy1BRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGhMY25VMmJGQXRjVEF5VmtaM1lYUnhkRXM0UjJaQlVGRjNZVEEzTFV4NWJGVjZNM1p1VTJWbVJtaEhaSFppY0ZCd1lYRTRUSFpQU21scll6WnJNMGR0TlRGUGJUVmxaWFJNTW5jNFpscHdNWGwwZUdKMWNYVmFjRTgwVkdSTmNuSklOV2RLWW5aeldITXlTVWxhUzJOZlkzTk1YMHRpTFdSTk1IUllVRTlIVlZGaVExSVNGemh1YkhKaGNVYzRURTFpZG5KMVJWQnVMVGRCTFVGWkdpSkJSSE55T1daUlZ6WTBiR2QxV2tnd1JWTjJaRUl0Y2pSR1oxWlpOVVpRWXpSMw",
-      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
-      "company": "C-4 Analytics",
-      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/10011135",
-      "posted_date": "2026-07-25",
-      "location": "Wakefield, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Built In Boston",
-      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
-    },
-    {
       "id": "jsearch_LUFTTVRyQVNSWThjbTBmekFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMkkzWkZBeE16Wk9UMVpTTW1seFIzbEJjbTVJY20xbVduWmpjMFIzWnpneWJFbHhla3QwYXpWVVNraGFOWEZGVWtWWFVEaHlTRGRVUTJ0MWVtOVlTMWwyUzE5TlJFRnRWa2hoTjBwUVRVMW9ibm8zV1hKa2JHdE9lVUp6WHpWU2IweE9UVmhRUkVWWlQySlpORFIzY25oelUzSnZURWRtZGkxbVRWZGxSVk5RU1hwaU5Fd1NGemh1YkhKaGNVYzRURTFpZG5KMVJWQnVMVGRCTFVGWkdpSkJSSE55T1daVWQzQlhOMTlqWlhOS1VFSnNaMFpmZFhKTmFtcDFTbTUwWldaUg",
       "role": "Principal Product Manager, Comet Planning - East Coast Remote",
       "company": "Cimpress/Vista",
@@ -57,20 +127,6 @@
       "match_score": 5,
       "source": "Monster",
       "description_snippet": "Our TeamCimpress businesses and their in-house/third-party vendors (fulfillers) manufacture customized products that help our end-customers make an impression. In fulfilling the demand for such customized products, we are not only faced with the fulfillment problems like any other ecommerce company, but also have the challenge of manufacturing and delivering products unique to each customer's needs, on time and at the lowest possible cost.Comet Planning is the central engine that translates global demand into production reality. Our mission is to optimize how we utilize machines, labor, and ma"
-    },
-    {
-      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFpFYmxOSVIwWjJTRVpOYWpoNFN6bFphMlZKYzBJeVVEUTVaSEpMYW5kRGJUaDZjVXhLTW1Ka2NsaFhaRlkyWDNkYU9HbEdXVU5EWjB4eVkxSlRORGhLUkdJeFp6TkRZM2xzWnpOQk9XWlpWbGhWVUZCSWVYQTBha2RMTTNoSGNIQkhVRW81U1RORWFtSXdVbHBwV21wRVYxVnZhRXhaUkUxRVdHZHplRVpyYVhndGFXMFNGelpJYkhKaGRpMDFTRkJpUjJ0UVNWQnhOVFpLTmtGckdpSkJSSE55T1daUk5qbE5XVmd4V0dabVpWRlhUVWRXVXpKQmNIVmpOR3RmYVZwQg",
-      "role": "Remote Product Manager, Money Platform Drive Growth",
-      "company": "US News",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
-      "posted_date": "2026-07-27",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "BeBee",
-      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
     },
     {
       "id": "jsearch_RVk5SWE1V1lKZUgybmN0R0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR0kzUkhaU1IzUTJhMGx0VWpBeGRVdGhTR1YzZEZKdlVWVTRVbWwxVEVGWFJFOVdUbFpFVWxCdWFHZE5jMm8zYldaTE5YRldWemhKTVVZNFQxTm9XalZFYmsxTlpVaERTemMyWlhsRk0yVkZRelZuVTFsNWQwaHpOMHRUYkZaa1FtOW5WMGxZU0VsVVpXczVRbWsyUnpsM2REYzJRa0Z3YmpjdGFFeHJkV3R5UVRsTGJXNFNGemh1YkhKaGNVYzRURTFpZG5KMVJWQnVMVGRCTFVGWkdpSkJSSE55T1daVFEybDBkVlY0Y2poWGJFdEZkbFUxZWpkdGNWcGtXalE1YWxkMw",
@@ -99,20 +155,6 @@
       "match_score": 5,
       "source": "LinkedIn",
       "description_snippet": "Oula delivers maternity care built around our patients—offering comprehensive support before, during, and after pregnancy. With fewer C-sections and higher VBAC success rates, our research-backed approach is delivering better outcomes. Our team of trusted midwives, OBGYNs, and dedicated care navigators ensure our patients get the type of care they need in the moments that matter most.\n\nSince launching in 2021, we've expanded to include Preconception and Miscarriage Care, Pregnancy Care, Postpartum Support, and Gynecology. We currently have 4 clinics in the tri-state area, with three new clinic"
-    },
-    {
-      "id": "jsearch_dnpIU0dwUWpDVUpLYmdNOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWsxWVdVeGNITkVVR2t3ZDB0d1NVaEllRFZaUTFCdU1WWnJVMFJRWXpsb2JraFpOR013U2xsZlRXZHpXR1JMYm5CUllreFJTRUkxUjAxc2JUWlpZMEY0Tmt0UmFsVTVOWFo0Ym5GMlQzZFZibkJ2TUU1blRHdG1VVzl4ZVVKaGJUQkpiMmsxZFZremNqVnVYMU5aZEdwb1kweHRiRlp4VUdwNlZHSldVVlpxVVdGb2VVNFNGMVY1WkhGaGMyVkpTbDlEVURKeWIxQnlZbUUzTWtGWkdpSkJSSE55T1daVFVXTmhkMlpzTkVGTWNHRnFVRWR5T1cxVFVqbHpabVJhV0VsMw",
-      "role": "Lead Product Manager, Growth",
-      "company": "Jobgether",
-      "link": "https://bebee.com/us/jobs/lead-product-manager-growth-jobgether-washington--lensa-2365_a569ef41a09664e554fff4a6fdff1e1deb5ef6004563b3bd00a322a119c8a367",
-      "posted_date": "2026-07-22",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "Lead Product Manager, Growth\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Lead Product Manager, Growth based in United States.\n\nThis role offers the opportunity to lead product-led growth initiatives for a rapidly scaling consumer platform. You will own the strategy that drives user activation, engagement, retention, and adoption across an entire product ecosystem. Working at the intersection of product, analytics, design, and business strategy, you will define growth frameworks and experimentation roadmaps.\n\n"
     },
     {
       "id": "jsearch_Xy0xVlVCRGh6Ti1EaW4zUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemMyY1dGSWNGVlNPV05YVDNsVFpuVlpZVXhGZDNoMVYzVjJjV2t4YVY5Rk1qQlhMVTA1Um1GaGJsWmthbGR6TkVwVVUxRkpZa2x1U25oRmMxVnNOa056WnkxV1FUZENhRzVaTkhKWWJta3paME5QWDBaaU5YWnVPV0ZqYmtkWE5VWlBZV0pUYkdkYVNXWmhRVFpqT0U1SlNXaDZSR1ZJV0dWUFFsQnZWbnBLU1Znd2VGb1NGMkpEWkhGaGNrUTFUM0F5VkhkaWExQnNZVkExTFVGdkdpSkJSSE55T1daVFdYQmlaRVk1YTI4MWVHNUJMWGxPTFZCV1ZqSnJXazF5VG1Wbg",
@@ -2759,48 +2801,6 @@
       "match_score": 8,
       "source": "Ladders",
       "description_snippet": "This is NOT a remote position. T-Mobile is a hybrid work environment requiring the successful candidate be in the office three (3) days per week. This position is open to candidates in Bellevue, WA only.\n\nJob Overview\nPrincipal Innovation Product Manager, Technical is a visionary, strategist, analyst, customer evangelist, respected leader of business and technology execution, and professional relationship builder all rolled into a single dynamic package. Every product at T-Mobile is envisioned and created to achieve a specific business purpose or set of business results. The Product Manager, T"
-    },
-    {
-      "id": "jsearch_q-0bxFR_3xYtivtOAAAAAA==",
-      "role": "Senior Staff Product Manager - Splunk AI Foundations (Remote, USA)",
-      "company": "Cisco",
-      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2012281EXTERNALENGLOBAL/Senior-Staff-Product-Manager-Splunk-AI-Foundations-Remote-USA",
-      "posted_date": "2026-05-23",
-      "location": "United States",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "Cisco Careers",
-      "description_snippet": "The application window is expected to close on: 06/13/2026Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nSenior Staff Product Manager - Splunk AI Foundations\n\nSplunk is looking for a Principal Product Manager to join our AI Foundations Team! We are building the core models and tools that power our entire product portfolio for global customers. In this role, you will help define the roadmap for high-scale AI, focusing on domain-specific models, agentic protocols, and orchestration platforms.\n\nMeet the Team:\n\nThe Splunk AI Fo"
-    },
-    {
-      "id": "jsearch_m9FBgyZibHlR3AZuAAAAAA==",
-      "role": "Senior Atlassian Product Owner - AI Automation",
-      "company": "T-Rex Solutions, LLC",
-      "link": "https://www.linkedin.com/jobs/view/senior-atlassian-product-owner-ai-automation-at-t-rex-solutions-llc-4416965246",
-      "posted_date": "2026-05-19",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 10,
-      "source": "LinkedIn",
-      "description_snippet": "T-Rex Solutions is seeking a highly capable Senior Product Owner – AI Automation & Atlassian Transformation, to be responsible for driving product strategy, operational transformation, AI-enabled automation, and platform modernization across SDLCNext, an enterprise Atlassian platform supporting SDLC and ITSM operations throughout the DHMS portfolio. This role combines strong product ownership, Jira/Atlassian platform leadership, and advanced AI/automation expertise. The individual will own backlog prioritization, delivery execution, platform governance, and operational transformation initiativ"
-    },
-    {
-      "id": "jsearch_enc5L4hnzO478UPUAAAAAA==",
-      "role": "Technical Product Manager – Security & Compliance",
-      "company": "Providge Consulting",
-      "link": "https://www.talent.com/view?id=620218991436176482",
-      "posted_date": "2026-05-19",
-      "location": "Washington, Arkansas",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "Talent.com",
-      "description_snippet": "Job Title: Technical Product Manager Security & Compliance\nIndustry: Information Technology\nLocation: Onsite Washington DC\nEmployment Type: Full-Time on contract (9-month contract till December 2026- possibility of an extension).\n\nJob Summary:\n\nOur client is seeking a Technical Product Manager specializing in Security & Compliance to support the Governance Risk and Compliance (GRC) team within the IT division at the client. This team is responsible for defining implementing and managing processes that support compliance policy outreach and privacy-related work across the organization.\n\nKey Res"
     }
   ]
 }
