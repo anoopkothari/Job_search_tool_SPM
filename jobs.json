@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-07-31T16:40:10.688Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-08-01T15:55:20.162Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_cnV2bGRvMEZDMGRMZmdSZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzEzYWtKa1ZrWlpXbXBVVG5kTldUSnNiVTgwT0VRMFZubHZkVFkwY0dGeGJFZFFZekJtUTJsUVYxTnZXRVpTYlVNMGJEbFJkM04zZUU1MlgydExSVk5oYmpkYVQyeEVabll3YVV0b1UwTlFURFJDU0Roa1owcFNRWFIzVFVsWlZEbHlZazVRYlhCeWVYSmpSRVozZVdGZlpGSjJlWFl0VmtwMlNXaHVTRzB3TXkweFNuQVNGelZTV25WaGMxUXlUemhRYVRWT2IxQXlkWFZsTkVGbkdpSkJSSE55T1daU2JEQXRiRTV1VUhCdmJUVnFPRTB0U0U1SlNVRllabWRQVDFOQg",
+      "role": "Aerospace Technical Product Manager - Commercial",
+      "company": "Capgemini Engineering",
+      "link": "https://www.linkedin.com/jobs/view/aerospace-technical-product-manager-commercial-at-capgemini-engineering-4447216258",
+      "posted_date": "2026-07-30",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "LinkedIn",
+      "description_snippet": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.\n\nAbout The Job You're Considering\n\nCapgemini Engineering is seeking a high-caliber Technical Product Manager TPM who operates as a hybrid leader, blending executive-level strategic advisory with "
+    },
+    {
+      "id": "jsearch_dktGNlZRMkVLMmxsTy1BRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVGhmYWtOUFMxRmljekUxY2sxU2VGaFBTMGR4WDNOUlZsa3RWMnBvYkhCS01tUnNOWEExWlZVNGQyVk5TV2h3ZEZoWVJtdG1aSGd0TW5NMk4wOUxTMUkyY1ZrdE5UWlZaRWw2VG01U1MzSmFZamRrYzB0TVFXbHpTazF0WTJ4cU9GRlBVa2syU0hkdFRISjNhREkzYjIxeFRuVXlOVFJyZG5GcVRWUk5ZblJpTTA5amIwWVNGblpvV25WaGIzbFhRMk41Um1oaVNWQTJUR1pOUVZFYUlrRkVjM0k1WmxOTlZqSm9halo0YjNnMmVXRk1hMXAwYkZWaVpERXRWelpUUVVF",
+      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
+      "company": "C-4 Analytics",
+      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/10011135",
+      "posted_date": "2026-07-25",
+      "location": "Wakefield, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Built In Boston",
+      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
+    },
+    {
+      "id": "jsearch_U1IxbS1oMHBLWmhBNTF4WkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmc1TTJkVWFUazJkV2hNTkVwU1UyWjRSVzlZY1dkclJVTkVYekpGVEZWUldtZHJVVFZFTUdSVk0xRm5SM1J5T0RST2JWSTJVRVk0UlhVMWRrOUZhMk0wZW1zNU9HbFZkMHBDVEVGb1VGZ3lZVTAwU2paalJVbFJUWFIwVG1WQlZ6UlhVbk5oVVhwUlJYWjRTRjl1WlVST1EzY3RiMG8yWVhCRk1HSjBUMVpKWjNkUFZqWVNGM1JvV25WaGIyMHRRbVp4ZFd0a1ZWQnFOMHRrTmxGekdpSkJSSE55T1daVFJVeElUME15Y1RkV1VtTTVSRWhsT0ZORllXUlZWbTlsVVZWQg",
+      "role": "Product Manager  Full-Time · New York, Chicago or Charlotte",
+      "company": "Oula",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-full-time-%C2%B7-new-york-chicago-or-charlotte-at-oula-4446585301",
+      "posted_date": "2026-07-28",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "LinkedIn",
+      "description_snippet": "Oula delivers maternity care built around our patients—offering comprehensive support before, during, and after pregnancy. With fewer C-sections and higher VBAC success rates, our research-backed approach is delivering better outcomes. Our team of trusted midwives, OBGYNs, and dedicated care navigators ensure our patients get the type of care they need in the moments that matter most.\n\nSince launching in 2021, we’ve expanded to include Preconception and Miscarriage Care, Pregnancy Care, Postpartum Support, and Gynecology. We currently have 4 clinics in the tri-state area, with three new clinic"
+    },
+    {
+      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV05JTWtrNVlVVk5SVkZHZG5sNlYwSk1lVVpvWWpsb2IwSmhUV1JMYWpkeVNIcHVjWFo2VjFrd1MzTm1Rblp4WTNwaVlXUXlVazlQTW1SemIwWlNVbFV0WVVsV05WVTJXVEJ3Y1hwSlZuSkVkRUp3TmpkblpqRmxSWFpXYnpkeFJIaFdaSE5YV0RsVGRWOVZRMFp1VDBGRllXRlZMVTFVTXpCRmNHczBRMjAyV1VOeU4zSVNGM1JvV25WaGIyMHRRbVp4ZFd0a1ZWQnFOMHRrTmxGekdpSkJSSE55T1daVU9WWTRaMHA1VWxCclUxUTFOMVF4VkhCTk1rNXRZWHBsYkdwMw",
+      "role": "Remote Product Manager, Money Platform Drive Growth",
+      "company": "US News",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
+      "posted_date": "2026-07-27",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "BeBee",
+      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
+    },
+    {
+      "id": "jsearch_ejBVMG50OXNFT2xEdnJMNEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBUQzAxYlMxVmNsQTNiMHBUWW1FMWFsTTRUbE0yV1VnNU1sbFpkMjF3VTNoVFJIcFJXa0ZDYW1aSlEzVmtkQzFaYWkxQ1MwWmpSRkV4VlZwd1RHcHlVSEZ0TW5abmQwRk9kelpzVWxKSFZqWk1ZbHB5V2sxaGVGcEJhR2M1TTBGVlMycE1WVVoyYzAxRUxVODBTakJ0VkdSMFZsbGFObFYxZDBFeVFrcGhWVTQwVlhneU5rSVNGblpvV25WaGIzbFhRMk41Um1oaVNWQTJUR1pOUVZFYUlrRkVjM0k1WmxKalJGaENhVXN3TWtvNGVUUjVNV3BtVGxCWE9EbEZRbTFFUTNj",
+      "role": "Remote Product Manager Airline Applications",
+      "company": "United Airlines",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-airline-applications-united-airlines-houston--lensa-7428_0bef1a6d13465aba3a7250be3fb652bc28d1cac4f0c0f441c02f16e8c64eb631",
+      "posted_date": "2026-07-29",
+      "location": "Houston, Texas",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "United Airlines in Houston is seeking a Product Manager to support the Application Advancement group, aligning with business processes and delivering solutions that meet organizational goals.\nThe role requires 5+ years of product management experience, strong knowledge of best practices, and the ability to work with cross-functional, global teams to deliver on-time and on-budget. The position is full-time with a flexible work arrangement and competitive compensation."
+    },
     {
       "id": "jsearch_cGlEOFU2bTE2enE4QkdoUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVJJVmpsa2IwUlNjVk5RY1V0dmRIWjBWRFZxYmpsS1lUVkpkR1IxVm1keGREQlZhakphYVdneE1taDBTRWsxWmkxeVRubHBUWGhYTW1zelZWQmFibkJaYmxOTVowUm5lV0pMYmxCR05XVkdRa0l3YkZod1VEQlBaa2N5VTJ0TlFsWTBWVmQ2WjJvNU5UWnBYeTB0TjJKVVZYWnlWbTR6UjNjMWFGVk5jMGhRVW5jMWIzZ1NGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daVVMzQjBXbEY1Vm1oaU0wWlZiRU4wZVdwbVJuaFBjVFZoVDJsbg",
       "role": "Product Manager in Washington, DC location with our direct client",
@@ -43,48 +113,6 @@
       "match_score": 7,
       "source": "ZipRecruiter",
       "description_snippet": "Position Summary...\n\nWhat you'll do...Role summary:\n\nAs a Principal Product Manager, you will lead product strategy across multiple related products, driving organization-wide decisions through deep expertise and data-driven insights. You will define and execute visionary product roadmaps, influence senior stakeholders, and oversee complex customer problem-solving. This role demands leadership in product lifecycle management, advanced analytics, and emerging technology evaluation. You will mentor peers, promote best practices, and ensure alignment with business priorities while fostering innov"
-    },
-    {
-      "id": "jsearch_dktGNlZRMkVLMmxsTy1BRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3c0ZDBGNE9FdFFNbWRHZGxWeVgzRTNZMGRrZVhsS1VsY3dla0ZPV2pKelJHbzFhRUp1Y1ZWcFRtUmtkbXhpV0ZCR2RFTndSVTVDVEZaM2NWTllUVGx5WVdkTU4za3pibGRLVHpkdU16Qk1jMDUzVmtsT2JIaGlVMVZzUjNoMk5sWlFZMUo1VDA0eVVWRjZWV3hGYlVKSmJVUlZUbFUyZVRKZmVGQkpUM1Z6ZDNKdmExTVNGek00T1hOaGNqWjNRbk0zWm5KMVJWQnlaVU5NYjFFMEdpSkJSSE55T1daVE5rNUpOMVZNUlRCZmNESlFTVEZFUmtWSWVubDVSbGxNU0doQg",
-      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
-      "company": "C-4 Analytics",
-      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/10011135",
-      "posted_date": "2026-07-25",
-      "location": "Wakefield, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Built In Boston",
-      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
-    },
-    {
-      "id": "jsearch_U1IxbS1oMHBLWmhBNTF4WkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbUpXVmxwcWRtZFRZVnBFY0dOd01IVm5iM2hqVFZOM2JWTmlXVUZYUWpSME4zZzJUalZwWVRrdFMwRjVVSGRUTVZWeUxVOU5UbGs0Y2tscFZsVmxPRTFXUzJRNVoycEtWRFZaTW1SbGREVTNVMGMxUnpsT1pGUkNUekJwWnkwMk9FZGZlV2MwUmxNM0xXTkJUVU5hVGtsdlNUUkZTMGRXUTJOdU4wY3hPV2RNWW1KS1NVY1NGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daUlYwMWljRWhKY2poekxUZEZkSHBsZEVkS2JEUjRaMWh5TlVsbg",
-      "role": "Product Manager  Full-Time · New York, Chicago or Charlotte",
-      "company": "Oula",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-full-time-%C2%B7-new-york-chicago-or-charlotte-at-oula-4446585301",
-      "posted_date": "2026-07-28",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "LinkedIn",
-      "description_snippet": "Oula delivers maternity care built around our patients—offering comprehensive support before, during, and after pregnancy. With fewer C-sections and higher VBAC success rates, our research-backed approach is delivering better outcomes. Our team of trusted midwives, OBGYNs, and dedicated care navigators ensure our patients get the type of care they need in the moments that matter most.\n\nSince launching in 2021, we’ve expanded to include Preconception and Miscarriage Care, Pregnancy Care, Postpartum Support, and Gynecology. We currently have 4 clinics in the tri-state area, with three new clinic"
-    },
-    {
-      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGxIYjBKQ1ZFMXhRMFJhUmxaeVpGSjBaR3AxVjFsZk4zRnRUV2xrWTJoSU1HRXplRTlzVkVSVGFWUnBaRzk0YTNsdWJtUjZZMjlITm5waGNVeDBjR0V5VnpRNE1tVnBORFV0YjAxQ05XY3djVXhMZW1SUVVtRnBTbkJvUldkS1J6VktlV1o1UlRObVl6Um5UMWxYVkc1WGIzSmpRa3BSVHpsc1ZGbEZWWFowY0MxaVZUTVNGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daUlowbGpkbEl0VEZsT1NEWlpSM3BaVkVOQmVIcHNNbWhrTlRGUg",
-      "role": "Remote Product Manager, Money Platform Drive Growth",
-      "company": "US News",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
-      "posted_date": "2026-07-27",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "BeBee",
-      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
     },
     {
       "id": "jsearch_dnpIU0dwUWpDVUpLYmdNOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV2h1ZFZOVVFXeGlXbmh0TlhKNGFXTmFZVVJoUm1WdU0yaERXbTE1TFVaR2VEWllVSGxtYmtsZlpVeHhXV2xFUjIxM2FVTnFTMDluU1VKeVNteHhWM3BsWlRSR2MwbG5jMjFLUlV4Wlh6Sm1lSGhWWjBOM1pHdFlUREEyVTBkbWRYSmFkRGxVUkdGa1kzZEtPVEZNU2tKa0xTMXdObFJYTlZORkxVWjRXazlaUTNGblF5MFNGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daVFVUTnJZME5tUlU5d1VXRm5Ua2RZTm5OaE5IbHVUVE5NWkdGUg",
@@ -351,20 +379,6 @@
       "match_score": 6,
       "source": "Snowflake Careers",
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
-    },
-    {
-      "id": "jsearch_ejBVMG50OXNFT2xEdnJMNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFZ4ZVZGdGFWbGhMVGwxUTNCQmJqRTJSM0JGUlZjM1drRk5hbmhvYzNsQ1ZqSm5kR1JzZUZaaE1ERmZZUzB5VldZeGN5MVBkbGs1WjBsWk9XNHhTM1l5Y0hCNmRFUlVXbTlQVnpGd1IyWXlNM2xOVDJOSVVqWTVjblZrVEZZME5YQnNkVlZ5TWtsNmNWOHdWMlZRU1dObGF6ZGhhazV4TW1FM1lqSTFNak42UlhaT1JUa1NGMVZhVW1waGRYbHNSazVIVEhKMVJWQndVSEpHTkVGVkdpSkJSSE55T1daVVIwVnhlRXBMTlRsWk1YWXljV0phYzIxb1JVdG5hRFZwVkZGMw",
-      "role": "Remote Product Manager Airline Applications",
-      "company": "United Airlines",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-airline-applications-united-airlines-houston--lensa-7428_0bef1a6d13465aba3a7250be3fb652bc28d1cac4f0c0f441c02f16e8c64eb631",
-      "posted_date": "2026-07-19",
-      "location": "United States",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "United Airlines in Houston is seeking a Product Manager to support the Application Advancement group, aligning with business processes and delivering solutions that meet organizational goals.\nThe role requires 5+ years of product management experience, strong knowledge of best practices, and the ability to work with cross-functional, global teams to deliver on-time and on-budget. The position is full-time with a flexible work arrangement and competitive compensation."
     },
     {
       "id": "jsearch_S2NESGRBcmQ4NVR3ajJUV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalJSVVVscVpVbHpWR2haWVZOUFFtUklNRU51UW5FeFNVUkxTRjh0UVdabFFVNWxWR3N6VkVwWFFUSmtiVGxPTm5oYUxVWm5iMVpPUTJ0eGNscHRVWFZsUWpWNFNrcG5PR2g2TlVJMmRrRlZVRXhzWW1aS1kxbGxhMHRaT1ZJNFpqQnNjMlJzYkhGRmVYYzJaa0pTYzI5Rk4xOWtXRXh1U0VNMGFXbEVlWEo2VUMxME1FUVNGMWRhVW1waGIwZHVUMW95VjNkaWExQnpTVmMwYVZGSkdpSkJSSE55T1daUlJrTlJjVXRIV1RVdFMzbHJObXR5TUcwMlZYWkZhMG90Y0VKUg",
@@ -2787,20 +2801,6 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "SitusAMC is seeking an experienced product manager in Dover, Delaware. This role ensures product decisions align with the organization's strategy while advocating for stakeholders’ needs. The ideal candidate has 6+ years of experience in product or service development, excellent analytical skills, and experience in Agile methodologies. The position offers an annual salary between $120,000 and $140,000, along with various benefits including medical and dental insurance, PTO, and a 401(k)."
-    },
-    {
-      "id": "jsearch_SYGbWS-drDMWEdc_AAAAAA==",
-      "role": "Principal AI Product Manager, Technical",
-      "company": "T-Mobile",
-      "link": "https://www.theladders.com/job/principal-ai-product-manager-technical-tmobile-washington-dc_87013010",
-      "posted_date": "2026-05-21",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Ladders",
-      "description_snippet": "This is NOT a remote position. T-Mobile is a hybrid work environment requiring the successful candidate be in the office three (3) days per week. This position is open to candidates in Bellevue, WA only.\n\nJob Overview\nPrincipal Innovation Product Manager, Technical is a visionary, strategist, analyst, customer evangelist, respected leader of business and technology execution, and professional relationship builder all rolled into a single dynamic package. Every product at T-Mobile is envisioned and created to achieve a specific business purpose or set of business results. The Product Manager, T"
     }
   ]
 }
