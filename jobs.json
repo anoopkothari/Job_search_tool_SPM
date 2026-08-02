@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-08-01T15:55:20.162Z",
+  "last_updated": "2026-08-02T15:55:18.879Z",
   "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_Y1l1aW40X3ZMRGZRZW9LVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFZ2ZG5wSVJHWjJSRlp5Y3pCdVJ6ZEZjMHBVT1ZSNU5ESmtRWGhSWWpreVNXSkhkV3BPVkRkWFFtd3dVV05sVjFKdmRYaHZWRWRKTTBwV01WWkVSVEoxYjNKTFNVTmphblU1T1dab2JFdFFVMFpWU1VGTk1HcDVWVEozU3pCNVduZHFXbmw1TUdGMFIybDVjM0IzWlV4S01FWXdWRTFIU3pReWRIUTBjR3BwVERGTVZEZ1NGMWx0YUhaaGRqSlpUVTFMYkdsTVRWQTVjRXhGZFZGM0dpSkJSSE55T1daUlozTk9hbWhIZEd3NWVIbDFUVTlmYzNCbVgyeEVVM0pDVDBaMw",
+      "role": "Principal Product Manager, Core AI Platform",
+      "company": "Qualtrics",
+      "link": "https://www.qualtrics.com/careers/us/en/job/8055389/Principal-Product-Manager-Core-AI-Platform",
+      "posted_date": "2026-07-31",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Qualtrics",
+      "description_snippet": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.\n\nWhen you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressi"
+    },
+    {
+      "id": "jsearch_OUllYTVHUjRxbFkwTi1seEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmhGTUhKcmRGTk5TMVJCYUZScGRXRXdPV1ZXWVhKS2NtWnNOWEkwUkdkQ1ZWWkhjek5DU1d0MFJtaFBSRTFRU3pkZlFWaFRPRTl4UW1KU1V6SjNWa1pCTUhvMGRVSndSakEwVnpCRVl6SXhWVTVaT1V4YVNsVlRNa2g0UW5SYVFVYzNia2szYkdGUk9FRklOM0ZhYUcxNVNUVkJkbFppYVUxb1IzaEpjRGhUVFRWVk0xSVNGMWx0YUhaaGRqSlpUVTFMYkdsTVRWQTVjRXhGZFZGM0dpSkJSSE55T1daUlprcDNNbU10VW1zMVZFVkRVRUZtTFdadWFIUktNbXRPTWtoMw",
+      "role": "Senior Product Manager, Intelligence Products",
+      "company": "confidential",
+      "link": "https://ixdf.org/jobs/senior-product-manager-intelligence-products-minnesota",
+      "posted_date": "2026-07-29",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 11,
+      "source": "IxDF",
+      "description_snippet": "Job Description\n\nFor decades, [REDACTED] has been the silent force behind some of the world's most critical industries—helping businesses navigate complexity, uncertainty, and risk with smarter, faster decisions. From agriculture to energy to weather intelligence, our proprietary Operational Decisioning Platform transforms raw data into decision-grade insights—enabling companies to optimize supply chains, ensure market stability, and safeguard infrastructure against disruption. We don't follow trends—we set the standard for precision, trust, and operational impact.\n\n[REDACTED] is at an excitin"
+    },
+    {
+      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUpOVFUweWRIaGpSRGhwZVdoMmRuRllka2hEZW5odU5XMVdlVkJvTTBsVmJXNUpSRVp1WVZGcVRYZ3lNbHBsYVVNdFVEQmhjekJxVmxOblozaExWelpTTW1jeFJtcHdhVmhVZEhoMVFVeFhOMUZZTlRCRU9FeEhNREZTZFRFMlExazRiRmxXYTBwalNrSndhV1ozYVVoS2JUbGxWRVZ5TkY5Uk1GSmlabmwwTUdkeVZYSVNGMVJ0YUhaaGNGTnZSMlZtVFd0UVNWQTBMWFpKTFZFMEdpSkJSSE55T1daVGFGbEdWRnB2UjJSemVVVlNkVUptTms5Qll6aENNV2hyVFZCUg",
+      "role": "Product Manager, Merchant Experience",
+      "company": "Wizard",
+      "link": "https://jobgether.com/offer/6a6c16d41b23f4f87b49eee2-product-manager-merchant-experience",
+      "posted_date": "2026-07-30",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: United States\nAbout Wizard\n\nWizard is the top-performing AI Shopping Agent, delivering the best products from across the web with unmatched accuracy, quality, and trust.\n\nWe're redefining how people shop by combining AI reasoning with real-time commerce. Instead of searching through dozens of websites, consumers simply tell Wizard what they're looking for, and our AI agent finds, compares, and recommends the best products from across the internet.\n\nAs we continue scaling, we're building the merchant platform that powers this experience—conne"
+    },
+    {
+      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemgwTURCemQzaENlV3hDU1ZsRFdsVmtZM2hUYlRkc1dqbEVWamxMYjJSMFJFVjVUa0ZqYUU5SmRrcHVVMTlsWlRZMGIwZG1kbXA2ZW5SalZVRnVOM0ZTTjBaSmVqUndOV295UkdKM1dtWkVSSFF4WlZoUE4yNXhjV0pZVEc5a1gyWkdVa1pJUTNSdllWZGZjWG94ZVVSdmEwSlZWMkZYVDJGWGJrVk5SbWc1VGpCMlZFMFNGMVJ0YUhaaGNGTnZSMlZtVFd0UVNWQTBMWFpKTFZFMEdpSkJSSE55T1daVGFHRTFSR1JETW1oWVNXMW1OVFIwUzFSaVZUWXRWMkZIYzBGbg",
+      "role": "Remote Product Manager, Money Platform Drive Growth",
+      "company": "US News",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
+      "posted_date": "2026-07-27",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "BeBee",
+      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
+    },
+    {
+      "id": "jsearch_VV9tWTFBOFhZTmpJaDhHVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzVqUkdKTVEwa3dWMHhrU25oeVkwNVBabFZYVlhaTWVqZENORFZUWXpWbllsZ3dTbWhOTkVNdGFVTkllbE50VFhWcldWWm5RbWhFTnpRNU4zaDJaVXBmYTBjdFozcFljR2xZZUVob01rRXphM2hMTUZwTmJteHVjVFpzTUd4SVJYcGZaamd3U0RCdllsaFpZVWRUVjNObmJtNUJOM0Z5U1VsNFMzbGxaR280V205dlVGZ1NGMWx0YUhaaGRqSlpUVTFMYkdsTVRWQTVjRXhGZFZGM0dpSkJSSE55T1daVFQxQnFSRlZ3VlV0eE5uWklkVWxsYUZWSlpFdFFNMlZZVkRsbg",
+      "role": "Senior Product Manager- Smart Services (Remote)",
+      "company": "trane technologies",
+      "link": "https://careers.tranetechnologies.com/global/en/job/JR-10537/Senior-Product-Manager-Smart-Services-Remote",
+      "posted_date": "2026-07-31",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Trane Technologies",
+      "description_snippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies, and through our businesses including Trane® and Thermo King, sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If the answer is yes, we invite you to consider joining us in boldly challenging what's possible for a sust"
+    },
     {
       "id": "jsearch_cnV2bGRvMEZDMGRMZmdSZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzEzYWtKa1ZrWlpXbXBVVG5kTldUSnNiVTgwT0VRMFZubHZkVFkwY0dGeGJFZFFZekJtUTJsUVYxTnZXRVpTYlVNMGJEbFJkM04zZUU1MlgydExSVk5oYmpkYVQyeEVabll3YVV0b1UwTlFURFJDU0Roa1owcFNRWFIzVFVsWlZEbHlZazVRYlhCeWVYSmpSRVozZVdGZlpGSjJlWFl0VmtwMlNXaHVTRzB3TXkweFNuQVNGelZTV25WaGMxUXlUemhRYVRWT2IxQXlkWFZsTkVGbkdpSkJSSE55T1daU2JEQXRiRTV1VUhCdmJUVnFPRTB0U0U1SlNVRllabWRQVDFOQg",
       "role": "Aerospace Technical Product Manager - Commercial",
@@ -43,20 +113,6 @@
       "match_score": 5,
       "source": "LinkedIn",
       "description_snippet": "Oula delivers maternity care built around our patients—offering comprehensive support before, during, and after pregnancy. With fewer C-sections and higher VBAC success rates, our research-backed approach is delivering better outcomes. Our team of trusted midwives, OBGYNs, and dedicated care navigators ensure our patients get the type of care they need in the moments that matter most.\n\nSince launching in 2021, we’ve expanded to include Preconception and Miscarriage Care, Pregnancy Care, Postpartum Support, and Gynecology. We currently have 4 clinics in the tri-state area, with three new clinic"
-    },
-    {
-      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV05JTWtrNVlVVk5SVkZHZG5sNlYwSk1lVVpvWWpsb2IwSmhUV1JMYWpkeVNIcHVjWFo2VjFrd1MzTm1Rblp4WTNwaVlXUXlVazlQTW1SemIwWlNVbFV0WVVsV05WVTJXVEJ3Y1hwSlZuSkVkRUp3TmpkblpqRmxSWFpXYnpkeFJIaFdaSE5YV0RsVGRWOVZRMFp1VDBGRllXRlZMVTFVTXpCRmNHczBRMjAyV1VOeU4zSVNGM1JvV25WaGIyMHRRbVp4ZFd0a1ZWQnFOMHRrTmxGekdpSkJSSE55T1daVU9WWTRaMHA1VWxCclUxUTFOMVF4VkhCTk1rNXRZWHBsYkdwMw",
-      "role": "Remote Product Manager, Money Platform Drive Growth",
-      "company": "US News",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
-      "posted_date": "2026-07-27",
-      "location": "United States",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "BeBee",
-      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
     },
     {
       "id": "jsearch_ejBVMG50OXNFT2xEdnJMNEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBUQzAxYlMxVmNsQTNiMHBUWW1FMWFsTTRUbE0yV1VnNU1sbFpkMjF3VTNoVFJIcFJXa0ZDYW1aSlEzVmtkQzFaYWkxQ1MwWmpSRkV4VlZwd1RHcHlVSEZ0TW5abmQwRk9kelpzVWxKSFZqWk1ZbHB5V2sxaGVGcEJhR2M1TTBGVlMycE1WVVoyYzAxRUxVODBTakJ0VkdSMFZsbGFObFYxZDBFeVFrcGhWVTQwVlhneU5rSVNGblpvV25WaGIzbFhRMk41Um1oaVNWQTJUR1pOUVZFYUlrRkVjM0k1WmxKalJGaENhVXN3TWtvNGVUUjVNV3BtVGxCWE9EbEZRbTFFUTNj",
@@ -213,20 +269,6 @@
       "description_snippet": "HiBob seeks a Senior Product Manager to lead our Benefits Administration product, driving the strategy and execution to modernize HR workflows. You’ll leverage data to tell compelling stories and work in a fast-paced, collaborative environment to deliver compliant, efficient experiences for HR teams and employees.\nWhile there is a strong NYC hybrid preference, exceptional candidates in EST time and open to remote work will be considered. Base salary ranges from $170,000 - $210,000 per year."
     },
     {
-      "id": "jsearch_VV9tWTFBOFhZTmpJaDhHVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmx2VHpWV2FpMW9RVUp2Y2s1dmRYRlJYM3BmYjNaeVJuTlNaMlI2TUZKRGVsWnRNRWRDY1hoNFJWZGFTRk5yVFdNMWJVSnNhbEJGTFRWUFJWVjJjRlZ6UjBaT1RGVldlRlI0UkZaRGFYVlBPREExUldNeVFVMUlibGhoVWpsR1UxWk5NWGx5WVVKV2IzcDRRbVp2V2xOVVRHa3dUbWczV0ROMk5sZGhZMmhSWVY5NVFUQVNGM1pPYUc5aGNrY3dRMXBRWlRWT2IxQjBMWEZ4TUVGWkdpSkJSSE55T1daU1JYbDZhRkZWZWpaTU9GZGpkWHB0UjNaUVprZG5ZMHMwWmxsbg",
-      "role": "Senior Product Manager- Smart Services (Remote)",
-      "company": "trane technologies",
-      "link": "https://careers.tranetechnologies.com/global/en/job/JR-10537/Senior-Product-Manager-Smart-Services-Remote",
-      "posted_date": "2026-07-23",
-      "location": "United States",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Trane Technologies",
-      "description_snippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies, and through our businesses including Trane® and Thermo King, sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If the answer is yes, we invite you to consider joining us in boldly challenging what's possible for a sust"
-    },
-    {
       "id": "jsearch_RFpuS0xzSDhjdkwyZmxzNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3N4Y2s5U2MxSnZZWEpwUTFoNWRVTnZWRkZ2UjA5dVptOW5hbFJ3ZVZaek1FZFRiSFF5ZG1KRFZWUkdkVTB3ZGt0TFZUaGhhVVpKVVY5clRuTnVlQzB3Ym1KclVFeDZOalpuYWpaemJtdzVaRXhOVWswMFJ6RjBjVXBYZURCbmIwOWFUMFJ5YWpGNmJEaGpUREpWYjBaS1pYVmpibWRMVUc4NVJXZHVlamRGZWpCMVgyUVNGMFZ2TVc1aGNsZFBURXN5ZEhjNFkxQXhXbVZoYlZGM0dpSkJSSE55T1daVWRIaHVWakZzZW0xUU1tbDZjVlZZVTAxU2NsaGxSMGd6V0hobg",
       "role": "[Remote] USA REMOTE || Product Manager Order Management System (OMS)",
       "company": "Dice",
@@ -281,20 +323,6 @@
       "match_score": 12,
       "source": "Built In NYC",
       "description_snippet": "Job Title\n\nProduct Manager – Data Platform, Analytics & Cloud (GCP)\n\nRole Summary\n\nWe are seeking an experienced Product Manager to own and drive a cloud-native data platform spanning databases, ETL/ELT pipelines, streaming, analytics, and reporting. This role will work closely with onshore architects, data engineering leads, analytics teams, and offshore delivery teams to define product vision, roadmap, and execution for enterprise-scale data solutions on Google Cloud Platform (GCP).\n\nThe Product Manager will bridge business requirements and technical implementation, ensuring scalable, reliab"
-    },
-    {
-      "id": "jsearch_Y1l1aW40X3ZMRGZRZW9LVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkJDVTNoNmVteEJlV2hvYm1OcWVVVmZZa295V1dobk5qRnhURzU1WWpCVFNHVlRRemhEVTI5TlJIVTNWMEZYWlhCaVJucDBZV1p3UkhWUGNqRkJha2xtUlhOR1pWRmpZVTlCWmpWRFUyUldOMFZ6YjE5NFlWaDZZVTFNYldWM2VEQnpaRUV4VDBsYU5sQjJOakZTWDJGZmExRk5XWGd3ZWs5NFFVTjZPR2x2YVVWR0xUSVNGMU5UTlcxaGMyWTVRM1ZsYzJoaVNWQXdObms0YzFGUkdpSkJSSE55T1daVGJtMHhlSGQ2V21SYVNYUkNUM05YTWxRNFNHOTRUMjlXTTNoQg",
-      "role": "Principal Product Manager, Core AI Platform",
-      "company": "Qualtrics",
-      "link": "https://www.qualtrics.com/careers/us/en/job/8055389/Principal-Product-Manager-Core-AI-Platform",
-      "posted_date": "2026-07-24",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "Qualtrics",
-      "description_snippet": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.\n\nWhen you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressi"
     },
     {
       "id": "jsearch_LVJ5UkppWWlnbEM2RFRTb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR0ZNY0ZSeFkzbGFaakJUT1hkTFdGSjNhMU5YVVhCMlJVWlhNRzFWT1cwM2VXRlBNVmMwWVdkQlN6SlRjRGd4Y0d4aVQwdFJjRFJzYVZSV2FFMUdWRzF4VlZWVVVHeEtlbGRPY1hCVlIwVnhNMUowYkdKR09GQm1SRkZGYjFSWWVVc3RkVVYxUmpsSGNHdHRXamx6ZEU1SVdqVjFUbTAxVTBKR1J6TktNRXhEWTFkQ2FIY1NGMU5UTlcxaGMyWTVRM1ZsYzJoaVNWQXdObms0YzFGUkdpSkJSSE55T1daVVJrazJOVlE1VVc1UlgxODVOMlJoVFZScFNubEVUbWQ2VVdSUg",
@@ -2773,34 +2801,6 @@
       "match_score": 3,
       "source": "USNLX Virtual Jobs - National Labor Exchange",
       "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
-    },
-    {
-      "id": "jsearch_-2L-sQCdfPpR2cSJAAAAAA==",
-      "role": "Remote Associate Product Manager Life Insurance Growth",
-      "company": "Legal & General America",
-      "link": "https://bebee.com/us/jobs/remote-associate-product-manager-life-insurance-growth-legal-general-america-frederick--lensa-7428_bb027b3463cc10801c051c989c832d7fd1d8e34764519e46a3ee2d78e4cafb37",
-      "posted_date": "2026-05-24",
-      "location": "Frederick, Maryland",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "A financial services provider is looking for an Associate Product Manager to lead scrum teams and manage product implementations. This role requires 3+ years of experience in project management within life insurance and a Bachelor’s degree in business or finance. You'll partner with the Head of Product Management and ensure timely delivery of product initiatives.\n\nThe position offers a competitive salary range of $90,800 to $124,900 and various benefits including health insurance and a 401(k) match."
-    },
-    {
-      "id": "jsearch_Bl1u8WavN3qVGszMAAAAAA==",
-      "role": "Senior Product Manager, AI-Driven Real Estate Solutions",
-      "company": "SitusAMC",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-ai-driven-real-estate-solutions-situsamc-dover--lensa-7428_b437c6770145ff4505be5ce633a8eb3021a1090497c74d170f33e175d87b79f8",
-      "posted_date": "2026-05-23",
-      "location": "Dover, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "SitusAMC is seeking an experienced product manager in Dover, Delaware. This role ensures product decisions align with the organization's strategy while advocating for stakeholders’ needs. The ideal candidate has 6+ years of experience in product or service development, excellent analytical skills, and experience in Agile methodologies. The position offers an annual salary between $120,000 and $140,000, along with various benefits including medical and dental insurance, PTO, and a 401(k)."
     }
   ]
 }
