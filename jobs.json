@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-08-02T15:55:18.879Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-08-03T17:05:22.810Z",
+  "total_fetched_today": 6,
   "jobs": [
+    {
+      "id": "jsearch_RjRjbTl1YnZsaGU4U2JjdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVk4zWm14QlZtTkxXRTF1WkZGMGJUZDBkRW80WVhORE4xSjBibkJpWHpsNGFHMVZNSEkwYTJKaFNsQlJSelpmVFRsUFQwb3RjM1F0U1dsUVJYTTVWR3REV210eFYzY3hORlIwTTBjMGQwbDNXVXRVWDJwc1JXTTBiVFF4UmkxeFdrTlNXRVpoWVc1MU16Z3dXbkZYVjJwR05HUnhiR3h6Y25CSUxYWTBNM0JYY0RKSFlrUVNGMHR6Y0hkaGRWaEhSRTh5YzNWeU9GQTFjMmxPYVZFd0dpSkJSSE55T1daUk5HOVpRamQyY3pNNFdWcEljV1pLTTJKT1RsVmpVMGx4VWpGQg",
+      "role": "(USA) Distinguished, Product Manager",
+      "company": "Walmart Inc.",
+      "link": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME--USA--Distinguished--Product-Manager_R-2558644",
+      "posted_date": "2026-07-30",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "Workday",
+      "description_snippet": "Position Summary... What you'll do... The most senior IC product role in the organization. Drives enterprise-wide product strategy, shapes organizational capability, and influences Walmart's competitive positioning through pioneering product thinking. Owns multiple complex customer problems and product lines by integrating market trends, competitive dynamics, customer segments, and business strategies. Creates strategic frameworks including Whole Product concepts and go-to-market approaches that drive mass adoption and enterprise value creation. Equivalent in scope and impact to Director, Prod"
+    },
+    {
+      "id": "jsearch_cTFBTFVCeE15SmlZRkpzY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlpaYVhCTVRDMWhObFZzVUdoME4wbDFlR3RoYVZwUk1YcE1aVXN4Y1RaMFZ6ZzNVRUpuTkhwc2IwVjRSVGQzV21WVmVubGZUa2RyWlV4RWVraDNhQzFOU25WaGRXVm1NelpJVVRoaFgwRlVSMk5zUjBReVFXMVVObTVUY3psUmN6ZHhURkl6VUdsbVFUaFFjVGRDVmtoWlVIaFdhMmxqTkRscVMxVmpPRmxoTFdWWVIxUVNGMHR6Y0hkaGRWaEhSRTh5YzNWeU9GQTFjMmxPYVZFd0dpSkJSSE55T1daU1YxQndNMHRXYnpOTWN6STJPRTUxWkhaSVlYSkxRazVwVjFOMw",
+      "role": "Product Manager, Payments",
+      "company": "Stash",
+      "link": "https://www.ziprecruiter.com/c/Stash/Job/Product-Manager,-Payments/-in-Remote,US?jid=e25c7cf156d71dc8",
+      "posted_date": "2026-07-30",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "ZipRecruiter",
+      "description_snippet": "About Stash\n\nStash is the direct-to-consumer commerce platform for game studios. We build the webshops, checkout experiences, and merchant-of-record infrastructure that let games sell directly to players - cutting the 30% app store tax and increasing LTV. Studios like SuperPlay, Rovio, Jagex, EA, and WB Games run their direct-to-player commerce on Stash, and we already process hundreds of millions of dollars a year in D2C revenue. We're scaling fast toward a 5x volume target in 2026, and we're building out the product team to match.\n\nAbout the role\n\nAs our first dedicated Payments PM, you'll o"
+    },
+    {
+      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1JUYTJWclkySjBRbnBwTlVzMlNUTjBjMGgyUm1nd1ZqbFpkWEl4Y2xrd2VFZ3hWMU0yVTFSTlpHc3dlalZvYm1OR1YwVkRielV6WlRaNVJ6QktNbGx3VjJKQ1oxWk5iV3BmV1RZMVVEZzVlazVCTTBoTmIxcDRSamx4UzBSTE4wTTJTVGhSV0RWYU1taERNbEJIVFVOdExXSmZjRE53ZDBWS1JqTjFaakF3TlhCM00wUVNGMHR6Y0hkaGRWaEhSRTh5YzNWeU9GQTFjMmxPYVZFd0dpSkJSSE55T1daUmFIVmxhSFl0WkVKcmREZFVVbDlLZWs5cGJIazFabTV0VERabg",
+      "role": "Remote Product Manager, Money Platform Drive Growth",
+      "company": "US News",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
+      "posted_date": "2026-07-27",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "BeBee",
+      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
+    },
+    {
+      "id": "jsearch_eFdlSXFMN0FadmI3SWlFT0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalZQTW5GeFVqVkdlSFpHY0ZCT2JVTlFkMHAwUzBwV01sRkdSbmxQVERKV1IwTkZVRTUwUlVZeE5ucFhVbUYwUnpadFkwczNOR3RtUlcxb1oyaE5RMlJhUjJrMmRrVjNTRzFxTFdsMVR6TjVNekJxUW5GT1NVMHpNRjh6YUZoNVFUaG5TV3AzWjJSSk4weEtXRXhNV0VoNE5ETnhWMDEyTkdkT1NrZE5NRm81VXpOWFpHOFNGMUpOY0hkaGNsQnhSVWxYY1hCMFVWQjFZbUpvWjFGbkdpSkJSSE55T1daUllVVkVUVmRzTWxKbFZITk1aVGxXTTJkVmJFeDVYekoxWkhGQg",
+      "role": "Product Owner Consultant (Remote)",
+      "company": "CareFirst BlueCross BlueShield",
+      "link": "https://www.linkedin.com/jobs/view/product-owner-consultant-remote-at-carefirst-bluecross-blueshield-4430708305",
+      "posted_date": "2026-08-01",
+      "location": "Baltimore, Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "LinkedIn",
+      "description_snippet": "Purpose\n\nResp & Qualifications\n\nServes as a senior authority over Product Owners and product teams within CareFirsts Government Programs portfolio, including Medicare Advantage, Medicaid, and ACA offerings. This role is responsible for driving the prioritization and execution of complex claims-related initiatives, leveraging deep expertise in FACETS to ensure effective delivery and alignment with regulatory and business requirements.\n\nLeads and manages complex product and project requirements, introducing innovative tools, frameworks, and best practices to enhance delivery outcomes. Oversees t"
+    },
+    {
+      "id": "jsearch_bEM5QXpuM01nRkkzYUNabUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkZWTUVGU1NGTTRYMXBOYzFZMU4zQTJWV05CVEdWbmVuTmxUbEZ2WVVwWVRsSTRkMkZKYzJSRE1tOVVXbmsxZUdwblYzUm5UVWx1VDJKdlNVTkxXVVJZUWtKRkxWTlRZbkJEVlZjd05VTndWMGhuVjBGWGIxQklhbFpzTjBobVVFNURTRlphUlU0emNtUkRRM2M1WWtJMU1VUmxOMlkxVERWM1NEUjVYMlpRVjFwb05HTVNGMVZOY0hkaGMweGZSR0pIZWpWT2IxQjVkamRVWjBGckdpSkJSSE55T1daUlkwaFNYMWhyYWtrNVIzWXlUazFQVTFSUFNEVnVNbVkxU1ROMw",
+      "role": "Product Manager, Cybersecurity SaaS (Remote)",
+      "company": "Online Jobs Philippines - Work at Home",
+      "link": "https://bebee.com/us/jobs/product-manager-cybersecurity-saas-remote-online-jobs-philippines-work-at-home-hagerstown--lensa-7428_8ee9062a0f8e539cf899728dba3d18b7b52a05da31beefd8680d0343b6479b70",
+      "posted_date": "2026-07-28",
+      "location": "Hagerstown, Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "Patchstack is seeking a Product Manager to shape and deliver our cybersecurity products. You will collaborate with engineering, design, sales, and marketing to turn strategy into tangible features that protect WordPress websites and empower developers.\nThis fully remote role requires balancing user experience, business goals, and technical feasibility while pursuing growth in existing and new markets."
+    },
+    {
+      "id": "jsearch_SFdycm5pVy1BSnROaHZkU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalZOTlcxSlJXeElXUzFOUm5CNU4xTnVjVkY1ZUV4cWJtYzBSWEJDVkRseGNVOVNOV3hTWVRKUFNubGtkMnhZU2tGNFpVWXpUbEp3ZW5WR05sVlZUa2xWUWpWS1oyTmthRU5ZYTBoSVlUTkJVMUoyWVd4TFNtMDJkVWREYW1wRU9VNTZSbUYwY0ZadGJUaDFVbE4wT0RGd1NraEdVVFEwYVhGaGNGWlRkbXBLWlZKRWFIQVNGMVZOY0hkaGMweGZSR0pIZWpWT2IxQjVkamRVWjBGckdpSkJSSE55T1daUmVWcDRWRk4xWkdoNWNsZzNaVWsxVWpocmEyOTZPRXhRZVRCUg",
+      "role": "Remote Product Manager, Home Services (0 to 1)",
+      "company": "GoGoGrandparent",
+      "link": "https://bebee.com/us/jobs/remote-product-manager-home-services-0-to-1-gogograndparent-wilmington--lensa-7428_dec4f7a400c3ffc4d219b3fd0b89511af43dadd2e7a951fe1930d5bad53bc288",
+      "posted_date": "2026-07-30",
+      "location": "Wilmington, North Carolina",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "Every single person that works here has someone they are building GoGo for. When we add someone to the team, it's because we think they will help our dad, aunt, neighbor or grandma have a better life . Does that sound like you?\n\nProduct Manager\n\nJob Summary The Product Manager will own the strategy, roadmap, and execution for GoGoGrandparent's Home Services department, a strategic bet that could dramatically impact the future of the company. This is a 0 to 1 role where you will have broad autonomy over helping to build this \"business within a business\". This role drives the end-to-end product "
+    },
     {
       "id": "jsearch_Y1l1aW40X3ZMRGZRZW9LVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFZ2ZG5wSVJHWjJSRlp5Y3pCdVJ6ZEZjMHBVT1ZSNU5ESmtRWGhSWWpreVNXSkhkV3BPVkRkWFFtd3dVV05sVjFKdmRYaHZWRWRKTTBwV01WWkVSVEoxYjNKTFNVTmphblU1T1dab2JFdFFVMFpWU1VGTk1HcDVWVEozU3pCNVduZHFXbmw1TUdGMFIybDVjM0IzWlV4S01FWXdWRTFIU3pReWRIUTBjR3BwVERGTVZEZ1NGMWx0YUhaaGRqSlpUVTFMYkdsTVRWQTVjRXhGZFZGM0dpSkJSSE55T1daUlozTk9hbWhIZEd3NWVIbDFUVTlmYzNCbVgyeEVVM0pDVDBaMw",
       "role": "Principal Product Manager, Core AI Platform",
@@ -43,20 +127,6 @@
       "match_score": 7,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: United States\nAbout Wizard\n\nWizard is the top-performing AI Shopping Agent, delivering the best products from across the web with unmatched accuracy, quality, and trust.\n\nWe're redefining how people shop by combining AI reasoning with real-time commerce. Instead of searching through dozens of websites, consumers simply tell Wizard what they're looking for, and our AI agent finds, compares, and recommends the best products from across the internet.\n\nAs we continue scaling, we're building the merchant platform that powers this experience—conne"
-    },
-    {
-      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemgwTURCemQzaENlV3hDU1ZsRFdsVmtZM2hUYlRkc1dqbEVWamxMYjJSMFJFVjVUa0ZqYUU5SmRrcHVVMTlsWlRZMGIwZG1kbXA2ZW5SalZVRnVOM0ZTTjBaSmVqUndOV295UkdKM1dtWkVSSFF4WlZoUE4yNXhjV0pZVEc5a1gyWkdVa1pJUTNSdllWZGZjWG94ZVVSdmEwSlZWMkZYVDJGWGJrVk5SbWc1VGpCMlZFMFNGMVJ0YUhaaGNGTnZSMlZtVFd0UVNWQTBMWFpKTFZFMEdpSkJSSE55T1daVGFHRTFSR1JETW1oWVNXMW1OVFIwUzFSaVZUWXRWMkZIYzBGbg",
-      "role": "Remote Product Manager, Money Platform Drive Growth",
-      "company": "US News",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
-      "posted_date": "2026-07-27",
-      "location": "United States",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "BeBee",
-      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
     },
     {
       "id": "jsearch_VV9tWTFBOFhZTmpJaDhHVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzVqUkdKTVEwa3dWMHhrU25oeVkwNVBabFZYVlhaTWVqZENORFZUWXpWbllsZ3dTbWhOTkVNdGFVTkllbE50VFhWcldWWm5RbWhFTnpRNU4zaDJaVXBmYTBjdFozcFljR2xZZUVob01rRXphM2hMTUZwTmJteHVjVFpzTUd4SVJYcGZaamd3U0RCdllsaFpZVWRUVjNObmJtNUJOM0Z5U1VsNFMzbGxaR280V205dlVGZ1NGMWx0YUhaaGRqSlpUVTFMYkdsTVRWQTVjRXhGZFZGM0dpSkJSSE55T1daVFQxQnFSRlZ3VlV0eE5uWklkVWxsYUZWSlpFdFFNMlZZVkRsbg",
@@ -141,20 +211,6 @@
       "match_score": 9,
       "source": "ZipRecruiter",
       "description_snippet": "Product Manager in Washington, DC location with our direct client | Washington, District of Columbia, United States\n\nIndotronix is seeking a Product Manager in Washington, DC location with our direct client\n\nPosition: Product Manager\n\nLocation: Washington, DC\n\nDuration: 6 Months with possible extension.\n\nBackground:\n\nWe are seeking a Product Manager to support the Security Engineering team within the client space. This team is responsible for the strategy, design, deployment, and maintenance of effective security solutions in cloud, local, and hybrid environments.\n\nRequirements:\n\nThe candidate"
-    },
-    {
-      "id": "jsearch_cTFBTFVCeE15SmlZRkpzY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1F5TWpsVWIyVkpWSEZEU1d4bFFsOXpkek5SUjBkZk1IZExaVmMzVWt0NE1WbDFRbEJCYWxsek5reExhVzkwU2tKelpGWk1iRmRKUlZneVdrWmxlazlWZW5JMVZEa3pOa1ZaWjBkVllYZFdhVzlyVkRacE5YTmFWM1pXVDJGU1UxaEdNVEZUUVZOUGVXeDJOeTFGUnpaVVRIQklhREJLYlU5dlJHNXBSak4wYkY5cVRWa1NGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daUlVHbEJXRXR0UTNKbWRuWTVRa05MYzFGTlZuZHVWelZGVG5kMw",
-      "role": "Product Manager, Payments",
-      "company": "Stash",
-      "link": "https://www.ziprecruiter.com/c/Stash/Job/Product-Manager,-Payments/-in-Remote,US?jid=e25c7cf156d71dc8",
-      "posted_date": "2026-07-31",
-      "location": "Remote, Oregon",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "ZipRecruiter",
-      "description_snippet": "About Stash\n\nStash is the direct-to-consumer commerce platform for game studios. We build the webshops, checkout experiences, and merchant-of-record infrastructure that let games sell directly to players - cutting the 30% app store tax and increasing LTV. Studios like SuperPlay, Rovio, Jagex, EA, and WB Games run their direct-to-player commerce on Stash, and we already process hundreds of millions of dollars a year in D2C revenue. We're scaling fast toward a 5x volume target in 2026, and we're building out the product team to match.\n\nAbout the role\n\nAs our first dedicated Payments PM, you'll o"
     },
     {
       "id": "jsearch_YlZLUHl1WU5oaXBJcTdVOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1J5YlVGd2RscGFRVTF6V2xWNU5VRnBhWHA2VFRBNFl6TjZVRWxWVGxNMlZVWndVbGRUVTBJMlZGaG1NMkpuUTA5TFkzbGpRbkpvU2xKc1owOWxNazFxTTNVMmRraFNWRmRJTjBSV01UZFRRVTFtVUVzNFdsbHNTazR6U0Uxb2VUQTRWMmRsVG1OTFdqVkROVWRTWjJWRGJsRmpORzFpVGtkM2FuWXRZbTVRYjJkWFduVVNGelpOT1hOaGNUSTJSa3N5WVhCMFVWQmZPVmg2ZVVGM0dpSkJSSE55T1daVFZERTRObWRqWHpkRGJVaGZTREpCUTJ0bVJHd3lWSEZNTTJ4Mw",
@@ -2745,62 +2801,6 @@
       "match_score": 1,
       "source": "JobLeads",
       "description_snippet": "Harrison Scott Associates is seeking a Product Manager to act as the interface between clients and the technical department. This role is vital for the vision and profitability of software solutions, requiring market research and coordination across teams. Candidates should have a blend of business and technical skills, with experience in product management. This position entails national and international travel, and advantageous qualifications include familiarity with XMPie. A competitive salary of £45k to £50k pa plus a company car is offered."
-    },
-    {
-      "id": "jsearch_jPzu4tH2NETYErxsAAAAAA==",
-      "role": "Product Manager, Indoor Retail Asset Management (Remote)",
-      "company": "Vontier",
-      "link": "https://www.jobleads.com/us/job/product-manager-indoor-retail-asset-management-remote--dayton--ed9573d016e8b0f19c084c8a41d93a06b",
-      "posted_date": "2026-05-25",
-      "location": "Ohio",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JobLeads",
-      "description_snippet": "Vontier is looking for a Product Manager for Indoor Retail Asset Management, responsible for product planning and execution. This role includes assessing customer needs and collaborating with stakeholders to define product vision and deliver innovative solutions.\n\nThe position is remote within the United States, requires 5+ years of product management experience in software, and offers a salary range of $110,000 to $145,000 per annum, plus bonuses."
-    },
-    {
-      "id": "jsearch_vKF6VQ2EK2llO-AEAAAAAA==",
-      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
-      "company": "C-4 Analytics",
-      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/9229399",
-      "posted_date": "2026-05-26",
-      "location": "Wakefield, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Built In Boston",
-      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
-    },
-    {
-      "id": "jsearch_pTF2tKQ_tMathfF3AAAAAA==",
-      "role": "Principal Product Manager (remote USA)",
-      "company": "Alteryx",
-      "link": "https://bebee.com/us/jobs/principal-product-manager-remote-usa-alteryx-los-angeles--lensa-7428_5e14112c992ed747d8fc3e1d3161c8f95147206da0940132ddcabc3d9f9438f9",
-      "posted_date": "2026-05-28",
-      "location": "Los Angeles, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "Principal Product Manager (remote USA) page is loaded## Principal Product Manager (remote USA)posted on: Posted Yesterdayjob requisition id: R11925We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self.\n\nYou know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when th"
-    },
-    {
-      "id": "jsearch_awqGXFLb3hiS6eCBAAAAAA==",
-      "role": "Sr. Technical Product Manager (Remote)",
-      "company": "GovCIO",
-      "link": "https://virtualjobs.usnlx.com/juneau-ak/sr-technical-product-manager-remote/33377C71653C4EC78877D301BA2182A7/job/",
-      "posted_date": "2026-05-25",
-      "location": "Juneau, Alaska",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "USNLX Virtual Jobs - National Labor Exchange",
-      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nThe Technical Product Manager is responsible for overseeing the full software development lifecycle for assigned products, in support of the VA Office of Connected Care.\n\nThis position will a fully remote position located within the United States.\n\nResponsibilities\n\n• Manage the full software development process lifecycle for assigned product(s)\n\n• Facilitate strategy and prioritization discussions\n\n• Transform high-level vision into detailed action plans\n\n• Build and maintain the product roadmap, ensu"
     }
   ]
 }
