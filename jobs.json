@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-08-03T17:05:22.810Z",
-  "total_fetched_today": 6,
+  "last_updated": "2026-08-04T16:47:58.803Z",
+  "total_fetched_today": 4,
   "jobs": [
+    {
+      "id": "jsearch_OHRvV1lLU1BnWkdKMGxidUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTlOUlVoR2MzbFhlRk40U25JNU5USk9RM1psUVRNd1kwcHRMV1JKUnpSMVJIQk9WVzVpTjFKMlpraDNPRmx2UmtoWmFISm9kVEZaYUV0SlpGY3lUVGxNTkVaaFFuRkJSa0k1ZVVGd1VIaEdWWFpvUTJGcUxVUkxTMUJ6V2w5R1lYVnBRbTVPZFROWlRXVnlTRFpmY1hkQlpEbFFWbkpmWjFSS1EyVjJNSEZTWkdFNFUwa1NGMnhTWkhsaGRHVmlTSFpITFhBNE5GQXlUMTlaYlZGdkdpSkJSSE55T1daVFkxOW5hRzlpYlZwek4yVmZUSG96TWs1bmIwOHRWa1JQZG1abg",
+      "role": "Product Manager, Client Delivery",
+      "company": "Lirio",
+      "link": "https://jobgether.com/offer/6a6b60031b23f4f87b481a53-product-manager-client-delivery",
+      "posted_date": "2026-07-30",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: United States\nLirio is a technology/software company that provides expertise in a variety of behavioral science domains (e.g., behavioral economics, social psychology, public health), data science, and machine learning to drive consumer engagement, close gaps in preventive and chronic care, and promote health and well-being across an individual’s lifespan. Lirio’s behavior change AI platform unites behavioral science with advanced artificial intelligence (AI) to deliver Precision Nudging health interventions. Precision Nudging is the applica"
+    },
+    {
+      "id": "jsearch_Q1c4SjgyNklJZWxlenkxZkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTelpqVkhCS1VFRlRVMUZoZVdObVMxRk1hbkExUVd0MVZVSk9SRmhsVDFFNGQyOXpOSGhuY0dVeVdVVkVUWGRpVW1WcmFXZ3pTVmc1VG0xcmQxSlVNM2d0TlZGZmNFcEJOME42ZGtWZlptbE1NMHRqTFhRd1NEQjZZVTF3ZVdZeWVYZERTME5WVUdWb1JURTFUVlZhZVRFeFlYZFlWMW93WkZodFRqWXlhRUZNTjNSak5uY1NGbWxTWkhsaGNtMW9Ra3BtVjJ0UVNWQjJZa1JRUTBFYUlrRkVjM0k1WmxRMlIxYzVXVUZCVkVweU5XOU9RMlUyZGtGblZtZFVkR296VW1j",
+      "role": "Senior Product Manager",
+      "company": "Humana Inc",
+      "link": "https://www.monster.com/job-openings/senior-product-manager-dover-de--1b6dd270-76c1-4486-ac23-91f89c65f35b",
+      "posted_date": "2026-07-31",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "Monster",
+      "description_snippet": "Become a part of our caring community\n\nThe Senior Product Manager Conceives of, develops, delivers, and manages products for customer use. The Senior Product Manager work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.\n\nThe Senior Product Manager develops, delivers, and manages products for customer use. The Senior Product Manager work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors. The Seni"
+    },
+    {
+      "id": "jsearch_cTFBTFVCeE15SmlZRkpzY0FBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMXBETFdWSWRVUk1iMUZOY25sdU4yaDRZbW8xYjJWdGVtSlNaM0IwTFVrd2NqVmtOR3N0WnpSSk1uTXdhV1pWTWxSdmEzZDJSVk5MWmpjNE0zQTRWMk5xVDFwR1ZsTXROVFV5UTBSd04xSlNRVFZoTFhaa1QyVmtOblJuTWs5MFRWazVhVkYzYlZGQ1FUSkhlamRDYkd0elVsZHJNR1ZIYm5WUU9YTnZUMDB5YmpOMVVpMFNGbWxTWkhsaGNtMW9Ra3BtVjJ0UVNWQjJZa1JRUTBFYUlrRkVjM0k1WmxOT1RUa3diWFZpZDBrM1ZGaEZSVUZsV201NlNtOURiV0oxYVVF",
+      "role": "Product Manager, Payments",
+      "company": "Stash",
+      "link": "https://www.ziprecruiter.com/c/Stash/Job/Product-Manager,-Payments/-in-Remote,US?jid=e25c7cf156d71dc8",
+      "posted_date": "2026-07-30",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "ZipRecruiter",
+      "description_snippet": "About Stash\n\nStash is the direct-to-consumer commerce platform for game studios. We build the webshops, checkout experiences, and merchant-of-record infrastructure that let games sell directly to players - cutting the 30% app store tax and increasing LTV. Studios like SuperPlay, Rovio, Jagex, EA, and WB Games run their direct-to-player commerce on Stash, and we already process hundreds of millions of dollars a year in D2C revenue. We're scaling fast toward a 5x volume target in 2026, and we're building out the product team to match.\n\nAbout the role\n\nAs our first dedicated Payments PM, you'll o"
+    },
+    {
+      "id": "jsearch_TUlfVFFxSVlzeTEtNDk0NUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVI2ZUc1SGVFaHJiSEpJTFVwdVFqQndTbTgxZGpsMlpXRllTMlZVZEZOZlVEbDJaVmsxZFRBeGNrdHljVEIzZDFnNVJFSkROWGhxZWs1U2NESkxjRFJwYlZWUk1saFZZMUY1ZFhkeE1qUnNTMlJQTVZaTE1FbEhUR1Z4VG5CTU0xSXliek00WDBveFNVczROMTh0ZVc5RFIyUnhSSEZ4ZG5aZmJYaHdRMmxIYUVaQ01TMFNGMnhTWkhsaGRHVmlTSFpITFhBNE5GQXlUMTlaYlZGdkdpSkJSSE55T1daU1pUbFdielZEZUdSc1ZtbHhRbVpITUdSc00wTlZMVWw1VVd4Ug",
+      "role": "Principal Product Manager - Healthcare Technology (Remote)",
+      "company": "Experian",
+      "link": "https://jobs.experian.com/job/principal-product-manager-healthcare-technology-remote-in-united-states-jid-5060",
+      "posted_date": "2026-07-28",
+      "location": "Franklin, Tennessee",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Experian",
+      "description_snippet": "Role Overview\n\nReporting to the VP of Innovation, the Principal Product Manager is a senior individual contributor responsible for defining product strategy, incubating initial product line, and bringing to market a GenAI Appeals solution in the Provider Revenue Cycle Management (RCM) category. You will perate with high autonomy, and be the Single Threaded Owner (STO) for development and launch of a new product line within 12 months.\n\nYou'll have opportunity to:\n• Define and own Proof of Concept (POC) product strategy and product launch to Beta customers\n• Lead go-to-market (GTM) motion for Ne"
+    },
     {
       "id": "jsearch_RjRjbTl1YnZsaGU4U2JjdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVk4zWm14QlZtTkxXRTF1WkZGMGJUZDBkRW80WVhORE4xSjBibkJpWHpsNGFHMVZNSEkwYTJKaFNsQlJSelpmVFRsUFQwb3RjM1F0U1dsUVJYTTVWR3REV210eFYzY3hORlIwTTBjMGQwbDNXVXRVWDJwc1JXTTBiVFF4UmkxeFdrTlNXRVpoWVc1MU16Z3dXbkZYVjJwR05HUnhiR3h6Y25CSUxYWTBNM0JYY0RKSFlrUVNGMHR6Y0hkaGRWaEhSRTh5YzNWeU9GQTFjMmxPYVZFd0dpSkJSSE55T1daUk5HOVpRamQyY3pNNFdWcEljV1pLTTJKT1RsVmpVMGx4VWpGQg",
       "role": "(USA) Distinguished, Product Manager",
@@ -15,20 +71,6 @@
       "match_score": 10,
       "source": "Workday",
       "description_snippet": "Position Summary... What you'll do... The most senior IC product role in the organization. Drives enterprise-wide product strategy, shapes organizational capability, and influences Walmart's competitive positioning through pioneering product thinking. Owns multiple complex customer problems and product lines by integrating market trends, competitive dynamics, customer segments, and business strategies. Creates strategic frameworks including Whole Product concepts and go-to-market approaches that drive mass adoption and enterprise value creation. Equivalent in scope and impact to Director, Prod"
-    },
-    {
-      "id": "jsearch_cTFBTFVCeE15SmlZRkpzY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlpaYVhCTVRDMWhObFZzVUdoME4wbDFlR3RoYVZwUk1YcE1aVXN4Y1RaMFZ6ZzNVRUpuTkhwc2IwVjRSVGQzV21WVmVubGZUa2RyWlV4RWVraDNhQzFOU25WaGRXVm1NelpJVVRoaFgwRlVSMk5zUjBReVFXMVVObTVUY3psUmN6ZHhURkl6VUdsbVFUaFFjVGRDVmtoWlVIaFdhMmxqTkRscVMxVmpPRmxoTFdWWVIxUVNGMHR6Y0hkaGRWaEhSRTh5YzNWeU9GQTFjMmxPYVZFd0dpSkJSSE55T1daU1YxQndNMHRXYnpOTWN6STJPRTUxWkhaSVlYSkxRazVwVjFOMw",
-      "role": "Product Manager, Payments",
-      "company": "Stash",
-      "link": "https://www.ziprecruiter.com/c/Stash/Job/Product-Manager,-Payments/-in-Remote,US?jid=e25c7cf156d71dc8",
-      "posted_date": "2026-07-30",
-      "location": "Remote, Oregon",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "ZipRecruiter",
-      "description_snippet": "About Stash\n\nStash is the direct-to-consumer commerce platform for game studios. We build the webshops, checkout experiences, and merchant-of-record infrastructure that let games sell directly to players - cutting the 30% app store tax and increasing LTV. Studios like SuperPlay, Rovio, Jagex, EA, and WB Games run their direct-to-player commerce on Stash, and we already process hundreds of millions of dollars a year in D2C revenue. We're scaling fast toward a 5x volume target in 2026, and we're building out the product team to match.\n\nAbout the role\n\nAs our first dedicated Payments PM, you'll o"
     },
     {
       "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1JUYTJWclkySjBRbnBwTlVzMlNUTjBjMGgyUm1nd1ZqbFpkWEl4Y2xrd2VFZ3hWMU0yVTFSTlpHc3dlalZvYm1OR1YwVkRielV6WlRaNVJ6QktNbGx3VjJKQ1oxWk5iV3BmV1RZMVVEZzVlazVCTTBoTmIxcDRSamx4UzBSTE4wTTJTVGhSV0RWYU1taERNbEJIVFVOdExXSmZjRE53ZDBWS1JqTjFaakF3TlhCM00wUVNGMHR6Y0hkaGRWaEhSRTh5YzNWeU9GQTFjMmxPYVZFd0dpSkJSSE55T1daUmFIVmxhSFl0WkVKcmREZFVVbDlLZWs5cGJIazFabTV0VERabg",
@@ -2759,48 +2801,6 @@
       "match_score": 3,
       "source": "Comcast Careers",
       "description_snippet": "Universal Ads, a part of Comcast, enables any brand, of any size, to seamlessly make and buy commercials across premium video reaching new qualified audiences at scale. Universal Ads combines premium and brand-safe video content directly from the most influential media companies with the ease and familiarity of social ad buying. It is your one-stop shop for high-quality video ads delivering performance and unmatched scale.\n\nJob Summary\nThis job focuses on directing junior product managers and owning the strategic planning for product content, pricing, packaging, and features. It entails defini"
-    },
-    {
-      "id": "jsearch_s4GTmru2ETzGJ76hAAAAAA==",
-      "role": "Associate Product Manager - Auto Originations",
-      "company": "JPMorganChase",
-      "link": "https://www.indeed.com/viewjob?jk=0e7f9a2a45a0d37a",
-      "posted_date": "2026-05-27",
-      "location": "Wilmington, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Indeed",
-      "description_snippet": "JOB DESCRIPTION\n\nChase Auto is a leading provider of auto financing with a portfolio of more than $80 billion in assets and relationships with 75% of U.S. franchised automotive dealers. The business is part of the JPMorganChase franchise and serves auto dealers, consumers, and vehicle manufacturers. It offers a range of products and services to meet the financial needs of its clients from retail lending, captive financing, and floorplan products to cash management, private banking, and payment processing.\n\nAs an Associate Product Manager in Auto Originations, you will be in a pivotal role resp"
-    },
-    {
-      "id": "jsearch_ASIGMYqLzZYjCcqSAAAAAA==",
-      "role": "Remote Product Manager - Lighting/Electrical",
-      "company": "Arrow Electronics",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-lighting-electrical-arrow-electronics-colorado-springs--dc-E3AA273B6477A5AB5118F89DD19DDBDC",
-      "posted_date": "2026-05-26",
-      "location": "Colorado Springs, Colorado",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "Position: Product Manager Job Description: What You’ll Be Doing: Responsible for the analysis of market trends, supplier performance, internal developments and objectives to facilitate ongoing development of Arrow's adder and quoting strategy. Facilitate interaction and feedback from segment managers, product specialists and sales management. Monitor, measure and report supplier market price performance.\n\nPrepare negotiation material as well as support the negotiation process. Works with technology business managers and product specialists to establish negotiation strategy. Strategic customer "
-    },
-    {
-      "id": "jsearch_XBgxVIQIe3rTA_7IAAAAAA==",
-      "role": "Global Product Manager: Strategy, Client Liaison & Travel",
-      "company": "Harrison Scott Associates",
-      "link": "https://www.jobleads.com/us/job/global-product-manager-strategy-client-liaison-travel--national--e43c68fe7bc9fb4bf3b24991ddc191b09",
-      "posted_date": "2026-05-27",
-      "location": "National, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JobLeads",
-      "description_snippet": "Harrison Scott Associates is seeking a Product Manager to act as the interface between clients and the technical department. This role is vital for the vision and profitability of software solutions, requiring market research and coordination across teams. Candidates should have a blend of business and technical skills, with experience in product management. This position entails national and international travel, and advantageous qualifications include familiarity with XMPie. A competitive salary of £45k to £50k pa plus a company car is offered."
     }
   ]
 }
