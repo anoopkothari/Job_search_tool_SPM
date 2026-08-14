@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-08-13T15:51:40.941Z",
-  "total_fetched_today": 3,
+  "last_updated": "2026-08-14T15:43:37.919Z",
+  "total_fetched_today": 2,
   "jobs": [
+    {
+      "id": "jsearch_T3FwXzB1UHh5TmNjTEpuYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzlWTFZsTGRrWTRTSEZ0UVRGT1kxSjBPRmhEVTNaRlIyVk9VMjB0V21JMU56bExUMUJzV1V4eFYxUTBSMk15VEhOa2VrMUxaVlkzY3pkMFUybE1kRnBtTlRacFRVNVdhbWw1ZWpaaUxYWnhTRkJUWWt4VWVYQm9hMVpwVDBONGFWQjFZemx2ZVY4d1pHbExjV3RaYUhGd1RFdzRZVmQzUVhoS2EyWnNObGN4Ym1kUmVrUVNGMjVVWkY5aGNHSmFURjh0ZG5CMFVWQTFPV1ZQT0ZFMEdpSkJSSE55T1daU2VWQTNVVlV6ZDBnM2JqRkVWaTF2UkhReGVWRnhVWGxQTFROQg",
+      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
+      "company": "Snowflake",
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
+      "posted_date": "2026-08-13",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Snowflake Careers",
+      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
+    },
+    {
+      "id": "jsearch_SnYzUDl2MXdpMGF0V2dvbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFEwVkZreFZWWlpSME5IYnpKcmN6SkNZVEZLY0hKSGEwNUhiR3BHV20welZtZEdjMFZGZWxNMU5taGhiak5pVXpFdFpVRldiMVYzVlVNNVpubEZTM2h1ZWw5VGJ6aENjak5WUkVZNU1WZHRPVTVZUWtzd1NuUlhZVTVQU2kwd1dUZDRlRTlST0RObU1GSlBSWHBRVkVGS1RFTkVhV2xrUTJWTE4ybDNSek5QY0ZCTlpWTVNGMnRxWkY5aGRXVmZRbVJNU0d0UVNWQXlkazlQZFZGakdpSkJSSE55T1daVFNuTTFTMDltVUZGWWNqQjJaVkZwUWs1cVNUSktWek01WWt4Mw",
+      "role": "Global Product Manager - Transformers",
+      "company": "ABB",
+      "link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
+      "posted_date": "2026-08-12",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "ABB Career",
+      "description_snippet": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\nThis position reports to:\nBusiness Manager - Operations and Portfolio\n__\nYour role and responsibilities:\n\nAs the Global Product Manager for Low Voltage Dry Type Transformers, you will have the opportunity to manage the marketing of ABB’s offerings to targeted market segments and manage these offerings throughout their lifecycle, in line with market needs and product group"
+    },
     {
       "id": "jsearch_NVd5MXczZjF3RHI4VzN1eEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVp0V2kxVFdXOTRjRkJrWjFkdmRFOUlWVzA0Y1RoWWFsTTVOMWRNZVVKemJrZFNXRUZEZVRKVFFqUTBNMlZRY1ZCVlNqbHJiRTF3VTI5c2QxbHhXblZ1VUd4ZldsOVRTVE5uU25KVFNEQjBUa296VUhWeWJWbDZTazFpVldzMVdWbDFiazloUTJWNk0yNXZVQzF5VWpCM2VUUlZiMk56V0d0d01IaEljMnBaUzBkUlMxVVNGMEV0YURsaGNVZ3hTa3MyYld0UVNWQTVaVGR2TUVGekdpSkJSSE55T1daVFFXcDFiVmxQYUdKTlMwaExXa3A0ZGpOMU4zVlZVelZpVDFsMw",
       "role": "DevSecOps Product Manager - Division of Information Technology",
@@ -143,20 +171,6 @@
       "description_snippet": "Company Description\n\nJob Description\nAt Hirevue, our mission is to connect talent to opportunity by transforming how the world hires. We build innovative, purpose-built solutions that help our customers and candidates succeed, and we believe our impact is strongest when shaped by diverse perspectives and experiences. We’re looking for a Product Manager who’s excited to work on complex, high-impact problems at the heart of our platform and eager to make a meaningful difference.\nIn this role, you’ll help shape products that power how organizations evaluate talent at scale. You’ll work closely wi"
     },
     {
-      "id": "jsearch_SnYzUDl2MXdpMGF0V2dvbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFpFY2tWRFUwMXFkbGN5V0RJeWNXcDJNVXBJYzBSc01YRTVOV1ZHYlRaclMyVjJObTlEVkhCdGNXeFRVa3hIWWtWTllXMUpjMEYxYWtkU05rcEZSSGhDYkRJMWVqWkliMVU1VmxablZHSlJNVzAwWTNCSFIyUTBjMnd3VUVOcVZXWnJhR3QwVTAxWFlYWnhibHB0UlVaVllsOUxURzVGU0hCalJtaENSblJoUkhaR2JGVVNGM2hhV2poaGIyMTRUVFJxVVd0UVNWQnpYMkpIZVZGdkdpSkJSSE55T1daU05YWXplVE5ZV2xCUE1GaElabFIzT1ZoQlpuSkNXSHBwT0VSbg",
-      "role": "Global Product Manager - Transformers",
-      "company": "ABB",
-      "link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-      "posted_date": "2026-08-11",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "ABB Career",
-      "description_snippet": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\nThis position reports to:\nBusiness Manager - Operations and Portfolio\n__\nYour role and responsibilities:\n\nAs the Global Product Manager for Low Voltage Dry Type Transformers, you will have the opportunity to manage the marketing of ABB’s offerings to targeted market segments and manage these offerings throughout their lifecycle, in line with market needs and product group"
-    },
-    {
       "id": "jsearch_UVdjc3lzcDRDcERCaXNBUkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2RWVUhCdVh6aG9VbTVFVld0WGIyaE5aVUo2TW0xUFdYRnZkVkJ3UzJWMVNHWTFTbVpKYzJGbU0yaENkbFJxYWw5SGNWZFhVbEUzT0VoQ1dFVktNVkozWDBsRmJISkhTbGh1VTJWR2NGcFplVzQyUjBjNE1YVlJPVEZWVTI5dWRHZDJOREZ6V1RkcGRrcFNZbmg1V1V0alNtczRlRGhvVTFWTVdGZFhlbFkwUVhaZlduRVNGM3B3V2poaGNqTTRRWE5YZFdsTVRWQTVMV1ZVZFZGakdpSkJSSE55T1daU1FucElMVWQ2WlRJMVl6bDNXR1J0UVRoUFdUbEtWRGhEYVVsMw",
       "role": "Senior Product Manager - AI Platform 0→1 (Remote)",
       "company": "Remote",
@@ -253,20 +267,6 @@
       "match_score": 6,
       "source": "PACCAR",
       "description_snippet": "The AI Product Manager lead analysis, development and implementation of an AI strategy within ITD applications.\n\nJob Functions/Responsibilities\n• Define the direction for AI at PACCAR ITD Applications – craft a strategy and roadmap that aligns business outcomes, data/platform realities, and responsible AI Standards.\n• Lead the AI Applications team of matrixed resources including developers\n• Cultivate relationships with AI user groups and practice leaders from other groups inside of ITD\n• Identify opportunities across ITD Applications where AI can deliver enhanced efficiency, scalability, and "
-    },
-    {
-      "id": "jsearch_T3FwXzB1UHh5TmNjTEpuYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkZUVDB4cWVXRmpPRU5IWW5KTlpEWjNNV3d4WWkxVVJYWTFNMnB5YVRJMWVFaDVSMFJMVDFKbWJVYzBkbUUwVFc1VFlVUm1NRlo1VUdaUk9EQkRlRmgyWkVsUWJXMDBkMnhuYkZsaVR5MTJWMjh6ZVhOaFMzWjBPVXhrWm13Mlpub3lMVWxwYW5GNk1qVmZXVVpWZVZSeFRWTkxNVU5TWkVWNE1uYzBaazlyVjJ0WldIVVNGMmN3VmpkaGRXWXpRbEJFVnpkTk9GQTJOakpLYjBGWkdpSkJSSE55T1daVFpXUm5lWE4wYmxGSU9WWTBZMmhsWlZkcVJXSTNTa2x4Y1ZwMw",
-      "role": "Staff Product Manager, Unistore (Hybrid Tables)",
-      "company": "Snowflake",
-      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
-      "posted_date": "2026-08-09",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Snowflake Careers",
-      "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
     },
     {
       "id": "jsearch_dlZjclRYYjhTN2lRMGxhOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFpTT0dSRk56ZGljRlo0VW05alpEWmlVV2xqWjNOdGNFRnhOR0pxTW13MlYyTXRTMmhGUXpWVmNGUlpTWFpKZVdKWGNuSnBOVVZVYUdKQkxWZFpRVTkxUTBGclJWQnJSWFZUTFc1UlNXbHZTalJEZFVJNGFuQTRZa1EyVEhVek9FdEViaTFmWkhKWWRsaDBXa3B6ZEV4S1ltaHdWMkYzUjJkalJ5MVVOMFJGT1VkQk9XY1NGM05WVmpkaGMzcFdTa3BIUzNKMVJWQjFZbGM0Y1VFd0dpSkJSSE55T1daVFJuWjZNVVpuTm1kSmVubGZXVmg1ZGxGa1EzbzJRa0ZKVTFSUg",
