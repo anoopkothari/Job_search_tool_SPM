@@ -1,9 +1,65 @@
 {
-  "last_updated": "2026-08-14T15:43:37.919Z",
-  "total_fetched_today": 2,
+  "last_updated": "2026-08-15T15:13:23.865Z",
+  "total_fetched_today": 7,
   "jobs": [
     {
-      "id": "jsearch_T3FwXzB1UHh5TmNjTEpuYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzlWTFZsTGRrWTRTSEZ0UVRGT1kxSjBPRmhEVTNaRlIyVk9VMjB0V21JMU56bExUMUJzV1V4eFYxUTBSMk15VEhOa2VrMUxaVlkzY3pkMFUybE1kRnBtTlRacFRVNVdhbWw1ZWpaaUxYWnhTRkJUWWt4VWVYQm9hMVpwVDBONGFWQjFZemx2ZVY4d1pHbExjV3RaYUhGd1RFdzRZVmQzUVhoS2EyWnNObGN4Ym1kUmVrUVNGMjVVWkY5aGNHSmFURjh0ZG5CMFVWQTFPV1ZQT0ZFMEdpSkJSSE55T1daU2VWQTNVVlV6ZDBnM2JqRkVWaTF2UkhReGVWRnhVWGxQTFROQg",
+      "id": "jsearch_eU44RjZuekI4MlJkbk91dkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemhGV1hGMk1FSkNlSHB5YUdwQmNqTjZkbEYzV1hsT1VXTm1kalV6Ym5OVGVHcGtNVmhWT0hkdFVuWXdaV2RJVFROQlYzcEtjM0p5VEhCSGFuQnBMVVpIV2paSGRuSlBiMloyU1RKSVlXbG1YMjVrWjJkb2QxY3haMGRVTVc1MGVrUkZXbUZyUmpka1pGQTJiakIzUVZGa2JXZEdkVGN5VEVGMmJqSTJPSFkwTFdjNE5HVVNGeTFaUjBGaGNETkpSazB5Y1hCMFVWQTBOMUJTTmxFMEdpSkJSSE55T1daVGRWTTBUVGxXZWxCS1FYaHdhbUk0WWpKbU9XTnlPRTluWDBObg",
+      "role": "Software Product Manager, AI (Remote, US)",
+      "company": "Chamberlain Group",
+      "link": "https://bebee.com/us/jobs/software-product-manager-ai-remote-us-chamberlain-group--fj-2261910429",
+      "posted_date": "2026-08-09",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "BeBee",
+      "description_snippet": "Chamberlain Group (CG) is a global leader in intelligent access and Blackstone portfolio company. Powered by our myQ technology, we make access simple and secure for millions of homeowners, businesses, and communities worldwide. Our flagship brands, LiftMaster® [https://www.liftmaster.com/] and Chamberlain® [https://www.chamberlain.com/], are found in 51+ million homes, and 14 million+\n\npeople rely on the myQ® [https://www.myq.com/] app daily. We are seeking a Software Product Manager, AI to lead the definition,\n\ndevelopment, and delivery of AI-powered features across our myQ ecosystem. In thi"
+    },
+    {
+      "id": "jsearch_cGRuSzZVMk5xdDY5ODJOV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFU1TkZOU1VETllNRFZ3ZDBwaVFsRkJNMjVST0dwQ2FVcDNUVmx6TlcxNVpYSllWR3R6WlVkSVlXVmFjbGhoYldGWVVGWjJNbFJuTXpKNlVHUkdaV05HU0V0T2RYUTBhRmhWV2pCa1ZEVlJlazFsZERWdUxXWTFXbXAyUzBRdGR6WnhSVWhVUTA0NWVEWnhRa2R0VVRabWRqSnFTRkJYYVdwVWRqWjZZMkV5V2pOaE0wTVNGeTFaUjBGaGNETkpSazB5Y1hCMFVWQTBOMUJTTmxFMEdpSkJSSE55T1daU1VHdERlV0ZoUzBGTVFtWnRhRUpWYTBwaGJ6aFBTM2xTTUVsbg",
+      "role": "Technical Product Manager, MedTech Technology, Product Lifecycle Management, Data & Integration",
+      "company": "Johnson & Johnson Services, Inc.",
+      "link": "https://www.careers.jnj.com/fr-ca/jobs/r-076742/technical-product-manager-medtech-technology-product-lifecycle-management-data-integration/",
+      "posted_date": "2026-08-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "Johnson & Johnson Careers",
+      "description_snippet": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com\n\nAs guided by Our Credo, Johnson & Johnson is responsible to our employees who work w"
+    },
+    {
+      "id": "jsearch_WVVGd3A5dmRQeTFieEJVNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2xhVFZaSGFHWkVTV3BaZFd3d1pIWlRhWG80UlRKTFR6RmFZVmQ2VVV4eGRsbG1WVTV0YVRJMlgxaE9ZbkJvZDFFd2FUVkZhWEJOYlVscU5EaE9OVzFmVmxsU1VGQkZVRGxtZG5KVFZtdGhRVTlJT0ZRMFJYQnhOV0kyVkVGUE5HSTVUVTlVTlRaNFpEZzRlbk5QWXpKUFRtdE1SMVE1WjB4eWQxaDFiM2hMVlZSd05sVVNGelZ2UjBGaGRqYzFTM1ZwVHpRdFJWQnVjUzFpYVZGakdpSkJSSE55T1daU1dtVm9VRGR0VEVOQ2RtcDZPVWxHYUVkSGFVbExibGhQZGpsMw",
+      "role": "Product Manager - Manager - Remote",
+      "company": "Confluent",
+      "link": "https://bebee.com/us/jobs/product-manager-manager-remote-confluent-annapolis-md--jooble--6510533287435228763",
+      "posted_date": "2026-08-11",
+      "location": "Annapolis, Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "BeBee",
+      "description_snippet": "Location: Remote, United States Employment Type: FullTime Location Type: Remote Department Product Compensation: $273.3K – $328K • Offers Equity • Offers Bonus At Confluent, we are committed to providing competitive pay that is in line with industry standards. We analyze and carefully consider several factors when determining compensation, including work history, education, professional experience, and location. The actual pay may vary depending on your skills, qualifications, experience, and work location.\n\nOverview We're not just building better tech. We're rewriting how data moves and what "
+    },
+    {
+      "id": "jsearch_aUdoLXB4djgyd29kcmt1VUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVZQWTFoUmRsazFObWRwZVhSM1VHZEdNVVJoUkRKaFh6Qk9iR1pEZVhnNFdVRkxSMnQzWW5SV2JYWlRVMWRvWVd0RFIxbHdSbEZyVW05eGR6Sk5NRGMyVGpKcVEwTmhORTVCYzFwTFNWY3dOVTlrTmxsa1REUTVjek55TURsU2JEUTBSak0xYjFOZkxXdHBZVTVvVFVsclNUWkVURmxaVTJkaGN5MXNkVU5XVVhCeFlrMFNGMEpKUzBGaGRWOVdRemhxVDJ0UVNWQnZZamQ2YTBFMEdpSkJSSE55T1daVWJEVmtRa2RuTUdwcFZHaElOR0ZOTWtaQ1VsTlpjMlZUVTIxQg",
+      "role": "Product Manager, Stocks",
+      "company": "Ondo Finance",
+      "link": "https://bebee.com/us/jobs/product-manager-stocks-ondo-finance-oberlin--fj-2307362913",
+      "posted_date": "2026-08-11",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "BeBee",
+      "description_snippet": "About the company\n\nHi, we're Ondo Finance. Our mission is to provide institutional-grade, blockchain-enabled investment products and services. We have both a technology arm that develops decentralized finance technology, and an asset management arm that creates and manages tokenized funds.\n\nWe were the first company to tokenize exposure to US Treasuries, and have since expanded into several other assets. We are also focused on incubating protocols that can support both tokenized real-world assets and traditional crypto.\n\nFounded by folks from Goldman Sachs Digital Assets Team, we’re backed by "
+    },
+    {
+      "id": "jsearch_T3FwXzB1UHh5TmNjTEpuYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmxtVkVSRldXZ3hiRmxIZUZkeWFIVm9UM0ZzWW1Jek5WRmxNWEJhTTNaMVdHbEpORmxmUjBWcmRIVlBURlJDY25Sa1Jtb3daMjV6YUVWUE0xbGFSbk0yZWpSblVpMWlWVVZGYmpaSVpGbGpiakF3UTBneWNVTmhjVEZFYkRsQ05qZ3pTRFowVFdka2RqbFBSMFpyVG5CMU9IRlRaVGx1YTJaRmVVdHNhbUZTUjNOd0xYa1NGMEpKUzBGaGRWOVdRemhxVDJ0UVNWQnZZamQ2YTBFMEdpSkJSSE55T1daVU9WVlBlbWwzYXpGQ1pWZEZaVjgxVURKM01EazRjMXBMYnpCbg",
       "role": "Staff Product Manager, Unistore (Hybrid Tables)",
       "company": "Snowflake",
       "link": "https://careers.snowflake.com/us/en/job/SNCOUSF1B77C7FBD174E53BEB436A6B0ACAD90EXTERNALENUS2860302B444C49F4B764FF462EFBFCC0/Staff-Product-Manager-Unistore-Hybrid-Tables",
@@ -15,6 +71,34 @@
       "match_score": 6,
       "source": "Snowflake Careers",
       "description_snippet": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snow"
+    },
+    {
+      "id": "jsearch_RjRjbTl1YnZsaGU4U2JjdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVpTVGxkbllXcFViVjh4TFZkUVdGQjVjRkJrU1dGdVYzaHZjemRSWVRsRmFqazNRekJHVDBOM1RsZDNaMWhMWVV0cE1IbE9SRnBuY25KUE1sUTNWRFE0VDI5VGNHWXRjMEZzVVc1bmFsaHdjbTgyVFZwU2NWcEplRFpCU0dreVpWWnZVamhzVGpBeVpYVndaQzFFUzI1Q05XZDZOVjlOT1ZGd04yWndURGx1WWtwbVRFa1NGeTFaUjBGaGNETkpSazB5Y1hCMFVWQTBOMUJTTmxFMEdpSkJSSE55T1daVGR6RjFVWEJ0VVVoS1UxQkhhekJ1ZWpsSVVVcExNMjFDTmpGQg",
+      "role": "(USA) Distinguished, Product Manager",
+      "company": "Walmart Inc.",
+      "link": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME--USA--Distinguished--Product-Manager_R-2558644",
+      "posted_date": "2026-08-10",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Workday",
+      "description_snippet": "Position Summary... Sparky is Walmart’s customer-facing AI shopping assistant—helping build a new, conversational, multimodal, and agentic way for customers to shop. The team is defining how advances in generative AI, multimodal experiences, personalization, reasoning, and agents can transform the customer shopping journey—from inspiration and discovery through consideration, purchase, and post-purchase. Working closely across product, design, engineering, data science, and business, the team is shaping how Sparky becomes an integral part of the broader Walmart ecosystem, creating connected, i"
+    },
+    {
+      "id": "jsearch_Q2ZZdlhKa1VhY0xTRUpyVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmhuTUdGVldUaGhZVFpIWTNGRmNWcHBOVmhVVWxCQlVIaERiMmMyYURSV00zTnZaVzVMU3paNWEycGtXRXRUYjFseWMwbFlOWFpuWTNaS2NGUjNhMWswTkdSWFkzZ3hZVGwyVWtac01qUjVTRmx6VlRaeGQxaFFhMVZYUjNweFFVaFJkWFZDZWtSRU5EVTROMmRoTkZGUk1rTjFOVkZqWm1JMVRsUmZaRE54VUZaUlprVVNGMFZaUzBGaGNHMUNRbkIyVld0a1ZWQTBTVEp6YzBGSkdpSkJSSE55T1daVVVEQnZaVEpZWlhCS2RVRTJaUzFYWDFBMldtMURUVzl6ZWt4Mw",
+      "role": "Senior Product Manager (Remote from anywhere in CO)",
+      "company": "GovernmentJobs.com",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-remote-from-anywhere-in-co-governmentjobscom-aurora--lensa-7428_1e916055cc607417d3f50efc5a653f86e35e0e823f71fbadb80d4eabc3370fe3",
+      "posted_date": "2026-08-12",
+      "location": "Aurora, Colorado",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "Senior Product ManagerTogether, we innovate for a stronger Colorado. The work of employees at the Governor's Office of Information Technology (OIT) is challenging and diverse because the needs of agencies, customers and Coloradans constantly evolve.\n\nBut our focus never changes: improve the lives of all Coloradans through innovation and collaboration. We're building one of the nation's leading government IT organizations by reimagining how we support agencies, building first-of-their-kind applications, and creating an inclusive, collaborative culture, together. Join us in the important work of"
     },
     {
       "id": "jsearch_SnYzUDl2MXdpMGF0V2dvbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFEwVkZreFZWWlpSME5IYnpKcmN6SkNZVEZLY0hKSGEwNUhiR3BHV20welZtZEdjMFZGZWxNMU5taGhiak5pVXpFdFpVRldiMVYzVlVNNVpubEZTM2h1ZWw5VGJ6aENjak5WUkVZNU1WZHRPVTVZUWtzd1NuUlhZVTVQU2kwd1dUZDRlRTlST0RObU1GSlBSWHBRVkVGS1RFTkVhV2xrUTJWTE4ybDNSek5QY0ZCTlpWTVNGMnRxWkY5aGRXVmZRbVJNU0d0UVNWQXlkazlQZFZGakdpSkJSSE55T1daVFNuTTFTMDltVUZGWWNqQjJaVkZwUWs1cVNUSktWek01WWt4Mw",
@@ -101,20 +185,6 @@
       "description_snippet": "Principal Technical Product Manager - Hasbro Direct\n\nRenton, Washington, United States\nWetake play seriously. We’re looking for curious adventurers ready to find their party, fueled by imaginationand driveto build what’s never been built before. At Hasbro and Wizards of the Coast, you’ll collaborate with passionate teams to reimagine our iconic brands and create experiences that spark joy, connection, and community through the magic of play. This is your chance to shape legendary play that lasts a lifetime.\n\nHasbro’s Direct-to-Consumer (DTC) organization is building a unified commerce platform"
     },
     {
-      "id": "jsearch_eU44RjZuekI4MlJkbk91dkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVJJUmxsS1JIbDZZVEZ3WjJwcGQzSldValk0TkhWRU1HeGFXSGw0UTE5aGN6RldiMDVVVkROWGFrdHBaWFkyUTFVemVqZE9SbmxhWDNoa2NtSnFjV3RJWVRKWFJFWk1lRE5XYVZocVVISmpXVFk1WDJ3elRVRjNWSEU0UTBWSFV6SnVaVUpKV1VkelVFdzJSV0ZTYzBsdFFWVmtUekZpY1VkNVpteEJja1phWW5CNVVGa1NGM2hhV2poaGIyMTRUVFJxVVd0UVNWQnpYMkpIZVZGdkdpSkJSSE55T1daVE5rbzNZVW94WjNwR1QwbFNaRFV0UzJweVkyTnRiRTlmVUVKQg",
-      "role": "Software Product Manager, AI (Remote, US)",
-      "company": "Chamberlain Group",
-      "link": "https://bebee.com/us/jobs/software-product-manager-ai-remote-us-chamberlain-group--fj-2261910429",
-      "posted_date": "2026-08-09",
-      "location": "Illinois",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "BeBee",
-      "description_snippet": "Chamberlain Group (CG) is a global leader in intelligent access and Blackstone portfolio company. Powered by our myQ technology, we make access simple and secure for millions of homeowners, businesses, and communities worldwide. Our flagship brands, LiftMaster® [https://www.liftmaster.com/] and Chamberlain® [https://www.chamberlain.com/], are found in 51+ million homes, and 14 million+\n\npeople rely on the myQ® [https://www.myq.com/] app daily. We are seeking a Software Product Manager, AI to lead the definition,\n\ndevelopment, and delivery of AI-powered features across our myQ ecosystem. In thi"
-    },
-    {
       "id": "jsearch_SkNXTFB4R29iRU51VlZDUEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekV6UlhRMVNqSjVlQzFsUjJ0alRXNTBYMnBqTUZSSk5FOU5TQzF5WDNoRFExZG9YM1U1WmxkVU4zZGpWVXBoVmtkRGFrdEtRekZtYnpGRlVXOVNUR1ZzY1ZKNmJtaFNkRTl3ZFVWcldqVklkM2hUU2s5Mk5XTm1VV1ZzZDNaaFRXaGpXbEZwYUc5NE0yVkJWRjlUWDBaU2VXZFVNMWxSYjFWeFowMVFOVXRqZEhKVGF6RVNGemx3V2poaGJ5MHRTazFQY25BNE5GQTVjVk5KTWxGRkdpSkJSSE55T1daVFVWRnhXRXc1ZDFwMlRrOUphV2xGVVZNNGNqbG9XR0ZPZURabg",
       "role": "Product Manager, Membership Growth and Development",
       "company": "ProPublica",
@@ -127,20 +197,6 @@
       "match_score": 6,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: United States\nProPublica is an independent, nonprofit newsroom that produces investigative journalism in the public interest.\n\nWe will stop accepting applications for this role on Monday, September 7th at 11:59PM EST.\n\nWe're looking for a creative product manager to expand and evolve the digital systems, experiences and experimentation engines that power ProPublica's fundraising and membership program.\n\nYou'll work in close partnership with the membership team and colleagues across product and audience to illuminate and shape the journey rea"
-    },
-    {
-      "id": "jsearch_RjRjbTl1YnZsaGU4U2JjdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVp1VGtodllYcFljWEJNVG5WWVpsWTVSSGRpTkRjelYwOU9NMUpzZWxaRVNrWkpRMG80YUhCdk1XVlJibkl4VkhrelVXNWZVVEpUUzJodFlWUjZSR2xpZDA5VmMxUkZibFp3VkhaQ05ETmtTamRVWlhoUU0zSndhMjVHVWpCa1VrWXlSbWhGTnpnMVdrNWZWWGRJVVZBeFNHMUVlbFo2UkRGTlJFeDNUbUZwWTI1V1FWWVNGM2hhV2poaGIyMTRUVFJxVVd0UVNWQnpYMkpIZVZGdkdpSkJSSE55T1daU1IwSnBRa293V1dReGRWVmpTVGROWmpoUE1UaGZTMFJLV0dwUg",
-      "role": "(USA) Distinguished, Product Manager",
-      "company": "Walmart Inc.",
-      "link": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME--USA--Distinguished--Product-Manager_R-2558644",
-      "posted_date": "2026-08-10",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Workday",
-      "description_snippet": "Position Summary... Sparky is Walmart’s customer-facing AI shopping assistant—helping build a new, conversational, multimodal, and agentic way for customers to shop. The team is defining how advances in generative AI, multimodal experiences, personalization, reasoning, and agents can transform the customer shopping journey—from inspiration and discovery through consideration, purchase, and post-purchase. Working closely across product, design, engineering, data science, and business, the team is shaping how Sparky becomes an integral part of the broader Walmart ecosystem, creating connected, i"
     },
     {
       "id": "jsearch_eDFuMk9QUTJVY0w1cFFJVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmN3YUZWd2MzSnphVFUxY3pBMFZFTlRTWFJTUm1adWFWTkZabGt0TWxGRGFHODVWREpKWVhjeFRIVmpTMHhTWDI5VlIweFBlRGRQVjFsRWQxaFVibWRQTkVaek1tMUJaa2szTVRSR1ZtY3hiak5uV0VKME1sZE5SRk54VG5kdWRHWjNkM2RxVkY5U2IwZDJXbTkxYlY4NWJFOXdTVGRZYm5aV1FVc3lNbUo1VldZdFpHc1NGM3B3V2poaGNqTTRRWE5YZFdsTVRWQTVMV1ZVZFZGakdpSkJSSE55T1daU1YzRnVXVTlUVnpCamRtZG1aVXR4ZDFJNVJFdzVaR2h3T0dwMw",
@@ -2745,62 +2801,6 @@
       "match_score": 3,
       "source": "Jobilize",
       "description_snippet": "Sr Product Manager\nLTK is seeking a strategic, data-driven, and highly customer-centric Senior Product Manager to lead high-impact product initiatives across our creator, shopper, and brand ecosystem.\nThis role sits at the intersection of creator growth, consumer engagement, and brand monetization, helping shape experiences that deepen engagement, unlock monetization opportunities, and drive measurable business outcomes across the platform.\n\nWe are looking for product talent that can flex across both brand and creator experiences while balancing customer needs, business priorities, and technic"
-    },
-    {
-      "id": "jsearch_tlOvbROO78nuuQl0AAAAAA==",
-      "role": "Remote Technical Product Manager - Screw Compressors",
-      "company": "Chart Industries, Inc.",
-      "link": "https://www.whatjobs.com/jobs/remote-technical-product-manager/salem-alabama?id=2810808187",
-      "posted_date": "2026-06-14",
-      "location": "Salem, Alabama",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "WhatJobs",
-      "description_snippet": "Chart Industries, Inc. is seeking a Screw Compressor Technical Product Manager to provide strategic representation for its products in North America. This role involves managing client relationships, supporting business development initiatives, and driving sales growth.\n\nThe perfect candidate will ideally hold a degree in Mechanical Engineering and have substantial experience within the engineering sector. Benefits include flexible medical plans and a competitive salary in the range of $124,900 - $146,600.\n#J-18808-Ljbffr"
-    },
-    {
-      "id": "jsearch_Ufxfw9RYe8N19F_TAAAAAA==",
-      "role": "Remote Senior Product Manager, Data",
-      "company": "Logos",
-      "link": "https://us.trabajo.org/job-3137-b7fcdf7404d5e702982923d85e5f7038",
-      "posted_date": "2026-06-17",
-      "location": "San Diego, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "Trabajo.org",
-      "description_snippet": "Full-time Description About Logos Logos is a purpose-driven tech company dedicated to building technology solutions that equip the church to grow in the light of the Bible. Our team is committed to increasing biblical literacy and accessibility for every Christian around the world. We do so by delivering value along three fronts: software tools, community collaboration, and rich digital content. Logos’ solutions portfolio connects users to the Word and to their communities. Based in Bellingham, Washington, Logos also has operations in Chandler, Arizona and Puebla, Mexico. About the Role We are"
-    },
-    {
-      "id": "jsearch_eFcCfIg1U6UlooS0AAAAAA==",
-      "role": "Full Stack Product Manager",
-      "company": "VirtualVocations",
-      "link": "https://www.talent.com/view?id=623862826834790469",
-      "posted_date": "2026-06-14",
-      "location": "Hayward, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Talent.com",
-      "description_snippet": "To enhance investor engagement and operational efficiency, the full-time remote Full Stack Product Manager will build investor-facing product experiences, develop internal AI-powered tools, and manage the entire product lifecycle from ideation to deployment. Key responsibilities Build and evolve investor-facing product experiences and establish structured feedback loops Develop internal AI tools to improve operational efficiency and replace manual workflows Define product opportunities, prioritize initiatives, and manage delivery from discovery to launch Required qualifications 3+ years of exp"
-    },
-    {
-      "id": "jsearch_vVcrTXb8S7iQ0la9AAAAAA==",
-      "role": "senior product manager, Digital Ordering",
-      "company": "Starbucks Coffee Company",
-      "link": "https://apply.starbucks.com/careers/job/481078686851?hl=en-CA",
-      "posted_date": "2026-06-15",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Careers At Starbucks Coffee Company - Starbucks",
-      "description_snippet": "Now Brewing – senior product manager, Digital Ordering! #ToBeAPartner\n\nFrom the beginning, Starbucks set out to be a different kind of company. One that not only celebrated coffee and the rich tradition, but that also brought a feeling of connection. We are known for developing extraordinary leaders who share this passion and are guided by their service to others.\n\nThe Global Digital Commerce team at Starbucks Coffee Company drives our digital future and reinforces our leadership in the market. They are accountable for delivering business outcomes and representing Starbucks brand through techn"
     }
   ]
 }
