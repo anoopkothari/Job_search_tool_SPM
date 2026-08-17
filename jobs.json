@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-08-16T15:15:14.023Z",
-  "total_fetched_today": 14,
+  "last_updated": "2026-08-17T15:18:36.228Z",
+  "total_fetched_today": 6,
   "jobs": [
+    {
+      "id": "jsearch_Y1l1aW40X3ZMRGZRZW9LVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0pyVFRnMWNuRmlUbUp3TUUxVGEwOUZVSFJ0T0V0a2FWUjZjV1pGYzNORFVtdFJSMVJUWWt4UVltdHpNRGMwY1VOTGJqa3hlRlZsUWtoUlVGRTFiMFJPZDJwTFMyVk5VbkJ5UjFSSlIwWlZWRzFsV0dwalNVWkpaMWRyZUVZMWVqVkdhblJuVVVJeVZFMWtUbVl3U0dWa1dXSkdXRmRxUm1VMVFuUjVTVU5EZVVaMlltWVNGMU5EWVVSaGNYRmlUemx0VlRWUFRWQXdiMFJzTUZGdkdpSkJSSE55T1daUk16aExRVzl5UWxGa2FUSmtjbUpvTFVKbGREUkVZVFY2V0hsUg",
+      "role": "Principal Product Manager, Core AI Platform",
+      "company": "Qualtrics",
+      "link": "https://www.qualtrics.com/careers/us/en/job/8055389/Principal-Product-Manager-Core-AI-Platform",
+      "posted_date": "2026-08-17",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Qualtrics",
+      "description_snippet": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.\n\nWhen you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressi"
+    },
+    {
+      "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa0ZVT1ZGbk0xODBTa0ZLWkhwUmFsOUJkR2RUYm5KblUwcGxTVVZ1WWpoWVNXZEhTemROYlhsd1RURm5ObU5UWDFBelUzWXpZVVl0YWxKTlZFMXdRalV0UTFsbFRWaElSMGhVV0dwUlNXbFdRM1Z3YlMxVmFWbFlTVE51VTJOSFVrTmhVWFp2WTFoWmQzbGxSbWhPV1hWeWRrOVZNRmRRWTJsNWRGaFJObXhuZGxVNE5XRVNGMU5EWVVSaGNYRmlUemx0VlRWUFRWQXdiMFJzTUZGdkdpSkJSSE55T1daU05HZEpSMWhsWVROMlJEZHZVbFl3UjFCWGEwUmlVa0o0Vmt4bg",
+      "role": "(USA) Staff, Product Manager - Financial Services",
+      "company": "Walmart",
+      "link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Product-Manager-Financial-Services/-in-Walnut-Creek,CA?jid=1dc88f396c2eb815",
+      "posted_date": "2026-08-12",
+      "location": "Walnut Creek, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "ZipRecruiter",
+      "description_snippet": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Staff Product Manager to lead high-impact product initiatives within the Enterprise Financial Services organization—a strategic function at the intersection of retail, technology, and financial innovation.\n\nYou will own the end-to-end product strategy for enterprise-scale financial capabilities spanning co-brand card programs, third-party wallet integrations, and lending enablement, powering how our customers and members transact, manage money, and engage with financial products across our ecosystem.\n\nThis role demands a leader who ca"
+    },
+    {
+      "id": "jsearch_ZDFIZ1dmUlZyaU9pWW44c0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzVTWWtndE0wOUJPVlZqYTA5alNWUlpWWEZ5UmxSdlltVnFSekZWUVU0d1VWVjZSM2t0YzNWdGFFUlNaVzVOU1Y5alVXRjFOMEUzZFRSUVJtZDZhMWh4UXpObldqZEVZbTVtU21sRVoxVjVZV3BqV2xSMmJWZFdjVTFsZDBobVVUVkZYemxUYUhweU9HRTBUMEYyZVZObVUxbE9Wa2xtWmxOM1dtNVJkemxuVTBZd1UwZ1NGMDU1WVVSaGN6TkJSRTFJWDNCMFVWQXdORWhhTkZGWkdpSkJSSE55T1daVFVHTkhjRkJhWXpkbU9IWXRjMjFQUWsxTFkzaDNSSE5uTnpGMw",
+      "role": "Manager, Group Product Manager - Platform",
+      "company": "Lambda",
+      "link": "https://www.builtinsf.com/job/group-product-manager-platform-manager/10212507",
+      "posted_date": "2026-08-10",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 11,
+      "source": "Built In San Francisco",
+      "description_snippet": "Lambda, The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintelligence. One person, one GPU.\n\nIf you'd like to build the world's best AI cloud, join us.\n\n*Note: This position requires presence in our Bellevue or San Francisco office location 4 days per week; Lambda's designated work from home day is currently Tuesday.\n\nAbout the Role\nEvery product Lambda ships depen"
+    },
+    {
+      "id": "jsearch_cGRuSzZVMk5xdDY5ODJOV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVk5PUlc5aFJsTlpaVVpMVG1OdVNVVjRlazVwUmxsZlNFdEhlbVJ0YmxwUmEyWXlUR1JmYkdGcVZURkRiRFF4ZDNsckxYbFhTR3h6UjNWQ2JsRlFlVEIwYkc1a1NVOVpaWE5TVW5Gd1UyVklRVVl3TkZWSVZ6QTNia1F6VFVkT1MzTlZiRXh5VVVnM1kycG5VMjgyVTNkdk16ZGZVME5uUlhkR1RFNDNWMmxqVVRBMU9FRVNGMHg1WVVSaGRHbHNSamhUWlhCMFVWQjNTWEo0YlVGbkdpSkJSSE55T1daVWVGaFlhREJhUVVkTVZtWkNjV3AwZGpKaGNqZzROVWMwTldkMw",
+      "role": "Technical Product Manager, MedTech Technology, Product Lifecycle Management, Data & Integration",
+      "company": "Johnson & Johnson Services, Inc.",
+      "link": "https://www.careers.jnj.com/fr-ca/jobs/r-076742/technical-product-manager-medtech-technology-product-lifecycle-management-data-integration/",
+      "posted_date": "2026-08-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "Johnson & Johnson Careers",
+      "description_snippet": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com\n\nAs guided by Our Credo, Johnson & Johnson is responsible to our employees who work w"
+    },
+    {
+      "id": "jsearch_WVVGd3A5dmRQeTFieEJVNkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTbFUyY0ZSa1R6VkJXazFLZDBoVWRGcHBWa3A1U0MxSWRFNVpiRVowVHkxNlJsaGtka1JmYUU1V1kxZ3hWa1kxVGtadlZETkZTVGR3VEhoV1NHNXBlVzlqU1VaMVRqWTFhV1pqT0ZVM1RqWjZRMEZRTFZGMFNVeHJSemhFU2tvNVpEVkRZMUJQWVUxelMwbGtRV1ZHTjFWTU5rTlJZelpXYkhaWWFHOWpVbmRYUTBodlVYUVNGa3RUWVVSaGIxaGZSQzEyUm10UVNWQXdZME5qUVZFYUlrRkVjM0k1WmxSM2VsVlRZMDFDWjFvekxTMVFhMmxLVWkxeFMzbFdTRXAzZGtF",
+      "role": "Product Manager - Manager - Remote",
+      "company": "Confluent",
+      "link": "https://bebee.com/us/jobs/product-manager-manager-remote-confluent-annapolis-md--jooble--6510533287435228763",
+      "posted_date": "2026-08-11",
+      "location": "Annapolis, Maryland",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "BeBee",
+      "description_snippet": "Location: Remote, United States Employment Type: FullTime Location Type: Remote Department Product Compensation: $273.3K – $328K • Offers Equity • Offers Bonus At Confluent, we are committed to providing competitive pay that is in line with industry standards. We analyze and carefully consider several factors when determining compensation, including work history, education, professional experience, and location. The actual pay may vary depending on your skills, qualifications, experience, and work location.\n\nOverview We're not just building better tech. We're rewriting how data moves and what "
+    },
+    {
+      "id": "jsearch_Q2ZZdlhKa1VhY0xTRUpyVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkZaTlVOTmEwZFdOekk1Y0dGQlkzZENhVGhRYUVJM2VEZHZaMEpCTW5Kck9WcENiMnBrVnpOeFJsTnlaV1pSYkdWc0xVRnRibDlmYjBWd2MybFhSa1ZWVHpWdVJGUk5OR2xJYmxNeGJteGlSRmxRVXpaakxXUTFkMDFJTm1kME1ITlpSVXRLVkhCalRsWm1YME5mVWtOZlgyMUdTMk51Y1ZGdlJETk1jVUZGZFMwelJEQVNGMU5EWVVSaGNYRmlUemx0VlRWUFRWQXdiMFJzTUZGdkdpSkJSSE55T1daVE9YRnphakl0VkZVM0xYbFRXVTkwZVVzMGNEZ3RVRGg2YVd0Ug",
+      "role": "Senior Product Manager (Remote from anywhere in CO)",
+      "company": "GovernmentJobs.com",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-remote-from-anywhere-in-co-governmentjobscom-aurora--lensa-7428_1e916055cc607417d3f50efc5a653f86e35e0e823f71fbadb80d4eabc3370fe3",
+      "posted_date": "2026-08-12",
+      "location": "Aurora, Colorado",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "BeBee",
+      "description_snippet": "Senior Product ManagerTogether, we innovate for a stronger Colorado. The work of employees at the Governor's Office of Information Technology (OIT) is challenging and diverse because the needs of agencies, customers and Coloradans constantly evolve.\n\nBut our focus never changes: improve the lives of all Coloradans through innovation and collaboration. We're building one of the nation's leading government IT organizations by reimagining how we support agencies, building first-of-their-kind applications, and creating an inclusive, collaborative culture, together. Join us in the important work of"
+    },
     {
       "id": "jsearch_R2l5ejdUdlNxYm9CYlh5V0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbkJ0TlRCMVRWYzFlQzFJYmxkbFlVVlNlV0paZDNjemJqUkhkRk51WkVOTVRXMHhPRFEwV2xKSFMyaDNabXhIVFVzelZqUm5aQzAyU0d4Sk5VbGhXRkJxYzJSSU5rWkplV0pqUTNVNE5GcDVVMjVpT0ZSNmJrazNkbXgwY0d4WVoySlFZVGhhZUZWbmNHTkpWSHBVTkU5U2FqQmZiWGhDYzJKRGQyeEdVRTFaUkVoTlduUVNGelJrVDBKaGMxTkpTMjltYVRKeWIxQTJkbUZRY1VFNEdpSkJSSE55T1daU1FVMUJVWEZ6TlV0SFRsQlFNVlI2Vm00dFoxUlFObU4zUzFkbg",
       "role": "Sr Business Analyst /Product Manager -  US",
@@ -29,20 +113,6 @@
       "match_score": 10,
       "source": "Workday",
       "description_snippet": "Why Join GEICO? At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities. Every day we honor our iconic brand by offering quality coverage to millions of customers and being there when they need us most. We thrive on relentless innovation to exceed our customers' expectations while making a real impact on local communities nationwide. Founded in 1936, GEICO is a member of the Berkshire Hathaway family of companies and one of the largest auto insurers in the United States. When you join our company, we want you to feel valued, supported, and proud to work he"
-    },
-    {
-      "id": "jsearch_WVVGd3A5dmRQeTFieEJVNkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVFpYU1U1R1JYZGpSSGRVWmtZMlRHOTNjWHBzUTJKVWRYSjRjVEl4WkhaWU1XdEVkbk13TmxkVU5tRktjeTFTYUVKdVZrMUZPWGhDTmtsT2JsOVdZV3N4Tkcxd2RVNW1UVkE1ZVRGbmRUUlBkMUp5WjJGYVJ5MUphMlJSV2tWQ1JEaGhZM3BPTlVaTFkxaFlhME5sT1RsVVl6VnlSMUZuZWpCWGNWWlVOMWhrTkhaTE16Z1NGbXQwVDBKaGNHbFhTazF1U0d0UVNWQTNkbVozVlZFYUlrRkVjM0k1WmxSVVh6WlZVRzFzWlc5YVpFRktURGxsVVU5aVZERkNWbkEzZUVF",
-      "role": "Product Manager - Manager - Remote",
-      "company": "Confluent",
-      "link": "https://bebee.com/us/jobs/product-manager-manager-remote-confluent-annapolis-md--jooble--6510533287435228763",
-      "posted_date": "2026-08-11",
-      "location": "Annapolis, Maryland",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "BeBee",
-      "description_snippet": "Location: Remote, United States Employment Type: FullTime Location Type: Remote Department Product Compensation: $273.3K – $328K • Offers Equity • Offers Bonus At Confluent, we are committed to providing competitive pay that is in line with industry standards. We analyze and carefully consider several factors when determining compensation, including work history, education, professional experience, and location. The actual pay may vary depending on your skills, qualifications, experience, and work location.\n\nOverview We're not just building better tech. We're rewriting how data moves and what "
     },
     {
       "id": "jsearch_aUdoLXB4djgyd29kcmt1VUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkZRWW5neWFqTllNa2xFYnpWNE4yOUlabXhmU25VNVJEQkRXV3d3TmxwNVpWZFpSamxDUVZOWGRWOTZZVUpGVDNOaVZTMXJhMHR0V25sTFExcENlR0ZQVmxwNWFuRTJXVFJLVFhNd2RtNVBjM2c0YTBZdGExZFNXRVpaWlRKaVh6Qk1XV1pWYVdSamVYTkRWRkoyU2s1MWFVcFFSSFZETmt4SlFYZERXbU5IWDJ4a1VTMFNGM2RrVDBKaGNqZHdSbUV5VHpoTU1GQnlOMjVGZFZGSkdpSkJSSE55T1daVVgyUm1lVFZDWkhOZlluTkNTM1pmWnpkeldVaHJlWG8zVVROUg",
@@ -143,20 +213,6 @@
       "description_snippet": "Do you want to work hard, have fun, and create history? Do you think fast, dive deep, and get things done? We are seeking a Principal Product Manager - Technical to join our team to ensure that the core of Alexa is always learning from customer actions.\n\nThe role requires an entrepreneurial product manager who is passionate not just passionate about technology, but is able to translate the benefits of the technology to our customers. If you enjoy leading technical product innovation to build products and experiences that are used by millions, then join our team.\n\nYou will be the voice of the c"
     },
     {
-      "id": "jsearch_Q2ZZdlhKa1VhY0xTRUpyVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFJ0Vm5VM2MyRlhSMUpDWTI5Vk4yY3RObTlwVEdNd2JYWnVhalZvWlZwQmIwRlNZbWhrWDBGcVNXcEVNWFJHVjJ4elMxbGtPV3B3T0ZWRFpsUjBaR3hHWkZkVmRYcHVWbFJzVm1acmFrTnNWVXBaT1ZOUlZVSllla0ZEYWxsamVGODJlWFY0YWpkSGMzQmFWRk5sTlZSNlozbEdSRTFKU1VScWRXMXdNbUpyUmtGblZsOFNGM2RrVDBKaGNqZHdSbUV5VHpoTU1GQnlOMjVGZFZGSkdpSkJSSE55T1daU2FFUXpPV014TlZVeFdscFlZM2wzYWxoblVDMUtPRFJUVDNkbg",
-      "role": "Senior Product Manager (Remote from anywhere in CO)",
-      "company": "GovernmentJobs.com",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-remote-from-anywhere-in-co-governmentjobscom-aurora--lensa-7428_1e916055cc607417d3f50efc5a653f86e35e0e823f71fbadb80d4eabc3370fe3",
-      "posted_date": "2026-08-12",
-      "location": "Aurora, Colorado",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "Senior Product ManagerTogether, we innovate for a stronger Colorado. The work of employees at the Governor's Office of Information Technology (OIT) is challenging and diverse because the needs of agencies, customers and Coloradans constantly evolve.\n\nBut our focus never changes: improve the lives of all Coloradans through innovation and collaboration. We're building one of the nation's leading government IT organizations by reimagining how we support agencies, building first-of-their-kind applications, and creating an inclusive, collaborative culture, together. Join us in the important work of"
-    },
-    {
       "id": "jsearch_NmgyT2FnMVdUam9MaS1LM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU5wUkd4aGFERkhNSGxTTmxJdFQwcGZlVnBqZVZWaGNsaHZTVXBKTWxoNlJHd3RNbEZFT0VoaFZUQTRkMTlZZUcxRlRHTkJSSGRPT1dKTVMweEVRVXh1VEVOU2F6QmpRMmgxZVd4cGVHUmFhVk4yWmxwVFNVdFZVakpCWVhsVlRHNXRPREF4VHpGdlFtdHJlRjlmZVVONVMxazJZMUJsWjBSdWNWSkhlbFp1U2t4aWEwUVNGM2RrVDBKaGNqZHdSbUV5VHpoTU1GQnlOMjVGZFZGSkdpSkJSSE55T1daVFFtODNSaTFvT0Rob1YzaDJTMUY2V0VOMFptTnBjWEY1Tnpobg",
       "role": "Remote Product Manager - Data Center Software",
       "company": "Carrier",
@@ -213,20 +269,6 @@
       "description_snippet": "Chamberlain Group (CG) is a global leader in intelligent access and Blackstone portfolio company. Powered by our myQ technology, we make access simple and secure for millions of homeowners, businesses, and communities worldwide. Our flagship brands, LiftMaster® [https://www.liftmaster.com/] and Chamberlain® [https://www.chamberlain.com/], are found in 51+ million homes, and 14 million+\n\npeople rely on the myQ® [https://www.myq.com/] app daily. We are seeking a Software Product Manager, AI to lead the definition,\n\ndevelopment, and delivery of AI-powered features across our myQ ecosystem. In thi"
     },
     {
-      "id": "jsearch_cGRuSzZVMk5xdDY5ODJOV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFU1TkZOU1VETllNRFZ3ZDBwaVFsRkJNMjVST0dwQ2FVcDNUVmx6TlcxNVpYSllWR3R6WlVkSVlXVmFjbGhoYldGWVVGWjJNbFJuTXpKNlVHUkdaV05HU0V0T2RYUTBhRmhWV2pCa1ZEVlJlazFsZERWdUxXWTFXbXAyUzBRdGR6WnhSVWhVUTA0NWVEWnhRa2R0VVRabWRqSnFTRkJYYVdwVWRqWjZZMkV5V2pOaE0wTVNGeTFaUjBGaGNETkpSazB5Y1hCMFVWQTBOMUJTTmxFMEdpSkJSSE55T1daU1VHdERlV0ZoUzBGTVFtWnRhRUpWYTBwaGJ6aFBTM2xTTUVsbg",
-      "role": "Technical Product Manager, MedTech Technology, Product Lifecycle Management, Data & Integration",
-      "company": "Johnson & Johnson Services, Inc.",
-      "link": "https://www.careers.jnj.com/fr-ca/jobs/r-076742/technical-product-manager-medtech-technology-product-lifecycle-management-data-integration/",
-      "posted_date": "2026-08-13",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 10,
-      "source": "Johnson & Johnson Careers",
-      "description_snippet": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com\n\nAs guided by Our Credo, Johnson & Johnson is responsible to our employees who work w"
-    },
-    {
       "id": "jsearch_SnYzUDl2MXdpMGF0V2dvbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFEwVkZreFZWWlpSME5IYnpKcmN6SkNZVEZLY0hKSGEwNUhiR3BHV20welZtZEdjMFZGZWxNMU5taGhiak5pVXpFdFpVRldiMVYzVlVNNVpubEZTM2h1ZWw5VGJ6aENjak5WUkVZNU1WZHRPVTVZUWtzd1NuUlhZVTVQU2kwd1dUZDRlRTlST0RObU1GSlBSWHBRVkVGS1RFTkVhV2xrUTJWTE4ybDNSek5QY0ZCTlpWTVNGMnRxWkY5aGRXVmZRbVJNU0d0UVNWQXlkazlQZFZGakdpSkJSSE55T1daVFNuTTFTMDltVUZGWWNqQjJaVkZwUWs1cVNUSktWek01WWt4Mw",
       "role": "Global Product Manager - Transformers",
       "company": "ABB",
@@ -281,20 +323,6 @@
       "match_score": 1,
       "source": "BeBee",
       "description_snippet": "United Airlines in Houston is seeking a Product Manager to support the Application Advancement group, aligning with business processes and delivering solutions that meet organizational goals.\nThe role requires 5+ years of product management experience, strong knowledge of best practices, and the ability to work with cross-functional, global teams to deliver on-time and on-budget. The position is full-time with a flexible work arrangement and competitive compensation."
-    },
-    {
-      "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGxTY1ZoVFl6aDNXbWhYV1RKSWJUaENSM05ITm5OdE1EQnRjRGh1VmxCUFZtczVlblowUmtkWmVuaElSRWhrT1UxdFZYTllRMTl3UzJkalVYUnJZbmxpTURVemRDMXJkR1pUY1d4aFowMTNVbTFRYldoZlJFeEVkbkJNTlRSQlgwdE1VWFJpZWxWUlprTlhOMGhGU0RCRVdWVmxaRXRVYlRBeE5GUlZMVGhtVEZCd1owTVNGM3B3V2poaGNqTTRRWE5YZFdsTVRWQTVMV1ZVZFZGakdpSkJSSE55T1daVGFWSmxXVGxrVm5CeVMwWmFSSFJKYzJ4SVYzVTBlbkZGYW1sbg",
-      "role": "(USA) Staff, Product Manager - Financial Services",
-      "company": "Walmart",
-      "link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Product-Manager-Financial-Services/-in-Walnut-Creek,CA?jid=1dc88f396c2eb815",
-      "posted_date": "2026-08-07",
-      "location": "Walnut Creek, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "ZipRecruiter",
-      "description_snippet": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Staff Product Manager to lead high-impact product initiatives within the Enterprise Financial Services organization—a strategic function at the intersection of retail, technology, and financial innovation.\n\nYou will own the end-to-end product strategy for enterprise-scale financial capabilities spanning co-brand card programs, third-party wallet integrations, and lending enablement, powering how our customers and members transact, manage money, and engage with financial products across our ecosystem.\n\nThis role demands a leader who ca"
     },
     {
       "id": "jsearch_QUR6RGdfa3ZqYmk5ci0wZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEJUYzJ4cU1ISlpNMHh2ZGtWbVZGZFNNR0oyVjJVMFdVSnRRemhTYW5sNGExQXplWEF0WmtOVGEyOWFVMmswUzB3d1pucHZjWFl0UVU0MGR6SnJiM2hpYm5ORWFTMXpOMkYzTXpsVFJIZE9MV1ZvZVVSUGRFaDFSVk5aZGxWSVRFNXRSakoxYWtOVlFrTmZNMjlUZEROcVYwTlpObHBRWXpCelUzaHFURU0zWVhkUGRVMFNGelpLV2poaGNIRlFURkF0VkRoTU1GQTFaRzVPTWtGdkdpSkJSSE55T1daVU16aFZOMUpOWkUxT2NIcGZWVmxYVm5seFoxSk1hbGxFUVcxQg",
@@ -757,20 +785,6 @@
       "match_score": 1,
       "source": "JobLeads",
       "description_snippet": "Veeva Systems is seeking an experienced product manager to define and launch capabilities for Veeva MedInquiry. You will partner with customers, sales, consulting, and engineering to shape a product definition, roadmap, and detailed specifications for the next generation of life sciences software.\n\nYou will need strong execution, ambiguity tolerance, and the ability to translate market needs into actionable requirements."
-    },
-    {
-      "id": "jsearch_Y1l1aW40X3ZMRGZRZW9LVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamhFUldFMGJWWlJPSFU0WWtkNGEyZG9UMVJEWVhOM1EweFdRVzVqWTNGWmExRjNVMFl4UlZCaGJXTkpWMkZmV1doS1ZpMXpYM0JtY3pOd1lsbHFVMmR3UjBWWVFXODBPV05JTXpoMlIwUkViR1JZTWpndFNXSlphR05pTW1jMUxXUkpVWE41ZDBFMVowZEpka2hLUXpCclZtVTJNRXRMWldSWVdsbHBRM1pLYlU1NFFWSVNGMnRLZERSaGNWOUZUMW90ZGpWT2IxQjVkSGxTTWtGM0dpSkJSSE55T1daU1ZHeG5TMVV5V0hGbWJubHNhVEp2UzJkMFkwYzJXVkUyYnpkMw",
-      "role": "Principal Product Manager, Core AI Platform",
-      "company": "Qualtrics",
-      "link": "https://www.qualtrics.com/careers/us/en/job/8055389/Principal-Product-Manager-Core-AI-Platform",
-      "posted_date": "2026-08-07",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "Qualtrics",
-      "description_snippet": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.\n\nWhen you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressi"
     },
     {
       "id": "jsearch_QnZGejlJRmxVNnZjcTVnYkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa2huWVRNNFVFOXVVRFV0U2tSUFEycDVUVTlJYTBWNGQxSnlOMUowYUVOYWJWUnBXamh5UlZFMGVtMWlUVE0xZGxCUE16ZHhTSEZZUVZNelRtNUlSVE5QT0RST1JVTkhNVVJxTUVaMVFuQXlMVzFtWVU1blFpMXNSemhuZEZkcVVFeHZkSEJxVlU1YU9VaEpNekJDYldWc2JEaDRSbDh4Wkdad1RWRkVaMjgzVFhkd00yOFNGMnRLZERSaGNWOUZUMW90ZGpWT2IxQjVkSGxTTWtGM0dpSkJSSE55T1daUldXVnFRVTR5ZUVKbFEzRlhhVGRuTFhkM1RtRlBTbmhqUzFGMw",
@@ -2787,20 +2801,6 @@
       "match_score": 6,
       "source": "Trabajo.org",
       "description_snippet": "We are building AI to simulate the world through merging art and science. We believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world. World models offer the most clear path to general-purpose simulation, changing how stories are to"
-    },
-    {
-      "id": "jsearch_LKmSf3nCw9mEvOg2AAAAAA==",
-      "role": "Senior Product Manager Cell Culture Services",
-      "company": "Thermo Fisher",
-      "link": "https://us.trabajo.org/job-2611-9232e16684918d51a6613fedfccc165a",
-      "posted_date": "2026-06-21",
-      "location": "Waltham, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Trabajo.org",
-      "description_snippet": "Senior Product Manager As part of the Thermo Fisher Scientific team, you'll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world's toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer. Thermo Fishe"
     }
   ]
 }
