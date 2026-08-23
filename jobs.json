@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-08-22T15:13:50.117Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-08-23T15:14:40.494Z",
+  "total_fetched_today": 3,
   "jobs": [
+    {
+      "id": "jsearch_bURPMHM1WVJ4MkNKZDd5Q0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWRVU1hGUlp6ZEZNMFZKU0dKamJuZDBha1V0ZUhOWGFTMW1hRXd3Y2taR2FVNUlTSE4yYmpGNlZESXRMV1Y2TjFZeFdWWnBPSHAzVEdReWQzRndUV1phVURCbllVWnVlVEo1TlZkNWNrRnVNRkZzY0ZkelptbDNVaTFUWW5wSVZYaFJPVk15ZFRaaVdtbFZiVkZ3TjNsbGVXazNhWGRJVDI1U2VYZDBVRzlqUmxGeFpHWVNGMVZuTmt4aGNuSXdUM1UyTm5KMVJWQm9OVmhETFZGVkdpSkJSSE55T1daVU1YcFJZMHBpWm10dGNGbDJXbXg0ZEU5SGQwVlRabWx2TWtObg",
+      "role": "Principal Technical Product Manager, Content Platform",
+      "company": "Arc XP",
+      "link": "https://www.linkedin.com/jobs/view/principal-technical-product-manager-content-platform-at-arc-xp-4455457385",
+      "posted_date": "2026-08-19",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 15,
+      "source": "LinkedIn",
+      "description_snippet": "Job Description\n\nArc XP is a cloud-based digital experience platform that helps enterprise companies, retail brands, and media and entertainment organizations create and distribute content, drive digital commerce, and deliver powerful multichannel experiences. A division of The Washington Post, Arc XP has powered the digital transformation of customers across the globe, currently serving more than 1,500 sites in 25 countries that reach more than 1.5 billion unique visitors monthly.\n\nBuilt 100% on AWS, the Arc platform employs a microservice architecture with a headless, API-first approach to c"
+    },
+    {
+      "id": "jsearch_Q2M0R0F5QTRPR25WZ1NGLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3RxVFRKMmIzbFJUbEJvVTFoS1FVMTRaa0ZMTkdaWFVrbGlTVEI2UkVFd1RrNUxRek5MUlVsTVRtVjJkbEpPYTJwVFJEbFllbEl3VlV0NGJqbEJkSFZ4VVVSMFlqVm5aMmR2Wkd4b09HeENNMmhZVFdGNGVtRm9aakJPYUdVelRYZGZZbFpFU1ZSb1ZuUkJWV3hZYkRFelJrOWlRelZPWmpkcWNUTk9kMU5FTUZNeFUzY1NGMVZuTmt4aGNuSXdUM1UyTm5KMVJWQm9OVmhETFZGVkdpSkJSSE55T1daU2NHVmFhRkJ2TldKb2QwSlBZWGx4TWtsa2FrWnpXazFwTlhGbg",
+      "role": "Technical Product Manager Lead- Senior Manager- Commercial Technology & Innovation",
+      "company": "PwC",
+      "link": "https://www.linkedin.com/jobs/view/technical-product-manager-lead-senior-manager-commercial-technology-innovation-at-pwc-4455533466",
+      "posted_date": "2026-08-17",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "The Opportunity\n\nAs a Technical Product Manager Lead, you will drive software and product innovation, focusing on developing advanced software solutions to meet client needs. Within our Advisory - Other practice, you will combine technical skills with creative thinking to deliver innovative software products that enhance business performance. As a Senior Manager, you will leverage your skills and network to deliver quality results, motivating and coaching teams to solve complex problems. You will apply sound judgment, recognizing when to take action and when to escalate, while developing and s"
+    },
+    {
+      "id": "jsearch_TG52RVBtWWlOWDdPMU1BRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlExZGxaek1FdHhZMHBGVlVaaFdqZGFXbEZmU1hVeVMxWkViMmhXUldoWmQxOXdibDl3UzNsS1QyNVRiSGRDWXpSWVNGaDFUMXByYTFoRk5qSnFkR3ByWDNadGFrbEhNbTEzWVZOc2NrZERTMUk0ZWxwT1Z6SXdSWEJ0WWpaTU9HbENSMHBuVDBaRVVuWkdjRlZyTnpNeWFFdzJPSEpTUVZaaU9HbENVRkp1UTNkeU0zY1NGMVZuTmt4aGNuSXdUM1UyTm5KMVJWQm9OVmhETFZGVkdpSkJSSE55T1daVVJGTXdNbVJ5V0RoR2JFZHdVbGhHT1hkU1VrdFdUbFJaTm1wbg",
+      "role": "Staff Product Manager, Applied Science",
+      "company": "Pinterest",
+      "link": "https://www.pinterestcareers.com/jobs/8082033/staff-product-manager-applied-science/",
+      "posted_date": "2026-08-20",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Pinterest Careers",
+      "description_snippet": "About Pinterest:\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a fea"
+    },
     {
       "id": "jsearch_NFU4dTdBaXZtZWktZXZwc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3hRTVROUk9VNDJOMlEwZERWWWJUZDVkRkJxZHpZeVFYaFJka2RDU21semVFbFpMWFZHWlZNM2JYQk1PREk1YUhSQllubENZWEZLVEZoNk4yVjVOVGxPZURKUk5FdHpWek5PYlhKVWEyMXVXRmR6U2paemNDMVZNbVUxWkU5QlZGWk9ORFZVUlVjMWJEUmFYM2t6WlVZNFZVMU5iMWcyY21oZlZ6SjVjMk52WlcxSlJUUVNGMjVNZVVwaGRYWkZUVmxZU1d0UVNWQjRUbTVQYlZGckdpSkJSSE55T1daVVYwbEpZbWxZTVdkQlVWOXRUbDk2ZUU5T05XcHVibTlXV0hOMw",
       "role": "Product Owner - Cloud Contact Center (CCaaS) & Data Platform",
@@ -15,20 +57,6 @@
       "match_score": 16,
       "source": "LinkedIn",
       "description_snippet": "BETSOL is a cloud-first digital transformation and data management company offering products and solutions to both enterprises and consumers. BETSOL’s Data Management product lines include Zmanda (Zmanda.com). BETSOL Global IT Services (BETSOL.com) builds and supports end-to-end enterprise solutions, reducing time-to-market for our customers. Our engineering team, with its several patents, delivers award-winning products and solutions in over 40 countries. Our work locations are set against the vibrant backdrops of Broomfield, Colorado and Bangalore, India. We take pride in being an employee c"
-    },
-    {
-      "id": "jsearch_bURPMHM1WVJ4MkNKZDd5Q0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEZHTTFKdGFqazJabU16Wlhwb1psSkpjMWgzY1docFQyWlZiVjlNY1dNd01YUnlhM0pFUXpCVGJuWkRWVVI0WWpSZmRVdFpRWEI0TmtwSWJVcEVjbFJrYVhWRFNEWlNVVmsxU0RsMFFrODRNRkEyTkdsTlozaEJibkZzYzFWUVN6bExPRE10UmpGemFHaFhURzFKV1MxWVZsWjJNVjlMUjBRNFRraFZTR2hxUW5FeWRYWVNGMWxpZVVwaGNuSndTWE5YYTNCMFVWQXlUVTgwZFZGWkdpSkJSSE55T1daVU1sTlNVamsxY0VnelRVeE5WVWw0WHpVdGIyVm1kR3BJWjJKQg",
-      "role": "Principal Technical Product Manager, Content Platform",
-      "company": "Arc XP",
-      "link": "https://www.linkedin.com/jobs/view/principal-technical-product-manager-content-platform-at-arc-xp-4455457385",
-      "posted_date": "2026-08-19",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 15,
-      "source": "LinkedIn",
-      "description_snippet": "Job Description\n\nArc XP is a cloud-based digital experience platform that helps enterprise companies, retail brands, and media and entertainment organizations create and distribute content, drive digital commerce, and deliver powerful multichannel experiences. A division of The Washington Post, Arc XP has powered the digital transformation of customers across the globe, currently serving more than 1,500 sites in 25 countries that reach more than 1.5 billion unique visitors monthly.\n\nBuilt 100% on AWS, the Arc platform employs a microservice architecture with a headless, API-first approach to c"
     },
     {
       "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWHBLTkRCUWJVVXpjelJmYlVkak4yUjNRVkp1VFV4T1p6UkhPVjlHUW5SQ01tMHlUVXRWTFZScWFESnVlVGRyVjBkUE1VOHliWGxHTWxKVVIydzJWVGhZTkZsTlQycHNSbFJIWjI1aVJVeGZZVUoxY2t0Zk9VeEdjM0Y1ZUVjeGFURXplVFZvVERkeFZtRktjVzVUT1VwMVNXaEhMWHB0UVc5ck1Ia3haMjl5UjFkcGN6UVNGMlZNZVVwaGNXVm1TblJFU210UVNWQXhYMFJ3YTFFMEdpSkJSSE55T1daVWJqUTJNVmQzWldFMVFuZzFWSFV0YW1ObFpEbHpNbXBtTTJsMw",
@@ -71,20 +99,6 @@
       "match_score": 9,
       "source": "ZipRecruiter",
       "description_snippet": "Position Summary...\n\nWhat you'll do...Role summary:\n\nAs a Principal Product Manager, you will lead the development and execution of product strategies across multiple related products, driving impactful decisions through deep expertise and data-driven insights. This role requires shaping long-term vision, managing complex customer problems, and influencing cross-functional teams to deliver scalable solutions. You will establish best practices, guide product roadmaps, and ensure alignment with business priorities while fostering a culture of continuous improvement. Your leadership will advance "
-    },
-    {
-      "id": "jsearch_Q2M0R0F5QTRPR25WZ1NGLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGt5VjJ0b1VIaDFkWFJ3YW1OUGIwVlFValZmWW5aT2VtaGZXREJvWVRaamNFMVBkM05wV1hrM2MzVjFkalEyVmtzMk4xZGplVWN4VFdkaGEzVjRXVkUzZVZaSFZqTk1hRlJ1VjE5S1UwcDZlREpMWTJVM1JWRllVV2czYVZWemJ6ZHdRVzFXVUdWdGJFNHdVVU0yZFc1MFpGRjZiMkU1UmxWTmEyMTZhRkZ2UW10emEyVVNGMWxpZVVwaGNuSndTWE5YYTNCMFVWQXlUVTgwZFZGWkdpSkJSSE55T1daVVZuWmFMVko0U0dGTGRtSnNkMEZOVlZOWFJYUk5hV3BaVDBWQg",
-      "role": "Technical Product Manager Lead- Senior Manager- Commercial Technology & Innovation",
-      "company": "PwC",
-      "link": "https://www.linkedin.com/jobs/view/technical-product-manager-lead-senior-manager-commercial-technology-innovation-at-pwc-4455533466",
-      "posted_date": "2026-08-17",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "LinkedIn",
-      "description_snippet": "The Opportunity\n\nAs a Technical Product Manager Lead, you will drive software and product innovation, focusing on developing advanced software solutions to meet client needs. Within our Advisory - Other practice, you will combine technical skills with creative thinking to deliver innovative software products that enhance business performance. As a Senior Manager, you will leverage your skills and network to deliver quality results, motivating and coaching teams to solve complex problems. You will apply sound judgment, recognizing when to take action and when to escalate, while developing and s"
     },
     {
       "id": "jsearch_Y2xab0dTaWdLckZqRk9kakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFZDUzNKR1J6UjFjVTB6UmxoU1drSjNlbEJVWm1SR05YRldkMmR6VVZKWmJuRlZWbWd3TjFoU1FYWlZXWEZpWjI5RFlrdHhRMjl3YzFod2RIaEtSRFpqVVdKVU16RlRhV1JUTjJFNGVpMUNjbUl4YWkwM05XWkZjamxvWnpKaFMzcEJiVnBsVVhOd1JsOUdieTFPT0RZdGJsZzBiRmRqWVRaVk5qRlhNRzVhWjBWVk5rZ1NGMlZNZVVwaGNXVm1TblJFU210UVNWQXhYMFJ3YTFFMEdpSkJSSE55T1daVFVXUk5XbXBwY0hWaWFGUmxjVGxxVEhaVVJ6QktVVlozTlZWMw",
@@ -183,20 +197,6 @@
       "match_score": 7,
       "source": "Built In Boston",
       "description_snippet": "About the Role\nAs a Senior Technology Product Manager - GTM Enablement and Launch Lead, you will play a critical role in ensuring the successful planning, coordination, and execution of high‑impact product and go‑to‑market launches across a complex, enterprise B2B SaaS platform. This is a manager‑level individual contributor role (no direct reports) that operates at the intersection of Product, Engineering, Product Marketing, Sales, Customer Success, and Operations.\nIn this role, you will bring structure, visibility, and momentum to launches that require significant cross‑functional enablement"
-    },
-    {
-      "id": "jsearch_TG52RVBtWWlOWDdPMU1BRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblZvT0hkeVREZG9SMDFWWjB4TFlrUkVVemhJYjBWdWFIaE1TVlJJV21OM2VWQmpUWHB3YmtGaVl6aHRkbHBtUld0U1pWOWpWMWx3TWxSUlYwTkJOV3RLWlVWUVVVZEpWRkkwWm5jdFJWOXZNWE4yWjIxSFRqVkdYelZtZVROcFFUTjNZMUJUYmxaSmQyczFaVEF6UjFWSFoxSmhOVTAxVVdFemVHcHlUekpwTTA1NWJHVVNGMGxYTmtsaGRuRnJSa3BwT1hCMFVWQnVjSHBsZFVFNEdpSkJSSE55T1daU1lVeEdkSE0xTm5KR2JFMU9NelI0TmtaYWFUWkJTRGhqY2t0Ug",
-      "role": "Staff Product Manager, Applied Science",
-      "company": "Pinterest",
-      "link": "https://www.pinterestcareers.com/jobs/8082033/staff-product-manager-applied-science/",
-      "posted_date": "2026-08-18",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Pinterest Careers",
-      "description_snippet": "About Pinterest:\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a fea"
     },
     {
       "id": "jsearch_VnJvdDF2Y0Rsb05wclcwc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbE50UzBKTlUwaHdWbTFDU1VvNVVXRmhNR2xRVFVsdVRWazNiemRIZEV0cmFWSmtWMVI2VW5rM2JsVmtlSE54ZUdoSVdFZHFiMU5wUmxkNFMxbHdOVVJNTFRCNmQzTldia3BYVTJsSlpuZGpNbUpZU0hOVU5TMVNPV0pIWTNkd2MwbGpWR1pVU0VnM2RXaGFOMHBuUTNkdGRIQnJlVlYwVjJGMFJYQnZlRVJZWkZObFpGSVNGelpYTWtsaGNISnRTalEzT0hCMFVWQTBVSGxWZVVGbkdpSkJSSE55T1daVFFVcDFZWGMxWXpaRFRtVjZZV2RzTldkUlEwZGhaM0EyZUhwMw",
