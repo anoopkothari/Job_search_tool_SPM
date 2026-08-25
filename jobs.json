@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-08-24T15:33:00.917Z",
-  "total_fetched_today": 17,
+  "last_updated": "2026-08-25T15:34:51.780Z",
+  "total_fetched_today": 2,
   "jobs": [
+    {
+      "id": "jsearch_bURPMHM1WVJ4MkNKZDd5Q0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbkZEUTJGRloydFlaV2xEWTFSRU5FcHZVbk5wVEZVNE1XVldiMWMxV2xKbWRXbElaVlV6VlVsRFMxTnpWazVuWDNoQk5IVkpTa3RvT1hKdWRISmxZamxZWDFCNmRqZDBjazlrWm1KU1NqTXhhaloyTTNobVgzTlNMVFJsYms0MVFWWm9hRWRxWWkxc2EyZDFhbUV0VVVWSGMxUnpabmc1UVdOMlNuUlpOazh6VnpKd1IwTVNGME5NWVU1aGRFTk9VRXBpUkhKMVJWQTFTbDlRY1ZGekdpSkJSSE55T1daVFJraDVRbTk0WVU5UVduSlZTMHMwVkhoUk5rNWZaR0pRWldkQg",
+      "role": "Principal Technical Product Manager, Content Platform",
+      "company": "Arc XP",
+      "link": "https://www.linkedin.com/jobs/view/principal-technical-product-manager-content-platform-at-arc-xp-4455457385",
+      "posted_date": "2026-08-19",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 15,
+      "source": "LinkedIn",
+      "description_snippet": "Job Description\n\nArc XP is a cloud-based digital experience platform that helps enterprise companies, retail brands, and media and entertainment organizations create and distribute content, drive digital commerce, and deliver powerful multichannel experiences. A division of The Washington Post, Arc XP has powered the digital transformation of customers across the globe, currently serving more than 1,500 sites in 25 countries that reach more than 1.5 billion unique visitors monthly.\n\nBuilt 100% on AWS, the Arc platform employs a microservice architecture with a headless, API-first approach to c"
+    },
+    {
+      "id": "jsearch_NmRhbzdOQUtYdGJmRjYwWkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamd6TWsxdE9UWmFTWHBUT0RoeGRXSmtYMnBCVlVselJHeEpZWEZIYTA5bWMweEplRmxOUjFkcFYwb3RORGRYY1hScVdEaEpUVk5IUjFoWk4wUTNYMDVpU2xWamVVVXpSMnRFVURCNU56bE9TWFkxVFZOdVIxOWlia04xU0docWQwczFabkZ3Ym1aTVRscEVURmwyVEU5WFVVbEVaMnBuWTJ4TlFubDJVelJzYkVsTFgwa1NGMFEzWVU1aGIzSmlSMXBoWmpWT2IxQjBPR2xQZFZFd0dpSkJSSE55T1daVE1sQXdiVVphTmtFdGRXMTRjazAzU0hwc1ZEWTVNVFpMTWpobg",
+      "role": "Product Manager, Sports Intelligence",
+      "company": "DraftKings",
+      "link": "https://careers.draftkings.com/jobs/jr14919/product-manager-sports-intelligence/",
+      "posted_date": "2026-08-20",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "DraftKings Careers",
+      "description_snippet": "At DraftKings, AI is becoming an integral part of both our present and future, powering how work gets done today, guiding smarter decisions, and sparking bold ideas. It’s transforming how we enhance customer experiences, streamline operations, and unlock new possibilities. Our teams are energized by innovation and readily embrace emerging technology. We’re not waiting for the future to arrive. We’re shaping it, one bold step at a time. To those who see AI as a driver of progress, come build the future together.\nThe Crown Is Yours\nAs a Product Manager I, you’ll help shape customer-first experie"
+    },
     {
       "id": "jsearch_NFU4dTdBaXZtZWktZXZwc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTeko0TXpkbFVDMVFVelF4YjBSd1ZtUk5ZWEJPV210NlpXNURTV1phVEhRek5GWTNURWhLTWtnNFpqaEJXSGx6UTNvMmNIQkpWRmR5VFRSRlNubEdXRkUwTldobU5YSk5PV3R0ZWkxRVEyNXdjbm95ZVZsVFFVdHJYMGxDWDBaRFZWa3lUVWhEUTNSb2VtOXNkbHBwUVhoMmJ6Wmtja2hFVDNVdFJtMDRXazR6WTNkTVZFOFNGelZIVDAxaGNWUlNTbEJEYTJsTVRWQnRjWEpvTFVGckdpSkJSSE55T1daU2FuRjRlRUkzV1hWRExWUXhPRXRXVkRZMU5ITmpUSFV5ZFRObg",
       "role": "Product Owner - Cloud Contact Center (CCaaS) & Data Platform",
@@ -15,20 +43,6 @@
       "match_score": 16,
       "source": "LinkedIn",
       "description_snippet": "BETSOL is a cloud-first digital transformation and data management company offering products and solutions to both enterprises and consumers. BETSOL’s Data Management product lines include Zmanda (Zmanda.com). BETSOL Global IT Services (BETSOL.com) builds and supports end-to-end enterprise solutions, reducing time-to-market for our customers. Our engineering team, with its several patents, delivers award-winning products and solutions in over 40 countries. Our work locations are set against the vibrant backdrops of Broomfield, Colorado and Bangalore, India. We take pride in being an employee c"
-    },
-    {
-      "id": "jsearch_bURPMHM1WVJ4MkNKZDd5Q0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURE0zTWtGWFdYUklTVVoyU25sTk5GZEhUV1k1WVUxQ1pWVlNWelZzY25KbldHWlFkM1ZoY0MxMVUyMTVRVVoyWm10dFQxSjJOak5aVW0weVZtRlhVMUIxZFc5NWRsTXdXV1pQWTFsU1FWSnFPVVZTVUcxeFZuRkNPVEJqY1U1cmEzbGtZbkYyUjJsTmFXSnVWekkwT1VWZk5EaHdTakp1U21WM2NWOU5TVFpqVDFCVGQwc1NGM0pIVDAxaGRIWTVTV0o1ZVcxMGExQnVYMHh4WjBGbkdpSkJSSE55T1daVFpYWkNiR2x5UkY4emNVbERZMWR5V0hoWUxVVlVPRUZhZVdObg",
-      "role": "Principal Technical Product Manager, Content Platform",
-      "company": "Arc XP",
-      "link": "https://www.linkedin.com/jobs/view/principal-technical-product-manager-content-platform-at-arc-xp-4455457385",
-      "posted_date": "2026-08-19",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 15,
-      "source": "LinkedIn",
-      "description_snippet": "Job Description\n\nArc XP is a cloud-based digital experience platform that helps enterprise companies, retail brands, and media and entertainment organizations create and distribute content, drive digital commerce, and deliver powerful multichannel experiences. A division of The Washington Post, Arc XP has powered the digital transformation of customers across the globe, currently serving more than 1,500 sites in 25 countries that reach more than 1.5 billion unique visitors monthly.\n\nBuilt 100% on AWS, the Arc platform employs a microservice architecture with a headless, API-first approach to c"
     },
     {
       "id": "jsearch_Zi1SOTh1N3k1allEN2tRZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlJNYkhKQmNTMXVYMUpZT0V4a1YwWktlbE42YW1oSGVIUlRNVnB0T0ZFdE9FWk1ValI1ZFRKcFUxZFZUbkUwTUhCUGVXUlZORkZvYzJkV1lsRjBWVTFVTFVsbVVrUmhVRWM1VkdsRVduRTJhMHh1YW1aNWREaHpiVXR4TFRCSVdEaHdPV2Q1UTNsSGJ6Wk5PREZpY3pacFZHeG1NVkZFUkVFdGJYWmhkekZVWjFaUFRFc1NGM1pIVDAxaGNGOVFTWEJZY0cxTVVWQnVTblZETFVGUkdpSkJSSE55T1daVVJXeEtWRGxmZURGT1duTlNaR1Z4Y0U0eGVHcFZOSEJUZFhkMw",
@@ -2787,20 +2801,6 @@
       "match_score": 3,
       "source": "Trabajo.org",
       "description_snippet": "About the Role GEO is the fastest-growing line item in marketing conversations and the least-understood on any reporting deck. Clients know earned media moves the needle on AI visibility, but no one has built the reporting layer that makes that provable, repeatable, and client-ready. That's what this role builds; we're looking for a Lead Product Manager, GEO & Earned Media Reporting to own the methodology, metrics, and reporting experiences that help Stacker clients understand the impact of every story they publish. In this role, you'll drive the full reporting product: the KPIs we surface, th"
-    },
-    {
-      "id": "jsearch_AujG1Q7GCqHOKn1SAAAAAA==",
-      "role": "Remote Lead Product Manager, Economy",
-      "company": "Scopely",
-      "link": "https://us.trabajo.org/job-3137-b282abef291641e64ebc8c331e48d315",
-      "posted_date": "2026-07-02",
-      "location": "New York, New York",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Trabajo.org",
-      "description_snippet": "Scopely is looking for a Lead Product Manager, Game Economy to join our Monopoly GO game team remotely within the US or Canada, ideally in the Central or Eastern time zone. At Scopely, we care deeply about what we do and want to inspire play, every day - whether in our work environments alongside our talented colleagues, or through our deep connections with our communities of players. We are a global team of game lovers who are developing, publishing and innovating the mobile games industry, connecting millions of people around the world daily. MONOPOLY GO is a global phenomenon and the bigges"
     }
   ]
 }
