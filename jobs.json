@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-08-25T15:34:51.780Z",
-  "total_fetched_today": 2,
+  "last_updated": "2026-08-26T16:11:20.813Z",
+  "total_fetched_today": 1,
   "jobs": [
+    {
+      "id": "jsearch_cm83RXdxTUs0QnZ4aTNKVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa014YVV4Nk1HWmZSa2RCZWxWMlNtTlVRMWg2UVhsMFVrRkdNbkp6WVdGRVYwNTJiMEZYVTJsNVUzZG9PV2xXZVdoU1ZUTjFSMjVMYTBKeWEzVjJURjlZWkUwelNIbzNhMVZmYVV0blIzcHZia1ExUm1Kc2FHNVRkak5NYmtacmIySnNUMWRJUTFwNmVuWllOM2RqVDFsamJYWmxRMUJvV214T1JUTm5hR2RVYlhGd1ptRVNGMGhvUTFCaGRXMVlRVmx5Y3pGbE9GQTBabE16TmtGekdpSkJSSE55T1daVFprRkdXVXAyYTI1TVdFZFpTamh6U0dKM00xUnBPVlZQWlVOQg",
+      "role": "Product Manager II, Healthcare Technology (Remote)",
+      "company": "RELX",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-ii-healthcare-technology-remote-at-relx-4457664858",
+      "posted_date": "2026-08-26",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "Product Manager II\n\nAre you passionate about building healthcare technology that improves patient education, engagement, and outcomes?\n\nDo you enjoy partnering with customers and cross-functional teams to deliver innovative, data-driven solutions that create measurable value?\n\nAbout Our Team\n\nElsevier Health applies innovation, facilitates insights, and helps drive more informed decision-making for our customers across global health. We support health providers by providing accessible, trusted evidence-based information; prepare more medical and nursing students with effective tools and resour"
+    },
     {
       "id": "jsearch_bURPMHM1WVJ4MkNKZDd5Q0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbkZEUTJGRloydFlaV2xEWTFSRU5FcHZVbk5wVEZVNE1XVldiMWMxV2xKbWRXbElaVlV6VlVsRFMxTnpWazVuWDNoQk5IVkpTa3RvT1hKdWRISmxZamxZWDFCNmRqZDBjazlrWm1KU1NqTXhhaloyTTNobVgzTlNMVFJsYms0MVFWWm9hRWRxWWkxc2EyZDFhbUV0VVVWSGMxUnpabmc1UVdOMlNuUlpOazh6VnpKd1IwTVNGME5NWVU1aGRFTk9VRXBpUkhKMVJWQTFTbDlRY1ZGekdpSkJSSE55T1daVFJraDVRbTk0WVU5UVduSlZTMHMwVkhoUk5rNWZaR0pRWldkQg",
       "role": "Principal Technical Product Manager, Content Platform",
@@ -2787,20 +2801,6 @@
       "match_score": 4,
       "source": "Trabajo.org",
       "description_snippet": "We were tired of hearing that healthcare is broken, so we decided to do something about it. At Nomi Health, we believe the care itself isn’t broken — it’s the business of healthcare that gets in the way. Every year, more than $1 trillion is wasted on paperwork, delays, and middle layers that drive up costs and keep people from the care they need. We’re rebuilding the system so it works the way it should: clear prices you can trust, faster payments that keep providers focused on patients, and data that helps employers make better decisions. Our work has already touched more than 30 million live"
-    },
-    {
-      "id": "jsearch_hYFjQlkt4J2x8RqXAAAAAA==",
-      "role": "Remote Lead Product Manager, GEO",
-      "company": "A.G. Stacker",
-      "link": "https://us.trabajo.org/job-3137-8ab41f90755adbfbadc8ee285500035c",
-      "posted_date": "2026-07-01",
-      "location": "San Jose, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Trabajo.org",
-      "description_snippet": "About the Role GEO is the fastest-growing line item in marketing conversations and the least-understood on any reporting deck. Clients know earned media moves the needle on AI visibility, but no one has built the reporting layer that makes that provable, repeatable, and client-ready. That's what this role builds; we're looking for a Lead Product Manager, GEO & Earned Media Reporting to own the methodology, metrics, and reporting experiences that help Stacker clients understand the impact of every story they publish. In this role, you'll drive the full reporting product: the KPIs we surface, th"
     }
   ]
 }
