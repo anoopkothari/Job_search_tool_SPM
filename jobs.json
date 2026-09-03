@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-09-02T18:18:36.229Z",
-  "total_fetched_today": 3,
+  "last_updated": "2026-09-03T18:16:06.727Z",
+  "total_fetched_today": 1,
   "jobs": [
+    {
+      "id": "jsearch_WE9sbWlqTVRjRUI2LWhIVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEpaWkVoeVQwUXhjbVZFUjJka00wZGZNVEpKT0VsTE9GQkxja0U0TkZoSlNrRnplVVUxVkY5UVVGbEdObUk0VmtGclRUZDZZVVJOU2tzeFNIb3pObEJhYWpCbVZVdGhSWEl3ZUVoRE1UWjZkVXRGWVVselpFMTFhR1E1U2tZeGRtMVNhVXBNYVc4eVFVVk9OMUUwYUVsSVVtVnFVbFJTYURrNVlqZGlhbTFTVXpsUFltb1NGMUUzYlZwaGMyVkNTMDl1UTNaeU1GQnNZMkpNTUVGekdpSkJSSE55T1daVVh6bHBhSHBMYkRWVGEwWTVNWEJqUTNONWNYbHNjRmxVVUVsMw",
+      "role": "Tech Product Manager - ServiceNow Platform",
+      "company": "Five Star Bank",
+      "link": "https://www.linkedin.com/jobs/view/tech-product-manager-servicenow-platform-at-five-star-bank-4424410919",
+      "posted_date": "2026-08-29",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "Purpose : Five Star Bank is seeking a strategic and technically skilled Technical Product Manager – ServiceNow Platform to lead the vision, roadmap, and execution of our enterprise ServiceNow ecosystem. This is a high-impact leadership role that partners closely with senior stakeholders to define and drive the long-term platform strategy, ensuring alignment with business objectives and operational excellence.\n\nThe ideal candidate brings deep expertise in ServiceNow, including ITSM implementation, ITOM, CMDB, and asset management, along with a proven ability to lead complex, enterprise-wide ini"
+    },
     {
       "id": "jsearch_YWVnZndsMWFMbmtJcmZOeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblk0UTI5TE0zVXRWamhUU1RkellWb3lTSFZJWlV0clowTjRZeTFCTkd4elJtNVNUbW81UldneE1VUXlhVkozYmw5ak1sVnRSRXczYW5CMlRVVnNRalUzY1hOT1RVUjVTMHhuTlV4dlZsQnNUMk5DT0ZKaE16UXdSQzFuWW1KUGNFUlJkRVJNY3pkVmVtSktjRlI2YjE5SUxYbElSbXQyYlhreWFFTnBNRzh0YjNwbmRuUVNGMWh0YVZsaGNrUkpUVmxEVW5WeU9GQXhVRU42TFZFNEdpSkJSSE55T1daVUxVMTJORlI2YVd4MlpUQnRUVTFVVjJOTWRrdzRjMEV5YVRCUg",
       "role": "Senior BI Product Manager ID65844",
@@ -15,20 +29,6 @@
       "match_score": 7,
       "source": "LinkedIn",
       "description_snippet": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.\n\nWHY JOIN US\nIf you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!\n\nABOUT THE ROLE\nWe are looking for a Senior BI Product Manager to act as the subject-matter expert across Quote-to-Cash and Order-to-Cash processes, connecting financial data to re"
-    },
-    {
-      "id": "jsearch_WE9sbWlqTVRjRUI2LWhIVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWw1U1Y4eWJHdzBWVWhXUlVSZkxXSmpURXhuY0hsRFlsZEhUSGRLZEhoWGJGYzRabVJqWVhwT2RtY3RRVzFSWmtOcU16Rnlla2xqVEVWNGQzZHNNMWhqT0ZsS2RXcDZjVzVsV20xaVVuSjNWRjk0Y25GMlZGQldZVTlpUm1aaFgxUTJlV2hoWmw5bFdVOUdja1ZhTWpCSVl6bEpObVJQTmxOS00wVnlYMlo1TlVwak9Va1NGMlZ0YVZsaGMxZDVUMWxwZFRWT2IxQXdkWEZpY1VGekdpSkJSSE55T1daUmVHOU1WVmszVVhad04xTmZlbkJZUTFOMlJVcG9TVU5vZDFCUg",
-      "role": "Tech Product Manager - ServiceNow Platform",
-      "company": "Five Star Bank",
-      "link": "https://www.linkedin.com/jobs/view/tech-product-manager-servicenow-platform-at-five-star-bank-4424410919",
-      "posted_date": "2026-08-29",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "LinkedIn",
-      "description_snippet": "Purpose : Five Star Bank is seeking a strategic and technically skilled Technical Product Manager – ServiceNow Platform to lead the vision, roadmap, and execution of our enterprise ServiceNow ecosystem. This is a high-impact leadership role that partners closely with senior stakeholders to define and drive the long-term platform strategy, ensuring alignment with business objectives and operational excellence.\n\nThe ideal candidate brings deep expertise in ServiceNow, including ITSM implementation, ITOM, CMDB, and asset management, along with a proven ability to lead complex, enterprise-wide ini"
     },
     {
       "id": "jsearch_b3Q2d2tWT0kzcGZUQS1HOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTVOYTFKb2VVeFlRblEzYkdSZlkwZzNXVlZZV21Gd1pVTkNkMVpVVjNKbk0yTmpUbEpzVGxCZkxVVjJjek54UlhoNGVWSnNOMmM1UWpWWldsQlFkRkJHZW5oeE9GRkhVRVIxYlZkeVVqSlFSRWwyTmtWWU1uWmhSMlJLVm5CNE9HaE1iMWQ0T1ZSbWRrUXpiREY0ZW1oWFducGpVM3BmV1ZaUWMyTmtZWEIyYmxOSmJGY1NGMWh0YVZsaGNrUkpUVmxEVW5WeU9GQXhVRU42TFZFNEdpSkJSSE55T1daVVlWSXdSamRaVEZwMmNXdGFjbTlqVGpkMVNFOWZhekZYZGpWMw",
