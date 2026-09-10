@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T18:13:20.068Z",
-  "total_fetched_today": 8,
+  "last_updated": "2026-09-10T17:59:05.654Z",
+  "total_fetched_today": 5,
   "jobs": [
     {
       "id": "jsearch_YmluZzo2MDgzODYzNzAuUmV0cm8",
@@ -15,6 +15,62 @@
       "match_score": 14,
       "source": "LinkedIn",
       "description_snippet": "Role Summary\n\r\n\n\r\nThe Product Manager is accountable for ensuring that the product team solves meaningful customer problems in ways that deliver measurable business value. Rather than acting primarily as a project coordinator, requirements writer, or backlog administrator, the Product Manager leads through customer insight, product strategy, evidence-based decision-making, and close collaboration with design, engineering, data, operations, and business partners.\n\r\n\n\r\nThe Product Manager works as part of a durable, cross-functional product team that is given important problems to solve - not pr"
+    },
+    {
+      "id": "jsearch_YmluZzo3NDQzMjc4MTkuUmV0cm8",
+      "role": "Senior Product Manager - Platform",
+      "company": "Delinea",
+      "link": "https://www.ziprecruiter.com/c/Delinea/Job/Senior-Product-Manager-Platform/-in-Remote,US?jid=da97c183c2d017ea&trk=bingjobs",
+      "posted_date": "2026-09-05",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "ZipRecruiter",
+      "description_snippet": "About Delinea:\n\r\nDelinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delinea's leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle - across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities - including workforce, IT administrator, developers, and machines - assign appr"
+    },
+    {
+      "id": "jsearch_YmluZzoxNDgzOTU2MjMxLlJldHJv",
+      "role": "Product Manager - Manufacturing North America - Remote",
+      "company": "Hitachi, Ltd.",
+      "link": "https://www.careerbuilder.com/job-details/product-manager-manufacturing-north-america-remote-alamo-tn--8c52e6cb-d0f4-4ef9-9c10-87755806c70b?trk=bingjobs",
+      "posted_date": "2026-09-04",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "CareerBuilder",
+      "description_snippet": "Back to Search Results\n\r\nPrevious Opportunity Next Opportunity\n\r\nCareers Home > Job Search Results > Product Manager - Manufacturing, North America - Remote\n\r\nProduct Manager - Manufacturing, North America - Remote\n\r\nLocation: Alamo, Tennessee, United States\n\r\nJob ID: R0140695\n\r\nDate Posted: Sep 3, 2026\n\r\nCompany Name: HITACHI ENERGY USA INC\n\r\nProfession (Job Category): Sales, Marketing & Product Management\n\r\nJob Type (Experience Level): Experienced\n\r\nJob Schedule: Full time\n\r\nRemote: Yes\n\r\nShare: mail\n\r\nApply Now\n\r\nApply Now (Hitachi Employees)\n\r\nHiNext Access Required\n\r\nSave Job Saved\n\r\nAbou"
+    },
+    {
+      "id": "jsearch_YmluZzotNjk3NjkwNzY1LlJldHJv",
+      "role": "Product Manager - Manufacturing North America - Remote",
+      "company": "Hitachi, Ltd.",
+      "link": "https://www.careerbuilder.com/job-details/product-manager-manufacturing-north-america-remote-nashville-tn--57faa013-609e-4803-837e-e3ba31c193fb?trk=bingjobs",
+      "posted_date": "2026-09-04",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "CareerBuilder",
+      "description_snippet": "Back to Search Results\n\r\nPrevious Opportunity Next Opportunity\n\r\nCareers Home > Job Search Results > Product Manager - Manufacturing, North America - Remote\n\r\nProduct Manager - Manufacturing, North America - Remote\n\r\nLocation: Nashville, Tennessee, United States\n\r\nJob ID: R0140695\n\r\nDate Posted: Sep 3, 2026\n\r\nCompany Name: HITACHI ENERGY USA INC\n\r\nProfession (Job Category): Sales, Marketing & Product Management\n\r\nJob Type (Experience Level): Experienced\n\r\nJob Schedule: Full time\n\r\nRemote: Yes\n\r\nShare: mail\n\r\nApply Now\n\r\nApply Now (Hitachi Employees)\n\r\nHiNext Access Required\n\r\nSave Job Saved\n\r\n"
+    },
+    {
+      "id": "jsearch_YmluZzoxNjg2NTU5MTQ5LlJldHJv",
+      "role": "Principal Product Manager - Ads Auction And Measurements (Remote - United States)",
+      "company": "Yelp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ads-auction-and-measurements-remote-united-states-at-yelp-4446175048?trk=bingjobs",
+      "posted_date": "2026-09-08",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "LinkedIn",
+      "description_snippet": "Summary\n\r\n\n\r\nYelp connects people with great local businesses. Our platform is powered by a vibrant community contributing reviews and engaging with local businesses daily. We monetize primarily through advertising, helping millions of businesses connect with high-intent consumers. The Ads Auction system sits at the heart of this exchange, determining which ads are shown for every opportunity.\n\r\n\n\r\nThe Ads Market Dynamics team is responsible for the core engine that drives Yelp's advertising business. We develop and optimize the sophisticated auction, bidding, and pacing systems that balance a"
     },
     {
       "id": "jsearch_YmluZzoyMTMxMjMyMDczLlJldHJv",
@@ -57,48 +113,6 @@
       "match_score": 5,
       "source": "LinkedIn",
       "description_snippet": "About Slate\n\r\n\n\r\nAt Slate, we’re building safe, reliable vehicles that people can afford, personalize and love—and doing it here in the USA as part of our commitment to reindustrialization. The spirit of DIY and customization runs throughout every element of a Slate, because people should have control over how their trucks look, feel, and represent them.\n\r\n\n\r\nWHO WE ARE LOOKING FOR\n\r\n\n\r\nSlate is looking for a Principal Product Manager, Fleet & B2B to lead the product vision and strategy for how business customers engage with Slate.\n\r\n\n\r\nThis role will own a broad and evolving product space spa"
-    },
-    {
-      "id": "jsearch_YmluZzotNjk3NjkwNzY1LlJldHJv",
-      "role": "Product Manager - Manufacturing North America - Remote",
-      "company": "Hitachi, Ltd.",
-      "link": "https://www.careerbuilder.com/job-details/product-manager-manufacturing-north-america-remote-nashville-tn--57faa013-609e-4803-837e-e3ba31c193fb?trk=bingjobs",
-      "posted_date": "2026-09-04",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "CareerBuilder",
-      "description_snippet": "Back to Search Results\n\r\nPrevious Opportunity Next Opportunity\n\r\nCareers Home > Job Search Results > Product Manager - Manufacturing, North America - Remote\n\r\nProduct Manager - Manufacturing, North America - Remote\n\r\nLocation: Nashville, Tennessee, United States\n\r\nJob ID: R0140695\n\r\nDate Posted: Sep 3, 2026\n\r\nCompany Name: HITACHI ENERGY USA INC\n\r\nProfession (Job Category): Sales, Marketing & Product Management\n\r\nJob Type (Experience Level): Experienced\n\r\nJob Schedule: Full time\n\r\nRemote: Yes\n\r\nShare: mail\n\r\nApply Now\n\r\nApply Now (Hitachi Employees)\n\r\nHiNext Access Required\n\r\nSave Job Saved\n\r\n"
-    },
-    {
-      "id": "jsearch_YmluZzoxNDgzOTU2MjMxLlJldHJv",
-      "role": "Product Manager - Manufacturing North America - Remote",
-      "company": "Hitachi, Ltd.",
-      "link": "https://www.careerbuilder.com/job-details/product-manager-manufacturing-north-america-remote-alamo-tn--8c52e6cb-d0f4-4ef9-9c10-87755806c70b?trk=bingjobs",
-      "posted_date": "2026-09-04",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "CareerBuilder",
-      "description_snippet": "Back to Search Results\n\r\nPrevious Opportunity Next Opportunity\n\r\nCareers Home > Job Search Results > Product Manager - Manufacturing, North America - Remote\n\r\nProduct Manager - Manufacturing, North America - Remote\n\r\nLocation: Alamo, Tennessee, United States\n\r\nJob ID: R0140695\n\r\nDate Posted: Sep 3, 2026\n\r\nCompany Name: HITACHI ENERGY USA INC\n\r\nProfession (Job Category): Sales, Marketing & Product Management\n\r\nJob Type (Experience Level): Experienced\n\r\nJob Schedule: Full time\n\r\nRemote: Yes\n\r\nShare: mail\n\r\nApply Now\n\r\nApply Now (Hitachi Employees)\n\r\nHiNext Access Required\n\r\nSave Job Saved\n\r\nAbou"
-    },
-    {
-      "id": "jsearch_YmluZzoxNjg2NTU5MTQ5LlJldHJv",
-      "role": "Principal Product Manager - Ads Auction And Measurements (Remote - United States)",
-      "company": "Yelp",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ads-auction-and-measurements-remote-united-states-at-yelp-4446175048?trk=bingjobs",
-      "posted_date": "2026-09-08",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "LinkedIn",
-      "description_snippet": "Summary\n\r\n\n\r\nYelp connects people with great local businesses. Our platform is powered by a vibrant community contributing reviews and engaging with local businesses daily. We monetize primarily through advertising, helping millions of businesses connect with high-intent consumers. The Ads Auction system sits at the heart of this exchange, determining which ads are shown for every opportunity.\n\r\n\n\r\nThe Ads Market Dynamics team is responsible for the core engine that drives Yelp's advertising business. We develop and optimize the sophisticated auction, bidding, and pacing systems that balance a"
     },
     {
       "id": "jsearch_YmluZzotNDg4MDk1MTQzLlJldHJv",
@@ -2787,20 +2801,6 @@
       "match_score": 6,
       "source": "Indeed",
       "description_snippet": "Start applying with LinkedIn\n\na.dialogApplyBtn { display: none; }\n\nDate: Jul 9, 2026\n\nLocation: Renton, WA, US, 98057\n\n#job-location.job-location-inline { display: inline; }\n\nCompany: PACCAR\n\nThe AI Product Manager lead analysis, development and implementation of an AI strategy within ITD applications.\n\nJob Functions/Responsibilities\n\nDefine the direction for AI at PACCAR ITD Applications – craft a strategy and roadmap that aligns business outcomes, data/platform realities, and responsible AI Standards.\n\nLead the AI Applications team of matrixed resources including developers\n\nCultivate relati"
-    },
-    {
-      "id": "jsearch_-8Ft_0nJdcabGH2uAAAAAA==",
-      "role": "Senior Product Manager - Platform",
-      "company": "Delinea",
-      "link": "https://jobs.ashbyhq.com/delinea/b0d82a51-4494-4928-840a-7800abba8af6",
-      "posted_date": "2026-07-15",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "Jobs",
-      "description_snippet": "About Delinea:\nDelinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delinea’s leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle – across cloud and traditional infrastructure, data, SaaS applications, and AI. It is the only platform that enables you to discover all identities – including workforce, IT administrator, developers, and machines – assign approp"
     }
   ]
 }
