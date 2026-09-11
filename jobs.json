@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-09-10T17:59:05.654Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-09-11T18:03:46.038Z",
+  "total_fetched_today": 3,
   "jobs": [
+    {
+      "id": "jsearch_YmluZzoyNDE5MzQwOTkuUmV0cm8",
+      "role": "Lead Product Manager, Recommendations",
+      "company": "Scribd",
+      "link": "https://www.linkedin.com/jobs/view/lead-product-manager-recommendations-at-scribd-inc-4446011098?trk=bingjobs",
+      "posted_date": "2026-09-09",
+      "location": "WA",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "Scribd, Inc. is on a mission to advance human understanding. Our four products — Scribd®, Slideshare®, Everand™, and Fable — help billions of people across the globe move beyond access and into insight, application, and expertise.\n\r\n\n\r\nCulture at Scribd, Inc.\n\r\n\n\r\nWe support a culture where our employees can be real and be bold; where we debate and commit as we embrace plot twists; and where every employee is empowered to take action as we prioritize the customer.\n\r\n\n\r\nWe believe the best work happens when individual flexibility is balanced with meaningful community connection. Scribd Flex emp"
+    },
+    {
+      "id": "jsearch_YmluZzotMTM4MzkxMDM0OS5SZXRybw",
+      "role": "Principal Product Manager For Analytics Engineering - Remote",
+      "company": "Providence",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-for-analytics-engineering-remote-at-providence-4464192144?trk=bingjobs",
+      "posted_date": "2026-09-09",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "Description\n\r\n\n\r\nThe Principal Product Manager role is both broad, across a business unit and deep, in terms of technical, process and continuous improvement required to run and maintain an enterprise wide service. This role is both enterprise in nature and startup in mindset. This role works in a fast paced, evolving environment, have with constant demands for better services. It requires strong problem resolution, decision making, communication and partnering skills. This role requires someone to be both a leader and teacher a coach as we continue to advance to cutting edge, innovative minds"
+    },
+    {
+      "id": "jsearch_YmluZzoxNjg2NTU5MTQ5LlJldHJv",
+      "role": "Principal Product Manager - Ads Auction And Measurements (Remote - United States)",
+      "company": "Yelp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ads-auction-and-measurements-remote-united-states-at-yelp-4446175048?trk=bingjobs",
+      "posted_date": "2026-09-08",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "LinkedIn",
+      "description_snippet": "Summary\n\r\n\n\r\nYelp connects people with great local businesses. Our platform is powered by a vibrant community contributing reviews and engaging with local businesses daily. We monetize primarily through advertising, helping millions of businesses connect with high-intent consumers. The Ads Auction system sits at the heart of this exchange, determining which ads are shown for every opportunity.\n\r\n\n\r\nThe Ads Market Dynamics team is responsible for the core engine that drives Yelp's advertising business. We develop and optimize the sophisticated auction, bidding, and pacing systems that balance a"
+    },
     {
       "id": "jsearch_YmluZzo2MDgzODYzNzAuUmV0cm8",
       "role": "Agile Product Manager Senior Advisor, Individual Dental - Cigna Healthcare  - Remote",
@@ -57,20 +99,6 @@
       "match_score": 5,
       "source": "CareerBuilder",
       "description_snippet": "Back to Search Results\n\r\nPrevious Opportunity Next Opportunity\n\r\nCareers Home > Job Search Results > Product Manager - Manufacturing, North America - Remote\n\r\nProduct Manager - Manufacturing, North America - Remote\n\r\nLocation: Nashville, Tennessee, United States\n\r\nJob ID: R0140695\n\r\nDate Posted: Sep 3, 2026\n\r\nCompany Name: HITACHI ENERGY USA INC\n\r\nProfession (Job Category): Sales, Marketing & Product Management\n\r\nJob Type (Experience Level): Experienced\n\r\nJob Schedule: Full time\n\r\nRemote: Yes\n\r\nShare: mail\n\r\nApply Now\n\r\nApply Now (Hitachi Employees)\n\r\nHiNext Access Required\n\r\nSave Job Saved\n\r\n"
-    },
-    {
-      "id": "jsearch_YmluZzoxNjg2NTU5MTQ5LlJldHJv",
-      "role": "Principal Product Manager - Ads Auction And Measurements (Remote - United States)",
-      "company": "Yelp",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ads-auction-and-measurements-remote-united-states-at-yelp-4446175048?trk=bingjobs",
-      "posted_date": "2026-09-08",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "LinkedIn",
-      "description_snippet": "Summary\n\r\n\n\r\nYelp connects people with great local businesses. Our platform is powered by a vibrant community contributing reviews and engaging with local businesses daily. We monetize primarily through advertising, helping millions of businesses connect with high-intent consumers. The Ads Auction system sits at the heart of this exchange, determining which ads are shown for every opportunity.\n\r\n\n\r\nThe Ads Market Dynamics team is responsible for the core engine that drives Yelp's advertising business. We develop and optimize the sophisticated auction, bidding, and pacing systems that balance a"
     },
     {
       "id": "jsearch_YmluZzoyMTMxMjMyMDczLlJldHJv",
@@ -2773,34 +2801,6 @@
       "match_score": 4,
       "source": "LinkedIn",
       "description_snippet": "Job Title\n\nSenior Lead Digital Product Manager – Web Store\n\nRequisition ID\n\nR027689\n\nJob Description\n\nJob Title: Senior Lead Digital Product Manager\n\nReporting To: Senior Manager, Digital Product Management\n\nDepartment: Digital Marketing\n\nLocation: Remote\n\nYOUR MISSION\n\nWe’re looking for a Senior Lead Digital Product Manager to lead the vision and execution of the Call of Duty web store and interactive marketing platform. You’ll own the roadmaps, partner with design & engineering, and build scalable systems that power commerce-driven experiences and dynamic marketing campaigns for millions of "
-    },
-    {
-      "id": "jsearch_CTqcLcEfQEetd1KUAAAAAA==",
-      "role": "Remote Senior Product Manager, Dispenser",
-      "company": "Vontier",
-      "link": "https://us.trabajo.org/job-3329-5a511555684b418333f4fd352edff104",
-      "posted_date": "2026-07-14",
-      "location": "United States",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "Trabajo.org",
-      "description_snippet": "Vontier is seeking a Senior Manager, Product - Dispenser & Payment Terminal Asset Management, primarily open to remote candidates. This role involves leading product vision and collaborating with various teams to ensure alignment with market needs. Applicants should have over 7 years of product management experience, ideally in asset management software, and a BS degree in a relevant field. The position offers a competitive salary and a range of health and wellness benefits, along with 15 days of paid time off. J-18808-Ljbffr"
-    },
-    {
-      "id": "jsearch_ZossUaz5alzV7XhHAAAAAA==",
-      "role": "AI Product Manager",
-      "company": "PACCAR",
-      "link": "https://www.indeed.com/viewjob?jk=461ce5fca508c6b2",
-      "posted_date": "2026-07-14",
-      "location": "Renton, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Indeed",
-      "description_snippet": "Start applying with LinkedIn\n\na.dialogApplyBtn { display: none; }\n\nDate: Jul 9, 2026\n\nLocation: Renton, WA, US, 98057\n\n#job-location.job-location-inline { display: inline; }\n\nCompany: PACCAR\n\nThe AI Product Manager lead analysis, development and implementation of an AI strategy within ITD applications.\n\nJob Functions/Responsibilities\n\nDefine the direction for AI at PACCAR ITD Applications – craft a strategy and roadmap that aligns business outcomes, data/platform realities, and responsible AI Standards.\n\nLead the AI Applications team of matrixed resources including developers\n\nCultivate relati"
     }
   ]
 }
