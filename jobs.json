@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T18:03:46.038Z",
-  "total_fetched_today": 3,
+  "last_updated": "2026-09-12T17:35:08.797Z",
+  "total_fetched_today": 6,
   "jobs": [
     {
       "id": "jsearch_YmluZzoyNDE5MzQwOTkuUmV0cm8",
@@ -17,6 +17,20 @@
       "description_snippet": "Scribd, Inc. is on a mission to advance human understanding. Our four products — Scribd®, Slideshare®, Everand™, and Fable — help billions of people across the globe move beyond access and into insight, application, and expertise.\n\r\n\n\r\nCulture at Scribd, Inc.\n\r\n\n\r\nWe support a culture where our employees can be real and be bold; where we debate and commit as we embrace plot twists; and where every employee is empowered to take action as we prioritize the customer.\n\r\n\n\r\nWe believe the best work happens when individual flexibility is balanced with meaningful community connection. Scribd Flex emp"
     },
     {
+      "id": "jsearch_YmluZzotMjA5NjAzNjk3NC5SZXRybw",
+      "role": "Senior Product Manager, Hardware",
+      "company": "NRG Energy",
+      "link": "https://www.linkedin.com/jobs/view/senior-product-manager-hardware-at-nrg-energy-4430272004?trk=bingjobs",
+      "posted_date": "2026-09-09",
+      "location": "WA",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "Welcome to the intersection of energy and home services. At NRG, we’re driven by our passion to create a smarter, cleaner and more connected future.\n\r\n\n\r\nVivint Smart Home, an NRG owned company, is a leading smart home company in the United States, dedicated to redefining the home experience with intelligent products and services. We find purpose in proactively protecting and keeping our customers connected to home, no matter where they are. Join the Smart Home team to create smarter, safer and more sustainable homes.\n\r\n\n\r\nThe Principal Product Manager, Hardware, is a role that balances both p"
+    },
+    {
       "id": "jsearch_YmluZzotMTM4MzkxMDM0OS5SZXRybw",
       "role": "Principal Product Manager For Analytics Engineering - Remote",
       "company": "Providence",
@@ -29,6 +43,48 @@
       "match_score": 6,
       "source": "LinkedIn",
       "description_snippet": "Description\n\r\n\n\r\nThe Principal Product Manager role is both broad, across a business unit and deep, in terms of technical, process and continuous improvement required to run and maintain an enterprise wide service. This role is both enterprise in nature and startup in mindset. This role works in a fast paced, evolving environment, have with constant demands for better services. It requires strong problem resolution, decision making, communication and partnering skills. This role requires someone to be both a leader and teacher a coach as we continue to advance to cutting edge, innovative minds"
+    },
+    {
+      "id": "jsearch_YmluZzotMTI3MjE4MjU0Mi5SZXRybw",
+      "role": "Principal Product Manager For Analytics Engineering - Remote",
+      "company": "Providence",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-for-analytics-engineering-remote-at-providence-4464178912?trk=bingjobs",
+      "posted_date": "2026-09-09",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "Description\n\r\n\n\r\nThe Principal Product Manager role is both broad, across a business unit and deep, in terms of technical, process and continuous improvement required to run and maintain an enterprise wide service. This role is both enterprise in nature and startup in mindset. This role works in a fast paced, evolving environment, have with constant demands for better services. It requires strong problem resolution, decision making, communication and partnering skills. This role requires someone to be both a leader and teacher a coach as we continue to advance to cutting edge, innovative minds"
+    },
+    {
+      "id": "jsearch_YmluZzotNzkxMDAxMzY4LlJldHJv",
+      "role": "Principal Product Manager, Features",
+      "company": "NRG Energy",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-features-at-nrg-energy-4430276001?trk=bingjobs",
+      "posted_date": "2026-09-10",
+      "location": "WA",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "As an NRG employee, we encourage you to take charge of your career and development journey. We invite you to explore exciting opportunities across our businesses. You’ll find that our dynamic work environment provides variety and challenge. Your growth is key to our ongoing success—take the lead in shaping your career development, goals and future!\n\r\n\n\r\nThe Principal Product Manager, Features, will act as the single-threaded technical product owner for a dedicated, high-impact functional domain or a specific subset of devices within the Vivint smart home ecosystem. Modeled after a senior indiv"
+    },
+    {
+      "id": "jsearch_YmluZzotODY3NjYyMjkyLlJldHJv",
+      "role": "Principal Product Manager - Ads Auction And Measurements (Remote - United States)",
+      "company": "Yelp",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-ads-auction-and-measurements-remote-united-states-at-yelp-4446178013?trk=bingjobs",
+      "posted_date": "2026-09-09",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "LinkedIn",
+      "description_snippet": "Summary\n\r\n\n\r\nYelp connects people with great local businesses. Our platform is powered by a vibrant community contributing reviews and engaging with local businesses daily. We monetize primarily through advertising, helping millions of businesses connect with high-intent consumers. The Ads Auction system sits at the heart of this exchange, determining which ads are shown for every opportunity.\n\r\n\n\r\nThe Ads Market Dynamics team is responsible for the core engine that drives Yelp's advertising business. We develop and optimize the sophisticated auction, bidding, and pacing systems that balance a"
     },
     {
       "id": "jsearch_YmluZzoxNjg2NTU5MTQ5LlJldHJv",
@@ -2745,62 +2801,6 @@
       "match_score": 5,
       "source": "Trabajo.org",
       "description_snippet": "About the Role We are seeking an exceptional, AI-native Senior+ Product Manager to build and lead the intelligence and reconciliation backbone of HTS across Flights, Hotels, Cars, and Ancillaries. This role owns the systems that define pricing intelligence, supplier performance reporting, and financial truth across millions of travel transactions. You will design and scale model-driven infrastructure that continuously interprets transactional data, generates reference pricing, detects performance shifts, reconciles financial flows, and governs revenue integrity in real time. This is a foundati"
-    },
-    {
-      "id": "jsearch_vQucLMFCNhZEvDSBAAAAAA==",
-      "role": "Product Manager (Fulltime | Remote)",
-      "company": "PayPal",
-      "link": "https://bebee.com/us/jobs/product-manager-fulltime-remote-paypal-san-jose-ca--jooble--9064428514197717964--0149b876d02303c82d57ac0a0345d054",
-      "posted_date": "2026-07-17",
-      "location": "San Jose, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "BeBee",
-      "description_snippet": "We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers.\n\nWe offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdra"
-    },
-    {
-      "id": "jsearch_WTlczb8VqBfS5L0iAAAAAA==",
-      "role": "Remote Product Manager",
-      "company": "Worklio",
-      "link": "https://us.trabajo.org/job-3991-cd5be162e9cec68387c2f631366b88e7",
-      "posted_date": "2026-07-14",
-      "location": "Chicago, Illinois",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Trabajo.org",
-      "description_snippet": "Worklio is hiring a Product Manager in Chicago to manage payroll feature development tailored for the U.S. market. The role requires at least 5 years of experience in payroll-related software and a strong understanding of U.S. payroll tax structures. You will work closely with engineering, QA, and compliance teams, ensuring timely and compliant releases. The position offers remote work flexibility and a salary range of $115,000 - $145,000 a year based on experience. Join us to shape the future of payroll infrastructure. #J-18808-Ljbffr"
-    },
-    {
-      "id": "jsearch_j2SvJMkpJoRh5G8MAAAAAA==",
-      "role": "Remote Staff Product Manager, Growth (Monetization)",
-      "company": "val's services",
-      "link": "https://www.linkedin.com/jobs/view/remote-staff-product-manager-growth-monetization-at-val-s-services-4442193544",
-      "posted_date": "2026-07-17",
-      "location": "Indianapolis, Indiana",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "LinkedIn",
-      "description_snippet": "Role Overview\n\nSeeking an experienced monetization owner to lead pricing, packaging, billing, and placement strategies for a profitable, remote SaaS company. The role involves strategy and execution to enhance conversion rates, develop an AI credit system, and evolve pricing models for an AI-native environment. The candidate will work cross-functionally with engineering, marketing, finance, and sales to align product offerings with customer value and business goals.\n\nKey responsibilities include owning monetization components, running experiments, and partnering on billing infrastructure. The "
-    },
-    {
-      "id": "jsearch_fJQWanAyr71oy9MKAAAAAA==",
-      "role": "Senior Lead Digital Product Manager – Web Store",
-      "company": "Activision Blizzard",
-      "link": "https://www.linkedin.com/jobs/view/senior-lead-digital-product-manager-%E2%80%93-web-store-at-activision-blizzard-4439281143",
-      "posted_date": "2026-07-17",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "LinkedIn",
-      "description_snippet": "Job Title\n\nSenior Lead Digital Product Manager – Web Store\n\nRequisition ID\n\nR027689\n\nJob Description\n\nJob Title: Senior Lead Digital Product Manager\n\nReporting To: Senior Manager, Digital Product Management\n\nDepartment: Digital Marketing\n\nLocation: Remote\n\nYOUR MISSION\n\nWe’re looking for a Senior Lead Digital Product Manager to lead the vision and execution of the Call of Duty web store and interactive marketing platform. You’ll own the roadmaps, partner with design & engineering, and build scalable systems that power commerce-driven experiences and dynamic marketing campaigns for millions of "
     }
   ]
 }
