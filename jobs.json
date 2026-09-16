@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-09-15T18:40:11.401Z",
-  "total_fetched_today": 2,
+  "last_updated": "2026-09-16T18:35:16.913Z",
+  "total_fetched_today": 1,
   "jobs": [
+    {
+      "id": "jsearch_aFlEY293bXlaUjFVWHJTbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUREZCVmpkdlgwUTBRMmh4WDNCblMyc3RiWGRDWW14NE55MHRlalJvZEd4aVVVOXViMDFEWTJKMlprNVJabEZ4ZGxCZk0zRmFjbU42VTNwcVoydDFia2x3ZWpkUlZXcFVaMlpwWWpkdmVHWkJRekJuY1d4UGRITmthbkJvZGtRd01tNUtSMjVQV2xOZmFsVlZUbkI1TkZwZloyNVdSV2gzYm1GaVlVb3hXbHBPWlZCclpGRVNGMWxQUjNGaGNqTXpUeTFQWjJoMlkxQnJXbGgwTkVFd0dpSkJSSE55T1daUlpFSkdXbkZTWjJsVVlsOXNjVjh5VEUxWVgzWjFjV1JpU1hsbg",
+      "role": "Global Financial Crimes Product Manager",
+      "company": "Bank of America",
+      "link": "https://www.linkedin.com/jobs/view/global-financial-crimes-product-manager-at-bank-of-america-4467296146",
+      "posted_date": "2026-09-14",
+      "location": "Newark, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "LinkedIn",
+      "description_snippet": "Job Description:\n\nAt Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day.\n\nBeing a Great Place to Work and providing a culture of caring is core to how we drive Responsible Growth. We are intentional about fostering an inclusive workplace where every teammate has the opportunity to succeed, build a career and contribute to our shared success. This includes attracting and developing exceptional talent"
+    },
     {
       "id": "jsearch_WnNfNjVHblNjRXhHMlZOZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTQxV0cxT2FqWkRTVXRWTlRFNVRERk1WbGh4ZFZOQlozbHRjbk10UW10cFVVOHpXbE51ZVhndE5qWTVSV3gxVFVGSVVXOTRXRFJNWTFsaFFYQkVZekZLZEdwbk0xUk5kMkpQY1hSc056VjNYMDlXVUZCSFpYaHBSazB6YmtvMU0zTkxYeTFxWTB3MVRHWnlNVGcxU1doT01UVm1hVzB0V0ZoaFFscElaREpTVEdSU1JVTVNGM053UTNCaGMweHpTa3BYT0RBdGExQTNORGMyTkVGekdpSkJSSE55T1daU2JUVjBTa05tVWkxdFEzRlhiazB5YkU5NldFeFRZM05yV205Mw",
       "role": "Principal Product Manager Remote United States 8",
@@ -2787,20 +2801,6 @@
       "match_score": 8,
       "source": "Indeed",
       "description_snippet": "DESCRIPTION\n\nAmazon Elastic Block Store (EBS) is looking for an seasoned product manager and disruptive thinker to help us define the vision and strategy for block storage on AWS. As a member of the team you'll work alongside engineers and leaders to develop and operate one of the largest distributed systems in the world.\n\nIn this position, you will define product requirements, business and go-to-market strategy, and pricing for a set of critical new EBS features, while tirelessly champion the needs of our customers. This role will require coordination across many internal and external teams a"
-    },
-    {
-      "id": "jsearch_TvPxenheqvxzhM_YAAAAAA==",
-      "role": "Principal Product Manager, General Compute (Seattle)",
-      "company": "Crusoe Energy Systems",
-      "link": "https://www.climatetechlist.com/job/crusoe-energy-systems-principal-product-manager-general-compute-seattle-NToQ1LkgnT0pOX",
-      "posted_date": "2026-07-20",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "ClimateTechList",
-      "description_snippet": "Crusoe is on a mission to accelerate the abundance of energy and intelligence. As the only vertically integrated AI infrastructure company built from the ground up, we own and operate each layer of the stack — from electrons to tokens — to power the world's most ambitious AI workloads. When you join Crusoe, you join a team that is building the future, faster.\n\nWe're in the midst of the greatest industrial revolution of our time. The demand for AI compute is boundless, and power is a bottleneck. We're solving that — with an energy-first approach that makes AI infrastructure better for the world"
     }
   ]
 }
