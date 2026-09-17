@@ -1,9 +1,37 @@
 {
-  "last_updated": "2026-09-16T18:35:16.913Z",
-  "total_fetched_today": 1,
+  "last_updated": "2026-09-17T18:43:41.572Z",
+  "total_fetched_today": 5,
   "jobs": [
     {
-      "id": "jsearch_aFlEY293bXlaUjFVWHJTbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUREZCVmpkdlgwUTBRMmh4WDNCblMyc3RiWGRDWW14NE55MHRlalJvZEd4aVVVOXViMDFEWTJKMlprNVJabEZ4ZGxCZk0zRmFjbU42VTNwcVoydDFia2x3ZWpkUlZXcFVaMlpwWWpkdmVHWkJRekJuY1d4UGRITmthbkJvZGtRd01tNUtSMjVQV2xOZmFsVlZUbkI1TkZwZloyNVdSV2gzYm1GaVlVb3hXbHBPWlZCclpGRVNGMWxQUjNGaGNqTXpUeTFQWjJoMlkxQnJXbGgwTkVFd0dpSkJSSE55T1daUlpFSkdXbkZTWjJsVVlsOXNjVjh5VEUxWVgzWjFjV1JpU1hsbg",
+      "id": "jsearch_QXpyNWZhbUtBcW43YXJaQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVJvWTFSV2RYSjJSQzB4VTBJMmJFRnJhRGRIVlRkWmExbHdRM1ppUlRSM1puWnZOVGs1UjNCT1ZHUm1kMnQyVEZGUlgzRlFPRk5KTjNSVU1HbGhXbFpSVnpRek9VaDFlbTU1WW5acGExWjZUbWxDWkZoc2NUUlJhazFqZDAxc01XbzFTWEl6UkZaNFlqZFlUWGQzZEZCdGEzTk9RM0ZXUkRsRWVsZDFiRmxJTUUxMmFtSVNGekpxVTNOaGIzVldURWw2VlRWT2IxQXhTMHh4TWtGdkdpSkJSSE55T1daU1QyOTJMV3BPYzFVMVYyNDBXbGhSUjNGeFRtUXpja3QxUzJOMw",
+      "role": "Remote Technical Product Manager, Data and Internal Products",
+      "company": "Recruiting From Scratch",
+      "link": "https://us.trabajo.org/job-3137-f2ab875cb1bc9d3e7754c83f1e987338",
+      "posted_date": "2026-09-11",
+      "location": "Fayetteville, North Carolina",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 15,
+      "source": "Trabajo.org",
+      "description_snippet": "Technical Product Manager, Data & Internal Products Location: Remote (United States) Company Stage of Funding: Growth-Stage Fintech Company ($84M Raised) Office Type: Remote (U.S.-Based) Salary: $180,000–$230,000 + Equity Company Description We're representing a leading identity verification and fraud prevention company helping financial institutions, fintechs, and enterprise organizations make faster, safer identity decisions. Their platform processes hundreds of millions of identity verification requests through real-time APIs, protecting customers from fraud while enabling seamless onboardi"
+    },
+    {
+      "id": "jsearch_eTdNYnJHOFZWMmlGWW5vREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlF3Y2xSblJERjBaMjlvVlcxWU0wVmtjVXBrVDFOSFluYzRjak4yZGs1VFp6Qk1UMHN6WlZwbFExRlJkbFowZWtob05ra3hTalYyTjJOV1prMVlORmRGVmxWVmEwUlFZWFZMWkhsRVRITlZhVzFLZW5SM05GWmxTRWQzVkVZelNYQndOVUZQTW5OV01HeEJWbkpDWWpkWlpGZFROalF0TTB0eU5taDZablI0ZGs5emFsQVNGM3BFVTNOaGMxUmlTRFpQTm5ObFRWQXhiM1V0T0VGakdpSkJSSE55T1daUlRuVllOblJSVlRkalFqVmhRa0Z5TVdsbWVrdExNR05CWDNGQg",
+      "role": "Remote Senior Product Manager, Platform & Integrations",
+      "company": "Kodex",
+      "link": "https://www.talent.com/view?id=636928610875805615",
+      "posted_date": "2026-09-12",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "Talent.com",
+      "description_snippet": "About the company\nKodex revolutionizes how organizations handle sensitive subpoenas and data requests from law enforcement and government agencies. Founded by a former FBI agent and backed by leading investors including Andreessen Horowitz, Y Combinator, Peak XV and Thiel Capital, Kodex has become the industry standard for secure data exchange. Our platform supports over 15,000 government agencies in 190 countries and is trusted by industry leaders like Coinbase, Stripe, and AT&T.\n\nBy transforming a traditionally complex and manual process into a streamlined digital workflow, Kodex helps organ"
+    },
+    {
+      "id": "jsearch_aFlEY293bXlaUjFVWHJTbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFJRU0hGNVlqZFJObFZUTFVoTFZsaGhSa2hNYTFCNWVUVlpTWEZOYjBZNVdrVllaR0pJTldoc2MyaFdOMk4xYTFkM2NVVmxkR0Z1TVdKT2FITlhXa1I1VWpCdFpHZFZRbUZyY0ZWZkxXMXNRVk00ZFdzd1oxQkJTRE5QVTJ4V1oxRnNTMFpEUlZSa1ZITjVNV1k0UTBsblVEWnlaREZzT0VwWFRVRTNNRkJVYlZCWE1FZ1NGM3BFVTNOaGMxUmlTRFpQTm5ObFRWQXhiM1V0T0VGakdpSkJSSE55T1daVU1rODVXbDlHWWpSU1NGTnBWekJPUzBGbFZISkNka2RsYnpoUg",
       "role": "Global Financial Crimes Product Manager",
       "company": "Bank of America",
       "link": "https://www.linkedin.com/jobs/view/global-financial-crimes-product-manager-at-bank-of-america-4467296146",
@@ -17,7 +45,21 @@
       "description_snippet": "Job Description:\n\nAt Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day.\n\nBeing a Great Place to Work and providing a culture of caring is core to how we drive Responsible Growth. We are intentional about fostering an inclusive workplace where every teammate has the opportunity to succeed, build a career and contribute to our shared success. This includes attracting and developing exceptional talent"
     },
     {
-      "id": "jsearch_WnNfNjVHblNjRXhHMlZOZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTQxV0cxT2FqWkRTVXRWTlRFNVRERk1WbGh4ZFZOQlozbHRjbk10UW10cFVVOHpXbE51ZVhndE5qWTVSV3gxVFVGSVVXOTRXRFJNWTFsaFFYQkVZekZLZEdwbk0xUk5kMkpQY1hSc056VjNYMDlXVUZCSFpYaHBSazB6YmtvMU0zTkxYeTFxWTB3MVRHWnlNVGcxU1doT01UVm1hVzB0V0ZoaFFscElaREpTVEdSU1JVTVNGM053UTNCaGMweHpTa3BYT0RBdGExQTNORGMyTkVGekdpSkJSSE55T1daU2JUVjBTa05tVWkxdFEzRlhiazB5YkU5NldFeFRZM05yV205Mw",
+      "id": "jsearch_LWpkN19aUjVzUHBIMDhtaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa1k1Y1Rab1FrRlhiMTlGVkVGR01YSmZkelYyUmtKblJHcGxSR2Q2V2toSFNHaFdTbGxzVnpseU1UVjRjSFF3VTIwMVR5MDFObFZvUTNnNFQxcFJVRGQyWkRCdVVFNUROemMzYjNCWmRHVkpRMTlSYWxWVWRqRXhhVFIzVGs1V1N6WkVWbUZ3TUVsUGNWbHpaakJKY1ZSblNHZHdaM0p3WlZGRlVuQk9aV3QzZEhOcFYxVVNGM3BFVTNOaGMxUmlTRFpQTm5ObFRWQXhiM1V0T0VGakdpSkJSSE55T1daVFREWTVkbDlWZVhJMVZXaDBTVUZQWWpkSGFHcHFiRnBtY2tkMw",
+      "role": "Remote Senior Product Manager, Next.js Platform",
+      "company": "Pantheon Systems",
+      "link": "https://us.trabajo.org/job-3137-ab68d13b424848cb28a7160616aaf140",
+      "posted_date": "2026-09-11",
+      "location": "California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Trabajo.org",
+      "description_snippet": "About Pantheon Pantheon brings together exceptional builders who take ownership, drive meaningful impact, and shape what's next for the web. We power more than 300,000 websites globally for organizations including Google, Princeton, Salesloft, Clorox, and the United Nations. Every day, thousands of developers and marketers use our WebOps platform to build, iterate, and scale WordPress, Drupal, and Next.js sites that reach billions of people worldwide. As an employer, we operate with the same philosophy that drives our product: foundation and freedom. Pantheon is a vibrant, remote-forward team "
+    },
+    {
+      "id": "jsearch_WnNfNjVHblNjRXhHMlZOZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFU1WkZsSWRqTlNjMXBEUTNsUmRXMTNTbko1VW1KbWNGSk5lR0p5Y2pCMFFVaElOVEpDZUdsSlFubFlOSHA2WlZodlJFMDVibEowY21ReWExRkhWVWhqVmtaaFEzSXpSRFU1TjBwMGJGcG1PVFp0V0VwelJUaG1VMU5hV0dnNVFXSlNXVFZVU0UxSU1YVlBlRkJRTWtWVFdXVTRTRzl5V0hwR1VrOHdaVEIzYlRORVUzZ1NGMnhFVTNOaGMxQXdUMk5mVlRRdFJWQTVOVU5HTkZGVkdpSkJSSE55T1daU04yMUhVM2xPV0doWlRrMXRhSHB4ZFdvelFWcFRUVFZJWVVOMw",
       "role": "Principal Product Manager Remote United States 8",
       "company": "AbsenceSoft",
       "link": "https://www.jobilize.com/job/us-dc-all-cities-principal-product-manager-remote-united-states-8",
@@ -2759,48 +2801,6 @@
       "match_score": 1,
       "source": "JobLeads",
       "description_snippet": "Responsibilities\n• Oversee strategy and roadmap for our Sponsored Ads Management experience.\n• Use data to find new opportunities to grow revenue.\n• Work closely with sales, customer support, and customers to identify top pain points.\n• Regularly present wins and losses for your product area to senior leadership.\nQualifications\n• Requires a minimum of 10 years of related experience; or a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience.\n• Experience working in monetization.\n• Proven ability to analyze data usi"
-    },
-    {
-      "id": "jsearch_5uB8DHdkchM0pNeSAAAAAA==",
-      "role": "Principal Product Manager - Technical, External Services, Amazon Aurora",
-      "company": "Amazon Development Center U.S., Inc.",
-      "link": "https://www.indeed.com/viewjob?jk=95a5ffec7072814a",
-      "posted_date": "2026-07-17",
-      "location": "Redmond, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "Indeed",
-      "description_snippet": "DESCRIPTION\n\nAre you interested in building hyper-scale database services in the cloud? Do you want to revolutionize the way people manage vast volumes of data in the cloud? Do you want to have direct and immediate impact on hundreds of thousands of users who use AWS database services?\n\nAmazon Aurora is a MySQL and PostgreSQL-compatible, relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases. Aurora also manages all the work needed to set up, operate, and scale a database, from pro"
-    },
-    {
-      "id": "jsearch_V_PLcgXU75XdFq99AAAAAA==",
-      "role": "Product Manager, Amazon Fuse",
-      "company": "Amazon.com",
-      "link": "https://bebee.com/us/jobs/product-manager-amazon-fuse-amazoncom-seattle-wa--t7xk-765950298",
-      "posted_date": "2026-07-16",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "DESCRIPTION\n\nWould you like to be part of a team that is creating new ways for customers to discover and engage with Amazon? The Fuse team builds products that connect partner ecosystems to Amazon, creating new entry points for customers who haven't yet experienced what Amazon has to offer. Our products enable partners to distribute their services directly on Amazon, turning routine transactions into gateways for discovery, engagement, and long-term customer relationships.\nAmazon Fuse is seeking a Product Manager to drive planning, execution, and delivery of customer experiences with team-leve"
-    },
-    {
-      "id": "jsearch_aEFbnczetgeRLU74AAAAAA==",
-      "role": "Senior Product Manager - Tech External Services, Amazon Elastic Block Store (EBS)",
-      "company": "Amazon Development Center U.S., Inc.",
-      "link": "https://www.indeed.com/viewjob?jk=135eaad3fbd561ae",
-      "posted_date": "2026-07-17",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Indeed",
-      "description_snippet": "DESCRIPTION\n\nAmazon Elastic Block Store (EBS) is looking for an seasoned product manager and disruptive thinker to help us define the vision and strategy for block storage on AWS. As a member of the team you'll work alongside engineers and leaders to develop and operate one of the largest distributed systems in the world.\n\nIn this position, you will define product requirements, business and go-to-market strategy, and pricing for a set of critical new EBS features, while tirelessly champion the needs of our customers. This role will require coordination across many internal and external teams a"
     }
   ]
 }
