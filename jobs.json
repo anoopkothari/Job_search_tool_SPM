@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-09-20T17:50:48.204Z",
-  "total_fetched_today": 0,
+  "last_updated": "2026-09-21T19:49:21.162Z",
+  "total_fetched_today": 6,
   "jobs": [
+    {
+      "id": "jsearch_U0cxWVdxU3Z3RkhHT0J5MEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlo1TW1SYVJHaFVlSGxFYm5KU05XbERjVjlOYVVKQlMyVkxXR1I0V1hadlN6WkJOR2RTWDJwQk1Fd3pOVzlNTVUxUU1YUkNNRk5YZGxWdVltRjNYMXBoY0ZJdFMwZDRSbUozY1VwT01YRnpNSEV0TW1OVUxVRlZha0Z3YWxoV1NWWm5XWHB6TlZGcVR6VjFlbVZRV1RGSVNWWnBNV1JvVkRkeFYwTkRZMGcwVEZwdGF5MFNGMDlaY1hoaGIzcHlTV0ZNWkhkT05GQnJOakl6TWtGUkdpSkJSSE55T1daUlVHZHdSbkpNZW1jd1gzSkZNaTFCYjNscGNIWnpZWGRYVEdkUg",
+      "role": "Senior Product Manager (Contingent)",
+      "company": "Wilcore Technologies, Inc.",
+      "link": "https://www.linkedin.com/jobs/view/senior-product-manager-contingent-at-wilcore-technologies-inc-4468347513",
+      "posted_date": "2026-09-16",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "LinkedIn",
+      "description_snippet": "Description\n\nAbout the Role:\n\nWilcore is hiring a Senior Product Manager to support an enterprise cloud-based data and analytics platform for a federal health agency. The platform provides governed data storage, engineering and analytics tools, platform integrations, and policy controls for data practitioners across the enterprise, and supports advanced use cases including data science, machine learning, and artificial intelligence.\n\nIn this role you will align with agency leadership to define platform Objectives and Key Results, create and maintain the product roadmap, define and promote the "
+    },
+    {
+      "id": "jsearch_bl9ZejF0ZFNfTDkwUWtaMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEk0YzIxNGFEWXllR3h5Y2kxYVZsTnViRzlmT1ZZMFltVTRUSE5OV1ZZd1EwSlJXSEJNUWpCV1NWbFdjM2RMYkd0TmVFeFdlWGRSVUV4dVFrTkRMVGhZVFZaYWNuRnlPRTUwTkU1amNFeFNaa2swV0c5dGRrbDViVUY0VURCUlVFcFdNRGRTWTJaeUxYcG1NMFIyYkd4dFVYTkxVMDl0WlhwT09Xc3lialpaT1VkWFkwUVNGMDlaY1hoaGIzcHlTV0ZNWkhkT05GQnJOakl6TWtGUkdpSkJSSE55T1daVGNrVnhSRjlHTmw4MlFtOHhWMHRHYjB3MUxYTkhhRXd4WjFSbg",
+      "role": "Product Manager - REMOTE FROM ANYWHERE IN THE USA",
+      "company": "AYTM",
+      "link": "https://www.ziprecruiter.com/c/aytm/Job/Product-Manager-REMOTE-FROM-ANYWHERE-IN-THE-USA/-in-Remote,US?jid=7b174c3632f7a907",
+      "posted_date": "2026-09-21",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "ZipRecruiter",
+      "description_snippet": "aytm “Ask Your Target Market” is ready to hire an experienced and driven Product Manager to join our growing Product Strategy team. We are seeking an individual to innovate, shape, and drive the development of our platform while supporting the rapid growth of our business. The successful candidate will utilize their experience and knowledge in market research and product management to support the product vision, implement strategies, and lead a successful roadmap. They will work closely with cross-functional and international teams to ensure that the product features meet our clients' needs. T"
+    },
+    {
+      "id": "jsearch_MjViRWFhTDZxWklNancyRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGRxVjAxUE1XTlBNVXd4WVVjNVZXcHlPRkkwZWtwRU4wVktSVTVSZUd0T1ltMWxVVXhrVWtwT2RVczFOM05qZFRWS1dEQmpNa1ZRZDNCcFdtUnZlVlJ6WVc1SFdtc3RObVJXYWpabmRERnNOVlJ2WjJ4MWVuTk5PRTU2T0cxM1ZHUjBYMlJCVjBaSFIwWllNVEYyUm5sTlgzcFdUbk52YW1oWVZqQmFabXhKVmtjMWNtTVNGMDlaY1hoaGIzcHlTV0ZNWkhkT05GQnJOakl6TWtGUkdpSkJSSE55T1daVFMxSnVlRFJLZUhKaldXMU1RMnQzZEhCTVZYcHpRamhXWmxoQg",
+      "role": "Product Manager, Print as a Service",
+      "company": "HP Development Company, L.P.",
+      "link": "https://www.theladders.com/job/product-manager-print-as-a-service-hpdevelopmentcompanylp-washington-dc_88940540",
+      "posted_date": "2026-09-19",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Ladders",
+      "description_snippet": "Product Manager, Print as a Service\n\nDescription -\n\nProduct Manager, Print as a Service\n\nHP has committed to a strategic pivot to a \"service-first\" approach to products/solutions with the aim of delivering higher customer value in novel ways. Our Consumer Services and Solutions (CSS) organization is charged with creating, incubating, delivering, and managing innovative new service businesses and business models.\n\nAs a product leader in CSS, you will spearhead the development and delivery of print-as-a-service, transforming the way consumers and small businesses utilize print and fundamentally "
+    },
+    {
+      "id": "jsearch_Mld3UDVWWnFtb2RBTUl2ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURnBGZGt4dFREUXlhM1F5VGxabU1IWTRibmxJU2xkR1gwdFBhMGx0VW5SVFJIZHVVMDA1VERobk4weExNMmx0WW1kUFJWaE1TMk50Tm5WVVJGcEJSa0k0WjFWQ016RkxkMDA0VFZSM1JWaERYMDkyTmxVMVJuZG5kRkJuT1ROaVYyYzNUa05GV1ZKRGJtVldURTlLTWpscVdqUmlSMWhyYzJzeVIxVnNkMDg0Vms5VVRtd1NGMDlaY1hoaGIzcHlTV0ZNWkhkT05GQnJOakl6TWtGUkdpSkJSSE55T1daU05scFJNMXBmTUZCWFVtbFpWVFZXU2w5SlduUnBVbG8xTUZGUg",
+      "role": "Product Manager, Consumer Mobile App",
+      "company": "Dexcom",
+      "link": "https://careers.dexcom.com/careers/job/44540163?domain=dexcom.com&hl=es-419&ref=jobs.girlboss.com",
+      "posted_date": "2026-09-16",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Dexcom Careers",
+      "description_snippet": "Meet the team:\n\nJoin our dynamic and innovative consumer team at the crux of innovation, technology, and consumer products! We are dedicated to empowering individuals to take control of their metabolic health through cutting-edge biosensor technology and intuitive app experiences. If you're passionate about pushing the boundaries of what's possible and thrive in fast-moving environments, we want you on our team.\n\nAs Product Manager for the Stelo app, you’ll lead the development of in-app features that help users monitor, understand, and improve their metabolic health. You’ll work cross-functio"
+    },
+    {
+      "id": "jsearch_Q3dSLWRhMnpYTTZuSlJkX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFY0TFd0VlkxVnlhekZHWVdkSFZrTkNUQzE2V0ZJM2JYVTBiVEpQTUZGbWNuTmxZWEZpTVRSR1FUa3pRbVZ6UmtSWGRYaEROMGx5U0dkdk5sUTNkMG8zWTJ4emJWSnpWV05STkc1Tk5VUk5jbFoyU0hOb1VUZFBkRUpsUjFCVGFEZDNiRTlmTjJSUlQwWkJWRGgyT0RsRllWcFVYeTB6UW1SWk9EUm5UV010WlVWVFFqQVNGMUEwY1hoaGRtVlVSMDlsYURWT2IxQTVUR1p6TWtGTkdpSkJSSE55T1daVWRVSjNkMmhrVWpRd1pGSnJRWHBJTlhoVFUyNDVXbmwyYzA1Mw",
+      "role": "Sr. Product Manager",
+      "company": "Motorola Solutions",
+      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-at-motorola-solutions-4469522016",
+      "posted_date": "2026-09-19",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "LinkedIn",
+      "description_snippet": "Company Overview\n\nAt Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.\n\nDepartment Overview\n\nThe Evidence Product Management team owns the roadmap for delivering M"
+    },
+    {
+      "id": "jsearch_TDE0OTFLVVVxM3hvdXVucUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWRzTURaUVUwdHhTSGxmTTNoa1ZFOUJWMVl5WVRWRWVWZEVTMjl1V1ZGNk5GVjFXaloyWDJSeU9EZHFaRmRZWlhOYVJtUmZSa0ZHVm1Ga1RtdDJaamgyT1ROUVVpMDFibGd4TlRBeVlsOVBUazF2T0RONFVXcFNjMXB1WTJweFVqRktaMU5WVlZwbFRETTJaMVJGVlROTk5ESkhhRlIyU1VGV1dGOU5SMHhzVTJ0cFJqUVNGMUEwY1hoaGRtVlVSMDlsYURWT2IxQTVUR1p6TWtGTkdpSkJSSE55T1daVFVtNVJMWFYwVTBsM00xTjRiV3hZU1VsbmMweEhaM1ZTU1Mxbg",
+      "role": "Senior Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-remote-govcio-olympia--lensa-7428_8cdfee847dff4c8cee4b03b6268253f367dd77a80d1851242a730ce8ebf12625",
+      "posted_date": "2026-09-14",
+      "location": "Olympia, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "BeBee",
+      "description_snippet": "United States Suitability/Public Trust Fully remote Project/Program Management Overview GovCIO is currently hiring for a Senior Product Manager to lead strategy, delivery, and oversight of a custom-developed product within the OCC portfolio, supporting the Veterans Health Administration (VHA) Office of Connected Care. This role owns shared services intake and coordination, with additional support for FHIR data governance and data quality - advising clients and aligning product goals, stakeholder needs, and technical execution to mission-critical outcomes. Strong candidates bring product manage"
+    },
     {
       "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamhwVDJ0d2FETjJXVlk1VjAxV1FtWjZjVTVFVDNGWU5XOXpNM2gyUVRSUExXUnhVemR6ZDFaUlNEaDFUWEJTWnpWcWNWbEdObXRWWW5OWE1qTk5RbTF4VG5CaVUxTlZhSEJqU2xkNUxWbHZla293VW5WME4zYzRlVWw1UXpCU0xYZG1jWEJJVG01RVJXVlRUems1TURGVVRHTkVOVmhxYW01M1JubE9hMTlTY0c0dFJVOFNGeTF6YVhWaGMxZFRRVFEyYlRWT2IxQXliMnBhYVVGRkdpSkJSSE55T1daUlVWZFZPVFEyVFZsVVQwd3lSMVUyVVY5SWVXSXpYMk0zZWpObg",
       "role": "(USA) Staff, Product Manager - Financial Services",
@@ -43,20 +127,6 @@
       "match_score": 10,
       "source": "LinkedIn",
       "description_snippet": "Job Description:\n\nAt Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day.\n\nBeing a Great Place to Work and providing a culture of caring is core to how we drive Responsible Growth. We are intentional about fostering an inclusive workplace where every teammate has the opportunity to succeed, build a career and contribute to our shared success. This includes attracting and developing exceptional talent"
-    },
-    {
-      "id": "jsearch_U0cxWVdxU3Z3RkhHT0J5MEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBURjlmYmpoalNGWk9TRUpGVURjMGFWQlNWVzlKWlVOVlEyaGFRMlJhWHpCeU0wWnhlVE5OVDIxR2NVWkRTMEp4Vm5SV2NFcEZRVXQ1VFdnMWNrZG1NREZXVDNKV1ptRk5aR0V5U1hBek9FNDRkV1JvZWpoNlEybGpZMUEwTWpNMGRsZHdNaTF0ZEZoNWMzVkRNemg2VkdSS1RrUlZaWHB1WDJzeFNWY3dXbGxpUlZBMlNHVVNGbWh6YVhWaGNERklPR1JEVVRobkxWRm5VRXMwUWxFYUlrRkVjM0k1WmxGQ2EzSkZabWxaUTJkSE0xZ3RSekp0ZEdJMWJYVjVWMnhUTlZF",
-      "role": "Senior Product Manager (Contingent)",
-      "company": "Wilcore Technologies, Inc.",
-      "link": "https://www.linkedin.com/jobs/view/senior-product-manager-contingent-at-wilcore-technologies-inc-4468347513",
-      "posted_date": "2026-09-16",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "LinkedIn",
-      "description_snippet": "Description\n\nAbout the Role:\n\nWilcore is hiring a Senior Product Manager to support an enterprise cloud-based data and analytics platform for a federal health agency. The platform provides governed data storage, engineering and analytics tools, platform integrations, and policy controls for data practitioners across the enterprise, and supports advanced use cases including data science, machine learning, and artificial intelligence.\n\nIn this role you will align with agency leadership to define platform Objectives and Key Results, create and maintain the product roadmap, define and promote the "
     },
     {
       "id": "jsearch_V015YmUzZ3F4NDdXak1ETkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnN6YkRCbWJHSkVNbk5tZUU5UGVrNDFVbmxyTTFSUFJGcDRibXRvYTJveVV5MUZUMmhxVkcxb2VGZHFXRFY0Y1ZaZk5tTkVXVkpsUlZWU1IyZzBORFJvU1Y4dGNWWlJiRjlyZVd4clZrZHZkbHBLTmxkNVdVdFRMVmhWWmxWZmNHOTJiV1pZZDNKWVYzcFNUWGg1Vm5ac2VIVlRlVzlmYTA5bVpHeHJOa3d6TVRSd1VXa1NGMGh6YlhWaGMxYzRTMDFsY2pWT2IxQXlXVzA1TkVGM0dpSkJSSE55T1daUk9IVTNjVXRLWjFVMmQxY3pZa1pFWVhWV2FrUjFUMDh0T1Uxbg",
@@ -183,34 +253,6 @@
       "match_score": 4,
       "source": "Trabajo.org",
       "description_snippet": "Innovate with purpose At BILL, we believe in empowering the businesses that drive our economy. By replacing outdated financial processes with innovative tools, we help businesses—from startups to established brands—make smarter decisions and gain control of their operations. And we don’t stop there: we’re creating the future of financial automation so businesses can spend more time on what matters. Working here means you become part of a vision-driven team that’s ready to tackle challenges and build cutting-edge solutions. We value purpose, drive, and curiosity—and we thrive in a fast-paced, e"
-    },
-    {
-      "id": "jsearch_Mld3UDVWWnFtb2RBTUl2ZkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBURW95VmpWU1pFODBaM2RmY0ZSMUxVOUlhRFpqTjNjM04xb3lhMjlZVEhKbVNHbEtWM2s1VFVsSVlraHRRVGxsUjBWTU0xQm1ibWxwYm5aVE4xazFRazFLTXpkSmVFMW1VR2MyZWtsTFpGVXlWbVJ3TXpKTlVERm1lbU5IUmpoalJVSlBaMFpRVjBSblkyWTJWVWt5Ymt4SlZXdEhYekYyVG1wNk55MHdkVGxLVjNOdVJEa1NGbWh6YVhWaGNERklPR1JEVVRobkxWRm5VRXMwUWxFYUlrRkVjM0k1WmxSWlIwTk9SbHBVUzE5SVZEVnZSMFl3UkVkV1VqRkxTRlY2YjBF",
-      "role": "Product Manager, Consumer Mobile App",
-      "company": "Dexcom",
-      "link": "https://careers.dexcom.com/careers/job/44540163?domain=dexcom.com&hl=es-419&ref=jobs.girlboss.com",
-      "posted_date": "2026-09-16",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Dexcom Careers",
-      "description_snippet": "Meet the team:\n\nJoin our dynamic and innovative consumer team at the crux of innovation, technology, and consumer products! We are dedicated to empowering individuals to take control of their metabolic health through cutting-edge biosensor technology and intuitive app experiences. If you're passionate about pushing the boundaries of what's possible and thrive in fast-moving environments, we want you on our team.\n\nAs Product Manager for the Stelo app, you’ll lead the development of in-app features that help users monitor, understand, and improve their metabolic health. You’ll work cross-functio"
-    },
-    {
-      "id": "jsearch_TDE0OTFLVVVxM3hvdXVucUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1YwZEdkRWJ6UjFUa0pwUW1ZM2VXNDVkWFJCVFRrNFFuQnlWVkUxZVcwMWF6WkNjRlV3ZEhGRE5FWndjbDlmU1VSVE9VaFVPRU5CWVRaNk0yWXdhbmd6TW10RWRqTnRUSE10UldaclN6VnVUazFzVW1WRU0yZGxRVVExVm1odFkyaDBhVEJOV0U5dFpFUnZSbXBuWjJ4MllYTk5SMjFPZUdOdlJrRlZSRk5zTjJSNlJHTVNGMnBqYVhWaGN5MXZRWE5QZFRGelVWQnNZVk5VYVZFMEdpSkJSSE55T1daUlNYVmhlbXc0YW5GSGFpMHllbmgyVWkxMU4yUmpWV2htTm5KUg",
-      "role": "Senior Product Manager (Remote)",
-      "company": "GovCIO",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-remote-govcio-olympia--lensa-7428_8cdfee847dff4c8cee4b03b6268253f367dd77a80d1851242a730ce8ebf12625",
-      "posted_date": "2026-09-14",
-      "location": "Olympia, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "BeBee",
-      "description_snippet": "United States Suitability/Public Trust Fully remote Project/Program Management Overview GovCIO is currently hiring for a Senior Product Manager to lead strategy, delivery, and oversight of a custom-developed product within the OCC portfolio, supporting the Veterans Health Administration (VHA) Office of Connected Care. This role owns shared services intake and coordination, with additional support for FHIR data governance and data quality - advising clients and aligning product goals, stakeholder needs, and technical execution to mission-critical outcomes. Strong candidates bring product manage"
     },
     {
       "id": "jsearch_SkRhN2w0OUxXWnEwQk8wdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMkZmUVVsNVRURlNWVVkyYlZkMlozVklXQzFLWVY4NVUyZHlWeTFTWkc1dlZEbDRWMGc1YjJoT05ESkpUbVZ3ZDBaTVgzaDViVzFLTmxFM1ZFVlpXVUY2VGpkTVVGTkZRM1JqUW1oWlgyY3pWV1Y0VUdadFpuTnJkVWR6V21Sb1UwZEJVRTFrYzJKQlUybHZkVkYwYzBrMFlpMXpXa3hvZW1NM2IzaEJPRlIxWDBNelVIa1NGeTF6YVhWaGMxZFRRVFEyYlRWT2IxQXliMnBhYVVGRkdpSkJSSE55T1daVWJHRkNXWGR3ZUUxV1FrRlRha3RMUzB0S2VHNTNOMlF0TTNWMw",
@@ -2759,48 +2801,6 @@
       "match_score": 10,
       "source": "LinkedIn",
       "description_snippet": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.\n\nAbout The Job You're Considering\n\nCapgemini Engineering is seeking a high-caliber Technical Product Manager TPM who operates as a hybrid leader, blending executive-level strategic advisory with "
-    },
-    {
-      "id": "jsearch_dktGNlZRMkVLMmxsTy1BRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVGhmYWtOUFMxRmljekUxY2sxU2VGaFBTMGR4WDNOUlZsa3RWMnBvYkhCS01tUnNOWEExWlZVNGQyVk5TV2h3ZEZoWVJtdG1aSGd0TW5NMk4wOUxTMUkyY1ZrdE5UWlZaRWw2VG01U1MzSmFZamRrYzB0TVFXbHpTazF0WTJ4cU9GRlBVa2syU0hkdFRISjNhREkzYjIxeFRuVXlOVFJyZG5GcVRWUk5ZblJpTTA5amIwWVNGblpvV25WaGIzbFhRMk41Um1oaVNWQTJUR1pOUVZFYUlrRkVjM0k1WmxOTlZqSm9halo0YjNnMmVXRk1hMXAwYkZWaVpERXRWelpUUVVF",
-      "role": "Product Manager, New Products (0 → 1, AI-Enabled) (HYBRID)",
-      "company": "C-4 Analytics",
-      "link": "https://www.builtinboston.com/job/product-manager-new-products-0-1-ai-enabled-hybrid/10011135",
-      "posted_date": "2026-07-25",
-      "location": "Wakefield, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Built In Boston",
-      "description_snippet": "Overview\n\nC-4 Analytics is evolving into an AI-forward company by both transforming its core systems and building new capabilities that redefine how we deliver value.\n\nThis role focuses on what’s next.\n\nWe’re hiring a Product Manager to explore, prototype, and build new product capabilities…using AI and modern tooling to unlock new ways of working across marketing, data, and operations.\n\nThis is a builder’s role. You’ll move quickly from idea → prototype → validation, helping determine what’s worth scaling into real products.\n\nYou won’t just define ideas—you’ll bring them to life and prove the"
-    },
-    {
-      "id": "jsearch_U1IxbS1oMHBLWmhBNTF4WkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmc1TTJkVWFUazJkV2hNTkVwU1UyWjRSVzlZY1dkclJVTkVYekpGVEZWUldtZHJVVFZFTUdSVk0xRm5SM1J5T0RST2JWSTJVRVk0UlhVMWRrOUZhMk0wZW1zNU9HbFZkMHBDVEVGb1VGZ3lZVTAwU2paalJVbFJUWFIwVG1WQlZ6UlhVbk5oVVhwUlJYWjRTRjl1WlVST1EzY3RiMG8yWVhCRk1HSjBUMVpKWjNkUFZqWVNGM1JvV25WaGIyMHRRbVp4ZFd0a1ZWQnFOMHRrTmxGekdpSkJSSE55T1daVFJVeElUME15Y1RkV1VtTTVSRWhsT0ZORllXUlZWbTlsVVZWQg",
-      "role": "Product Manager  Full-Time · New York, Chicago or Charlotte",
-      "company": "Oula",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-full-time-%C2%B7-new-york-chicago-or-charlotte-at-oula-4446585301",
-      "posted_date": "2026-07-28",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "LinkedIn",
-      "description_snippet": "Oula delivers maternity care built around our patients—offering comprehensive support before, during, and after pregnancy. With fewer C-sections and higher VBAC success rates, our research-backed approach is delivering better outcomes. Our team of trusted midwives, OBGYNs, and dedicated care navigators ensure our patients get the type of care they need in the moments that matter most.\n\nSince launching in 2021, we’ve expanded to include Preconception and Miscarriage Care, Pregnancy Care, Postpartum Support, and Gynecology. We currently have 4 clinics in the tri-state area, with three new clinic"
-    },
-    {
-      "id": "jsearch_cGlEOFU2bTE2enE4QkdoUUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVJJVmpsa2IwUlNjVk5RY1V0dmRIWjBWRFZxYmpsS1lUVkpkR1IxVm1keGREQlZhakphYVdneE1taDBTRWsxWmkxeVRubHBUWGhYTW1zelZWQmFibkJaYmxOTVowUm5lV0pMYmxCR05XVkdRa0l3YkZod1VEQlBaa2N5VTJ0TlFsWTBWVmQ2WjJvNU5UWnBYeTB0TjJKVVZYWnlWbTR6UjNjMWFGVk5jMGhRVW5jMWIzZ1NGekU0T1hOaGRXRXhRV05xU1d0UVNWQnhZWGx4ZVZGUkdpSkJSSE55T1daVVMzQjBXbEY1Vm1oaU0wWlZiRU4wZVdwbVJuaFBjVFZoVDJsbg",
-      "role": "Product Manager in Washington, DC location with our direct client",
-      "company": "Indotronix International Corporation",
-      "link": "https://www.ziprecruiter.com/c/Indotronix-International/Job/Product-Manager-in-Washington,-DC,-for-our-Direct-client/-in-Washington,DC?jid=cf79be4947b1685f",
-      "posted_date": "2026-07-27",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "ZipRecruiter",
-      "description_snippet": "Product Manager in Washington, DC location with our direct client | Washington, District of Columbia, United States\n\nIndotronix is seeking a Product Manager in Washington, DC location with our direct client\n\nPosition: Product Manager\n\nLocation: Washington, DC\n\nDuration: 6 Months with possible extension.\n\nBackground:\n\nWe are seeking a Product Manager to support the Security Engineering team within the client space. This team is responsible for the strategy, design, deployment, and maintenance of effective security solutions in cloud, local, and hybrid environments.\n\nRequirements:\n\nThe candidate"
     }
   ]
 }
