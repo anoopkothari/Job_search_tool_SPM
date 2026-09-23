@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-09-22T18:26:33.323Z",
+  "last_updated": "2026-09-23T18:46:23.324Z",
   "total_fetched_today": 7,
   "jobs": [
+    {
+      "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGRTVGpoVFRtUnZOREI2Y0VZdGVqRlJjakJTVkdjME9HMTBVbVZUVUZwQlJsRjFTR1pwVDBOd1NXOU9RVGQyT0ZJMVlVSmljRkpKWW5WaFFuZ3RXVUZ6TFZwSmNYRTJWSGRHYm1jME5YQndPSFU1UkRrMk4yZHBlbDlVVWxsMU4xUnhZalZGZUVOelNHSmlObkJNUjJSUFZWaFVObGw2YkRsWmJrdDBOSGd4YjFkVGFIVVNGMkpDTmpCaGNXMWhRWFl0ZHpWT2IxQm9jSHBNYVVGTkdpSkJSSE55T1daVFpuTnpiM1l5VkZKdk1FMWFOa2hTTldKbFgxWXRSa015ZG5SUg",
+      "role": "(USA) Staff, Product Manager - Financial Services",
+      "company": "Walmart",
+      "link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Product-Manager-Financial-Services/-in-Walnut-Creek,CA?jid=1dc88f396c2eb815",
+      "posted_date": "2026-09-21",
+      "location": "Walnut Creek, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "ZipRecruiter",
+      "description_snippet": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Staff Product Manager to lead high-impact product initiatives within the Enterprise Financial Services organization—a strategic function at the intersection of retail, technology, and financial innovation.\n\nYou will own the end-to-end product strategy for enterprise-scale financial capabilities spanning co-brand card programs, third-party wallet integrations, and lending enablement, powering how our customers and members transact, manage money, and engage with financial products across our ecosystem.\n\nThis role demands a leader who ca"
+    },
+    {
+      "id": "jsearch_ak5LdUNhREk5ekxiY3EwOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTME5wZFV0dk5rOTVPVGRNYzI5RldrSjZRWFZHTVV4TGFVZFRSakptU21wMU5tSkRURGw1Vm13MVZHNVNSSE5TU2pWT2JGQmtWemhDVEY5emVqRkliMHBJY1ZSU05VUmhlVmxMVjBZMFRIVXlSemN3YzNocGFGVldjMjVqU25kVFlWSnVTbEJwU1RFM2VEbHBjVmhsU1ZWa1ZGbzNlSGhUVjE5VlpIUk1SVU51UW5nd1prY1NGMkpDTmpCaGNXMWhRWFl0ZHpWT2IxQm9jSHBNYVVGTkdpSkJSSE55T1daU1dtMU1WVVprV0dwbllVZG1WR0ZSWldoeVZIUnVOVFl5TVdSMw",
+      "role": "Principal Product Manager",
+      "company": "Expedia Group",
+      "link": "https://careers.expediagroup.com/job/principal-product-manager/seattle-wa/R-109046/",
+      "posted_date": "2026-09-20",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Expedia Group | Careers",
+      "description_snippet": "At Expedia Group, we help travelers explore the world, one journey at a time. As a global travel company powered by passionate people, trusted partnerships, and leading technology, we connect travelers, partners, and advertisers through our consumer brands, B2B network, and travel advertising business.\n\nHere, you'll do meaningful work that helps millions of people discover, book, and experience travel with more ease, confidence, and joy. Our five Behaviors-Traveler First, Think Big, Operate with Excellence, Ownership Mindset, and Succeed Together-help foster a supportive environment where peop"
+    },
+    {
+      "id": "jsearch_VG5SNTViN1Z3N2lQcVBDc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlozTVd4WVQycENNVGxPV0VKVk1IaHJPVmRKYlZOMExWcHRXVkZmUmxveVFUYzBhV2hLVVZaMFdXUnVTWGcwY2tkUmNXNTJaMVJEUVRodlUzYzFjbGRhYzI5RFFVeHlaa2t5TmpoTFUyWndNa1JMT0RKclMwd3diRkE1YVZCNWMzTlFWWGh2ZVc4MWQyVm5XRWRSWkVJNVZFNURkMmh0Wm1JM2QzSlVMWGhpUW1wU09VRVNGMWhTTmpCaGNrUjRSSEkyUjNjNFkxQTJOVXR5YTFGM0dpSkJSSE55T1daU1duTmhNbFZNVm1kdGFteGpSa1JHVVVGU05rMUxNVUZoU1d4Ug",
+      "role": "Sr. Product Manager- Processing Remote (United States) · Remote",
+      "company": "Arcadia Power, Inc.",
+      "link": "https://www.jobleads.com/us/job/sr-product-manager-processing-remote-united-states-remote--northern--ecd86b67592380d6d0f3cd160ab4b9b8a",
+      "posted_date": "2026-09-18",
+      "location": "Eastern, Kentucky",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "JobLeads",
+      "description_snippet": "Arcadia is the AI-powered energy intelligence platform for businesses. We replace fragmented tools and manual workflows with one platform to pay utility bills, buy energy, and advance sustainability — across every location, at enterprise scale.\n\nTrusted by Fortune 2000 companies, Arcadia combines unified data, AI-powered analytics, and expert advisory to help enterprise teams save money, mitigate risk, and cut carbon .\n\nWe deliver this through three comprehensive solutions:\n\n• Utility Bill Management: Automating the entire utility bill lifecycle — from data capture and validation to payment pr"
+    },
+    {
+      "id": "jsearch_N0tIMGpZYXJ3aHA4UXZtU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0pzZUZaV2MxUTJZMnhrUVhaUFNUbFVWR05OU0VSRE5IaHNXVVZ4Y2pCT1JrNVRWeTFhTWpCWFFUZ3lNWHBQVGtkemJsZDFYeloyTXpKcmJqUnljWGcwWlhSNVNVbFhZVTlIT0hwZk5GZGxWbDlzVURKcFFqRlNNMW95V25WbVZGUlRTVTFSU2xSeWVITk1USEowVldrNWRtMDJRV3R5T0hsdFlsQkxjMFY1T1VsSWJtY1NGMWhTTmpCaGNrUjRSSEkyUjNjNFkxQTJOVXR5YTFGM0dpSkJSSE55T1daU1RUbEVaa3BMTm1WQlFuVXdObGhQUkVSd2FWUnRVRjlWWkY5Mw",
+      "role": "Founding Product Manager, AI Corps Remote, United States",
+      "company": "CodePath, Inc.",
+      "link": "https://www.jobleads.com/us/job/founding-product-manager-ai-corps-remote-united-states--northern--e90137d6ed6bc4d8199e2cbf362baebc4",
+      "posted_date": "2026-09-17",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "JobLeads",
+      "description_snippet": "CodePath is the largest educator of college computer science students in the country. We have trained over 40,000 students from 1,000+ universities. Our partners include Amazon, Google, Meta, and 4,000+ companies across the industry. We’ve been training the next generation of technical talent for nearly a decade, and we just launched a $150M initiative with Anthropic, building one of the most ambitious AI workforce programs in the world.\n\nWe’re now expanding into new markets and scaling our team so we can move at the speed AI is transforming the workforce. People joining CodePath now will have"
+    },
+    {
+      "id": "jsearch_MjViRWFhTDZxWklNancyRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVEJPUlRGSU1WUldiMlYyTjNJdFJqWkhURVJ5YXpBMFdrMW5iblpzTjFOWGFqaFlhbFZhUnpCU1MxQmpVRzVJWWxaWVREWkJWa05NY0dGbldWa3RUSFkyWW1SUGNGOU1iMEpQYjNjeWRuSk5heTFPV0hWUmJIZGxiVWxwVVZwSWQxUmZWamgxV1U1YVpXTnZiakZMWlY4NFkyUmZXbTFCTVRoRGRFbFRhSEp1VHpSaFFsWVNGazFvTmpCaGMwZzNTM1kyVnpRdFJWQmZVRzB4V1VFYUlrRkVjM0k1WmxSQ1FqZHRUV05MY1dwRVRDMTBTRVV0TTB4dU1sSk1UR0ZNTldj",
+      "role": "Product Manager, Print as a Service",
+      "company": "HP Development Company, L.P.",
+      "link": "https://www.theladders.com/job/product-manager-print-as-a-service-hpdevelopmentcompanylp-washington-dc_88940540",
+      "posted_date": "2026-09-19",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Ladders",
+      "description_snippet": "Product Manager, Print as a Service\n\nDescription -\n\nProduct Manager, Print as a Service\n\nHP has committed to a strategic pivot to a \"service-first\" approach to products/solutions with the aim of delivering higher customer value in novel ways. Our Consumer Services and Solutions (CSS) organization is charged with creating, incubating, delivering, and managing innovative new service businesses and business models.\n\nAs a product leader in CSS, you will spearhead the development and delivery of print-as-a-service, transforming the way consumers and small businesses utilize print and fundamentally "
+    },
+    {
+      "id": "jsearch_Mld3UDVWWnFtb2RBTUl2ZkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTa1JxVWsxQlZGVkpabVZZY1c1Q1ZFSTBNRkI1TkRSNVJUaFRWV1V5YVc1alVXSm1WR0ZyUlhGRlkwNWxlRlZuUkhnMVFtVlhkekZ2ZW1oUFRVVnBUMEoxZFZsVk1WaHZRWHBHVFVab1dXOXZZM1prWTFkWVgyOVZWVE5RTjNaVkxUQlBUQzFEWkVwbWFXdHdOMUpSTUhKWlZHUjFOMjVTZFU1Q2JFOVJjRVZqVTFWT2Exa1NGazFvTmpCaGMwZzNTM1kyVnpRdFJWQmZVRzB4V1VFYUlrRkVjM0k1WmxGbmFtTllNVFk0UzJKNmVuaFpjV3RKYW5wZlJHcDBTWEZwTUhj",
+      "role": "Product Manager, Consumer Mobile App",
+      "company": "Dexcom",
+      "link": "https://careers.dexcom.com/careers/job/44540163",
+      "posted_date": "2026-09-16",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Dexcom Careers",
+      "description_snippet": "Meet the team:\n\nJoin our dynamic and innovative consumer team at the crux of innovation, technology, and consumer products! We are dedicated to empowering individuals to take control of their metabolic health through cutting-edge biosensor technology and intuitive app experiences. If you're passionate about pushing the boundaries of what's possible and thrive in fast-moving environments, we want you on our team.\n\nAs Product Manager for the Stelo app, you’ll lead the development of in-app features that help users monitor, understand, and improve their metabolic health. You’ll work cross-functio"
+    },
+    {
+      "id": "jsearch_Q3dSLWRhMnpYTTZuSlJkX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWMwYWtGUFRYaEZPRkJVVG5oTWVWTjVaalZVUVRWNk9FSkhURW93T1dkblRFRnFiRk5XVDI0MU1WcDVhVGxwTUVaNmVsWkhRVlJUVDJaaE4zTnNaeTFwYkdSME9UVnFibmhKZUcxeFRWaElNR3B4T0d0MlIyRkVVRnAxTUd4T1MybDRaVlpNUjBoRlpHdHRURE5sUlZGSlJFbGpOMnhrTTNoU1ZXeHFjMFJ6Vm5aZmJsOFNGMkpDTmpCaGNXMWhRWFl0ZHpWT2IxQm9jSHBNYVVGTkdpSkJSSE55T1daVGJqWkdiWEUyV21GQ2JsUm9URlpSY2tKNVN6ZEZSekl0TFc1bg",
+      "role": "Sr. Product Manager",
+      "company": "Motorola Solutions",
+      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-at-motorola-solutions-4469522016",
+      "posted_date": "2026-09-19",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "LinkedIn",
+      "description_snippet": "Company Overview\n\nAt Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.\n\nDepartment Overview\n\nThe Evidence Product Management team owns the roadmap for delivering M"
+    },
     {
       "id": "jsearch_OWpZbE5MRm8xWjlPS2JQV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEkzVkhrd1UyMHRWM1p0VlVsMFpqTTVRa0pxUTFGdFgxRnlhbFExZEROc2NuZDZReTFXTkROWVYwZFJZa054V1cxelR6WnJkRlV6YjFaRGFuYzNSRk5PV0VGbGEwVjZRV1oxVjJ0c2VuRjRhV2h2ZUY5a1ZtRnFkVlZoWTA1V1MyOWZWbWhRU1ZJdE1HTmxkVVJXWW1ocFlVMHRkV05vWjJoVExYZG5YMmt6VEhaMGFIa1NGMDlOYVhsaGNGOHdRVGhEZDNGMGMxQndPR1ZPTFVGdkdpSkJSSE55T1daU1VFOXVUR2xpTUhKVGJpMTRSVGN6VURKd1RsWkJVMFEwYzJsbg",
       "role": "Technical Product Manager - Enterprise Platforms &amp; Infrastructure",
@@ -29,20 +127,6 @@
       "match_score": 9,
       "source": "LinkedIn",
       "description_snippet": "Description\n\nAbout the Role:\n\nWilcore is hiring a Senior Product Manager to support an enterprise cloud-based data and analytics platform for a federal health agency. The platform provides governed data storage, engineering and analytics tools, platform integrations, and policy controls for data practitioners across the enterprise, and supports advanced use cases including data science, machine learning, and artificial intelligence.\n\nIn this role you will align with agency leadership to define platform Objectives and Key Results, create and maintain the product roadmap, define and promote the "
-    },
-    {
-      "id": "jsearch_N0tIMGpZYXJ3aHA4UXZtU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGRNTTB4RWVrOU5RbXg0U0RoU1RuTndSR2RqYTE5QlZUa3lVekJoYTJwa1JXVnNiSEZUZHpWRldFZHpjbDk2TnpOYVRXeExkVXQxUzJrMGN6SkhNbWt3WVdZMGRVVmlWM0JNWTNGSU9Hc3RiM3BRYVdWTVMybEVlbko0WVhod2VuTk5WME0zVm14cGIycFlObGMxYjBaM1VXYzBjVXgzU2w5VlZGTnpRazlvY1ZkTVFrRVNGMUE0YVhsaGRsZFJUMGxRT1hCMFVWQTROMkUxYTFFNEdpSkJSSE55T1daVU56VkZiR3A1ZFVZeVVHOU1Ua2xTWkZoQlNXaHplREo0UnpaMw",
-      "role": "Founding Product Manager, AI Corps Remote, United States",
-      "company": "CodePath, Inc.",
-      "link": "https://www.jobleads.com/us/job/founding-product-manager-ai-corps-remote-united-states--northern--e90137d6ed6bc4d8199e2cbf362baebc4",
-      "posted_date": "2026-09-17",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "JobLeads",
-      "description_snippet": "CodePath is the largest educator of college computer science students in the country. We have trained over 40,000 students from 1,000+ universities. Our partners include Amazon, Google, Meta, and 4,000+ companies across the industry. We’ve been training the next generation of technical talent for nearly a decade, and we just launched a $150M initiative with Anthropic, building one of the most ambitious AI workforce programs in the world.\n\nWe’re now expanding into new markets and scaling our team so we can move at the speed AI is transforming the workforce. People joining CodePath now will have"
     },
     {
       "id": "jsearch_Z2dQMmJqbnB5TXdrOHdCVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblEwVTFKbk5XYzVXWFJMYmxsRVFXVlBYekZ4VUhndFZUaFFlUzEyYjI1V1pqRjNaR2RxU0hobVQyMURUVlJxV1ZBMllVVlJTelV3UVVaT2VuQjBYMGR6ZDBab1UybE1RalpQVmxkR2IxOUpMWFJHYWxWUFdXVkhYMlZZWVVOaE1UWm9SR3B5TjBkVlJYaFFWbmR2TUZKNGEyWTRhV05uUlU0eFkyUmtZME5HVWtaNlQxa1NGMVpqYVhsaGIyRm5TRXRsWnpWT2IxQXljVmN6Y1ZGTkdpSkJSSE55T1daUlZWQTNUREZ6VkZoYWVIZzRZMkZOVDJSaVJsWlJWMHBFY0habg",
@@ -73,34 +157,6 @@
       "description_snippet": "PharMerica is seeking a Senior Product Manager to drive workforce technology initiatives, optimize Verint and related platforms, and lead API integrations across operations. This remote role calls for strategic leadership, strong collaboration with IT, HR and analytics, and a focus on scalable, automated solutions that improve visibility and efficiency.\nThe ideal candidate has 10+ years in product management or workforce technology, with deep WFM knowledge and enterprise integration experience."
     },
     {
-      "id": "jsearch_MjViRWFhTDZxWklNancyRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlphZVhaUlgxQXpVWGhNUkdaaFdtRnZSbDk0TUVjeU9IZHRlVzlUUmxOclNrdENSMFYyY1RWZldFSmtNVFpmVG5SSWNGVnNhRE15TUhvMFQxOHhObFJCY21FNFJsaFpPREZ0TkZCMmIybEtTa3RNYUVod1YxSkpVelZzUlMxdllrSXhRWE0yTFhaWlpHbDBUVk41WjJ0d2FVOXZPSGhUU2xFdFNGWkdZWFY0Ym1KaU9GZ1NGMDlOYVhsaGNGOHdRVGhEZDNGMGMxQndPR1ZPTFVGdkdpSkJSSE55T1daVGExQlZMV3hYYldwcWMycERSREZoZEhSM04wTkZXRU5JV0hCQg",
-      "role": "Product Manager, Print as a Service",
-      "company": "HP Development Company, L.P.",
-      "link": "https://www.theladders.com/job/product-manager-print-as-a-service-hpdevelopmentcompanylp-washington-dc_88940540",
-      "posted_date": "2026-09-19",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Ladders",
-      "description_snippet": "Product Manager, Print as a Service\n\nDescription -\n\nProduct Manager, Print as a Service\n\nHP has committed to a strategic pivot to a \"service-first\" approach to products/solutions with the aim of delivering higher customer value in novel ways. Our Consumer Services and Solutions (CSS) organization is charged with creating, incubating, delivering, and managing innovative new service businesses and business models.\n\nAs a product leader in CSS, you will spearhead the development and delivery of print-as-a-service, transforming the way consumers and small businesses utilize print and fundamentally "
-    },
-    {
-      "id": "jsearch_Mld3UDVWWnFtb2RBTUl2ZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXRCTVRodlgwMXdTRVZuZDB0R1pWRmhaR2xMV2tWTWQxRm1NM3BCUlZrNVRVZFRlVWxJYkZkWVUzQnFTV00zZUZSblZtNTBkM05YYVZSelIwdGljbHBqY3pkRFNtdEVlVWQ2VW5STlowZFpiVmgzTkhKMU16WnFkMVpQV1VwaWMybFFlRFZ6VG1VM2NITnBlRVF5WTBGNldYWjFPUzF0WVVST1RqazBaRFIyWlhFdFoxa1NGMDlOYVhsaGNGOHdRVGhEZDNGMGMxQndPR1ZPTFVGdkdpSkJSSE55T1daU2NtbHNjVVpJVW0xMU5tcFRXVTVHTTBJd1luTk1ZM1ZwWld0bg",
-      "role": "Product Manager, Consumer Mobile App",
-      "company": "Dexcom",
-      "link": "https://careers.dexcom.com/careers/job/44540163",
-      "posted_date": "2026-09-16",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Dexcom Careers",
-      "description_snippet": "Meet the team:\n\nJoin our dynamic and innovative consumer team at the crux of innovation, technology, and consumer products! We are dedicated to empowering individuals to take control of their metabolic health through cutting-edge biosensor technology and intuitive app experiences. If you're passionate about pushing the boundaries of what's possible and thrive in fast-moving environments, we want you on our team.\n\nAs Product Manager for the Stelo app, you’ll lead the development of in-app features that help users monitor, understand, and improve their metabolic health. You’ll work cross-functio"
-    },
-    {
       "id": "jsearch_bl9ZejF0ZFNfTDkwUWtaMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMEk0YzIxNGFEWXllR3h5Y2kxYVZsTnViRzlmT1ZZMFltVTRUSE5OV1ZZd1EwSlJXSEJNUWpCV1NWbFdjM2RMYkd0TmVFeFdlWGRSVUV4dVFrTkRMVGhZVFZaYWNuRnlPRTUwTkU1amNFeFNaa2swV0c5dGRrbDViVUY0VURCUlVFcFdNRGRTWTJaeUxYcG1NMFIyYkd4dFVYTkxVMDl0WlhwT09Xc3lialpaT1VkWFkwUVNGMDlaY1hoaGIzcHlTV0ZNWkhkT05GQnJOakl6TWtGUkdpSkJSSE55T1daVGNrVnhSRjlHTmw4MlFtOHhWMHRHYjB3MUxYTkhhRXd4WjFSbg",
       "role": "Product Manager - REMOTE FROM ANYWHERE IN THE USA",
       "company": "AYTM",
@@ -129,20 +185,6 @@
       "description_snippet": "Meet the team:\n\nJoin our dynamic and innovative consumer team at the crux of innovation, technology, and consumer products! We are dedicated to empowering individuals to take control of their metabolic health through cutting-edge biosensor technology and intuitive app experiences. If you're passionate about pushing the boundaries of what's possible and thrive in fast-moving environments, we want you on our team.\n\nAs Product Manager for the Stelo app, you’ll lead the development of in-app features that help users monitor, understand, and improve their metabolic health. You’ll work cross-functio"
     },
     {
-      "id": "jsearch_Q3dSLWRhMnpYTTZuSlJkX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFY0TFd0VlkxVnlhekZHWVdkSFZrTkNUQzE2V0ZJM2JYVTBiVEpQTUZGbWNuTmxZWEZpTVRSR1FUa3pRbVZ6UmtSWGRYaEROMGx5U0dkdk5sUTNkMG8zWTJ4emJWSnpWV05STkc1Tk5VUk5jbFoyU0hOb1VUZFBkRUpsUjFCVGFEZDNiRTlmTjJSUlQwWkJWRGgyT0RsRllWcFVYeTB6UW1SWk9EUm5UV010WlVWVFFqQVNGMUEwY1hoaGRtVlVSMDlsYURWT2IxQTVUR1p6TWtGTkdpSkJSSE55T1daVWRVSjNkMmhrVWpRd1pGSnJRWHBJTlhoVFUyNDVXbmwyYzA1Mw",
-      "role": "Sr. Product Manager",
-      "company": "Motorola Solutions",
-      "link": "https://www.linkedin.com/jobs/view/sr-product-manager-at-motorola-solutions-4469522016",
-      "posted_date": "2026-09-19",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "LinkedIn",
-      "description_snippet": "Company Overview\n\nAt Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.\n\nDepartment Overview\n\nThe Evidence Product Management team owns the roadmap for delivering M"
-    },
-    {
       "id": "jsearch_TDE0OTFLVVVxM3hvdXVucUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWRzTURaUVUwdHhTSGxmTTNoa1ZFOUJWMVl5WVRWRWVWZEVTMjl1V1ZGNk5GVjFXaloyWDJSeU9EZHFaRmRZWlhOYVJtUmZSa0ZHVm1Ga1RtdDJaamgyT1ROUVVpMDFibGd4TlRBeVlsOVBUazF2T0RONFVXcFNjMXB1WTJweFVqRktaMU5WVlZwbFRETTJaMVJGVlROTk5ESkhhRlIyU1VGV1dGOU5SMHhzVTJ0cFJqUVNGMUEwY1hoaGRtVlVSMDlsYURWT2IxQTVUR1p6TWtGTkdpSkJSSE55T1daVFVtNVJMWFYwVTBsM00xTjRiV3hZU1VsbmMweEhaM1ZTU1Mxbg",
       "role": "Senior Product Manager (Remote)",
       "company": "GovCIO",
@@ -155,20 +197,6 @@
       "match_score": 2,
       "source": "BeBee",
       "description_snippet": "United States Suitability/Public Trust Fully remote Project/Program Management Overview GovCIO is currently hiring for a Senior Product Manager to lead strategy, delivery, and oversight of a custom-developed product within the OCC portfolio, supporting the Veterans Health Administration (VHA) Office of Connected Care. This role owns shared services intake and coordination, with additional support for FHIR data governance and data quality - advising clients and aligning product goals, stakeholder needs, and technical execution to mission-critical outcomes. Strong candidates bring product manage"
-    },
-    {
-      "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamhwVDJ0d2FETjJXVlk1VjAxV1FtWjZjVTVFVDNGWU5XOXpNM2gyUVRSUExXUnhVemR6ZDFaUlNEaDFUWEJTWnpWcWNWbEdObXRWWW5OWE1qTk5RbTF4VG5CaVUxTlZhSEJqU2xkNUxWbHZla293VW5WME4zYzRlVWw1UXpCU0xYZG1jWEJJVG01RVJXVlRUems1TURGVVRHTkVOVmhxYW01M1JubE9hMTlTY0c0dFJVOFNGeTF6YVhWaGMxZFRRVFEyYlRWT2IxQXliMnBhYVVGRkdpSkJSSE55T1daUlVWZFZPVFEyVFZsVVQwd3lSMVUyVVY5SWVXSXpYMk0zZWpObg",
-      "role": "(USA) Staff, Product Manager - Financial Services",
-      "company": "Walmart",
-      "link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Product-Manager-Financial-Services/-in-Walnut-Creek,CA?jid=1dc88f396c2eb815",
-      "posted_date": "2026-09-16",
-      "location": "Walnut Creek, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "ZipRecruiter",
-      "description_snippet": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Staff Product Manager to lead high-impact product initiatives within the Enterprise Financial Services organization—a strategic function at the intersection of retail, technology, and financial innovation.\n\nYou will own the end-to-end product strategy for enterprise-scale financial capabilities spanning co-brand card programs, third-party wallet integrations, and lending enablement, powering how our customers and members transact, manage money, and engage with financial products across our ecosystem.\n\nThis role demands a leader who ca"
     },
     {
       "id": "jsearch_cEZoZHdvRHVOYml6aE55OUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMU0zVlhWbFIxUnBNR05wVkdGd00zQTJVVEIxY2xKdll6bE1ia2RuVERGaVJWQTFjVEpsVkZkeVJuTTVaV2xwVGtWMVEweGpiR3BIZVZWbFVsSXdOVXQ2VjIxNE5HTlBValZFWTE5UUxYbDRjVVZwUmtwNFlYZFRVR05yUTE5dFptbE5PRFF4T0cxSlZsSjRhSGhSWldsVFVYQlNZblpPTlhkMWFtOXFaVEZST1hsSVZHd1NGbTF6YVhWaGIyRTNURzk2YmpGelVWQnlUa3M0UTFFYUlrRkVjM0k1WmxSNFgyVktlVzlvU21WWk1GVjZhRmgyVjIxQ2VFcGhZelZWZUZF",
@@ -2773,34 +2801,6 @@
       "match_score": 3,
       "source": "LinkedIn",
       "description_snippet": "Purpose\n\nResp & Qualifications\n\nServes as a senior authority over Product Owners and product teams within CareFirsts Government Programs portfolio, including Medicare Advantage, Medicaid, and ACA offerings. This role is responsible for driving the prioritization and execution of complex claims-related initiatives, leveraging deep expertise in FACETS to ensure effective delivery and alignment with regulatory and business requirements.\n\nLeads and manages complex product and project requirements, introducing innovative tools, frameworks, and best practices to enhance delivery outcomes. Oversees t"
-    },
-    {
-      "id": "jsearch_TUlfVFFxSVlzeTEtNDk0NUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVI2ZUc1SGVFaHJiSEpJTFVwdVFqQndTbTgxZGpsMlpXRllTMlZVZEZOZlVEbDJaVmsxZFRBeGNrdHljVEIzZDFnNVJFSkROWGhxZWs1U2NESkxjRFJwYlZWUk1saFZZMUY1ZFhkeE1qUnNTMlJQTVZaTE1FbEhUR1Z4VG5CTU0xSXliek00WDBveFNVczROMTh0ZVc5RFIyUnhSSEZ4ZG5aZmJYaHdRMmxIYUVaQ01TMFNGMnhTWkhsaGRHVmlTSFpITFhBNE5GQXlUMTlaYlZGdkdpSkJSSE55T1daU1pUbFdielZEZUdSc1ZtbHhRbVpITUdSc00wTlZMVWw1VVd4Ug",
-      "role": "Principal Product Manager - Healthcare Technology (Remote)",
-      "company": "Experian",
-      "link": "https://jobs.experian.com/job/principal-product-manager-healthcare-technology-remote-in-united-states-jid-5060",
-      "posted_date": "2026-07-28",
-      "location": "Franklin, Tennessee",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Experian",
-      "description_snippet": "Role Overview\n\nReporting to the VP of Innovation, the Principal Product Manager is a senior individual contributor responsible for defining product strategy, incubating initial product line, and bringing to market a GenAI Appeals solution in the Provider Revenue Cycle Management (RCM) category. You will perate with high autonomy, and be the Single Threaded Owner (STO) for development and launch of a new product line within 12 months.\n\nYou'll have opportunity to:\n• Define and own Proof of Concept (POC) product strategy and product launch to Beta customers\n• Lead go-to-market (GTM) motion for Ne"
-    },
-    {
-      "id": "jsearch_WjJVTTFDQzJsNG1OSFpPY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1JUYTJWclkySjBRbnBwTlVzMlNUTjBjMGgyUm1nd1ZqbFpkWEl4Y2xrd2VFZ3hWMU0yVTFSTlpHc3dlalZvYm1OR1YwVkRielV6WlRaNVJ6QktNbGx3VjJKQ1oxWk5iV3BmV1RZMVVEZzVlazVCTTBoTmIxcDRSamx4UzBSTE4wTTJTVGhSV0RWYU1taERNbEJIVFVOdExXSmZjRE53ZDBWS1JqTjFaakF3TlhCM00wUVNGMHR6Y0hkaGRWaEhSRTh5YzNWeU9GQTFjMmxPYVZFd0dpSkJSSE55T1daUmFIVmxhSFl0WkVKcmREZFVVbDlLZWs5cGJIazFabTV0VERabg",
-      "role": "Remote Product Manager, Money Platform Drive Growth",
-      "company": "US News",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-money-platform-drive-growth-us-news-washington--lensa-7428_0381260ed573417cd050d2408d71c1fc0cc3dbbef66f179aa2055b3badeefc51",
-      "posted_date": "2026-07-27",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "BeBee",
-      "description_snippet": "U.S. News & World Report is seeking a Product Manager to grow the Money division by defining user-centered features and shaping the product roadmap that serves customers' financial needs.\nYou will conduct deep user research, measure outcomes (pageviews, conversions), and collaborate with Tech, Design, Marketing, Editorial and Compliance to deliver high-quality Money products. A hybrid schedule in New York or Washington, DC is preferred with remote options available."
     }
   ]
 }
