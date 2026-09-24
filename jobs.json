@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-09-23T18:46:23.324Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-09-24T18:47:15.293Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_Vjk1Y25TdHRqVlpTdnY5ckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUZDVldOdlQxQkdVM2t3ZFhGdldqUjJNRlpYV1VsNVVYTkJiMGh0Y25WVFlWTnNiRXR4WkhSUFNFbElOR2RwV0dkR05YZEpObE15WHkxNlVHcENTMHR1Y1hGTVdYUk9TV3d4ZFdGUVZIQk9SVzAzY2tVNE5HWXRUa1ZhUlU5NlRFMDBlWEowUVhod1RURkliV2M1WHpOWmNsQmljMGRwYmxsRFFuZHpOV1ZoTmxrNGFWWVNGekJ0TFRGaGRubzRSRGd0VGpRdFJWQXpjWEpUYVZFd0dpSkJSSE55T1daUldYcGpka2xUTkVaWGEzcDJNRWw0VHpKa2FWUnJOaTAxTUhsQg",
+      "role": "Principal Product Manager",
+      "company": "Abbott Laboratories",
+      "link": "https://www.jobs.abbott/us/en/job/31162604/Principal-Product-Manager",
+      "posted_date": "2026-09-23",
+      "location": "Waukegan, Illinois",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Abbott Jobs",
+      "description_snippet": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 122,000 colleagues serve people in more than 160 countries.\n\nWorking at Abbott\n\nAt Abbott, you can do work that matters, grow, and learn, care for yourself and your family, be your true self, and live a full life. You’ll also have access to:\n• Career development with an international company where you can gro"
+    },
+    {
+      "id": "jsearch_N0tIMGpZYXJ3aHA4UXZtU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVXhOZDJKNWRVZHZNRTAzYlZSRGNrOWFjM05qZEhadE5FbDBkV0p0YzJkbVJYUlpiVEpUU2pBM2FYRnJiM1owZERWV1dua3pVM2xSTTJwVU1UVXRSelppYkRSSVltVlJiSFJGV1U1ZlVreG9jVFpJU2taRk0yNUdkVkZqYlVsamFGbDRSVXBFU21SdWNWRjBMWEEzY1hWRllWVnpObE5rTldKWlJFTm5jMGd0TmxCQ04yc1NGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daVVNXNVRZbkZUV25aRFRFMW1aRjl5WjNCSWFsUTBSV05NVVRKQg",
+      "role": "Founding Product Manager, AI Corps Remote, United States",
+      "company": "CodePath, Inc.",
+      "link": "https://www.jobleads.com/us/job/founding-product-manager-ai-corps-remote-united-states--northern--e90137d6ed6bc4d8199e2cbf362baebc4",
+      "posted_date": "2026-09-17",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "JobLeads",
+      "description_snippet": "CodePath is the largest educator of college computer science students in the country. We have trained over 40,000 students from 1,000+ universities. Our partners include Amazon, Google, Meta, and 4,000+ companies across the industry. We’ve been training the next generation of technical talent for nearly a decade, and we just launched a $150M initiative with Anthropic, building one of the most ambitious AI workforce programs in the world.\n\nWe’re now expanding into new markets and scaling our team so we can move at the speed AI is transforming the workforce. People joining CodePath now will have"
+    },
+    {
+      "id": "jsearch_QUdsX1FyejRJMDVDZVJpcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTUzFSYmt3MFdqWnRObVpVVmtKMGFGbDBUSEZLUzNoR2MxUjBkR2RGVDBkMFZFRTRSakpxUlcxVkxYZDNhSFozYms1SWRrMW5Ua0ZuVm5wWVowVm9VMUIxWDFSamVtdExlRzFPY1U5alFVSmxaRXBoZFZRelRubHJkMFJsUTBZMldrdFRXRk55V1c1TFgwRmpkamhLTFVWM1VHSnBjRVZITkdGVU4xVmZja2N3VnpKMFlVd1NGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daVVVqQkhkSEp2U1hwMGJGZG5aamxhZFhKSVVUbFpZMUZLTkVsMw",
+      "role": "Senior BI Product Manager ID65844",
+      "company": "AgileEngine",
+      "link": "https://www.linkedin.com/jobs/view/senior-bi-product-manager-id65844-at-agileengine-4470006111",
+      "posted_date": "2026-09-24",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.\n\nWHY JOIN US\nIf you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!\n\nABOUT THE ROLE\nWe are looking for a Senior BI Product Manager to act as the subject-matter expert across Quote-to-Cash and Order-to-Cash processes, connecting financial data to re"
+    },
+    {
+      "id": "jsearch_QjVzcWpuN2hQcm9HYWVfdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWRCWW10U2J6WnJRbWxXYkdOblJtRnRUVWx3U2pKWk1UVlBRVEJXYW10TlQwdFRVbE00Y0ZWNlZXWjFWekZtU2s1MmNVTkdhVzFoVEV4dlkzQldVM0YxU2pWWWJtVjNZbmRtWTJWUVNVUTViSEJCU2xaT0xYVmhNMlZJT1dOaFoweFJiVEJ0VDNvMlpsTm9hVTB5YzBSQlZrTkphVk5rVDNOb1NVVXllR2xDV1RsSVVHVVNGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daU2RVVTNaVEJvU21GblFrMWlka3BVTW1KMU1rWjVSWEI2WjJaMw",
+      "role": "Product Manager",
+      "company": "Netflix",
+      "link": "https://simplify.jobs/p/e81d79f1-a3d0-4f7a-b403-e84613b55002/Product-Manager",
+      "posted_date": "2026-09-23",
+      "location": "Leavenworth, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Simplify",
+      "description_snippet": "As we grow globally, we have increasing opportunities to communicate with and delight our members and prospective members in new ways. One of the primary levers for growth is developing new plans, with differentiated features and price points, so consumers can choose what is right for them.\nThis position is part of the broader Commerce Product team. In this role, you will be responsible for leading the design and development of content experiences that drive engagement, grow the business, and entertain the world!\nThis role is based in our Los Gatos office (preferred) in a hybrid model, but we "
+    },
+    {
+      "id": "jsearch_SFFvbWF1S3V2TjllWjJQckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEprUlMxemVGOVRiMHh0ZFZSd1FUZFphMVUwVUVKeGFFZHZiVkJFV25acVpURnBkRXBMUTNWS2FtSlZTa001TFhoa1VERktka0Z5T1VOVGFVbGxkMFZZZVd4Wk5ETk5lRk14ZFVrMloyTTFjbDlaVmkxbmRrd3dTRlJvTUVoWFYzcHhZa28xWWtKR01VRkJRWE4yYUhkUFZsQlNMWEpVVjBoVFRteFNlRlpIVkVaVWRERVNGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daVFNsWjZiRVpmVkdkcE5HSjFNbGx6V25OaVN6SXRWV1pJT0d4Ug",
+      "role": "Associate Forward-Deployed Product Manager",
+      "company": "Tailor",
+      "link": "https://jobgether.com/offer/6ab34811865119c687df0397-associate-forward-deployed-product-manager",
+      "posted_date": "2026-09-22",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: North America, United States\nAbout Tailor\nTailor is a pioneer in Headless ERP technology. Our platform empowers companies to build internal workflows that adapt to their unique needs — faster, smarter, and developer-first.\nAbout the Role\nWe're looking for an Associate Forward-Deployed Product Manager to own the day-to-day execution of live client implementations. You'll be the first line of communication with our clients and the person keeping the project moving — coordinating directly with the internal development team, tracking progress an"
+    },
     {
       "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGRTVGpoVFRtUnZOREI2Y0VZdGVqRlJjakJTVkdjME9HMTBVbVZUVUZwQlJsRjFTR1pwVDBOd1NXOU9RVGQyT0ZJMVlVSmljRkpKWW5WaFFuZ3RXVUZ6TFZwSmNYRTJWSGRHYm1jME5YQndPSFU1UkRrMk4yZHBlbDlVVWxsMU4xUnhZalZGZUVOelNHSmlObkJNUjJSUFZWaFVObGw2YkRsWmJrdDBOSGd4YjFkVGFIVVNGMkpDTmpCaGNXMWhRWFl0ZHpWT2IxQm9jSHBNYVVGTkdpSkJSSE55T1daVFpuTnpiM1l5VkZKdk1FMWFOa2hTTldKbFgxWXRSa015ZG5SUg",
       "role": "(USA) Staff, Product Manager - Financial Services",
@@ -43,20 +113,6 @@
       "match_score": 8,
       "source": "JobLeads",
       "description_snippet": "Arcadia is the AI-powered energy intelligence platform for businesses. We replace fragmented tools and manual workflows with one platform to pay utility bills, buy energy, and advance sustainability — across every location, at enterprise scale.\n\nTrusted by Fortune 2000 companies, Arcadia combines unified data, AI-powered analytics, and expert advisory to help enterprise teams save money, mitigate risk, and cut carbon .\n\nWe deliver this through three comprehensive solutions:\n\n• Utility Bill Management: Automating the entire utility bill lifecycle — from data capture and validation to payment pr"
-    },
-    {
-      "id": "jsearch_N0tIMGpZYXJ3aHA4UXZtU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM0pzZUZaV2MxUTJZMnhrUVhaUFNUbFVWR05OU0VSRE5IaHNXVVZ4Y2pCT1JrNVRWeTFhTWpCWFFUZ3lNWHBQVGtkemJsZDFYeloyTXpKcmJqUnljWGcwWlhSNVNVbFhZVTlIT0hwZk5GZGxWbDlzVURKcFFqRlNNMW95V25WbVZGUlRTVTFSU2xSeWVITk1USEowVldrNWRtMDJRV3R5T0hsdFlsQkxjMFY1T1VsSWJtY1NGMWhTTmpCaGNrUjRSSEkyUjNjNFkxQTJOVXR5YTFGM0dpSkJSSE55T1daU1RUbEVaa3BMTm1WQlFuVXdObGhQUkVSd2FWUnRVRjlWWkY5Mw",
-      "role": "Founding Product Manager, AI Corps Remote, United States",
-      "company": "CodePath, Inc.",
-      "link": "https://www.jobleads.com/us/job/founding-product-manager-ai-corps-remote-united-states--northern--e90137d6ed6bc4d8199e2cbf362baebc4",
-      "posted_date": "2026-09-17",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "JobLeads",
-      "description_snippet": "CodePath is the largest educator of college computer science students in the country. We have trained over 40,000 students from 1,000+ universities. Our partners include Amazon, Google, Meta, and 4,000+ companies across the industry. We’ve been training the next generation of technical talent for nearly a decade, and we just launched a $150M initiative with Anthropic, building one of the most ambitious AI workforce programs in the world.\n\nWe’re now expanding into new markets and scaling our team so we can move at the speed AI is transforming the workforce. People joining CodePath now will have"
     },
     {
       "id": "jsearch_MjViRWFhTDZxWklNancyRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVEJPUlRGSU1WUldiMlYyTjNJdFJqWkhURVJ5YXpBMFdrMW5iblpzTjFOWGFqaFlhbFZhUnpCU1MxQmpVRzVJWWxaWVREWkJWa05NY0dGbldWa3RUSFkyWW1SUGNGOU1iMEpQYjNjeWRuSk5heTFPV0hWUmJIZGxiVWxwVVZwSWQxUmZWamgxV1U1YVpXTnZiakZMWlY4NFkyUmZXbTFCTVRoRGRFbFRhSEp1VHpSaFFsWVNGazFvTmpCaGMwZzNTM1kyVnpRdFJWQmZVRzB4V1VFYUlrRkVjM0k1WmxSQ1FqZHRUV05MY1dwRVRDMTBTRVV0TTB4dU1sSk1UR0ZNTldj",
@@ -2745,62 +2801,6 @@
       "match_score": 8,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: United States\nLirio is a technology/software company that provides expertise in a variety of behavioral science domains (e.g., behavioral economics, social psychology, public health), data science, and machine learning to drive consumer engagement, close gaps in preventive and chronic care, and promote health and well-being across an individual’s lifespan. Lirio’s behavior change AI platform unites behavioral science with advanced artificial intelligence (AI) to deliver Precision Nudging health interventions. Precision Nudging is the applica"
-    },
-    {
-      "id": "jsearch_Q1c4SjgyNklJZWxlenkxZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEpPTUdwUk1IbFNjVFpvUm5oR1kyOWZZVzgxVTBoTFZsSjBZVk4yV2xKM1NERlFjSFF5UmtwdVVIVXRVMnhGY2xOUU0xaExTVk5KTFRSWGJGaHhWVVk1TTNWeldVZGZaVzlZVHprNFNsVmpXR0ZmWTBkYVZHeHpOUzB4VmpSeWNHUnpXWEJNTVdsd1dHTmZlbTh0YjBGdVFqbHJlbFV4VWxCWGJWRmtRazVZV0UxZlh6QVNGMlpYVW5waGRtcEhVRXAyYmpWT2IxQjBOMUJQWjFGakdpSkJSSE55T1daVE56UkRXVVUwUlhwNmJuTkRRek5JTlVadk9GbzBPVVJSZWxsUg",
-      "role": "Senior Product Manager",
-      "company": "Humana Inc",
-      "link": "https://www.monster.com/job-openings/senior-product-manager-dover-de--1b6dd270-76c1-4486-ac23-91f89c65f35b",
-      "posted_date": "2026-07-31",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "Monster",
-      "description_snippet": "Become a part of our caring community\n\nThe Senior Product Manager Conceives of, develops, delivers, and manages products for customer use. The Senior Product Manager work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.\n\nThe Senior Product Manager develops, delivers, and manages products for customer use. The Senior Product Manager work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors. The Seni"
-    },
-    {
-      "id": "jsearch_cTFBTFVCeE15SmlZRkpzY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGh5Y0hacGVuVTVVRVJ4WmpSYVgwTnJUbTFmTW1OWWQxSTBSRFZuVTFJeFRIcDZkRlZ6WmpVMWEyaFphRGRCVDBKV1ltUnFWMnB5ZWxCVE1uWTFSWGx3UzI1bVdsZGtjSGhQU1ZoV1FtSm1Za2RUV0hCU1ZFMWtVVFF4YkROUGJVcFNhWGRaVjBsdmRVeE9kbHBhWkRGT1gweFNiakJyVjJaUFVrbFpRWGx4Wm5oNWJtNFNGMlpYVW5waGRtcEhVRXAyYmpWT2IxQjBOMUJQWjFGakdpSkJSSE55T1daVVZqbGtPRkphU0VSSWJWbGpTR2t0ZWxSQmNVVmpWbUpLTjJWMw",
-      "role": "Product Manager, Payments",
-      "company": "Stash",
-      "link": "https://www.ziprecruiter.com/c/Stash/Job/Product-Manager,-Payments/-in-Remote,US?jid=e25c7cf156d71dc8",
-      "posted_date": "2026-07-30",
-      "location": "Remote, Oregon",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "ZipRecruiter",
-      "description_snippet": "About Stash\n\nStash is the direct-to-consumer commerce platform for game studios. We build the webshops, checkout experiences, and merchant-of-record infrastructure that let games sell directly to players - cutting the 30% app store tax and increasing LTV. Studios like SuperPlay, Rovio, Jagex, EA, and WB Games run their direct-to-player commerce on Stash, and we already process hundreds of millions of dollars a year in D2C revenue. We're scaling fast toward a 5x volume target in 2026, and we're building out the product team to match.\n\nAbout the role\n\nAs our first dedicated Payments PM, you'll o"
-    },
-    {
-      "id": "jsearch_NUZuUjNyVEgybF8xX3lPRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWM0T0RCcFYwUXhVakJGUWtaS2RIQlZkR0k0VEhVeFVtdGtWR0ZrVW5wVFVWcDBRVVZwWDB4bVVIRXRVVWg1VWxaYVRrcE5jVWR5V2xSSVZXSXljelI1U1VGMWRXNXdSa2RUVVdoblMweG9YekJOVVhKZlFTMVpORWRwYzNJNVZXdEpVVnBTUmtaNVptcDZWV3hCT0VabFZuTlpjRkoxZFMwNWVXWk9OemRVYkZKZlpFVVNGMjVIVW5waGNXSmZSSFJEVEhkaWExQnNUbnBNWjFFMEdpSkJSSE55T1daU1EyRjJhSEIwYkZkVmFFbDFWVGN3VjNCV05UVjRVVzFTY2tsQg",
-      "role": "Product Manager, Deployed Optical Systems",
-      "company": "Anduril Industries",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-deployed-optical-systems-at-anduril-industries-4429975157",
-      "posted_date": "2026-07-31",
-      "location": "Waltham, Massachusetts",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "LinkedIn",
-      "description_snippet": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing"
-    },
-    {
-      "id": "jsearch_eFdlSXFMN0FadmI3SWlFT0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3RHWkVadlIwWnVNMHROUWs0MGJHTlBTbkZTT0U1WlZtVjNlVVY1YlZkS05GWmtTR05qWnpSeU1VMVVTVzVCZVhFd2VrY3RObGh5U1VFeE9HeHRVRE50VlZwUFJqVjJUV2h1ZFdkM1VYQnJOMlJPZEhGNGRYaGpkRzlxWnpGQlZVWklaVGhQZWkxT1VtaG1PVWhzVXpWelZHeFZTbGd5YTBVMFVHUmpUa3hNYzFOSU5Xc1NGMjVIVW5waGNXSmZSSFJEVEhkaWExQnNUbnBNWjFFMEdpSkJSSE55T1daU1YxZEJWSEJTU1hsMVNqRm9kVlpFTjFwamJUbFJhM2R1YlZSQg",
-      "role": "Product Owner Consultant (Remote)",
-      "company": "CareFirst BlueCross BlueShield",
-      "link": "https://www.linkedin.com/jobs/view/product-owner-consultant-remote-at-carefirst-bluecross-blueshield-4430708305",
-      "posted_date": "2026-08-01",
-      "location": "Baltimore, Maryland",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "LinkedIn",
-      "description_snippet": "Purpose\n\nResp & Qualifications\n\nServes as a senior authority over Product Owners and product teams within CareFirsts Government Programs portfolio, including Medicare Advantage, Medicaid, and ACA offerings. This role is responsible for driving the prioritization and execution of complex claims-related initiatives, leveraging deep expertise in FACETS to ensure effective delivery and alignment with regulatory and business requirements.\n\nLeads and manages complex product and project requirements, introducing innovative tools, frameworks, and best practices to enhance delivery outcomes. Oversees t"
     }
   ]
 }
