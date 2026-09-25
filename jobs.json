@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-09-24T18:47:15.293Z",
+  "last_updated": "2026-09-25T19:03:24.845Z",
   "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_UERvOGVRdHVpV2ZacG4xOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFkwUmxoRWQwUlFjV1I0ZVhZd1JHRnVha3BRTkVOVVFtdFhNRXhMUWxZMGNqUmthREppV2w4eldFVXhURlZYUTAwd1FXdHBZbVJLUnpOV1pHcDZTWGREVDFrM2VVRldabFZSZVc1d05WQm9YMkpRWHpnMlpWRlBObEJ6UVdoYWIzWkpXVTlMT0dkRVltcHBVMmgxTkRRM1QxTnZkRXhEWWs5dGIxcDZaM3BVTkROb1dHSVNGMlJ6VnpKaGNVdFFRblJ0ZW5aeU1GQnZTM1ZHY1VGUkdpSkJSSE55T1daVGNVZzJZMHRaTVZORlRrdEhOakJwVEVaRFEwbG1PRVJCV2t0bg",
+      "role": "EverPro - Lead Product Manager",
+      "company": "EverCommerce Solutions Inc.",
+      "link": "https://evercommerce.wd1.myworkdayjobs.com/en-US/EverCommerce_Careers/job/Remote--US/EverPro---Lead-Product-Manager_R-106550-1",
+      "posted_date": "2026-09-22",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "Workday",
+      "description_snippet": "EverCommerce (Nasdaq: EVCM) is a leading service commerce platform, providing vertically-tailored, integrated SaaS solutions that help more than 745,000 global service-based businesses accelerate growth, streamline operations, and increase retention. Its modern digital and mobile applications create predictable, informed, and convenient experiences between customers and their service professionals. With its EverPro, EverHealth, and EverWell brands specializing in Home, Health, and Wellness service industries, EverCommerce provides end-to-end business management software, embedded payment accep"
+    },
+    {
+      "id": "jsearch_VG5SNTViN1Z3N2lQcVBDc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVJUU1ZobGVrNDNZMDl0VUU5NlpGOU1XRXRoYWpFMWFGOHpiMHBpYzJoT056bHNNMU5FWVhWalZHeGxlbHBTTmtKYWJ6UTJZVFJhY1RsVlRHTktlVTFEWlRGM1FYRjJlVk5FUzFaRVNFaGFTRGQyY25WM1gwSmljMWM1U0ZkUE5VTTBUMHhvUmxGYWFWaGFjMjlQTlRscE1IQldla2xoUWpWV2RVRlJMVkJ0WDJSTVRWTVNGMlU0VnpKaGNYWXhSV0ZoYkdsTVRWQm9URmMzYlVGVkdpSkJSSE55T1daVU1qQkhlWFJFTjBSTGVGaEdVRzVrUW5oSWNWTkpaa0o1YWpGQg",
+      "role": "Sr. Product Manager- Processing Remote (United States) · Remote",
+      "company": "Arcadia Power, Inc.",
+      "link": "https://www.jobleads.com/us/job/sr-product-manager-processing-remote-united-states-remote--northern--ecd86b67592380d6d0f3cd160ab4b9b8a",
+      "posted_date": "2026-09-18",
+      "location": "Eastern, Kentucky",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "JobLeads",
+      "description_snippet": "Arcadia is the AI-powered energy intelligence platform for businesses. We replace fragmented tools and manual workflows with one platform to pay utility bills, buy energy, and advance sustainability — across every location, at enterprise scale.\n\nTrusted by Fortune 2000 companies, Arcadia combines unified data, AI-powered analytics, and expert advisory to help enterprise teams save money, mitigate risk, and cut carbon .\n\nWe deliver this through three comprehensive solutions:\n\n• Utility Bill Management: Automating the entire utility bill lifecycle — from data capture and validation to payment pr"
+    },
+    {
+      "id": "jsearch_NmRhbzdOQUtYdGJmRjYwWkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbFExUW1GUlVWbGhXVzVhTkVSUFpFb3hiSEExU25GWFNIY3dka1J6ZVVsU1RFMW1VVEpYTkZCcVNEVk9OV1ZrVUZWQlkzUlNMVmg0WW5OSmJqbFNRekJ6WnpKdWEyZzBTMG8yUTNWNGQxWkZUVXBSWDJablZsVXpkV3M0UlhGUlRVYzRRMmhrVVV0R2VWUjBOV0ZxT1daTVpEVkpZbGxMWDFkSU5tdzRSVmM1YUV0SFpHWVNGMlU0VnpKaGNYWXhSV0ZoYkdsTVRWQm9URmMzYlVGVkdpSkJSSE55T1daVVNpMUVXbkJoT1dRMVJqWk9URGxxTjNCVmRGQmlMVVExVVd4Qg",
+      "role": "Staff Product Manager, Payments Intelligence",
+      "company": "Stripe",
+      "link": "https://stripe.com/careers/listing/staff-product-manager-payments-intelligence/8209996?gh_src=Blind",
+      "posted_date": "2026-09-21",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Stripe",
+      "description_snippet": "Who we are\nAbout Stripe\n\nStripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.\nAbout the team\n\nThe Payments Intelligence organization optimizes each of the bi"
+    },
+    {
+      "id": "jsearch_LUVHeW9RcFlIT2xWR2lfUEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbkl4WTNoak9FWnlNbFJMYnpOVFFsSm1aWEJsYlZZdGVqSm1WelJNVFhaT2VYVlVZVTFTY21WVk5VVmtiRzVJVG13eVMyWkpibmxEYnpsU1JXbHBNRTFuWDFFd2VrdHBOMWRuWVZGTVFXUjRSRFJNY0hZNFFpMUhhRkJhWldGaWVEQlNhRGRoUVdKNWNtdzJlVmc0ZGpKRVpVeDFRVlpTWTI5QldHMVZlRE56V2pjME9VWVNGMlJ6VnpKaGNVdFFRblJ0ZW5aeU1GQnZTM1ZHY1VGUkdpSkJSSE55T1daVU5FaG5XbFpFTUdKdlMwNXBkRTUxUTFKVFFWVjRkR2hOUWxkMw",
+      "role": "Senior Product Manager",
+      "company": "Zoom",
+      "link": "https://careers.zoom.us/jobs/senior-product-manager-remote-united-states-75fbe324-7879-4b01-ae6b-5ee33401dbda",
+      "posted_date": "2026-09-22",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Zoom Careers",
+      "description_snippet": "What you can expect\nWe are seeking a Senior Product Manager to join the Workvivo team. In this role, you'll focus on deeply understanding our customers and defining the right problems to solve. You'll lead discovery efforts to uncover meaningful opportunities, validate assumptions, and ensure we deliver impactful solutions. You'll bring AI-first thinking to our product strategy, shaping how we apply emerging technologies to elevate employee experience.\n\nAs part of Workvivo (a Zoom company), you'll collaborate closely with stakeholders across design, engineering, and go-to-market teams, ensurin"
+    },
+    {
+      "id": "jsearch_QjVzcWpuN2hQcm9HYWVfdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblZrYms5MFVFTmpPVGxQZEd0TFNtTmphMDUxUTJNd2IzRnVVRE10Y1Vsd1FVcFJkMlpJU2pKS1RFWnVWR1kyV1ZoVmFYazNOVzEwVFMxU1luSTBTMVpYYUVweVNEWXpjbHBSV1d0cVpWRlJVVGh6VEZka1NWaEdSVlUxYTJoZlYzYzBOalZuYkU4dGVFTnRUVk5zV0ROQk1WUmpWMGxJZDBkamRrcFlVM1ZGWmxOalQxRVNGMlU0VnpKaGNYWXhSV0ZoYkdsTVRWQm9URmMzYlVGVkdpSkJSSE55T1daVFdtNU5XREpUTFZGMFVXWlVNa1ZJWDFCalNVTmhSVTFtUTJ0Mw",
+      "role": "Product Manager",
+      "company": "Netflix",
+      "link": "https://simplify.jobs/p/e81d79f1-a3d0-4f7a-b403-e84613b55002/Product-Manager",
+      "posted_date": "2026-09-23",
+      "location": "Leavenworth, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Simplify",
+      "description_snippet": "As we grow globally, we have increasing opportunities to communicate with and delight our members and prospective members in new ways. One of the primary levers for growth is developing new plans, with differentiated features and price points, so consumers can choose what is right for them.\nThis position is part of the broader Commerce Product team. In this role, you will be responsible for leading the design and development of content experiences that drive engagement, grow the business, and entertain the world!\nThis role is based in our Los Gatos office (preferred) in a hybrid model, but we "
+    },
     {
       "id": "jsearch_Vjk1Y25TdHRqVlpTdnY5ckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUZDVldOdlQxQkdVM2t3ZFhGdldqUjJNRlpYV1VsNVVYTkJiMGh0Y25WVFlWTnNiRXR4WkhSUFNFbElOR2RwV0dkR05YZEpObE15WHkxNlVHcENTMHR1Y1hGTVdYUk9TV3d4ZFdGUVZIQk9SVzAzY2tVNE5HWXRUa1ZhUlU5NlRFMDBlWEowUVhod1RURkliV2M1WHpOWmNsQmljMGRwYmxsRFFuZHpOV1ZoTmxrNGFWWVNGekJ0TFRGaGRubzRSRGd0VGpRdFJWQXpjWEpUYVZFd0dpSkJSSE55T1daUldYcGpka2xUTkVaWGEzcDJNRWw0VHpKa2FWUnJOaTAxTUhsQg",
       "role": "Principal Product Manager",
@@ -45,20 +115,6 @@
       "description_snippet": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.\n\nWHY JOIN US\nIf you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!\n\nABOUT THE ROLE\nWe are looking for a Senior BI Product Manager to act as the subject-matter expert across Quote-to-Cash and Order-to-Cash processes, connecting financial data to re"
     },
     {
-      "id": "jsearch_QjVzcWpuN2hQcm9HYWVfdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWRCWW10U2J6WnJRbWxXYkdOblJtRnRUVWx3U2pKWk1UVlBRVEJXYW10TlQwdFRVbE00Y0ZWNlZXWjFWekZtU2s1MmNVTkdhVzFoVEV4dlkzQldVM0YxU2pWWWJtVjNZbmRtWTJWUVNVUTViSEJCU2xaT0xYVmhNMlZJT1dOaFoweFJiVEJ0VDNvMlpsTm9hVTB5YzBSQlZrTkphVk5rVDNOb1NVVXllR2xDV1RsSVVHVVNGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daU2RVVTNaVEJvU21GblFrMWlka3BVTW1KMU1rWjVSWEI2WjJaMw",
-      "role": "Product Manager",
-      "company": "Netflix",
-      "link": "https://simplify.jobs/p/e81d79f1-a3d0-4f7a-b403-e84613b55002/Product-Manager",
-      "posted_date": "2026-09-23",
-      "location": "Leavenworth, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Simplify",
-      "description_snippet": "As we grow globally, we have increasing opportunities to communicate with and delight our members and prospective members in new ways. One of the primary levers for growth is developing new plans, with differentiated features and price points, so consumers can choose what is right for them.\nThis position is part of the broader Commerce Product team. In this role, you will be responsible for leading the design and development of content experiences that drive engagement, grow the business, and entertain the world!\nThis role is based in our Los Gatos office (preferred) in a hybrid model, but we "
-    },
-    {
       "id": "jsearch_SFFvbWF1S3V2TjllWjJQckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEprUlMxemVGOVRiMHh0ZFZSd1FUZFphMVUwVUVKeGFFZHZiVkJFV25acVpURnBkRXBMUTNWS2FtSlZTa001TFhoa1VERktka0Z5T1VOVGFVbGxkMFZZZVd4Wk5ETk5lRk14ZFVrMloyTTFjbDlaVmkxbmRrd3dTRlJvTUVoWFYzcHhZa28xWWtKR01VRkJRWE4yYUhkUFZsQlNMWEpVVjBoVFRteFNlRlpIVkVaVWRERVNGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daVFNsWjZiRVpmVkdkcE5HSjFNbGx6V25OaVN6SXRWV1pJT0d4Ug",
       "role": "Associate Forward-Deployed Product Manager",
       "company": "Tailor",
@@ -99,20 +155,6 @@
       "match_score": 9,
       "source": "Expedia Group | Careers",
       "description_snippet": "At Expedia Group, we help travelers explore the world, one journey at a time. As a global travel company powered by passionate people, trusted partnerships, and leading technology, we connect travelers, partners, and advertisers through our consumer brands, B2B network, and travel advertising business.\n\nHere, you'll do meaningful work that helps millions of people discover, book, and experience travel with more ease, confidence, and joy. Our five Behaviors-Traveler First, Think Big, Operate with Excellence, Ownership Mindset, and Succeed Together-help foster a supportive environment where peop"
-    },
-    {
-      "id": "jsearch_VG5SNTViN1Z3N2lQcVBDc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlozTVd4WVQycENNVGxPV0VKVk1IaHJPVmRKYlZOMExWcHRXVkZmUmxveVFUYzBhV2hLVVZaMFdXUnVTWGcwY2tkUmNXNTJaMVJEUVRodlUzYzFjbGRhYzI5RFFVeHlaa2t5TmpoTFUyWndNa1JMT0RKclMwd3diRkE1YVZCNWMzTlFWWGh2ZVc4MWQyVm5XRWRSWkVJNVZFNURkMmh0Wm1JM2QzSlVMWGhpUW1wU09VRVNGMWhTTmpCaGNrUjRSSEkyUjNjNFkxQTJOVXR5YTFGM0dpSkJSSE55T1daU1duTmhNbFZNVm1kdGFteGpSa1JHVVVGU05rMUxNVUZoU1d4Ug",
-      "role": "Sr. Product Manager- Processing Remote (United States) · Remote",
-      "company": "Arcadia Power, Inc.",
-      "link": "https://www.jobleads.com/us/job/sr-product-manager-processing-remote-united-states-remote--northern--ecd86b67592380d6d0f3cd160ab4b9b8a",
-      "posted_date": "2026-09-18",
-      "location": "Eastern, Kentucky",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "JobLeads",
-      "description_snippet": "Arcadia is the AI-powered energy intelligence platform for businesses. We replace fragmented tools and manual workflows with one platform to pay utility bills, buy energy, and advance sustainability — across every location, at enterprise scale.\n\nTrusted by Fortune 2000 companies, Arcadia combines unified data, AI-powered analytics, and expert advisory to help enterprise teams save money, mitigate risk, and cut carbon .\n\nWe deliver this through three comprehensive solutions:\n\n• Utility Bill Management: Automating the entire utility bill lifecycle — from data capture and validation to payment pr"
     },
     {
       "id": "jsearch_MjViRWFhTDZxWklNancyRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVEJPUlRGSU1WUldiMlYyTjNJdFJqWkhURVJ5YXpBMFdrMW5iblpzTjFOWGFqaFlhbFZhUnpCU1MxQmpVRzVJWWxaWVREWkJWa05NY0dGbldWa3RUSFkyWW1SUGNGOU1iMEpQYjNjeWRuSk5heTFPV0hWUmJIZGxiVWxwVVZwSWQxUmZWamgxV1U1YVpXTnZiakZMWlY4NFkyUmZXbTFCTVRoRGRFbFRhSEp1VHpSaFFsWVNGazFvTmpCaGMwZzNTM1kyVnpRdFJWQmZVRzB4V1VFYUlrRkVjM0k1WmxSQ1FqZHRUV05MY1dwRVRDMTBTRVV0TTB4dU1sSk1UR0ZNTldj",
@@ -2759,48 +2801,6 @@
       "match_score": 8,
       "source": "Workday",
       "description_snippet": "We anticipate the application window for this opening will close on - 10 Aug 2026 Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life At Medtronic, we bring bold ideas"
-    },
-    {
-      "id": "jsearch_OThUNHh4RlRFMF9mYkNwbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlJGTkUxQllqZDVNVkJFWm5OeWJFZHVaWFJWTldoRVZscHhObFpLYUhremFtcFlUR3RxV25nNVdVZHFSMUp5TjJKTmVYbEVSa3B5WW1wcVYxaFVUa2N3VDBWWmNqQktPREJDYkdGaWJVbzVOMFU0ZWpKQ09XRnlTV3BaYnpSUGJqQk9aRTFzU0dkcmRrazJTVFZpY25GSWMzaHFRa05XYkY5cFVYTTRkMmRRYm0xQk5Va1NGMU5RTlRGaGNEWnZTalJEVEhkaWExQnNiMnBNTUZGekdpSkJSSE55T1daVVptdFJlRjlFWVc5V1NFcG9UM2RZZDBWNWRuaFVXRFJzZEZKUg",
-      "role": "Product Manager, Communications Operations",
-      "company": "Aspire Software",
-      "link": "https://jobgether.com/offer/6a6d849b1b23f4f87b4e02a7-product-manager-communications-operations",
-      "posted_date": "2026-08-01",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States\nReady to be a Titan?\nServiceTitan is the operating system for the trades. We are hiring a Product Manager for Communications Operations, where you will own the admin, onboarding, configuration, and internal operational experiences that enable businesses to deploy and run ServiceTitan Communications products successfully at scale. Your scope spans RTC, Platform Email Service, CommHub, Phones Pro, and Contact Center Pro, including customer onboarding, domain authentication, internal tooling, user management and permissioning, tas"
-    },
-    {
-      "id": "jsearch_T3JaU3FJSTBqc1ZSME5lTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzh5UkZwVFNHbDFWMVJHVWtvd2NuTTNRMHRRUjBzelprNUNVMEZhVUVWMU4yeHJMVTR3WjFscGNtUmhlR3RmZVhOVVYxTlFOMnRPY2xrMWNIRXdRbkoxVldOaVlXOHljM0JJT0hKNFJGVTJMVzR5V2xKd09VTldWbVZTZVRWYU9VWkpaRFpLZFRBNWRFeHlWeTFsZFUxblRVOXdSVUYwUlhSMmNVSnJlVVpwY0dOS1pVMFNGemQyTVRGaGRXMUpRbVF0WlRCUVJWQm5YMWN6TUZGckdpSkJSSE55T1daUlNuUjFYMkpCZVhJNFFrZG5iM2RUT0VrelZrUmZaRlEzVDBobg",
-      "role": "Product Manager, Medicare Product Strategy - Hybrid in Minnetonka, MN",
-      "company": "UnitedHealth Group",
-      "link": "https://www.ziprecruiter.com/c/UnitedHealthcare/Job/Product-Manager,-Medicare-Product-Strategy-Hybrid-in-Minnetonka,-MN/-in-Minnetonka,MN?jid=ec3e8e1e52c2168d",
-      "posted_date": "2026-08-06",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "ZipRecruiter",
-      "description_snippet": "At UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable and optimized. Ready to make a difference? Join us to start Caring. Connecting. Growing together\n\nThe Product Manager of Rx Readiness serves as the Part D subjectmatter owner responsible for ensuring benefit changes and strategy are clearly understood, accurately interpreted, and consistently communi"
-    },
-    {
-      "id": "jsearch_OHRvV1lLU1BnWkdKMGxidUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmxLZEZCWGFYQXRPVGxSYVZsMlEwNUVRVkpuVGtWak5VZGpYelZmUlRKTWRqazVORGhyTFZCTFEyZE5OV05OUjJSV1lURnVabEUwYzAxaWVGVnROR00xYTNVNVp6ZHdZazlmVUZBNWMyaGZOMDlPVm1SVmFtcG9UbGt6VkRCTVRqRkVTRTFDTTBWUGNtMVZXVUkxVEU1U2VFMUlkMjlQWlhWWFdGcFRVbE5TTlZFd1lsb1NGMlpYVW5waGRtcEhVRXAyYmpWT2IxQjBOMUJQWjFGakdpSkJSSE55T1daVFUxOXZiek5QTkhCVGVscDBRV1ZMVEVGTWExRjRTMU14TUU5Mw",
-      "role": "Product Manager, Client Delivery",
-      "company": "Lirio",
-      "link": "https://jobgether.com/offer/6a6b60031b23f4f87b481a53-product-manager-client-delivery",
-      "posted_date": "2026-07-30",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States\nLirio is a technology/software company that provides expertise in a variety of behavioral science domains (e.g., behavioral economics, social psychology, public health), data science, and machine learning to drive consumer engagement, close gaps in preventive and chronic care, and promote health and well-being across an individual’s lifespan. Lirio’s behavior change AI platform unites behavioral science with advanced artificial intelligence (AI) to deliver Precision Nudging health interventions. Precision Nudging is the applica"
     }
   ]
 }
