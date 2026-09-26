@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-09-25T19:03:24.845Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-09-26T18:12:30.663Z",
+  "total_fetched_today": 6,
   "jobs": [
+    {
+      "id": "jsearch_UnhUM05qdmRSZjJ0cE5QWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbUpLWjBOQ1pVTk9WSE5CY0d0MFRHSTRVSEZ0TVdGd1ZscHZOSFZzT0d0dVFqYzJhbGN0ZW1WTlVGSTBVRlJrVEV0NGIwMWlkVkJUZVdKVWF6VTRTMHd3V1hwMVJVYzVUVzR4V1VaUFNrVnNNbDgwTWxKVmRXd3hOa0pRYkRnelFqZFpSRmhLTmprelpFTllZbnBGVVhjd1ozY3piekp5VG1Rd1VXSlZWVVoxZHkxV1FtOFNGelJCY1RSaGRUWkZSV1ZZUVhaeU1GQTBTekptWjBGTkdpSkJSSE55T1daU2QwaHhSMUpEV0VwNWVFNDRTamh0Ym10V01HeHFhSFE0WlZCbg",
+      "role": "Sr. Product Manager, Growth",
+      "company": "Clarvos LLC",
+      "link": "https://www.indeed.com/viewjob?jk=dd272fddceff7123",
+      "posted_date": "2026-09-25",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Indeed",
+      "description_snippet": "Reports to: Chief Product Officer\n\nDepartment: Product\n\nFLSA Category: Exempt\n\nPosition Type: Full-Time, Senior level\n\nTravel Requirement: 0-10%, Quarterly for meetings and customer engagements\n\nOffice Location: Remote, US Based\n\nJOB SUMMARY\n\nThe Sr Product Manager, Growth will own the product strategy and execution required to acquire, activate, retain, and expand Clarvos customers. This leader will turn customer behavior, funnel data, and commercial priorities into product experiences that reduce churn, increase upsell and improve conversion across the customer lifecycle.\n\nThis role requires"
+    },
+    {
+      "id": "jsearch_ak5LdUNhREk5ekxiY3EwOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTVYUW5JNWJXY3hMVWhmU25SdU1VVkthR04zTUdwV2FHVktPWEJvTnpWaU5tMXlibmRDYUVaeVFtSnVVM2d5WTAxWlZGaHlUVXhaWW5Wa2NYaGpaMVZGYlc1MWVFbGljVGsxY1RCeGVVOVpaMDlpZWpkbVdGVktiMkZwZGw5Rk1ETTRiM2RIUTJOclgyZzRVWFZ1UVZCbGJUSnphbUZvVFhWMFJrNUNkbFZOWVU5bU1uRVNGMEZCZFRSaGNXbERRVzh0Y1hjNFkxQjNPSEpDWjFGUkdpSkJSSE55T1daVGIzUXlMVlZUV210MFExaERUMnAzVm1oVmNXcDRSMkp1VjNSbg",
+      "role": "Principal Product Manager",
+      "company": "Expedia Group",
+      "link": "https://careers.expediagroup.com/job/principal-product-manager/seattle-wa/R-109046/",
+      "posted_date": "2026-09-20",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Expedia Group",
+      "description_snippet": "At Expedia Group, we help travelers explore the world, one journey at a time. As a global travel company powered by passionate people, trusted partnerships, and leading technology, we connect travelers, partners, and advertisers through our consumer brands, B2B network, and travel advertising business.\n\nHere, you'll do meaningful work that helps millions of people discover, book, and experience travel with more ease, confidence, and joy. Our five Behaviors-Traveler First, Think Big, Operate with Excellence, Ownership Mindset, and Succeed Together-help foster a supportive environment where peop"
+    },
+    {
+      "id": "jsearch_Vjk1Y25TdHRqVlpTdnY5ckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGh1Ym1KRFpIUTBMVlIwZEZCTmRFZ3pSRVpCTW1kYVVqZDJURXBHTFV0eVkxaFZhRWRFVVhJemJqSkxNemRDTVVSU01EZDJkSGRzVG0xVFFWVmhOWEJ1WTJoU1pWcHdORGgxWmxBME1VSm1RVFpCVHpjd1pXdFNibGswYVVWeVMzVkhOVVJDUTFJdFlrUldhelpHVW05S1NFSlRjSGw1V0VGaGMyTmpNa1YyZEhKMFJGY1NGelZuY1RSaGMxQklTMkZEYmpWT2IxQnROVWMyTFVGTkdpSkJSSE55T1daU1psbGZZeTB6Vmw5U2NVZHhTV2Q1YjJGWE1qbFpOekY2UkhsQg",
+      "role": "Principal Product Manager",
+      "company": "Abbott Laboratories",
+      "link": "https://www.jobs.abbott/us/en/job/31162604/Principal-Product-Manager",
+      "posted_date": "2026-09-23",
+      "location": "Waukegan, Illinois",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Abbott Jobs",
+      "description_snippet": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 122,000 colleagues serve people in more than 160 countries.\n\nWorking at Abbott\n\nAt Abbott, you can do work that matters, grow, and learn, care for yourself and your family, be your true self, and live a full life. You’ll also have access to:\n• Career development with an international company where you can gro"
+    },
+    {
+      "id": "jsearch_QUdsX1FyejRJMDVDZVJpcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlJXUm1JdFZXSnVUSFJ2WlRoYWJYRnVlRjk1TjJGc2RrUlBaME5RUzI5dVJFSlZka3RIVURsak4xcG1MV0pQWmswMVozRkRkMmhMTjNSUmJHMDNXRXd4TkRobldFdHphalprYVUwMVYyNTVjbFl3WDJoU1IwTmFlRTF5U0ZaWlJITnJhakJhVURORk0xa3lVemRDVUdGSGRqTm9UMk54U2xadE1YWXhNRGczYlZsR2R6VVNGelZuY1RSaGMxQklTMkZEYmpWT2IxQnROVWMyTFVGTkdpSkJSSE55T1daU1JFVTFNWGgyUVU4MlRFVlBkMnBYVW1SM2RFVkZNek5RVDA5Ug",
+      "role": "Senior BI Product Manager ID65844",
+      "company": "AgileEngine",
+      "link": "https://www.linkedin.com/jobs/view/senior-bi-product-manager-id65844-at-agileengine-4470006111",
+      "posted_date": "2026-09-24",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.\n\nWHY JOIN US\nIf you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!\n\nABOUT THE ROLE\nWe are looking for a Senior BI Product Manager to act as the subject-matter expert across Quote-to-Cash and Order-to-Cash processes, connecting financial data to re"
+    },
+    {
+      "id": "jsearch_Q2xiRl9aUkRrczlsY0tScEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFpWTnpKWVFUaFlSMk5zUW14blIzQnRkR1ZFYTJSNE0zSmhYMGRNTmxCUmNGbE9Ua05NWnpWVWIzRldUQzAxZEZKT1pGVjZhbGN4V1VNNGRESnRjRkYwYlc1WFpGTm1WREptV1VnelpHRnpRM0ZwT0d0WlVFMU1VMDl4ZW1sUlRscHZUemc1T0RZNFlVRTBiRXM0VERaU1F5MUtZM2N5ZEhOdFEzYzVSVFJITVdoaWRFb1NGelJCY1RSaGRUWkZSV1ZZUVhaeU1GQTBTekptWjBGTkdpSkJSSE55T1daVE5WVlFkemRPTjBSYVoxaHhXR3BCUmpONllqZ3lNSFI2YVZsQg",
+      "role": "Staff Product Manager, Spotlight Monetization & Ad Marketplace Growth",
+      "company": "Snap Inc.",
+      "link": "https://www.linkedin.com/jobs/view/staff-product-manager-spotlight-monetization-ad-marketplace-growth-at-snap-inc-4472223037",
+      "posted_date": "2026-09-26",
+      "location": "Bellevue, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "LinkedIn",
+      "description_snippet": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.\n\nThe Company operates Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc., a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji, Saturn, and other digital services.\n\nThe Ads Platform organization drives innovation"
+    },
+    {
+      "id": "jsearch_SFFvbWF1S3V2TjllWjJQckFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMnd0UzBobmN6WTFPSFZzWVVSMk5XWXlVSEV3U1dGYVIzWjRMVFkzV0hOc2VHeFlOMHR0WTFKR09YQldVbE50WlRkbGVHWnlUWGxKUXkxWVZIUlRZM0JXTm01SFVHZG9WblJDTWpSZlFsRk5lak0yWlhaaGVURlJibDgyV2xOdVRVOWhObFpmY25SNk5rYzBURkJHUmxkMWMyMUlWelY0V1VwUVZHOU5ORzV5WkdkelJqWVNGa1JCZFRSaGRXSkJSbUZNTFhCMFVWQjJjRkJFVDFFYUlrRkVjM0k1WmxSeFZYTkhhVmw0VW1sWlZFSnVaV1JSYms0eVMydHlSV00xTFZF",
+      "role": "Associate Forward-Deployed Product Manager",
+      "company": "Tailor",
+      "link": "https://jobgether.com/offer/6ab34811865119c687df0397-associate-forward-deployed-product-manager",
+      "posted_date": "2026-09-22",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: North America, United States\nAbout Tailor\nTailor is a pioneer in Headless ERP technology. Our platform empowers companies to build internal workflows that adapt to their unique needs — faster, smarter, and developer-first.\nAbout the Role\nWe're looking for an Associate Forward-Deployed Product Manager to own the day-to-day execution of live client implementations. You'll be the first line of communication with our clients and the person keeping the project moving — coordinating directly with the internal development team, tracking progress an"
+    },
     {
       "id": "jsearch_UERvOGVRdHVpV2ZacG4xOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFkwUmxoRWQwUlFjV1I0ZVhZd1JHRnVha3BRTkVOVVFtdFhNRXhMUWxZMGNqUmthREppV2w4eldFVXhURlZYUTAwd1FXdHBZbVJLUnpOV1pHcDZTWGREVDFrM2VVRldabFZSZVc1d05WQm9YMkpRWHpnMlpWRlBObEJ6UVdoYWIzWkpXVTlMT0dkRVltcHBVMmgxTkRRM1QxTnZkRXhEWWs5dGIxcDZaM3BVTkROb1dHSVNGMlJ6VnpKaGNVdFFRblJ0ZW5aeU1GQnZTM1ZHY1VGUkdpSkJSSE55T1daVGNVZzJZMHRaTVZORlRrdEhOakJwVEVaRFEwbG1PRVJCV2t0bg",
       "role": "EverPro - Lead Product Manager",
@@ -73,20 +157,6 @@
       "description_snippet": "As we grow globally, we have increasing opportunities to communicate with and delight our members and prospective members in new ways. One of the primary levers for growth is developing new plans, with differentiated features and price points, so consumers can choose what is right for them.\nThis position is part of the broader Commerce Product team. In this role, you will be responsible for leading the design and development of content experiences that drive engagement, grow the business, and entertain the world!\nThis role is based in our Los Gatos office (preferred) in a hybrid model, but we "
     },
     {
-      "id": "jsearch_Vjk1Y25TdHRqVlpTdnY5ckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUZDVldOdlQxQkdVM2t3ZFhGdldqUjJNRlpYV1VsNVVYTkJiMGh0Y25WVFlWTnNiRXR4WkhSUFNFbElOR2RwV0dkR05YZEpObE15WHkxNlVHcENTMHR1Y1hGTVdYUk9TV3d4ZFdGUVZIQk9SVzAzY2tVNE5HWXRUa1ZhUlU5NlRFMDBlWEowUVhod1RURkliV2M1WHpOWmNsQmljMGRwYmxsRFFuZHpOV1ZoTmxrNGFWWVNGekJ0TFRGaGRubzRSRGd0VGpRdFJWQXpjWEpUYVZFd0dpSkJSSE55T1daUldYcGpka2xUTkVaWGEzcDJNRWw0VHpKa2FWUnJOaTAxTUhsQg",
-      "role": "Principal Product Manager",
-      "company": "Abbott Laboratories",
-      "link": "https://www.jobs.abbott/us/en/job/31162604/Principal-Product-Manager",
-      "posted_date": "2026-09-23",
-      "location": "Waukegan, Illinois",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Abbott Jobs",
-      "description_snippet": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 122,000 colleagues serve people in more than 160 countries.\n\nWorking at Abbott\n\nAt Abbott, you can do work that matters, grow, and learn, care for yourself and your family, be your true self, and live a full life. You’ll also have access to:\n• Career development with an international company where you can gro"
-    },
-    {
       "id": "jsearch_N0tIMGpZYXJ3aHA4UXZtU0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVXhOZDJKNWRVZHZNRTAzYlZSRGNrOWFjM05qZEhadE5FbDBkV0p0YzJkbVJYUlpiVEpUU2pBM2FYRnJiM1owZERWV1dua3pVM2xSTTJwVU1UVXRSelppYkRSSVltVlJiSFJGV1U1ZlVreG9jVFpJU2taRk0yNUdkVkZqYlVsamFGbDRSVXBFU21SdWNWRjBMWEEzY1hWRllWVnpObE5rTldKWlJFTm5jMGd0TmxCQ04yc1NGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daVVNXNVRZbkZUV25aRFRFMW1aRjl5WjNCSWFsUTBSV05NVVRKQg",
       "role": "Founding Product Manager, AI Corps Remote, United States",
       "company": "CodePath, Inc.",
@@ -101,34 +171,6 @@
       "description_snippet": "CodePath is the largest educator of college computer science students in the country. We have trained over 40,000 students from 1,000+ universities. Our partners include Amazon, Google, Meta, and 4,000+ companies across the industry. We’ve been training the next generation of technical talent for nearly a decade, and we just launched a $150M initiative with Anthropic, building one of the most ambitious AI workforce programs in the world.\n\nWe’re now expanding into new markets and scaling our team so we can move at the speed AI is transforming the workforce. People joining CodePath now will have"
     },
     {
-      "id": "jsearch_QUdsX1FyejRJMDVDZVJpcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTUzFSYmt3MFdqWnRObVpVVmtKMGFGbDBUSEZLUzNoR2MxUjBkR2RGVDBkMFZFRTRSakpxUlcxVkxYZDNhSFozYms1SWRrMW5Ua0ZuVm5wWVowVm9VMUIxWDFSamVtdExlRzFPY1U5alFVSmxaRXBoZFZRelRubHJkMFJsUTBZMldrdFRXRk55V1c1TFgwRmpkamhLTFVWM1VHSnBjRVZITkdGVU4xVmZja2N3VnpKMFlVd1NGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daVVVqQkhkSEp2U1hwMGJGZG5aamxhZFhKSVVUbFpZMUZLTkVsMw",
-      "role": "Senior BI Product Manager ID65844",
-      "company": "AgileEngine",
-      "link": "https://www.linkedin.com/jobs/view/senior-bi-product-manager-id65844-at-agileengine-4470006111",
-      "posted_date": "2026-09-24",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "LinkedIn",
-      "description_snippet": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.\n\nWHY JOIN US\nIf you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!\n\nABOUT THE ROLE\nWe are looking for a Senior BI Product Manager to act as the subject-matter expert across Quote-to-Cash and Order-to-Cash processes, connecting financial data to re"
-    },
-    {
-      "id": "jsearch_SFFvbWF1S3V2TjllWjJQckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEprUlMxemVGOVRiMHh0ZFZSd1FUZFphMVUwVUVKeGFFZHZiVkJFV25acVpURnBkRXBMUTNWS2FtSlZTa001TFhoa1VERktka0Z5T1VOVGFVbGxkMFZZZVd4Wk5ETk5lRk14ZFVrMloyTTFjbDlaVmkxbmRrd3dTRlJvTUVoWFYzcHhZa28xWWtKR01VRkJRWE4yYUhkUFZsQlNMWEpVVjBoVFRteFNlRlpIVkVaVWRERVNGekZ0TFRGaGMycG1TbVZwVnpWUFRWQnJPVmN5ZFVGRkdpSkJSSE55T1daVFNsWjZiRVpmVkdkcE5HSjFNbGx6V25OaVN6SXRWV1pJT0d4Ug",
-      "role": "Associate Forward-Deployed Product Manager",
-      "company": "Tailor",
-      "link": "https://jobgether.com/offer/6ab34811865119c687df0397-associate-forward-deployed-product-manager",
-      "posted_date": "2026-09-22",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: North America, United States\nAbout Tailor\nTailor is a pioneer in Headless ERP technology. Our platform empowers companies to build internal workflows that adapt to their unique needs — faster, smarter, and developer-first.\nAbout the Role\nWe're looking for an Associate Forward-Deployed Product Manager to own the day-to-day execution of live client implementations. You'll be the first line of communication with our clients and the person keeping the project moving — coordinating directly with the internal development team, tracking progress an"
-    },
-    {
       "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGRTVGpoVFRtUnZOREI2Y0VZdGVqRlJjakJTVkdjME9HMTBVbVZUVUZwQlJsRjFTR1pwVDBOd1NXOU9RVGQyT0ZJMVlVSmljRkpKWW5WaFFuZ3RXVUZ6TFZwSmNYRTJWSGRHYm1jME5YQndPSFU1UkRrMk4yZHBlbDlVVWxsMU4xUnhZalZGZUVOelNHSmlObkJNUjJSUFZWaFVObGw2YkRsWmJrdDBOSGd4YjFkVGFIVVNGMkpDTmpCaGNXMWhRWFl0ZHpWT2IxQm9jSHBNYVVGTkdpSkJSSE55T1daVFpuTnpiM1l5VkZKdk1FMWFOa2hTTldKbFgxWXRSa015ZG5SUg",
       "role": "(USA) Staff, Product Manager - Financial Services",
       "company": "Walmart",
@@ -141,20 +183,6 @@
       "match_score": 12,
       "source": "ZipRecruiter",
       "description_snippet": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Staff Product Manager to lead high-impact product initiatives within the Enterprise Financial Services organization—a strategic function at the intersection of retail, technology, and financial innovation.\n\nYou will own the end-to-end product strategy for enterprise-scale financial capabilities spanning co-brand card programs, third-party wallet integrations, and lending enablement, powering how our customers and members transact, manage money, and engage with financial products across our ecosystem.\n\nThis role demands a leader who ca"
-    },
-    {
-      "id": "jsearch_ak5LdUNhREk5ekxiY3EwOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTME5wZFV0dk5rOTVPVGRNYzI5RldrSjZRWFZHTVV4TGFVZFRSakptU21wMU5tSkRURGw1Vm13MVZHNVNSSE5TU2pWT2JGQmtWemhDVEY5emVqRkliMHBJY1ZSU05VUmhlVmxMVjBZMFRIVXlSemN3YzNocGFGVldjMjVqU25kVFlWSnVTbEJwU1RFM2VEbHBjVmhsU1ZWa1ZGbzNlSGhUVjE5VlpIUk1SVU51UW5nd1prY1NGMkpDTmpCaGNXMWhRWFl0ZHpWT2IxQm9jSHBNYVVGTkdpSkJSSE55T1daU1dtMU1WVVprV0dwbllVZG1WR0ZSWldoeVZIUnVOVFl5TVdSMw",
-      "role": "Principal Product Manager",
-      "company": "Expedia Group",
-      "link": "https://careers.expediagroup.com/job/principal-product-manager/seattle-wa/R-109046/",
-      "posted_date": "2026-09-20",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "Expedia Group | Careers",
-      "description_snippet": "At Expedia Group, we help travelers explore the world, one journey at a time. As a global travel company powered by passionate people, trusted partnerships, and leading technology, we connect travelers, partners, and advertisers through our consumer brands, B2B network, and travel advertising business.\n\nHere, you'll do meaningful work that helps millions of people discover, book, and experience travel with more ease, confidence, and joy. Our five Behaviors-Traveler First, Think Big, Operate with Excellence, Ownership Mindset, and Succeed Together-help foster a supportive environment where peop"
     },
     {
       "id": "jsearch_MjViRWFhTDZxWklNancyRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVEJPUlRGSU1WUldiMlYyTjNJdFJqWkhURVJ5YXpBMFdrMW5iblpzTjFOWGFqaFlhbFZhUnpCU1MxQmpVRzVJWWxaWVREWkJWa05NY0dGbldWa3RUSFkyWW1SUGNGOU1iMEpQYjNjeWRuSk5heTFPV0hWUmJIZGxiVWxwVVZwSWQxUmZWamgxV1U1YVpXTnZiakZMWlY4NFkyUmZXbTFCTVRoRGRFbFRhSEp1VHpSaFFsWVNGazFvTmpCaGMwZzNTM1kyVnpRdFJWQmZVRzB4V1VFYUlrRkVjM0k1WmxSQ1FqZHRUV05MY1dwRVRDMTBTRVV0TTB4dU1sSk1UR0ZNTldj",
@@ -2773,34 +2801,6 @@
       "match_score": 4,
       "source": "Talent.com",
       "description_snippet": "Description\n\nABOUT US\n\nDo you have a passion for higher education? Do you want to make a positive impact on the college admissions process? Our staff help to remove barriers and encourage students to forge their path to a better future. Common App is a national not-for-profit organization dedicated to the pursuit of access, equity, and integrity in the college admission process. Each year we support more than 1 million students, one-third of whom are first-generation, as they apply to our more than 1100 diverse member colleges & universities using the Common App's free online application.\n\nIf "
-    },
-    {
-      "id": "jsearch_UnhUM05qdmRSZjJ0cE5QWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkU0Wlhab2NsRlFPSFZPU3pFNE9XbHpUV2RZYTE4eVRISnRYMXBtY0hWek0xaDVSazUwYzJ0clpGSk1WbTlSYVZkRlFtczBjVEp0VWs5VlpXdzBWRk55ZUU5SmJ6RjFPRkZUTWpVMWEydFBRV0UxYzAxUGVuVm5WRzlRYmsxcmVYQTNObUZDWW5Cb01uQTNRMkpNZUVSb05EZFFORzFFZWxSamEzcE9URlJQZEhOU2IzWVNGMjQxZERSaGRHWjVUMGwyV0RWT2IxQm9URk5PYTFGUkdpSkJSSE55T1daVGF5MDFWRUpWTnpWaldGSldlRmxyV0ZCM1VFNVRRa3gxZFVsbg",
-      "role": "Sr. Product Manager, Growth (NGL) (Remote)",
-      "company": "Mode Mobile",
-      "link": "https://www.builtinchicago.org/job/sr-product-manager-growth-ngl-remote/10139316",
-      "posted_date": "2026-08-04",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Built In Chicago",
-      "description_snippet": "Who We Are\n\nMode.Inc is the parent company of a portfolio of technology businesses, including Mode Mobile, the creator of EarnOS, a transformational software platform that turns ordinary smartphones into “EarnPhones.” Our portfolio includes category-defining products with millions of users globally, scaling rapidly through organic growth and strategic acquisitions.\n\nYou’ll be joining NGL (“Not Gonna Lie”), one of the most viral social apps in recent years, with 100M+ monthly users across web and mobile. NGL provides a safe, curious, and authentic space for people to connect through anonymous m"
-    },
-    {
-      "id": "jsearch_VEo1V2xSTEdERDFzaFhUMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlY2TldWbmJWSmxSMnhUV0MxcmEzUnBWekZCY25oMU9HRkVUMmRRYVRWNmFtWXhTVkEwYVVSNWJscERWMUZhT1Y5bFJteE9UekJKWWpCM1JrVklhbXBUY0VOT1VHdExORmgzV0RGR2RXTkhTMVJvUkUxRFpFUnpPVU51UWpKMFREZFlZVzlUZFhobE1sRm1TbXB2VVhkamRqUlBNa1JTVEVOYVJ5MTJiM2hETld4cGFEUVNGMGhtTlRGaGRHRkdRbVZIZVRWT2IxQTNaWFZ0ZFZFMEdpSkJSSE55T1daVWVVWmFhSGx2WjBwUFpVNTJUV1JpY1doWVIwMUtZMTgyYTJoMw",
-      "role": "Product Manager– Cerebrospinal Fluid Management (Onsite in Lafayette, CO)",
-      "company": "MDU Medtronic USA Inc",
-      "link": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Product-Manager--Cerebrospinal-Fluid-Management--Onsite-in-Lafayette--CO-_R72509-1",
-      "posted_date": "2026-08-03",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Workday",
-      "description_snippet": "We anticipate the application window for this opening will close on - 10 Aug 2026 Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life At Medtronic, we bring bold ideas"
     }
   ]
 }
