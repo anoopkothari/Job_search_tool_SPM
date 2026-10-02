@@ -1,7 +1,119 @@
 {
-  "last_updated": "2026-10-01T20:01:08.383Z",
-  "total_fetched_today": 12,
+  "last_updated": "2026-10-02T19:43:20.392Z",
+  "total_fetched_today": 8,
   "jobs": [
+    {
+      "id": "jsearch_Q2M0R0F5QTRPR25WZ1NGLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2xoWDE4dFRqVTNNRkZRTm1relRYUmlWVkJZUkRaMk5YaDFRMTlDZG10VVowZHJMV3RvTjNoelFWOTRhQzA1WDBGeVNWbHhiR016TjJneE0wOXFOM05DUW1oVk0wZHFiVGxZV1VaamFHTjBUVTR6VjNwcWNsWmhZbUZHWldGNU5XMXFPVVZYZFdOdE1XVTJMV1ExTmt4clNVd3lkMHhDWDNWMmRFbG9aMlpqUkhWaVYxSVNGMFZCYmtGaGRqZFlUbVZ1Vm10UVNWQTJUeTF4YzFGbkdpSkJSSE55T1daVU5tTmlPREoyWDFseU5rWmtRMVpITVVwUWVrRnVaVkp3VkhWbg",
+      "role": "Technical Product Manager Lead- Senior Manager- Commercial Technology & Innovation",
+      "company": "PwC",
+      "link": "https://www.linkedin.com/jobs/view/technical-product-manager-lead-senior-manager-commercial-technology-innovation-at-pwc-4455533466",
+      "posted_date": "2026-09-29",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "The Opportunity\n\nAs a Technical Product Manager Lead, you will drive software and product innovation, focusing on developing advanced software solutions to meet client needs. Within our Advisory - Other practice, you will combine technical skills with creative thinking to deliver innovative software products that enhance business performance. As a Senior Manager, you will leverage your skills and network to deliver quality results, motivating and coaching teams to solve complex problems. You will apply sound judgment, recognizing when to take action and when to escalate, while developing and s"
+    },
+    {
+      "id": "jsearch_ZzVSeERhQ0Q2SGZxdFowSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWhVVERaUGQyeFVORkYyYUd0Sk4zZFNjbk14UldkM09YbzVia0pLZUZKTFJUVjJNM0pzVFU0MmRreHRYMjVQYTA1SFVGQnllV05PUms4eVFubFlkVjlLVFhZM0xWcHhVRGxKZFY4MFRYTlRTM1JTUkdsNmEzRnVWRFpaY1VWMVRXeDNVUzE0VWt0RllXcHpaVlk1ZUdjMVdGcGxZMDA1Um01cVFWbHNRbFYxYmxsU1drOFNGMVpuYmtGaGRESkNTV1YyVnpWT2IxQnVYMWRUZVVGRkdpSkJSSE55T1daVExXSlRSbU4wYnkxVU1WWm5ObU0xYlRJMVRUWklOR2RCUW5kQg",
+      "role": "Product Manager - Acquisition Services",
+      "company": "Continental Finance Company",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-acquisition-services-at-continental-finance-company-4471556110",
+      "posted_date": "2026-09-29",
+      "location": "Wilmington, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "Come join a growing financial technology company that’s leading the marketplace in both the marketing and servicing of credit cards! Continental Finance Company specializes in credit card options for those consumers with less than perfect credit. We are seeking an experienced Product Manager to lead credit card acquisition and decisioning initiatives and manage a dedicated Agile product team.\n\nThis role will partner closely with Marketing and Credit Risk as core business stakeholders, along with Data Science and Technology teams, to launch new credit card products, execute acquisition strategi"
+    },
+    {
+      "id": "jsearch_T3J2djJDTzVkc2FYVFRBVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUV5YzBZM2RqVkxkMUpqWldGbmNGaHhPRGhLWldsTWVXRnViV3AwZWxGb1dDMVdhMVJLY1VsU1JUUjNjeTFOZFdRdGNFRk5URkprTmxsQ2ExRndibXhMV0hkcU9WSXhWMW8wWnpSMGFXOVpaRWRqVDE5cFZXbFRRM0JPT1VWWmFDMUZiRTlwTUVsV0xXbDROVlJuVTI1dmNrUnJZVEZqV0RCZlRrWlpZeTB5YzBoSFIyY1NGMFZCYmtGaGRqZFlUbVZ1Vm10UVNWQTJUeTF4YzFGbkdpSkJSSE55T1daUlYyMVpTVnA1WlRNNFYyZGlTRlk0WVhaVFRITmpUUzB3WW14Ug",
+      "role": "Remote LATAM Product Manager — Own the 0→1 Growth",
+      "company": "Hilbert's AI",
+      "link": "https://www.jobleads.com/us/job/remote-latam-product-manager-own-the-0-1-growth--united-states--e0e1869c570f535d20c037ebe5af092f1",
+      "posted_date": "2026-09-30",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "JobLeads",
+      "description_snippet": "Hilbert is seeking a senior product manager to own a surface end-to-end—from vision to ship dates—working with software, ML/AI, and data engineers across time zones. You will spend time inside customer environments to inform the roadmap and define success metrics tied to KPIs and OKRs.\n\nThe role is forward-deployed with a focus on data and ML infrastructure, including ingestion pipelines and activation platforms. Fluency in Spanish is required."
+    },
+    {
+      "id": "jsearch_d0pnRmZ1bjhsMFJ1TU0zVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTV0ZUV0TFdGUkhVSGxoZFZvNVdVeGFlVzVvYlVSelpEVXRSRE0yVW1rMVVrbGtZMHh5UldST1ZHaDBPRkpPVVZWT2ExTTNXRlJZYUdveFZXZDBOMGRoVUhGclVGUnJNM2xqUlZoTldFNURVakYyUVhOSVNuSkpWaTExYUd4ZlExaFhURGw1TjJoQk9IQmZZWE5mYlVsRVFtSldiRlJuYzBsWVl6Tm9Xa28xVVUwMGFqVVNGMGhCYmtGaGRsaFpURFJQWlRWT2IxQXdTbTV4Y1ZGdkdpSkJSSE55T1daUlNUUkxVVFJtTTNaRlJ6WnBXVU5QZVZNNFVraDFNekZzYzJWMw",
+      "role": "Product Manager @ fast-growing, mission-driven tech startup",
+      "company": "Hirepath",
+      "link": "https://hirepath.m8s.66ghz.com/remote-jobs/product-manager-fast-growing-mission-driven-tech-startup",
+      "posted_date": "2026-09-30",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Hirepath",
+      "description_snippet": "Title Product Manager Location Fully remote Company overview Crosstie is the workflow orchestration layer for property and casualty insurance operations. We coordinate and execute work across people, systems, and decisions to reduce administrative burden, accelerate cycle times, and improve outcomes for carriers, TPAs, self-insured organizations, and their customers. Founded at Harvard University’s Innovation Lab and backed by MassMutual Ventures and General Catalyst, we’re building execution-grade infrastructure for the future of insurance. We’d love to connect with curious and motivated indi"
+    },
+    {
+      "id": "jsearch_OUNuVEdRMjFiMEZWbVVFQ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGRLWlRCbldGUjJUbmxyWkdzMFVuSm1SSGx2UkdwQ2NVbE9OVFJ4U21oT2JVOUthbkpQVGxSd05uVjFabXh5VHkxVU9IcHhOV0ZRUW5oMFdrczBPVkI2T1hWRlltUXlTemwxUlZod2VVUkhXa2xMT1ROd2MwaHdVM2x5TFhGS016RlFNMDVMTlVaMFZYSm5OSFJwUVd0SU0wMUdORXRJY1VZdGVuaHJWVUowYmt0U1RVc1NGMEZCYmtGaGMyNW1UR0l6U210UVNWQnZOa3RHYTBGWkdpSkJSSE55T1daU1YxZFRkVFJVTVc5cWRVUnhZbWhzTlc1UFVYaHZjVVpLU3pSbg",
+      "role": "Product Manager, North America - Remote",
+      "company": "Hitachi Global",
+      "link": "https://careers.hitachi.com/product-manager-north-america-remote/job/R0120995",
+      "posted_date": "2026-09-25",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Hitachi Careers - Hitachi Global",
+      "description_snippet": "Job Description\nAre you a strategic thinker with a passion for product innovation and market growth? Join Hitachi Energy as our Product Manager – Transformer Components and take the lead in shaping the future of our Insulation and Components portfolio across North America. In this role, you’ll drive product strategy, identify market opportunities, and collaborate with cross-functional teams to develop and launch offerings that meet evolving customer needs. Your insights will guide the product lifecycle and ensure our solutions remain competitive and impactful.\nResponsible to ensure compliance "
+    },
+    {
+      "id": "jsearch_bGZfT3R1a3hpNFI5VGlud0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemRRWHpGS1FUZGhibFZCUTJ4Zk1uTmxaWEl5Ym00MWFuUmtWVWxWTkdzd1VVeDBUVkpWT0UxR1ZHczFUR1YzT1dwZlQwVXdhRnBpVkdwM01GWmxXbVJLU0hsT2VHWnhRWGxqZHpkclpXRjJkRGRrT1ZwS1oyOVZUazkzTTNoMWJ6Vk1UMWg0Y214TU5GVlhhbWRxVUdVMmRWbEZjVVJ2TUhoeGIzRnVSbTFwYUZkTk5tNFNGMVpuYmtGaGRESkNTV1YyVnpWT2IxQnVYMWRUZVVGRkdpSkJSSE55T1daVU0xTm9kWHA2YlRoT2JpMU1iVVJEYWsxaE4xVmtSVGRIWTNGQg",
+      "role": "Staff Product Manager, Credit & Pricing",
+      "company": "Affirm",
+      "link": "https://www.linkedin.com/jobs/view/staff-product-manager-credit-pricing-at-affirm-4472818015",
+      "posted_date": "2026-10-01",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "LinkedIn",
+      "description_snippet": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.\n\nAbout The Product Team\n\nThe Product team listens to our customers’ needs and translates those insights into a clear product vision. The team works closely with design, engineering, and analytics to build scalable financial products that empower people to manage their money with confidence. We rely on empathy, curiosity, and business sense to prioritize features and improve experiences. Our role is to lead with clarit"
+    },
+    {
+      "id": "jsearch_TmdlMVlFSFp6WTdrcnlWNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMmhIVFRkUVNrOUlXbVoyZDJrNWVFMVlUMDVIZUd4M2RUaFBRM2RUZDNaTVNYaDJTMnBIZEdKTlIzQmtibGN6Wm1oTmNsZFlUblJzU0RaWFNEVmxjMTk1VDFRMFZrWlBaRkpTTlRoMlZtZElkbmcyZEZwMk9XNVJkMVZsYnpGSFdtaG5iRUk0Y0VwT05VYzBhMGhDTFZsTU9YbzNZbmRKY1dwS1RXVnRPRVZSWjNsV1ZsVVNGMGhCYmtGaGRsaFpURFJQWlRWT2IxQXdTbTV4Y1ZGdkdpSkJSSE55T1daUlV6aERNVTFITm1OMlZHeFBVRU0xUWxGWFpHdFFWR296TjBWMw",
+      "role": "Growth Product Manager New Remote, United States 31",
+      "company": "calm io",
+      "link": "https://www.jobilize.com/amp/job/us-nh-all-cities-growth-product-manager-new-remote-united-states-31",
+      "posted_date": "2026-09-29",
+      "location": "New Hampshire",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Jobilize",
+      "description_snippet": "About Calm\nCalm is the leading mental health brand on a mission to make the world happier and healthier.\nKnown for its flagship consumer appranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countriesCalm helps people sleep better, stress less, and live more mindfully through content and tools from experts and beloved celebrity voices.\nBuilding on this foundation, Calm has created a broader portfolio including evidence-based solutions like Calm Health, offered through employers, health plans and providers, designed to expandaccess to mental h"
+    },
+    {
+      "id": "jsearch_cFE0cWY5dUp6bzhMbVpMV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTl4ZEc5aFUzaFFNM2hDYkROT1RXODRZV1JKZWxKcE0wdEZOV3RVTkU5bk5HSlNTblZIY2pZMFNGODBkM1ZMY21sa1FVTlRSRlZQZURGR2RqZ3dSemcyVERsUFIxVnJYMnR0VjJnelJtUXpiMFF5TFdaTmNsUXpXbnBMYzBreE1VUnJhMjFTZFVGTFYyTXdha3Q0VW5OclgzQm5OMHRJTlZjdFZEUmplWEJYV0hKR1RrUVNGMGhCYmtGaGRsaFpURFJQWlRWT2IxQXdTbTV4Y1ZGdkdpSkJSSE55T1daUmJHdHdSVTkyUjNkVmRXVlFXRFJyWnpOUlJrSXpNakpZVjB0Qg",
+      "role": "Remote Senior Product Manager, Atom Engine",
+      "company": "Onebrief",
+      "link": "https://us.trabajo.org/job-2850-3596f4fe23357d2bc7575fbd9faff3d0",
+      "posted_date": "2026-09-25",
+      "location": "Naperville, Illinois",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Trabajo.org",
+      "description_snippet": "Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination.\nMilitary planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when the stakes are real.\nWe are a distributed team of builders from military, operational, and technology backgrounds who care deeply about improving how im"
+    },
     {
       "id": "jsearch_d0xyTmNxdHZGbTBINUNYb0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR05HT0VzMWFWb3RjbXRoTW5abWExRkVZMFU0TlZsNGNucDNlVlJqUW10eFJFcHhUekZOTVVsbmFreEpibXBTT1hZM1NFZDFUWFJ2TXpkUlJqZHBUVXBGVEdod1RIbGZaelEzWkdsdVMwaFFTV3RITWtWNlp6WkVWRzlPVFMxc2VFSkROMjFGWW1aYWRVbE5RMHRoY1V4cVVYUmhWbXRGTkhaSVpXZHdhbnBUTWt4VlgxY1NGemRNZFMxaGNtNUdRMjl5YURKeWIxQndjblZNYTFGckdpSkJSSE55T1daVWFHeG9Za2xCZG5Zd05VbFdNakpzTVdsVlkxbEJNMmhyVjJaUg",
       "role": "Staff Product Manager - Enterprise AI (Collaboration) - Hybrid",
@@ -31,20 +143,6 @@
       "description_snippet": "Position Description\n\nWe’re growing and we’re looking for a Product Manager!\n\nThis role is only open to candidates located in Illinois, Indiana, Michigan, Kentucky, and Wisconsin, Western Ohio, Tennessee or Louisiana who are willing to work remote or on-site hybrid.\n\nThis role is centered on supporting products and features tied to the modernization of specialty pharmacy in the Patient Engagement area. The organization is making significant investments to transform legacy pharmacy platforms into a more scalable, integrated, and digital first ecosystem — and this Product Manager will play a key"
     },
     {
-      "id": "jsearch_ZzVSeERhQ0Q2SGZxdFowSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlkxZGpocGJVc3dOVGhpZW1ObVdscHFMWEo1UWpoemR6SllZMFJITFVVNWJtaE1UM05mUTBRd2VqVlpiV2RmVW1KUVVWWnhUbkZOZFRaVVlYRnVVSFJzWlMxME1ucFpZMUJZUms1MFlrcFhZa2xCVERFeE4yWklZVlJ1Y0dSSmVUUjFSMkpTUTA5MVZVZHZPVkUyVmpoNE1VaHRkREk0TTJaUVZsSlBZemc0T1haQ2FFUVNGemx5ZFMxaGNtNU1VRXhVYmpGelVWQXlOMjFMYzBFMEdpSkJSSE55T1daVWNYaHBOa2R0WkV4UGExazNSWHBwU0VOVU5WSlVhMUJIVlRCMw",
-      "role": "Product Manager - Acquisition Services",
-      "company": "Continental Finance Company",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-acquisition-services-at-continental-finance-company-4471556110",
-      "posted_date": "2026-09-29",
-      "location": "Wilmington, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "LinkedIn",
-      "description_snippet": "Come join a growing financial technology company that’s leading the marketplace in both the marketing and servicing of credit cards! Continental Finance Company specializes in credit card options for those consumers with less than perfect credit. We are seeking an experienced Product Manager to lead credit card acquisition and decisioning initiatives and manage a dedicated Agile product team.\n\nThis role will partner closely with Marketing and Credit Risk as core business stakeholders, along with Data Science and Technology teams, to launch new credit card products, execute acquisition strategi"
-    },
-    {
       "id": "jsearch_elkzQmp6T0doek5SZk5uNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlJLVFdWQlRXdFNOMlpUUzFOVU0xbFphVUptU0ZsWGNVaDFMV2h3VHpWUmRrUmpSVTAyYXpGVmNtRmtaMjk2WDNaWk1HaHhUM1kwV0VaVVZ6WnROMHh0V21ock5HMVRVV1pZVVZKZlJtRXRNM2xOYzA0d00wdGhaR2t4UnpoUmRWWmxTVk50ZHpSS2FsOVRRVVU0ZG1GRmQxWjVhWFI1VDJ0VFlqQnBOWHBHUTJJd2VGY1NGemRNZFMxaGNtNUdRMjl5YURKeWIxQndjblZNYTFGckdpSkJSSE55T1daVVEycG1WVXQyU25SaWJsVkZWeTAzTFZGaVkwbERVVkJuU1RCMw",
       "role": "Sr. Product Manager, DAM",
       "company": "The Home Depot",
@@ -57,20 +155,6 @@
       "match_score": 6,
       "source": "The Home Depot Careers",
       "description_snippet": "Position Purpose:\n\nThis role drives the product strategy, roadmap, and delivery for Digital Asset Management (DAM). The Sr. Product Manager owns the lifecycle of atomic assets and metadata management, while leading integrations with key content management, marketing, and activation platforms. Acting as the owner of atomic assets, this role ensures content is seamlessly managed and discoverable across the content supply chain.\n\nThe Sr. Product Manager is responsible for assessing market needs and inspiring cross-functional product teams to find the fastest way to achieve value around those need"
-    },
-    {
-      "id": "jsearch_d0pnRmZ1bjhsMFJ1TU0zVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVUzYjJSTlJIVm1OMVF0TXpKaE1qa3pRbGRPT0doU1pqZFllRW93VVU1TGNtNWhTVE4yYTNWV2RqWllOSGxRUzBoR2NHSnlRbmhqYjFCRlQyWXhWamQwUm1ad2QzQTBVbVZ5Y0RaUE1WVnlUblZsUVdWMlNIRTFUbUZuVlhCQlNETmFWVE50TlhjeE5reDBPVTVpYWpNMlFqVkNjVjl0Y21wSWVFVnpOWEIyZUVkVFJUWVNGemRNZFMxaGNtNUdRMjl5YURKeWIxQndjblZNYTFGckdpSkJSSE55T1daVVNHVk9VM1pVYkdjMlFsWmtPR2QwTlRSNVprWlJNRTFpYVVSbg",
-      "role": "Product Manager @ fast-growing, mission-driven tech startup",
-      "company": "Hirepath",
-      "link": "https://hirepath.m8s.66ghz.com/remote-jobs/product-manager-fast-growing-mission-driven-tech-startup",
-      "posted_date": "2026-10-01",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Hirepath",
-      "description_snippet": "Title Product Manager Location Fully remote Company overview Crosstie is the workflow orchestration layer for property and casualty insurance operations. We coordinate and execute work across people, systems, and decisions to reduce administrative burden, accelerate cycle times, and improve outcomes for carriers, TPAs, self-insured organizations, and their customers. Founded at Harvard University’s Innovation Lab and backed by MassMutual Ventures and General Catalyst, we’re building execution-grade infrastructure for the future of insurance. We’d love to connect with curious and motivated indi"
     },
     {
       "id": "jsearch_NUZuUjNyVEgybF8xX3lPRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmt6T1RnNWVtNTROek5UT1ZOWWFEWlJhQzFaYkcxaU1IVmpha2RzWmtSemEwUk5hbmx3U0ZGd1V6WlhkelUxTWxsdmVrbG9iVWRtTVdwMVpqRTVWVGxZUkV0eVNVNU1ORVpQZERjellWaFBVbk4xZVZOUU5XRmhPR2RLTUY5UGVGaHFZMFZTVlVkMlgzUlVORVpPYkdGeE9EUmxSMHRNTVMxNlUyOU5NMWhQWmpCVFMxUVNGemRNZFMxaGNtNUdRMjl5YURKeWIxQndjblZNYTFGckdpSkJSSE55T1daUk4xRTFPVkZuUzNVeFdFYzFRM1YyU1cxbFoxZFVXRVUzU2xkbg",
@@ -129,20 +213,6 @@
       "description_snippet": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.\n\nThe Company operates Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc., a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji, Saturn, and other digital services.\n\nThe Ads Platform organization drives innovation"
     },
     {
-      "id": "jsearch_TmdlMVlFSFp6WTdrcnlWNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR0pxTW5FemJHOWliRVI2T1dWV1VuQllOWFZzWDBsRVN6VjFSME41UmxsWlNrNWtiM1ZoU21kUGJITTFZbTB4VW5sU2JHcFZhVFZpYUhrMldGSlJkVXA2VVZsM2VHcFplVkZNVTNZdFFsVk5kakZXYmt0dVNUZHJTMkZyUkU1cVEzcE9SMU55V1RCNVJXTk1VVVJyYjA1TVFuZHlXR2xJV1dkVlVXVnZURjkwZDBZMlVsVVNGemRNZFMxaGNtNUdRMjl5YURKeWIxQndjblZNYTFGckdpSkJSSE55T1daVE1qUm9kWGMxWVhsNlJucFBSMWRyUmt0eVMwODRhREJpTkd4Mw",
-      "role": "Growth Product Manager New Remote, United States 31",
-      "company": "calm io",
-      "link": "https://www.jobilize.com/amp/job/us-nh-all-cities-growth-product-manager-new-remote-united-states-31",
-      "posted_date": "2026-09-29",
-      "location": "New Hampshire",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Jobilize",
-      "description_snippet": "About Calm\nCalm is the leading mental health brand on a mission to make the world happier and healthier.\nKnown for its flagship consumer appranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countriesCalm helps people sleep better, stress less, and live more mindfully through content and tools from experts and beloved celebrity voices.\nBuilding on this foundation, Calm has created a broader portfolio including evidence-based solutions like Calm Health, offered through employers, health plans and providers, designed to expandaccess to mental h"
-    },
-    {
       "id": "jsearch_Q2xiRl9aUkRrczlsY0tScEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBUR2t5VkY4emFuWnZZbHB4VUhCUmNGOWpkM0IxUW5rM09XaGhSM2RFY1VaTlIwNXBOMWRTVW5Sak1YQm9XWFI2YTAxeGFtdE9kMmw2TVRKeU5sQkhSRkpTWjNkMVQzVkNSMVpNTWkxNmNtcHBORTVoVUVOU2NsZDZjVm94VGpCdVJVZEpXVFZsUVdKSVJYaGFObUZ4VEZoQ1ZtbDZObVpuZDBWTmVWQXlieTFTZWpZeGRHb1NGa0ZNZVMxaGMyVTRTR0pEYXpKeWIxQXljbVZoUzBFYUlrRkVjM0k1WmxONFNqSkNSMGhaVnpKeE1EQllhRWx3T1ZCTmNVUjNXRTV0YlVF",
       "role": "Staff Product Manager, Spotlight Monetization & Ad Marketplace Growth",
       "company": "Snap Inc.",
@@ -155,20 +225,6 @@
       "match_score": 3,
       "source": "LinkedIn",
       "description_snippet": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.\n\nThe Company operates Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc., a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji, Saturn, and other digital services.\n\nThe Ads Platform organization drives innovation"
-    },
-    {
-      "id": "jsearch_cFE0cWY5dUp6bzhMbVpMV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV05pUkhsamNFUllZM2RtVTJWWGMxVlJOa05FUzB0NmQyNXFTa3RGYlc5WGJtdzBaMDR0YlRkMVVVb3hORlJtVVROck5GSkhNVmN3TFV0bGNXVmFZVmh6YVVkUVdrRkVWM2h4YXpkeWNFTTNTMHMwYVd3NFQxQk5VamhhTm5CSmMxQlpjM2hVY0Y4dGJqVlJNRUpyUVRKSU0yeFRZbkoxTldKeWIwcHBRMjlHTmtkaFZVSVNGemx5ZFMxaGNtNU1VRXhVYmpGelVWQXlOMjFMYzBFMEdpSkJSSE55T1daVVNUZDRWbWt4T0RGUU5FTlpkbFkwY0d4ZlRXVnBTbWxKY0RWbg",
-      "role": "Remote Senior Product Manager, Atom Engine",
-      "company": "Onebrief",
-      "link": "https://us.trabajo.org/job-2850-3596f4fe23357d2bc7575fbd9faff3d0",
-      "posted_date": "2026-09-25",
-      "location": "Naperville, Illinois",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Trabajo.org",
-      "description_snippet": "Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination.\nMilitary planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when the stakes are real.\nWe are a distributed team of builders from military, operational, and technology backgrounds who care deeply about improving how im"
     },
     {
       "id": "jsearch_Vjk1Y25TdHRqVlpTdnY5ckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3BvWDE4MGQzTjFTREZyVFRWS1IwbFZkbXcyV21aSGMwSlFlWHBYTFRVNGNYVjNTblU1TFhSZlRrTmxjM2xxZVhSRWMweFlNbkpEV2tKS1dHMVVRbTlZVmtKdVkzSllSblF5UldORVlsZDRZakpsU0V4alkybFNWa3RSUlRWWlZEWTJkbWhHUzNNeGRYcFRURXhIVWswemJVZFZjbG95UWpVd2FWY3llRFJ5V0c1VVZVNFNGek15WVRsaGRsZFJSbUZxVlRWT2IxQnVXa3hhYlVGakdpSkJSSE55T1daUk9FOWtURFEwVFRsSWVEbEtkMkZYTlZodVIyaG1WMmhhYjAxMw",
@@ -2089,20 +2145,6 @@
       "description_snippet": "Values & Innovation\n\nAt Under Armour, we are committed to empowering those who strive for more, and the company's values - Act Sustainably, Celebrate the Wins, Fight on Together, Love Athletes and Stand for Equality - serve as both a roadmap for our teams and the qualities expected of every teammate.\n\nOur Values define and unite us, the beliefs that are the red thread that connects everyone at Under Armour. Our values are rallying cries, reminding us why we're here, and fueling everything we do.\n\nOur pursuit of better begins with innovation and with our team's mission of being the best. With u"
     },
     {
-      "id": "jsearch_Q2M0R0F5QTRPR25WZ1NGLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3AzTTJoRFR6ZE5hVXgzYnpkRFdHeEpUSEZtTjFCRFlrbFJNVW80YTJKUGRrVm5VMlpLYlhoMVRtSlVjMkpYWm5GMVZYWmtaa3BSTkdaQmJtNUxabUZCUVZOSlpVSkVZVVZrWTFWRmMxbDZUa0ZWZFV0R1JrWkpPSGRzVFRoaGNUTkVNRFJVUzE5QmVWRXpZa0YyUkZkaWRHMW1lbWsxWjBaWGIwNTVNMjlCWVhKcmVHOFNGM0pIVDAxaGRIWTVTV0o1ZVcxMGExQnVYMHh4WjBGbkdpSkJSSE55T1daVE5FdzVlR2czYTJ0elJXVkZaVjh3ZDE5NlJVZGpNakJ2VW5oQg",
-      "role": "Technical Product Manager Lead- Senior Manager- Commercial Technology & Innovation",
-      "company": "PwC",
-      "link": "https://www.linkedin.com/jobs/view/technical-product-manager-lead-senior-manager-commercial-technology-innovation-at-pwc-4455533466",
-      "posted_date": "2026-08-17",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "LinkedIn",
-      "description_snippet": "The Opportunity\n\nAs a Technical Product Manager Lead, you will drive software and product innovation, focusing on developing advanced software solutions to meet client needs. Within our Advisory - Other practice, you will combine technical skills with creative thinking to deliver innovative software products that enhance business performance. As a Senior Manager, you will leverage your skills and network to deliver quality results, motivating and coaching teams to solve complex problems. You will apply sound judgment, recognizing when to take action and when to escalate, while developing and s"
-    },
-    {
       "id": "jsearch_SGdOSDlZTEJiZmlUTnZUOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTME5ZWjNKU1dFcEtRbko0TlRWbVpGUXpiMnBUT0hsbmJrWXRjV3R4TVV0WllYcFlaelJRWVcwMlRVdDNVRkZKYzBaelMzSk5aSGRWY1ZWMmIweFhVekZwU0VGdlpGUlRTMk5HVkdkWWRXMWpkVmt5U0V0U2NIUXhNa1F5WTA5dE1XSkJWMnRvY3pFMU9HcGlkMjFUWkRoNFpVWmtObHAyUkRCUlVIQktiWGxQYWsxUmVuWVNGM015VDAxaGMxaDJTMjl1VTJ0UVNWQjVZMmxCTUZFNEdpSkJSSE55T1daVGREbEhTbWg1TFhFeFNYSjZkMkZ1VDJSSE4zUXpRMjlDT0ZSUg",
       "role": "Product Manager / Investment Technology / Remote",
       "company": "Motion Recruitment",
@@ -2759,48 +2801,6 @@
       "match_score": 1,
       "source": "JobLeads",
       "description_snippet": "Restream is seeking a Senior Product Manager to lead Studio, our core product. You will own the product from idea to production, collaborating with the founding team to ship high-quality features with a strong UX focus.\n\nYou’ll prototype ideas, contribute to production, and use data to drive decisions in a fast-paced, global SaaS environment. Equity packages and full hardware/software support are offered."
-    },
-    {
-      "id": "jsearch_eU44RjZuekI4MlJkbk91dkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemhGV1hGMk1FSkNlSHB5YUdwQmNqTjZkbEYzV1hsT1VXTm1kalV6Ym5OVGVHcGtNVmhWT0hkdFVuWXdaV2RJVFROQlYzcEtjM0p5VEhCSGFuQnBMVVpIV2paSGRuSlBiMloyU1RKSVlXbG1YMjVrWjJkb2QxY3haMGRVTVc1MGVrUkZXbUZyUmpka1pGQTJiakIzUVZGa2JXZEdkVGN5VEVGMmJqSTJPSFkwTFdjNE5HVVNGeTFaUjBGaGNETkpSazB5Y1hCMFVWQTBOMUJTTmxFMEdpSkJSSE55T1daVGRWTTBUVGxXZWxCS1FYaHdhbUk0WWpKbU9XTnlPRTluWDBObg",
-      "role": "Software Product Manager, AI (Remote, US)",
-      "company": "Chamberlain Group",
-      "link": "https://bebee.com/us/jobs/software-product-manager-ai-remote-us-chamberlain-group--fj-2261910429",
-      "posted_date": "2026-08-09",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 10,
-      "source": "BeBee",
-      "description_snippet": "Chamberlain Group (CG) is a global leader in intelligent access and Blackstone portfolio company. Powered by our myQ technology, we make access simple and secure for millions of homeowners, businesses, and communities worldwide. Our flagship brands, LiftMaster® [https://www.liftmaster.com/] and Chamberlain® [https://www.chamberlain.com/], are found in 51+ million homes, and 14 million+\n\npeople rely on the myQ® [https://www.myq.com/] app daily. We are seeking a Software Product Manager, AI to lead the definition,\n\ndevelopment, and delivery of AI-powered features across our myQ ecosystem. In thi"
-    },
-    {
-      "id": "jsearch_SnYzUDl2MXdpMGF0V2dvbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFEwVkZreFZWWlpSME5IYnpKcmN6SkNZVEZLY0hKSGEwNUhiR3BHV20welZtZEdjMFZGZWxNMU5taGhiak5pVXpFdFpVRldiMVYzVlVNNVpubEZTM2h1ZWw5VGJ6aENjak5WUkVZNU1WZHRPVTVZUWtzd1NuUlhZVTVQU2kwd1dUZDRlRTlST0RObU1GSlBSWHBRVkVGS1RFTkVhV2xrUTJWTE4ybDNSek5QY0ZCTlpWTVNGMnRxWkY5aGRXVmZRbVJNU0d0UVNWQXlkazlQZFZGakdpSkJSSE55T1daVFNuTTFTMDltVUZGWWNqQjJaVkZwUWs1cVNUSktWek01WWt4Mw",
-      "role": "Global Product Manager - Transformers",
-      "company": "ABB",
-      "link": "https://careers.abb/global/en/job/JR00036455/Global-Product-Manager-Transformers",
-      "posted_date": "2026-08-12",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "ABB Career",
-      "description_snippet": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\nThis position reports to:\nBusiness Manager - Operations and Portfolio\n__\nYour role and responsibilities:\n\nAs the Global Product Manager for Low Voltage Dry Type Transformers, you will have the opportunity to manage the marketing of ABB’s offerings to targeted market segments and manage these offerings throughout their lifecycle, in line with market needs and product group"
-    },
-    {
-      "id": "jsearch_NVd5MXczZjF3RHI4VzN1eEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVp0V2kxVFdXOTRjRkJrWjFkdmRFOUlWVzA0Y1RoWWFsTTVOMWRNZVVKemJrZFNXRUZEZVRKVFFqUTBNMlZRY1ZCVlNqbHJiRTF3VTI5c2QxbHhXblZ1VUd4ZldsOVRTVE5uU25KVFNEQjBUa296VUhWeWJWbDZTazFpVldzMVdWbDFiazloUTJWNk0yNXZVQzF5VWpCM2VUUlZiMk56V0d0d01IaEljMnBaUzBkUlMxVVNGMEV0YURsaGNVZ3hTa3MyYld0UVNWQTVaVGR2TUVGekdpSkJSSE55T1daVFFXcDFiVmxQYUdKTlMwaExXa3A0ZGpOMU4zVlZVelZpVDFsMw",
-      "role": "DevSecOps Product Manager - Division of Information Technology",
-      "company": "Federal Reserve Board",
-      "link": "https://www.linkedin.com/jobs/view/devsecops-product-manager-division-of-information-technology-at-federal-reserve-board-4449784204",
-      "posted_date": "2026-08-06",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 15,
-      "source": "LinkedIn",
-      "description_snippet": "Position Description\n\nMinimum Education\n\nBachelor's degree or equivalent experience\n\nMinimum Experience\n\n5\n\nSummary\n\nServes to align and organize Product Owners and cross-functional teams throughout the product lifecycle to identify and deliver solutions that customers find valuable and engaging. Possesses advanced knowledge of the client's strategies, functions, issues, and relationships that drive day-to-day operations, decisions, and workforce dynamics. Applies this knowledge to better meet the client's business needs and requirements. Collaborates with product team members to translate roa"
     }
   ]
 }
