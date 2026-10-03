@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-02T19:43:20.392Z",
-  "total_fetched_today": 8,
+  "last_updated": "2026-10-03T18:28:28.225Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_aUlUSFZoWk1rV2Z4U1NoQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTek5tVFhWVlpVdGFRbU5aVGtoSVRYcEhNbFZxVTFsVFQya3pXRzVDTTJoV2JHSnRXQzFQV2w5RGRWUXpkRFp5YjBzd05EWkthbEIzWkdkMk9XWlZSRWhNVGtkNU9VOW1aMUExY0VkcE1FTkllSGgwTm01WGVtSmZiRmhHZERCRldYY3piVXhEVlZSUFRIVnllVzltTm0xUFVsQjVRVmRpUlc0MGJ6QmphbloxWDNCYVVGa1NGMHd3YmtKaGNrUnNSR1pEYW5aeU1GQndPRzVQYzFGUkdpSkJSSE55T1daVFdHVlljMFJsZWxOa1gyMWtibDl3ZG1sTmVuUnVPVlZ3VTBoUg",
+      "role": "Confluent - Staff Product Manager, Streaming Analytics Engine",
+      "company": "IBM",
+      "link": "https://www.linkedin.com/jobs/view/confluent-staff-product-manager-streaming-analytics-engine-at-ibm-4472995412",
+      "posted_date": "2026-10-01",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "LinkedIn",
+      "description_snippet": "Introduction\n\nAt IBM Software, we transform client challenges into solutions. Building the world’s leading AI-powered, cloud-native products that shape the future of business and society. Our legacy of innovation creates endless opportunities for IBMers to learn, grow, and make an impact on a global scale. Working in Software means joining a team fueled by curiosity and collaboration. You’ll work with diverse technologies, partners, and industries to design, develop, and deliver solutions that power digital transformation. With a culture that values innovation, growth, and continuous learning,"
+    },
+    {
+      "id": "jsearch_dHMya3I5S2JiYXBmSUFQVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVJEVGs1ZldsYzNRMHRJUTJSUGJUZ3hWM0Z0VTFaRFZVRlFWMmh1ZGxaYVVtZGlVelkxTVVGc1ZuSXRaRXRSU1hWQlZWRjFNRU41YTFkTFdEZHpXRXRNWjA1YWREZHdja2hTWDFGWVZVMWZSMmRvT0daV01uWlpUREF0YWs1amFYZFNVRGRvYzB4a1JtUkhSbnBrWkVOTlptMHpZMkZ5WDJsNWJqVkNWRkpNV0U1WFJFUVNGMGRWYmtKaGJ6ZDNUVmxVUTJ0UVNWQnVaamQwZFZGUkdpSkJSSE55T1daVWNYSmpZVGRyUld4a1dHOWZRVlYzYzI4NVltb3RUbnAxVWpsQg",
+      "role": "Group Product Manager, Emerging Solutions",
+      "company": "RainFocus",
+      "link": "https://builtin.com/job/group-product-manager-emerging-solutions/11449056",
+      "posted_date": "2026-09-29",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 11,
+      "source": "Built In",
+      "description_snippet": "RainFocus, one of the most innovative software companies in the heart of Utah's Silicon Slopes, is in search of an exceptional Group Product Manager, Emerging Solutions.\n\nAbout RainFocus\n\nRainFocus cares about its employees, customers, and the world in which we live. Our amazing teams serve Fortune 500 companies like Adobe, Cisco, IBM and others to prepare and execute in-person, virtual, and hybrid events, across the world. Those events are delivered through our industry-disrupting software platform, with groundbreaking business intelligence, to elevate the attendee experience, streamline even"
+    },
+    {
+      "id": "jsearch_Vk9Rdjc2Znl0V2lIcHBiVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbkU1TkhoclZrRmtTM0JxY205c1FrNHpRM281TXpaUlpWSk9SRFo0WlZwd1UxVmlVVmR0TFhjMVVWZ3RkR0ZVYTJRNFlXZHpUemhrUzFSNlYwdzJWekJ0WmtOSGMzQnZlVGhtUzJGTFZ6VlNiR2RqZDJKMU5uWmxabTV4UjB4U1lrbFJWWGRoWVRnd1RqVktNbEExYWtZMGIybHpZMVU1UkVsRGNWQnRWa0o0U0hkbGRXVVNGMU5WYmtKaGMyMUtUMDVMY3pWT2IxQTRkUzFJZFVGM0dpSkJSSE55T1daUmRFcFFZMGhNTlhoZlpIQkpVVWt4WVdSNlMydDNhRVZSZEY5Ug",
+      "role": "Senior Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-remote-govcio-austin--lifeworq-1f1b5899-c677-4512-8e73-6ea0041653da",
+      "posted_date": "2026-09-29",
+      "location": "Austin, Texas",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "BeBee",
+      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nGovCIO is currently hiring for a Senior Product Manager to lead strategy, delivery, and oversight of a custom-developed product within the OCC portfolio, supporting the Veterans Health Administration (VHA) Office of Connected Care. This role owns shared services intake and coordination, with additional support for FHIR data governance and data quality - advising clients and aligning product goals, stakeholder needs, and technical execution to mission-critical outcomes. Strong candidates bring product m"
+    },
+    {
+      "id": "jsearch_T3J2djJDTzVkc2FYVFRBVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalJFZGs0MFgyVmxWa2xGVUZCTll6ZHdXamx6UnpCdVpFRlpaVWhxYTFkQ1QxZDZkREoyZWtwcE9IZGFWVUozTlZOcmNHTmpObTlhY0drNFIxcFFTekJPU0c1VVFrWkVjalJ3VDFGU09XNDVZWGRxT0ZOaWRHZG1aa1J1VVhsQ1VEaEtkekJmZDJGNFVraEJVM2c0V0MxemJsVlhWRWhLUTBnME1FRjNjV3hHUjBnM1NrY1NGMHd3YmtKaGNrUnNSR1pEYW5aeU1GQndPRzVQYzFGUkdpSkJSSE55T1daVVNrdHhSakZUTVRjeFpqaG5VRWhEU1doMFZHdE1PSEJFYW1sUg",
+      "role": "Remote LATAM Product Manager — Own the 0→1 Growth",
+      "company": "Hilbert's AI",
+      "link": "https://www.jobleads.com/us/job/remote-latam-product-manager-own-the-0-1-growth--united-states--e0e1869c570f535d20c037ebe5af092f1",
+      "posted_date": "2026-09-30",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "JobLeads",
+      "description_snippet": "Hilbert is seeking a senior product manager to own a surface end-to-end—from vision to ship dates—working with software, ML/AI, and data engineers across time zones. You will spend time inside customer environments to inform the roadmap and define success metrics tied to KPIs and OKRs.\n\nThe role is forward-deployed with a focus on data and ML infrastructure, including ingestion pipelines and activation platforms. Fluency in Spanish is required."
+    },
+    {
+      "id": "jsearch_UUpscmlWeWVXNk95MEloaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWG8yUTNZd2NuYzVUVk5uV1VRNFlXaGxaRWt3UVhGYWR6TkRNa1ExWVRGUk1HRmhOMjh6ZVVWdmQzTnhSRWxRYjNJMVJXRTJVamhhZFdwdmFYVkpjbDk2U1ZwSVV6TkdZWGhDZERsMGRVVlNUREprVFRaTWRWZzVSRFJoTWpodE9XWnJNMHhQTjBNMFZHdFFjMWh3T0hwYWEzQTRUMmx2YVd4YWNrOUVia2hKUlVwS1dsWVNGMU5WYmtKaGMyMUtUMDVMY3pWT2IxQTRkUzFJZFVGM0dpSkJSSE55T1daU05HRkxPR0kxUlRrMFYzWkJPRVJDVnpkYWJIVnBTWFpzWjNKbg",
+      "role": "Remote Product Manager, Discounts & Promotions",
+      "company": "Airbnb, Inc.",
+      "link": "https://www.talent.com/view?id=635756945838442643",
+      "posted_date": "2026-10-01",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Talent.com",
+      "description_snippet": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\nThe Community You Will Join:\n\nOur Product Marketing Managers imagine the ideal experience for our community and work backwards, creating innovative products that delight our guests and Hosts. They deeply understand the needs of our users"
+    },
     {
       "id": "jsearch_Q2M0R0F5QTRPR25WZ1NGLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2xoWDE4dFRqVTNNRkZRTm1relRYUmlWVkJZUkRaMk5YaDFRMTlDZG10VVowZHJMV3RvTjNoelFWOTRhQzA1WDBGeVNWbHhiR016TjJneE0wOXFOM05DUW1oVk0wZHFiVGxZV1VaamFHTjBUVTR6VjNwcWNsWmhZbUZHWldGNU5XMXFPVVZYZFdOdE1XVTJMV1ExTmt4clNVd3lkMHhDWDNWMmRFbG9aMlpqUkhWaVYxSVNGMFZCYmtGaGRqZFlUbVZ1Vm10UVNWQTJUeTF4YzFGbkdpSkJSSE55T1daVU5tTmlPREoyWDFseU5rWmtRMVpITVVwUWVrRnVaVkp3VkhWbg",
       "role": "Technical Product Manager Lead- Senior Manager- Commercial Technology & Innovation",
@@ -29,20 +99,6 @@
       "match_score": 7,
       "source": "LinkedIn",
       "description_snippet": "Come join a growing financial technology company that’s leading the marketplace in both the marketing and servicing of credit cards! Continental Finance Company specializes in credit card options for those consumers with less than perfect credit. We are seeking an experienced Product Manager to lead credit card acquisition and decisioning initiatives and manage a dedicated Agile product team.\n\nThis role will partner closely with Marketing and Credit Risk as core business stakeholders, along with Data Science and Technology teams, to launch new credit card products, execute acquisition strategi"
-    },
-    {
-      "id": "jsearch_T3J2djJDTzVkc2FYVFRBVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUV5YzBZM2RqVkxkMUpqWldGbmNGaHhPRGhLWldsTWVXRnViV3AwZWxGb1dDMVdhMVJLY1VsU1JUUjNjeTFOZFdRdGNFRk5URkprTmxsQ2ExRndibXhMV0hkcU9WSXhWMW8wWnpSMGFXOVpaRWRqVDE5cFZXbFRRM0JPT1VWWmFDMUZiRTlwTUVsV0xXbDROVlJuVTI1dmNrUnJZVEZqV0RCZlRrWlpZeTB5YzBoSFIyY1NGMFZCYmtGaGRqZFlUbVZ1Vm10UVNWQTJUeTF4YzFGbkdpSkJSSE55T1daUlYyMVpTVnA1WlRNNFYyZGlTRlk0WVhaVFRITmpUUzB3WW14Ug",
-      "role": "Remote LATAM Product Manager — Own the 0→1 Growth",
-      "company": "Hilbert's AI",
-      "link": "https://www.jobleads.com/us/job/remote-latam-product-manager-own-the-0-1-growth--united-states--e0e1869c570f535d20c037ebe5af092f1",
-      "posted_date": "2026-09-30",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "JobLeads",
-      "description_snippet": "Hilbert is seeking a senior product manager to own a surface end-to-end—from vision to ship dates—working with software, ML/AI, and data engineers across time zones. You will spend time inside customer environments to inform the roadmap and define success metrics tied to KPIs and OKRs.\n\nThe role is forward-deployed with a focus on data and ML infrastructure, including ingestion pipelines and activation platforms. Fluency in Spanish is required."
     },
     {
       "id": "jsearch_d0pnRmZ1bjhsMFJ1TU0zVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTV0ZUV0TFdGUkhVSGxoZFZvNVdVeGFlVzVvYlVSelpEVXRSRE0yVW1rMVVrbGtZMHh5UldST1ZHaDBPRkpPVVZWT2ExTTNXRlJZYUdveFZXZDBOMGRoVUhGclVGUnJNM2xqUlZoTldFNURVakYyUVhOSVNuSkpWaTExYUd4ZlExaFhURGw1TjJoQk9IQmZZWE5mYlVsRVFtSldiRlJuYzBsWVl6Tm9Xa28xVVUwMGFqVVNGMGhCYmtGaGRsaFpURFJQWlRWT2IxQXdTbTV4Y1ZGdkdpSkJSSE55T1daUlNUUkxVVFJtTTNaRlJ6WnBXVU5QZVZNNFVraDFNekZzYzJWMw",
@@ -2745,62 +2801,6 @@
       "match_score": 2,
       "source": "JobLeads",
       "description_snippet": "Greenstone Systems is seeking a Senior Product Manager to lead the development and execution of product strategy, aligning with company goals and customer needs. You will oversee the full lifecycle, drive cross-functional collaboration, and ensure timely, high-quality solutions.\n\nThe role champions customer insights, supports go-to-market efforts, and fosters a data-driven product team. Travel is required; remote/hybrid options may be available in a flexible work environment."
-    },
-    {
-      "id": "jsearch_YUY1WnJKRzVlTDRBcjJRcUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR0pLY1ZjNVpsVkZiMjl3YkdFNWVFRllRMk0wVHpWVWJGUXRORGs0ZUZWT2QxWkxTekZ1VG14Qk1IRmZhWFJCWkVWU01VeGhkVGg1YzJkcWNHZzFiV1ExZGw5TU5GSmhSWHBzVlV4RGNqWTNUMFZsUm1SRlp6VlZWM05TVTNkemVrMW9aV2xCUVVRMWRIRk9iR1JEY2pKVWFUQTBXak5DYldFMlZEZDVSbWxQTFdZNVZ6QVNGMTg1VDBKaGRYSnZSVFl5Y0RWT2IxQjZORkJ2YVZGakdpSkJSSE55T1daVVNXOWhNVVIwWW5kVWJHczRVR2gzY2kxc2VIbzBTSGszUkdoMw",
-      "role": "Principal Product Manager Technical, Alexa AI",
-      "company": "Amazon",
-      "link": "https://bebee.com/us/jobs/principal-product-manager-technical-alexa-ai-amazon-bellevue--ss-us-13zqflp",
-      "posted_date": "2026-08-10",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "BeBee",
-      "description_snippet": "Do you want to work hard, have fun, and create history? Do you think fast, dive deep, and get things done? We are seeking a Principal Product Manager - Technical to join our team to ensure that the core of Alexa is always learning from customer actions.\n\nThe role requires an entrepreneurial product manager who is passionate not just passionate about technology, but is able to translate the benefits of the technology to our customers. If you enjoy leading technical product innovation to build products and experiences that are used by millions, then join our team.\n\nYou will be the voice of the c"
-    },
-    {
-      "id": "jsearch_NmgyT2FnMVdUam9MaS1LM0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU5wUkd4aGFERkhNSGxTTmxJdFQwcGZlVnBqZVZWaGNsaHZTVXBKTWxoNlJHd3RNbEZFT0VoaFZUQTRkMTlZZUcxRlRHTkJSSGRPT1dKTVMweEVRVXh1VEVOU2F6QmpRMmgxZVd4cGVHUmFhVk4yWmxwVFNVdFZVakpCWVhsVlRHNXRPREF4VHpGdlFtdHJlRjlmZVVONVMxazJZMUJsWjBSdWNWSkhlbFp1U2t4aWEwUVNGM2RrVDBKaGNqZHdSbUV5VHpoTU1GQnlOMjVGZFZGSkdpSkJSSE55T1daVFFtODNSaTFvT0Rob1YzaDJTMUY2V0VOMFptTnBjWEY1Tnpobg",
-      "role": "Remote Product Manager - Data Center Software",
-      "company": "Carrier",
-      "link": "https://bebee.com/us/jobs/remote-product-manager-data-center-software-carrier-west-palm-beach-fl--jooble-6636682956723287237",
-      "posted_date": "2026-08-13",
-      "location": "West Palm Beach, Florida",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "Carrier is seeking an experienced Product Manager for data center software, collaborating with Sales, Engineering, Services and Marketing to shape features for enterprise solutions. You will define product requirements, refine roadmaps, and serve as the evangelist for the offering with Sales enablement and successful launches. This 100% remote role requires alignment with Eastern or Central time zones."
-    },
-    {
-      "id": "jsearch_S21JckdvX19kbnFSNWhuMkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM28xTW1seU5HczBka014WDBSdlkwTkJOMk5OWmxCRmVGTmtOVXA2VlZoU2JFVkZUVkZTTTFkNVRFczFSVXRqVnpneGVEWXlZMnRzVW1wUGFFbHhZVUU1V1RCbGVYbGhlRTlFV0V4eE5HdGhja3d3V0ZWU1p6WXdka3ROYkZrNGNXdENla3R4VldGRmNFYzVRbWQyY2pVMWJFcHJTMVF6ZDFZNVREWk9TblZtYTJVMGJIWVNGM3AwVDBKaGRFdExTWFJRUzJ0UVNWQTFPVU51YlVGakdpSkJSSE55T1daUmJETXpNUzFWUzBaTGEwWlJOR3RLVGxwa2NXZzFTbTB3YVZkMw",
-      "role": "Product Manager-Liquid Cooling System for Data Center",
-      "company": "Midea America",
-      "link": "https://bebee.com/us/jobs/product-manager-liquid-cooling-system-for-data-center-midea-america-plano-tx--t7xk-803290268",
-      "posted_date": "2026-08-14",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "Midea America Corp. is one of the world’s largest home appliance brands, offering the most comprehensive selection of products in the world to fully serve the needs of day-to-day living at home, at work, or anywhere else you go.\n\nIn North\n\nAmerica we strive to aim high, put the customer first, transform and innovate the marketplace, utilizing our commitment, dedication, inclusion and partnership with our teams. We are a global company with over 150,000 employees and operations in more than 195 countries. As a publicly listed company, we are also ranked #245 as a Fortune Global 500 company and "
-    },
-    {
-      "id": "jsearch_cXI3SjFXMG1iS0VWVHozdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWE5PYUdzdE9XOTNlbEkxU0dWeldHbFFiSGRVZVZvMExYcGZaRFpMWWtwUE1tbHJNMFYxZEhabk9IVXlUbFZWY2xKSFFtSllNblJVV2toRFYxUlJiMTh5TUZGVlRtMWpNVGhIZERKT1lqRjBkSFZGZGtzNGJuQk9WbWhCY21kdGNuWnlNazB3VkdwVE5USk1Nbk54YzAxYU0zcHVVMlZRV1dob2IwTmxaa2szYVZkdVlsSVNGemhrVDBKaGRIbFpUVWxQZVRWT2IxQXlabUpyYlVGSkdpSkJSSE55T1daUldrSTVlamRrVnkwMmJqWnlXREZVUkVwNVdESkZXbWxYTUMxMw",
-      "role": "Senior Product Manager – Studio Creator Tools (Equity)",
-      "company": "Restream",
-      "link": "https://www.jobleads.com/us/job/senior-product-manager-studio-creator-tools-equity--united-states--e2abf4445e5cf47b460b648f6d2a2e96a",
-      "posted_date": "2026-08-12",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "JobLeads",
-      "description_snippet": "Restream is seeking a Senior Product Manager to lead Studio, our core product. You will own the product from idea to production, collaborating with the founding team to ship high-quality features with a strong UX focus.\n\nYou’ll prototype ideas, contribute to production, and use data to drive decisions in a fast-paced, global SaaS environment. Equity packages and full hardware/software support are offered."
     }
   ]
 }
