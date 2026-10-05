@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-04T18:30:24.977Z",
-  "total_fetched_today": 10,
+  "last_updated": "2026-10-05T21:45:08.126Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_UERvOGVRdHVpV2ZacG4xOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekk1U0Y5RFZVTlBMWGN4VVZoUFJqUldkRU54V1ZwbFpXVjBWMlZhUzIwdExYbHRUM2RtV0ZkdFMycHhWblZxZURKV1NUTm5OSEI2WjNWTFVGWkxZMlZzTUVsVmQxVlpSeTAwYVVkUE5tNHpPWFE0T1d0VGRIQTNYM2RtT0ZsVFIyTk9WMVJXWDB0T2RrMUZVMEkyZFRWNVVqbHhVbXB2Y0d3d1ZIWm9hek0yYVdkU2RqUVNGMVo0Y2tWaGRFUmFSMUJ4YVRWT2IxQnViMmxzTkZGckdpSkJSSE55T1daVE9ITm5ZeTF1ZFhwMk5UWnVXVE5NUTI1Vk1tUmhjMkZZVVZObg",
+      "role": "EverPro - Lead Product Manager",
+      "company": "EverCommerce Solutions Inc.",
+      "link": "https://evercommerce.wd1.myworkdayjobs.com/en-US/EverCommerce_Careers/job/EverPro---Lead-Product-Manager_R-106550-1",
+      "posted_date": "2026-10-01",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "Workday",
+      "description_snippet": "EverCommerce (Nasdaq: EVCM) is a leading service commerce platform, providing vertically-tailored, integrated SaaS solutions that help more than 745,000 global service-based businesses accelerate growth, streamline operations, and increase retention. Its modern digital and mobile applications create predictable, informed, and convenient experiences between customers and their service professionals. With its EverPro, EverHealth, and EverWell brands specializing in Home, Health, and Wellness service industries, EverCommerce provides end-to-end business management software, embedded payment accep"
+    },
+    {
+      "id": "jsearch_dzUzMlF3cVppYjZ0aGxObUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWRzUm04MWRHMXNkREZWZDJzMlptdzFTRTlHUjFOd1ptWnZOR2RHYjJRd01uRTJjSGRLUW1sdFRtZDFla2hEYlVKc1dqRTFOa1pSUlhkSVZtWk5hMmxGUzNCT1RHMVpaaTFwZWtoUk1XWmhWMmRRV0U1MFlWZGpOWFJVZDJjNVpYWlJaRk54Y1habk4zSTNNMUZPVUZsV1FUY3hkbEU1VjNOVFR6Vk5TR1Z1ZGw5T2FrOFNGMVo0Y2tWaGRFUmFSMUJ4YVRWT2IxQnViMmxzTkZGckdpSkJSSE55T1daU2JFdEJiVTg1UTJsUVlrOWlUa1ExZEVGQlJscFpaazlyT0hOUg",
+      "role": "Principal Product Manager Physical AI",
+      "company": "ARM",
+      "link": "https://careers.arm.com/job/seattle/principal-product-manager-physical-ai/33099/101362523616",
+      "posted_date": "2026-09-29",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Arm Careers",
+      "description_snippet": "Want to define how Physical AI applications run on Arm-based silicon?\n\nWe seek a Principal Product Manager to own representative Physical AI applications and the reusable ML and software stack beneath them. The role spans humanoids, autonomous vehicles, and robotics, connecting perception, autonomy, AI inference, middleware, tooling, simulation, and deployment into one product direction.\n\nThis Principal-level individual-contributor role turns customer problems into product choices, requirements, and measured results. It works across application, platform, silicon, and partner teams to decide w"
+    },
+    {
+      "id": "jsearch_cjNhZUo3dnA1U1pJNFB0WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEZGVm1wcmVUTkdkVlpvVG5sRlZYUTFWREV4VERsUE4wMXFaSHB5V0hwTlZVNUhkVlZLUkdGUVNYb3dVa3d6WmpOcE5GaEVlVFV3YVY4M2FFZG5PSFEyVTAxd1JGWkRTMk5GWVY5clJXSkdNMVJJWXpnMmFtdENRekZJTUVGSU5VNWZSVkpuZDNNeVV6aHRUR1JsV0dZNE4weHVabkpQZG14RU5reGxWbVJ2ZFMxcFpGWVNGMWxTY2tWaGRDMUpRMlZ5YmpWT2IxQTBabE5LYjBGSkdpSkJSSE55T1daVFQyVnFjR2RLY0VGcVltbDJhM1pFVGxoeE55MVNZWGsxYUY5bg",
+      "role": "Product Manager, Analytics Channels",
+      "company": "LSEG",
+      "link": "https://www.tealhq.com/job/product-manager-analytics-channels_7ea1a542592da9b0b0d517e64175358940605",
+      "posted_date": "2026-10-01",
+      "location": "Cheektowaga, New York",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Teal",
+      "description_snippet": "About the position\n\nLSEG Analytics has been trusted for over 30 years by portfolio managers, risk teams, and quantitative analysts. These clients want to access analytics where they're already working, which happens in spreadsheets, notebooks, BI dashboards, automated workflows, and increasingly in AI assistants and agents. This role owns the surfaces where LSEG analytics meet that work. The Product Manager for Data Analysis Channels will own the integrations that deliver LSEG analytics natively into the tools customers already use. This spans established surfaces such as Excel and BI platform"
+    },
+    {
+      "id": "jsearch_b3ZqaERKQUhoMnh3WWU2LUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEIwYzFaVWJXTlhWR3RoYjJGWFFWVnFVVll5Y1d4dE4wVkdUa1V5VkdoRE5IVnNjMlZ6U25oaVYxTlNNemxRWWtKMmNtSnVTa2xtTWxNMU5rZG1ORVYwYzBGd0xXUnRRbnAzVGpORVlsWmZhVVF3YmtSMFJGVkhjeTFZUmxaRFUycE5iMmRVZUV4Tk0xSjRZbXRsWVUxbFl6QmZUVU5NY1V4aGRtdFNkMGRWUVZvM1FrVVNGMVo0Y2tWaGRFUmFSMUJ4YVRWT2IxQnViMmxzTkZGckdpSkJSSE55T1daUlFtSTVlWG90YVRWSWVsaFlUamRsVEVJeFNVZDROakJETkcxMw",
+      "role": "Lead Product Manager",
+      "company": "Lennar",
+      "link": "https://jobgether.com/offer/6abd723c8a27695aea128d14-lead-product-manager",
+      "posted_date": "2026-09-30",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: United States, California (USA)\n\nSr Product Manager, Purchasing\n\nWe are Lennar \n\nLennar is one of the nation's leading homebuilders, dedicated to making an impact and creating an extraordinary experience for their Homeowners, Communities, and Associates by building quality homes and providing exceptional customer service, giving back to the communities in which we work and live in, and fostering a culture of opportunity and growth for our Associates throughout their career. Lennar has been recognized as a Fortune 500® company and consistentl"
+    },
+    {
+      "id": "jsearch_UUpscmlWeWVXNk95MEloaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3R3VjNORFpFOVRZa1F3TjJSclF6UjFja2RhZEZJd1lUWmZiVXhNUmxsblJWaGFaVzlUTlVjM09VRlFSeTAzWkZvelpsQnhjbXBzTW5GZmVGbE9ZVWN5ZDFodlVYWTRORGRCVGxreVpUZEtNRWhFUTE5YVptOXdWRFY1WkZKcGNqUmpZbVJsWTJkSU5XNVFORVJoVEVWV1VDMUhiblJYYVRkYVowVmtWMlZhU0Mwd2QwMFNGMWxTY2tWaGRDMUpRMlZ5YmpWT2IxQTBabE5LYjBGSkdpSkJSSE55T1daUllYWXRkRVp1TVhGa1RYVjFOamRNV0doUlV6QkVUM1pUTFZWQg",
+      "role": "Remote Product Manager, Discounts & Promotions",
+      "company": "Airbnb, Inc.",
+      "link": "https://www.talent.com/view?id=635756945838442643",
+      "posted_date": "2026-10-01",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Talent.com",
+      "description_snippet": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\nThe Community You Will Join:\n\nOur Product Marketing Managers imagine the ideal experience for our community and work backwards, creating innovative products that delight our guests and Hosts. They deeply understand the needs of our users"
+    },
     {
       "id": "jsearch_aUlUSFZoWk1rV2Z4U1NoQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWhxV2xkUE1uRmhWalprVkRST2QxTnlZVU14WkZaaFVtVTJaRmt5ZVU0d2FWSk9VMmQxT1hKTlMxaHVVRGRYZURJdFNtbHVabEZHTFhSVmVVMVJiVUZrVWxkQ2MzUjVjRk4xVDJWWldsaEhUeTFsVkZRek1sSnRTMUZ1ZUhCM2NWSndUMDV2Tkc4dFpsbEtiVXRGWlZaelVqUnhkbGRsTjBobll6QnZjelJPWlZoeWMxY1NGMFpLZGtOaGIyNU9UVFpFU210UVNWQm5kRU5SZVZGRkdpSkJSSE55T1daVGR6QkxORFJSY25ScWJFODFWa1JqWTFObmJqazNNR2hhZUdwbg",
       "role": "Confluent - Staff Product Manager, Streaming Analytics Engine",
@@ -87,20 +157,6 @@
       "description_snippet": "THIS IS A FULL-TIME, EXEMPT ROLE.\n\nPOSITION OVERVIEW: Our Commercial Lines Product Management Organization is seeking a Specialty Product Manager who will provide leadership, support, guidance, and expertise to facilitate the development, maintenance, and implementation of Professional and Executive Lines (PEL) products. This Product Manager role will specialize in Management Liability, with a focus on Directors and Officers liability, Employment Practices liability, Fiduciary liability, Cyber, Crime, and Kidnap and Ransom. The Product Manager supports the strategic operations as well as the o"
     },
     {
-      "id": "jsearch_b3ZqaERKQUhoMnh3WWU2LUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazFwUlZaMU0zVmlaMUJhVjB4blQzQk5TVE5tV0hCZlUyZExjRmhmVFRkNGIyTkZSemhpZEdWSk1UQkZla2RZY0dSQ2REaDZWWEp0YkhWSWNEZHJVakpUYTNsUVdIWlZOWEpwT0hsRVVrOUJhVXc0U3paTUxVVnFSbk0xY1dOWGJuWkRlbTlOZEU1NFJrTXRlVzU0VTNaRFlXVlRTMlp1VURKaVprdEZWa2QzTXpGSFRTMFNGMFpLZGtOaGIyNU9UVFpFU210UVNWQm5kRU5SZVZGRkdpSkJSSE55T1daVGNrdG5VemR0VlU5UGVrMXphbXBvVG05MmEwcGtNM2h3TTI1Mw",
-      "role": "Lead Product Manager",
-      "company": "Lennar",
-      "link": "https://jobgether.com/offer/6abd723c8a27695aea128d14-lead-product-manager",
-      "posted_date": "2026-09-30",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States, California (USA)\n\nSr Product Manager, Purchasing\n\nWe are Lennar \n\nLennar is one of the nation's leading homebuilders, dedicated to making an impact and creating an extraordinary experience for their Homeowners, Communities, and Associates by building quality homes and providing exceptional customer service, giving back to the communities in which we work and live in, and fostering a culture of opportunity and growth for our Associates throughout their career. Lennar has been recognized as a Fortune 500® company and consistentl"
-    },
-    {
       "id": "jsearch_aFh0MDBMeVNpZnczVkpRY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVjlsWDJjNFNEWkVlREZoVUc1YWMwRXpZbWRHVlVKTVZrdFphelZpTm5wWlFWQkpYek5NV25ST1JtbFRNVEJGYjI1NlFreExTMGxHWlhKRE0xZHBaRjlOU2s5T1NGZEpRVEZCU0VscGVqbGxXV1l6VFVWTFdtTmthRmRMTXpGMVZsZHFjRUZWWlZoNGNHNWxhekpaVERGRlNWTktlbmROVUU1eVEwOTVUVWxmUlhoSlRqSVNGMFpLZGtOaGIyNU9UVFpFU210UVNWQm5kRU5SZVZGRkdpSkJSSE55T1daVU9VWnJaMlJKUVRkTmRFZHRYM2N0VERFeVUybFdSMjFQVURKUg",
       "role": "AI-Powered FinTech Product Manager (Hybrid/Remote)",
       "company": "ProTrustee, Inc.",
@@ -113,20 +169,6 @@
       "match_score": 3,
       "source": "BeBee",
       "description_snippet": "ProTrustee, Inc. in Mount Pleasant, SC is seeking a Product Manager to own the product from customer need through release.\n\nThis individual contributor role collaborates with leadership, engineering, and customer success in a hybrid setting and remote considered for exceptional candidates. Responsibilities include turning ideas into a strategic roadmap across trust administration, accounting, compliance, operations, and AI; meeting with customers; defining problems; and measuring success after"
-    },
-    {
-      "id": "jsearch_UUpscmlWeWVXNk95MEloaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXd5UldWNFUzWjVkbTV1U1dSNGJFeEhRVWxPYkhwT2JFUjRRMDlSWDJJeGFWSnpZams0VTAxbFFWOHRWRE42Y0VsamFFWTVVV1UwTFVSZmRYSndaRVJ6UmtOSFkzazNSM2h0Y1dWQ1NrcHpTa1ZVWDJaMVRHUnZkRTVGTmpGblJVMVJja000TWpSeVlrbHJaVGs0ZUVKM1UwbHdNM0ZIVUVKMlQxaFphRUpSTTA0MFNHa1NGMHcxZGtOaGNuRXdRaTB5TkcxTVVWQjJORkJaTFZGSkdpSkJSSE55T1daVVJtZHpUblkzWlhwdExVVnRjbHBwYkVaSlUyMUJhV3MzYWt0Ug",
-      "role": "Remote Product Manager, Discounts & Promotions",
-      "company": "Airbnb, Inc.",
-      "link": "https://www.talent.com/view?id=635756945838442643",
-      "posted_date": "2026-10-01",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Talent.com",
-      "description_snippet": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.\n\nThe Community You Will Join:\n\nOur Product Marketing Managers imagine the ideal experience for our community and work backwards, creating innovative products that delight our guests and Hosts. They deeply understand the needs of our users"
     },
     {
       "id": "jsearch_S3NFd1JON0NReDNDTXRpUkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlJoWWpWVVRUTm1hVE5tUkZkTFRHTkxjVUpUVmxaUFVTMTNRa1phUVZVNVdqaG1ZWGREUTFsTGNrWmhSMUUxZW14cWFFTXRNVk54UVcwMWFFNXNkMnhCTVVSbE9IY3hVamhaVDBwd1NXZFRhVWhHVTFoelZYWnlXVUZ5U3pWRFYwWTFVM1ZmZVMxMlluRmtMVGxIV0hBMk5HMUhaMHhqYmpoUFZuRm9RWFZpWXpGWVNsWVNGMUJ3ZGtOaGRrUkdTMk15YkRWT2IxQjBjMjFVY1ZGdkdpSkJSSE55T1daVGMwaFZSVUpxVkU5V2RXczBjMHgyZVhjNFRsOWhlVFEzVURObg",
@@ -2759,48 +2801,6 @@
       "match_score": 3,
       "source": "ITW Careers",
       "description_snippet": "Job Description:\n\nITW Description:\nFounded in 1912, ITW (NYSE: ITW) is a global industrial company centered on a differentiated and proprietary business model. The company’s seven industry-leading segments leverage the ITW Business Model to generate solid growth with best-in-class margins and returns in markets where highly innovative, customer-focused solutions are required. ITW’s more than 45,000 dedicated colleagues around the world thrive in our decentralized, entrepreneurial culture. In 2025, the company achieved revenues of $16 billion, with roughly half coming from outside North America"
-    },
-    {
-      "id": "jsearch_Y3k5TVQxNl9rSGtwX0JnRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGhUUWs5dGRHOXlaWGt0Tm1GR1VXVkpjV2xtTFZSaGVpMWxVMXBmY2tOWlRuZGhUblozUlRWM2MwcHNOa3h3VVdoTE1WSmlTRGh4WkZRNE9WWXpWM0ZmV2xnNVJuZHdlbWROVms1amRVc3pkWE5FT0dsMFJVZzRNWGhzWlhSdlJsODVVMTloVTJnelVsbFBNRnBCVlVKUmVGSm9OR3RRV0VnemJGTnVNRjlXUW5oWGFWWVNGMEpZYlVWaGMzWTJSRFkzVFd0UVNWQjBOVTk1TmxGakdpSkJSSE55T1daVGFYaHpja05TTVhOcU5sZDBiRmhtWlMxdlpXWjBZMWsyVVc5Qg",
-      "role": "Senior Growth Product Manager",
-      "company": "Dataworks",
-      "link": "https://bebee.com/us/jobs/senior-growth-product-manager-dataworks-european-union--t7xk-804258612",
-      "posted_date": "2026-08-16",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "Senior Growth Product Manager\n\nRemote\n\n€100,000 - €150,000 + Benefits\nDataworks is partnering with a profitable, fast-scaling international SaaS business looking to hire a\nSenior Growth Product Manager\nto own the next phase of growth.\n\nThe company has already built a strong product and meaningful recurring revenue base. They are now looking for someone hands-on who can help take the business from its current level to the next stage through product-led growth initiatives.\n\nThe Role\n\nYou will own core growth metrics across the product, including:\n\n• User acquisition to activation\n\n• Monetisation"
-    },
-    {
-      "id": "jsearch_anpYZ2otQ3BLWFMwY2JaRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlF3YlRWaVpqUktSV2hvYkVjelNFZExNRk5SV1VOU2VWSlRUV2xXWVhjdFN6ZGZRVk0wYlU1T1JIazFhR3BQTldreGVVVTNiemx0VUhaMk0yb3lYMFZCUVUxTE1FSkpVR3BFYkRreVExWmZkbGM1UlV0SVNrRmpNR2MwYmw5MldqTjNaamhHY1ZCeFZraEJWVkJXUVU5bldrNVJTSE5EZUc1MFdFeEtXVWM0T0RKbFJWa1NGekpJYVVWaGRYSmpSemRxTkMxTVdWQnBTWHBOT0VGakdpSkJSSE55T1daU1MxcHZOVGcxVVRkTGJXMVJOWFZwUVdsVlpFRnlOSGhYYUROQg",
-      "role": "Senior Product Manager (Remote from anywhere in CO)",
-      "company": "State of Colorado",
-      "link": "https://www.governmentjobs.com/careers/colorado/jobs/5431642/senior-product-manager-remote-from-anywhere-in-co",
-      "posted_date": "2026-08-12",
-      "location": "Colorado",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "GovernmentJobs.com",
-      "description_snippet": "Together, we innovate for a stronger Colorado\nThe work of employees at the Governor's Office of Information Technology (OIT) is challenging and diverse because the needs of agencies, customers and Coloradans constantly evolve. But our focus never changes: improve the lives of all Coloradans through innovation and collaboration. We're building one of the nation's leading government IT organizations by reimagining how we support agencies, building first-of-their-kind applications, and creating an inclusive, collaborative culture, together. Join us in the important work of providing equitable acc"
-    },
-    {
-      "id": "jsearch_Y1l1aW40X3ZMRGZRZW9LVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0pyVFRnMWNuRmlUbUp3TUUxVGEwOUZVSFJ0T0V0a2FWUjZjV1pGYzNORFVtdFJSMVJUWWt4UVltdHpNRGMwY1VOTGJqa3hlRlZsUWtoUlVGRTFiMFJPZDJwTFMyVk5VbkJ5UjFSSlIwWlZWRzFsV0dwalNVWkpaMWRyZUVZMWVqVkdhblJuVVVJeVZFMWtUbVl3U0dWa1dXSkdXRmRxUm1VMVFuUjVTVU5EZVVaMlltWVNGMU5EWVVSaGNYRmlUemx0VlRWUFRWQXdiMFJzTUZGdkdpSkJSSE55T1daUk16aExRVzl5UWxGa2FUSmtjbUpvTFVKbGREUkVZVFY2V0hsUg",
-      "role": "Principal Product Manager, Core AI Platform",
-      "company": "Qualtrics",
-      "link": "https://www.qualtrics.com/careers/us/en/job/8055389/Principal-Product-Manager-Core-AI-Platform",
-      "posted_date": "2026-08-17",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "Qualtrics",
-      "description_snippet": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.\n\nWhen you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressi"
     }
   ]
 }
