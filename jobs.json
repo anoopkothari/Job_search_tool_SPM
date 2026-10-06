@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-10-05T21:45:08.126Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-10-06T19:55:47.234Z",
+  "total_fetched_today": 2,
   "jobs": [
+    {
+      "id": "jsearch_U1h6aGVJU2FHZ1lqZC0wY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTFNVTBOWlowUk1kMUJOUjNKb2FXWkpRVk5VWmxCSlVtUnRZUzF4UlRoclJHczBMV0pWWmxWTVRuZGxOR0pRY1dKclRXSjBSQzAxUXpobFdsOUtja0ZUWW5Zd2EyODFiMGhqYzAxb2EwZERkMk5KWWxSMmFXSXhYMFpOVUhWSk5FeDNXVXAxYlRNeWRqTjZaRnB3WmtwYWNucHJNazlUYWw5NFRVNWtNRk5LYkVacWVITVNGMUF4VEVaaGRVeG5UV0pUYkRWT2IxQXlaSHB5T0VGSkdpSkJSSE55T1daVU5sOHhZbVkzUlV0YVlVMXJSbGQxZDA5NWVuZHZPVmhVY2xaMw",
+      "role": "Technical Product Manager | Eden Prairie, Minnesota | Remote",
+      "company": "UnitedHealthcare",
+      "link": "https://bebee.com/us/jobs/technical-product-manager-eden-prairie-minnesota-remote-unitedhealthcare-eden-prairie--lifeworq-2e71d1bb-6c9f-4eca-8273-2fe1c2070f6d",
+      "posted_date": "2026-10-03",
+      "location": "Eden Prairie, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "BeBee",
+      "description_snippet": "Technical Product ManagerAt UnitedHealthcare, we're simplifying the health care experience, creating healthier communities and removing barriers to quality care. The work you do here impacts the lives of millions of people for the better. Come build the health care system of tomorrow, making it more responsive, affordable, and equitable. Ready to make a difference? Join us to start Caring. Connecting. Growing together.\n\nThis Technical Product Manager role supports the design, delivery, and ongoing optimization of business applications built on Microsoft Power Platform, including Power Apps, Po"
+    },
+    {
+      "id": "jsearch_dzUzMlF3cVppYjZ0aGxObUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMU5CZVZaV2RrMWtTMFpDYmtONk16SnJhak00WTJodmNuTnplVWRPU0hsa01HOXpVV0pxVVhST1RqSkxhSFptU25KMlQyUnZhazVTYXpKZlMzSnRURkl6TWsxTU9URnNOV1pmTm5sd1IxZzJaMGhJV2pOSFptZEZOVmRCUVdwdk4xbEJlSHBPY1hSeGQyNWplSHBUTVZkd1ZWbFVRekZQYkV0blJGOURiVEo2UTBndFpFTVNGMUF4VEVaaGRVeG5UV0pUYkRWT2IxQXlaSHB5T0VGSkdpSkJSSE55T1daVVlYbEVVSEE0V2pOS1Zrd3hjVkUxWWxNeVQzVm9OazV5UjA5Ug",
+      "role": "Principal Product Manager Physical AI",
+      "company": "ARM",
+      "link": "https://careers.arm.com/job/seattle/principal-product-manager-physical-ai/33099/101362523616",
+      "posted_date": "2026-09-29",
+      "location": "Seattle, Washington",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Arm Careers",
+      "description_snippet": "Want to define how Physical AI applications run on Arm-based silicon?\n\nWe seek a Principal Product Manager to own representative Physical AI applications and the reusable ML and software stack beneath them. The role spans humanoids, autonomous vehicles, and robotics, connecting perception, autonomy, AI inference, middleware, tooling, simulation, and deployment into one product direction.\n\nThis Principal-level individual-contributor role turns customer problems into product choices, requirements, and measured results. It works across application, platform, silicon, and partner teams to decide w"
+    },
     {
       "id": "jsearch_UERvOGVRdHVpV2ZacG4xOEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekk1U0Y5RFZVTlBMWGN4VVZoUFJqUldkRU54V1ZwbFpXVjBWMlZhUzIwdExYbHRUM2RtV0ZkdFMycHhWblZxZURKV1NUTm5OSEI2WjNWTFVGWkxZMlZzTUVsVmQxVlpSeTAwYVVkUE5tNHpPWFE0T1d0VGRIQTNYM2RtT0ZsVFIyTk9WMVJXWDB0T2RrMUZVMEkyZFRWNVVqbHhVbXB2Y0d3d1ZIWm9hek0yYVdkU2RqUVNGMVo0Y2tWaGRFUmFSMUJ4YVRWT2IxQnViMmxzTkZGckdpSkJSSE55T1daVE9ITm5ZeTF1ZFhwMk5UWnVXVE5NUTI1Vk1tUmhjMkZZVVZObg",
       "role": "EverPro - Lead Product Manager",
@@ -15,20 +43,6 @@
       "match_score": 10,
       "source": "Workday",
       "description_snippet": "EverCommerce (Nasdaq: EVCM) is a leading service commerce platform, providing vertically-tailored, integrated SaaS solutions that help more than 745,000 global service-based businesses accelerate growth, streamline operations, and increase retention. Its modern digital and mobile applications create predictable, informed, and convenient experiences between customers and their service professionals. With its EverPro, EverHealth, and EverWell brands specializing in Home, Health, and Wellness service industries, EverCommerce provides end-to-end business management software, embedded payment accep"
-    },
-    {
-      "id": "jsearch_dzUzMlF3cVppYjZ0aGxObUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWRzUm04MWRHMXNkREZWZDJzMlptdzFTRTlHUjFOd1ptWnZOR2RHYjJRd01uRTJjSGRLUW1sdFRtZDFla2hEYlVKc1dqRTFOa1pSUlhkSVZtWk5hMmxGUzNCT1RHMVpaaTFwZWtoUk1XWmhWMmRRV0U1MFlWZGpOWFJVZDJjNVpYWlJaRk54Y1habk4zSTNNMUZPVUZsV1FUY3hkbEU1VjNOVFR6Vk5TR1Z1ZGw5T2FrOFNGMVo0Y2tWaGRFUmFSMUJ4YVRWT2IxQnViMmxzTkZGckdpSkJSSE55T1daU2JFdEJiVTg1UTJsUVlrOWlUa1ExZEVGQlJscFpaazlyT0hOUg",
-      "role": "Principal Product Manager Physical AI",
-      "company": "ARM",
-      "link": "https://careers.arm.com/job/seattle/principal-product-manager-physical-ai/33099/101362523616",
-      "posted_date": "2026-09-29",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Arm Careers",
-      "description_snippet": "Want to define how Physical AI applications run on Arm-based silicon?\n\nWe seek a Principal Product Manager to own representative Physical AI applications and the reusable ML and software stack beneath them. The role spans humanoids, autonomous vehicles, and robotics, connecting perception, autonomy, AI inference, middleware, tooling, simulation, and deployment into one product direction.\n\nThis Principal-level individual-contributor role turns customer problems into product choices, requirements, and measured results. It works across application, platform, silicon, and partner teams to decide w"
     },
     {
       "id": "jsearch_cjNhZUo3dnA1U1pJNFB0WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEZGVm1wcmVUTkdkVlpvVG5sRlZYUTFWREV4VERsUE4wMXFaSHB5V0hwTlZVNUhkVlZLUkdGUVNYb3dVa3d6WmpOcE5GaEVlVFV3YVY4M2FFZG5PSFEyVTAxd1JGWkRTMk5GWVY5clJXSkdNMVJJWXpnMmFtdENRekZJTUVGSU5VNWZSVkpuZDNNeVV6aHRUR1JsV0dZNE4weHVabkpQZG14RU5reGxWbVJ2ZFMxcFpGWVNGMWxTY2tWaGRDMUpRMlZ5YmpWT2IxQTBabE5LYjBGSkdpSkJSSE55T1daVFQyVnFjR2RLY0VGcVltbDJhM1pFVGxoeE55MVNZWGsxYUY5bg",
@@ -2787,20 +2801,6 @@
       "match_score": 5,
       "source": "Built In Chicago",
       "description_snippet": "Welcome to Campspot! Whether you are an avid camper, the occasional glamper, an expert RV-er, or new to the outdoors entirely, we're interested in working with you. Our team values diverse perspectives as we seek to create an easy-to-navigate and meaningful camping experience for everyone.\n\nWe hope you will consider joining our team! ALL human beings are welcome, and we are committed to helping you thrive here. We believe our team, as well as the outdoors, is for everyone.\n\nAbout This Role\n\nCampspot is building an AI-powered marketing product for campground and RV park operators. Most of the o"
-    },
-    {
-      "id": "jsearch_WUNON0Ffd0l3NTZsYTdDbUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDEwV2s1c2JYaHFabWRTV0dkdVRqSlFVRGw2UkRocWRHNXlVVFpLZEd0T2EwZzJUV3BmVlZWNWNXVkVOV2d6V2pkWk1IQXhWV1JvYUhOSFp6WXhSMUUzY2xKamRYUXpOM2xRUm1od2NUWnVjeTFzWVZaeFZqTm5Sa1ZpU25sb2RHdHRPR2wwUnprM1ptTTFUbmQyWnpKM2FFeFJMVlpNZVZaME0xQnlPR0owUkVzMVNXRVNGMEpZYlVWaGMzWTJSRFkzVFd0UVNWQjBOVTk1TmxGakdpSkJSSE55T1daUlMyZElNM0Y1U2tvMlFuQndPVkZPWWxGNFJuaFFaVFoxVlZGbg",
-      "role": "Product Manager (Truss Software)",
-      "company": "Illinois Tool Works",
-      "link": "https://careers.itw.com/us/en/job/JR8943/Product-Manager-Truss-Software",
-      "posted_date": "2026-08-12",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "ITW Careers",
-      "description_snippet": "Job Description:\n\nITW Description:\nFounded in 1912, ITW (NYSE: ITW) is a global industrial company centered on a differentiated and proprietary business model. The company’s seven industry-leading segments leverage the ITW Business Model to generate solid growth with best-in-class margins and returns in markets where highly innovative, customer-focused solutions are required. ITW’s more than 45,000 dedicated colleagues around the world thrive in our decentralized, entrepreneurial culture. In 2025, the company achieved revenues of $16 billion, with roughly half coming from outside North America"
     }
   ]
 }
