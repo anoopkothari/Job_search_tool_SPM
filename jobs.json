@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-12T22:20:31.248Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-10-13T20:27:30.070Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_MU1DeDhlR0FoZVhzVGZ4SUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmxPYjNOalpHRjFjbXhMV21SdWVraGpaakZpYm5kcE9YVXpWVzlJVG5CbE4wNHlaSEJOYjBwUFl6TkljVWxNUlVvNWFIcEhUMFE1YkhobGJWcHJSemxHVUVrMVVsVm5hbUZpTkRoaFJtTnhSR0ZCZWxCcWVWb3hWRzV6UVRkV05rMVZkMHRQWmxJMmNFODBjSHBWVkVnMU1VRk1aamhTY1doQlEwSXRiRXhmWW1GT05td1NGMHBLVkU5aGNtVkNVR0kzY3pkTk9GQnVkVWRGZVZGakdpSkJSSE55T1daU2RUUTBhMDVSTTBaeWVUWk1PVTFvVW01UVRVTjRiRTFIYW1KUg",
+      "role": "AI Business Product Manager",
+      "company": "PSEG",
+      "link": "https://www.recruit.net/job/ai-business-product-manager-jobs/641BD33753FE16B8",
+      "posted_date": "2026-10-09",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 13,
+      "source": "Recruit.net",
+      "description_snippet": "Requisition: 84389\nPSEG Company: PSEG Services Corp.\nSalary Range: $ 121,200 - $ 199,200\n\nWork Location Category: Hybrid\nWe’re one of the country’s largest energy companies, with a vision of powering a future where people use energy more efficiently and it’s safer and delivered more reliably than ever. We’re also deeply connected to the communities we serve, with more than 13,000 employees working together to support our customers and make a difference every day.\nHere, you’ll have the stability and exciting opportunities that come with being a Fortune 500 company — along with a supportive, fri"
+    },
+    {
+      "id": "jsearch_OVB3UzhPUmhBSU5uc2hqX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGRZZGpsUGNuWjZlblJTWmxab2R6VkVSM2hqVUZkeFEyaE1ZalJNVlROcVZqWlNPSEF4VEhWMWFrb3daemxKTVc1cVgwSlZablJrYWxkeWRGRXpkakpDWmt3M09YaDBRbTlHY1hFMmNXNVZkM1pYVkd0RlJFdFFhUzFTVTAxdlIweG9XREpxY2t0b1JWZFJSMWM1T1ZVeFRHZzBVbE5wTWxwSlJUaFhRMTlCVTJ0SWRGSVNGMGh3VkU5aGRYWktTSFpRYkhsamExQnRjV1pYTmtGekdpSkJSSE55T1daU1pFdExOM2xtU3pONFFuWlpXRmN5TFV0bmNXTTVaa1ZsWWxwMw",
+      "role": "Senior Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-remote-govcio-richmond-va--jooble-6165630485174501658",
+      "posted_date": "2026-10-08",
+      "location": "Richmond, Virginia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "BeBee",
+      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\nGovCIO is currently hiring for a Senior Product Manager to lead strategy, delivery, and oversight of a custom-developed product within the OCC portfolio, supporting the Veterans Health Administration (VHA) Office of Connected Care. This role owns shared services intake and coordination, with additional support for FHIR data governance and data quality — advising clients and aligning product goals, stakeholder needs, and technical execution to mission‑critical outcomes. Strong candidates bring product ma"
+    },
+    {
+      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWxmZUVOcVgyaEZWaTE0U1haSFRIUkpiRjl3YkZsak9XVkJjemxhWjJ0TVFtOXBla1ZWTVdObU1rZFVkWE5sZUVaVFF6RTBZWFJuVjFwbWRXVlROSGhmYjFFeU5FdGZZa3RGT0hwUlVIVm5URVp6Vm10elJFaHViVE5YV204dFFYaG1VREpUVlMxWWVUVTBaVGhLYmprdFVFNDBOakE0V25oelRsQTFZbWswU1U1cE1rd1NGMFJ3VkU5aGNXRmFSMDVtVkhBNE5GQjNXV3BxZDBGdkdpSkJSSE55T1daVFUybGFTbGRXTm1jd2RtaHVka1UwU1RaS05FVXdSa2w2TUZsQg",
+      "role": "Product Manager, Self-Serve Merchant Experience",
+      "company": "Alia",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
+      "posted_date": "2026-10-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
+    },
+    {
+      "id": "jsearch_YUFDRXB2dG12MHp4RmJpSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMXBqVVdWTWVXSjVRVEZKVERsbFN5MWpRbUpGVVc4Mk0zWXlWek54VEhac1luZE1UbDlXZVdzNWVYZHVWMnBWZG1kdVgwRkZVQzFtZEhSMlFVaG9ibTV6T0RORmMxcDZkbFUxU0VkS1RsSjJNbEZsYTNKSk5YQTJSakZ6VTNCeFJ6SXpPSGxaTTBjNFRHODNUMWxsVkRWaGRHeGlZM0pPWkZFNGVuSktPVmREWDBSUFpHOFNGMHBLVkU5aGNtVkNVR0kzY3pkTk9GQnVkVWRGZVZGakdpSkJSSE55T1daUmFtUnFaVkZoUTJWbVZUY3pkSHBRV2xkUmNEY3dZMkphWlhGQg",
+      "role": "Principal Product Manager-Growth",
+      "company": "STACK Construction Technologies",
+      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-growth-at-stack-construction-technologies-4477868045",
+      "posted_date": "2026-10-09",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "LinkedIn",
+      "description_snippet": "About Us\n\nSTACK is a leading provider of cloud-based construction estimating and takeoff software solutions, committed to helping businesses transform through innovative solutions. We pride ourselves on fostering a collaborative, dynamic environment where team members have the opportunity to grow and make a real impact.\n\nAbout The Role\n\nWe’re looking for a Principal Product Manager with strong experience in Product-Led Growth (PLG) and AI-driven product experience. Product Managers at Stack work closely with engineering, focusing on the product systems and experiences that help more people dis"
+    },
+    {
+      "id": "jsearch_R2p0S0ZnajZBYVNGV29mV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGQyWlZodlluVkhibUZYUWtjeFdtUjFSMlpUTFVSVlRsSnFWR2RLY21NdGNuUnZkWEE0ZG1waU1USlllVU0zVEUwdGRrczNPRGRWTVd4YVRETmFRbVJpVlZZeWJHZFFabXhKUmpoRFVpMUdWWFJDUmtkSGVVbFZMVFpuZUd4U1UwbFVTVUV4ZEdoWVRGRkJWMUJzU0ZsQ2MxUm5UbEUxVURSV1RYTktTMmQyVDBvMVpsb1NGMHBLVkU5aGNtVkNVR0kzY3pkTk9GQnVkVWRGZVZGakdpSkJSSE55T1daVWNuRkNRMmRFTTBWc1lWRXlVak5CYmxGWmVGbHNkV3gzYVVwbg",
+      "role": "Remote Senior Product Manager - Growth & PLG for B2B SaaS",
+      "company": "Motion Recruitment",
+      "link": "https://www.jobleads.com/us/job/remote-senior-product-manager-growth-plg-for-b2b-saas--phoenix--e79a9e20bd565d8fe58da384f1c49dad5",
+      "posted_date": "2026-10-07",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "JobLeads",
+      "description_snippet": "Motion Recruitment seeks a Senior Product Manager for a fully remote 6-month contract in the US. You will own growth initiatives across the user journey—from onboarding to retention and expansion—targeting enterprise customers in a B2B SaaS environment.\n\nIdeal candidates have 5+ years in product management, PLG experience, and familiarity with billing/payments. You will collaborate with product, growth, and business teams to drive measurable revenue growth in a fast-paced, high-growth setting."
+    },
     {
       "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0YyVTNwcVNERlJMVFZpWkdkQldFRXRibUpvV1dWdk1ERkNURk5MYlVkNFR6UnZWMFZZYXpsc2NWSkhibDlwYWpnekxXaHdUMG95VjBWMWRURXRkemhvTmw5Uk56QlpZakZFYlhGWVMzazFjakJwVkVsR2VUQXdlRzlRVms0d05XZE9lRGxMZG5oSVJHOTBVVkphVDFWMFExQkVVMlJ5VERSdFoxVjRUMnRKUVVOeFRGVVNGMHhHTTA1aGNFeHRUSEoyZURkTk9GQm9PRzFvTFVGTkdpSkJSSE55T1daU1RsSXlXV0pVVm04M2RqVnJaMlF4Tm5GTFgwbHpVRU5YU25SMw",
       "role": "(USA) Staff, Product Manager - Financial Services",
@@ -73,20 +143,6 @@
       "description_snippet": "The Global Product Manager (GPM) for Commercial Vehicle & Automotive Plastic Coatings (CV/APC) is responsible for leading the platform roadmap, resin system strategy, and lifecycle performance across all relevant coating technologies and layers. This role ensures Axalta delivers competitive, scalable, and profitable solutions across the CV and APC markets globally. The GPM collaborates cross-functionally to drive platform upgrades, define new product investments, and guide regional alignment on product evolution.\nEssential Functions\nPlatform Strategy & Roadmap Development\n• Own the global road"
     },
     {
-      "id": "jsearch_R2p0S0ZnajZBYVNGV29mV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXN5UjFsa1ZtOWxVVnAzV1dWNVRYcE9UblpHTms4eWRFaDVOSE5vZFU5cmEzbDNUM3A1WWtORVQzaDBSVkpvUkVSb2FIVkdkVE5HVFRselZGSkxVblF6UzBoVFdrdHpWRWhQTFdScmJFSmtNVWRPYzFOU2VXcFNhVFo2UTJVNU5tMVhVa2hhUXkxdmVtSlZORWxrY2sxSU1tRnpTVWhRTTFwdE5XVlZkV2hXU2pkNFgyY1NGMHBzTTA1aGMxQnNSWEZIY1doMlkxQmZaVTgyTFVGM0dpSkJSSE55T1daVGNUSXhTQzFZTkVSUGRVZENTREJDVFZOVWMxUnNRMWh0UmtSMw",
-      "role": "Remote Senior Product Manager - Growth & PLG for B2B SaaS",
-      "company": "Motion Recruitment",
-      "link": "https://www.jobleads.com/us/job/remote-senior-product-manager-growth-plg-for-b2b-saas--phoenix--e79a9e20bd565d8fe58da384f1c49dad5",
-      "posted_date": "2026-10-07",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "JobLeads",
-      "description_snippet": "Motion Recruitment seeks a Senior Product Manager for a fully remote 6-month contract in the US. You will own growth initiatives across the user journey—from onboarding to retention and expansion—targeting enterprise customers in a B2B SaaS environment.\n\nIdeal candidates have 5+ years in product management, PLG experience, and familiarity with billing/payments. You will collaborate with product, growth, and business teams to drive measurable revenue growth in a fast-paced, high-growth setting."
-    },
-    {
       "id": "jsearch_QkV6WDFhOWhlUE0zQ29XNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEJNVFhsdmEwdzVaVGhCZDJ0WGNXMUlaMk5FVTFsRVowaDBSVTFNY1V0U2EyWlVUekpMVGpWbFdVSkVjblJ0UkhCRFVrSmlTamw0ZGtsTGMySmpXRmx4VEd0MFNuaHpVbVkzYm1GdWFqSmlSR3hQUTBoQmVsVnRXRkZvVFhCeE9VOXJZVXRmU1hvMFRUbEdXSEpyZGt0RlJuTkJjR1JVZW1OamJXSkdUV2RGTkZKWVpGa1NGMHBzTTA1aGMxQnNSWEZIY1doMlkxQmZaVTgyTFVGM0dpSkJSSE55T1daVGMzRnhVMnhOVTNJMVdVVTNYMncwTTNGb1UzUkhlWFZ3TUd4Qg",
       "role": "Product Manager",
       "company": "Sanford Health",
@@ -141,20 +197,6 @@
       "match_score": 13,
       "source": "BeBee",
       "description_snippet": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Product Manager, Lumina Data Platform based in the United States.\n\nLead the evolution of a cloud-native data platform that powers product development, analytics, data science, AI, and operational teams across an organization.\n\nAs Senior Product\n\nManager, you will own data sourcing strategy and the experience of internal teams that depend on reliable, accessible, and trustworthy data. You will determine which data sources to integrate, establish standards for "
-    },
-    {
-      "id": "jsearch_OVB3UzhPUmhBSU5uc2hqX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkY1Y1hCNWJGZEdSa3cwTUZOZlZFTXdRVFExYldrdFVIWjFaa2gwVGtaVFUwNVdkbEJGVWxSRVltZHFWVXgwUkRCemJ6SlZORnBJUm1VM1UzRnZWRTFsWm5WU1NtSkNVakpMZURoRmVtcG5jM3BrZVd0bGEyUlJVM0pvTmt4VVRIQkxZMmhyTlZsemIxb3RYMnhLY0VOdGRrODJkWE5ITm1Kb1ZIZDNMV3BXZEVGMlpHNFNGMjVQUkV4aGRubHhUamhIZWpWT2IxQXpiMjFLTmtGbkdpSkJSSE55T1daVGVrcEpURll0ZVRrd1h6QXpWRXByWldscGFVVjRaa2x1YVMxUg",
-      "role": "Senior Product Manager (Remote)",
-      "company": "GovCIO",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-remote-govcio-richmond-va--jooble-6165630485174501658",
-      "posted_date": "2026-10-08",
-      "location": "Richmond, Virginia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "BeBee",
-      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\nGovCIO is currently hiring for a Senior Product Manager to lead strategy, delivery, and oversight of a custom-developed product within the OCC portfolio, supporting the Veterans Health Administration (VHA) Office of Connected Care. This role owns shared services intake and coordination, with additional support for FHIR data governance and data quality — advising clients and aligning product goals, stakeholder needs, and technical execution to mission‑critical outcomes. Strong candidates bring product ma"
     },
     {
       "id": "jsearch_YTZrcS1zaUVMeXlTamNodEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXhhVWtoaU1ua3hiMnBWYVRSWFYxRmxjbUZQVjI5Sk1GOVRSbmxQTTNCQ01tbDBOVkUxYUVSMWRWQTVSa1ZwUzJaVVMzZzNjRTkzWDJad1EyWjZVbkZ5ZFRWSlgweGtNblpxYlRCMWREa3dTbkl3TlVSdFRtdFpNRW8xVm5aMmNqUnBkV2hJUTFweFVXMUlRVFpSTmtOVGFucE9ibkZOVFdKcFF6Uk1MVUUyVDNkR1YxUVNGMjVQUkV4aGRubHhUamhIZWpWT2IxQXpiMjFLTmtGbkdpSkJSSE55T1daUlJURjZaMmhyV0ZoT09ETlVVV2g0WkVSWE5qZ3dNRlJNVjBKMw",
@@ -519,20 +561,6 @@
       "match_score": 7,
       "source": "ZipRecruiter",
       "description_snippet": "Position Summary...\n\nWhat you'll do...Role summary:\n\nAs a Principal Product Manager, you will lead product strategy across multiple related products, driving organization-wide decisions through deep expertise and data-driven insights. You will define and execute visionary product roadmaps, influence senior stakeholders, and oversee complex customer problem-solving. This role demands leadership in product lifecycle management, advanced analytics, and emerging technology evaluation. You will mentor peers, promote best practices, and ensure alignment with business priorities while fostering innov"
-    },
-    {
-      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVEp4T0dscVJsZzFkWGxLUTNSeFdIWmFkRU14U1d3MU1GRmZkR3g1YWt4WWIyWXhaVmhhUTJKNlUyMVJPQzAwVTJkQ1UwRlhaMkZFWkdaMWN6UXRVbTFFTjFOMlgxTkNia2hoUlU4eFUyWndUVEZFZGpaWFFtTkhUMjV0T0U1NVJsZEZkelJEZGs5dVdFMU5aQzFPZUdsaU5sTTBZVWxtUjFKTVNHaFlTemx3UjI5MlgxUVNGM3B4YmtkaGNsTjBSMjkxYzNGMGMxQnhVR0pxZDFGRkdpSkJSSE55T1daU09HRllTM1p0ZWtacVNIaHZOblpMTkZCME9HVklNRUZ0ZUhkbg",
-      "role": "Product Manager, Self-Serve Merchant Experience",
-      "company": "Alia",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
-      "posted_date": "2026-10-06",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "LinkedIn",
-      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
     },
     {
       "id": "jsearch_V2xtMm9CMFZPUEhfem5RckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGRNUWtjM2VVbzJhRFZmU0VrNVgzaGlaRkZuT0drdFgwbFRXa0kxTVdGclpWVXhOMlJaU0dKUWEzUkZTazFsWDFBNGNIRTJVRGhNVVd4bE0wRXRjVkF0V1V4ck5qVjRkVVIwYjNOQ1JsQjFWelpEWnkxNGVrMWpkalJVWkZBeVpITlRka05YVEhoUmEyRm9Sa2RtUjJKSU1XODBVV2d5TUVWSVJsZE1hbkp3YkhndGJtTVNGMHB4Y2tkaGNYcHZTemx5VDJ0UVNWQXlXa3M1Y1VGSkdpSkJSSE55T1daVFFWTlRhVU5UYVhKUlZIQTNSekpoTTBGTlUxSnRhMjVqVlRaQg",
@@ -2773,34 +2801,6 @@
       "match_score": 12,
       "source": "Built In Seattle",
       "description_snippet": "At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.\n\nWhen you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressi"
-    },
-    {
-      "id": "jsearch_UzB2dUE1NDVjdDJSRVJ1NEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0Z0V0RKVFpreEdTMmxxZGpsamVrVkJURGhOUjBKMVYzSlpiRmgyVkhadVZtOVhMWFV4TjJoVU1EZEVNbk41YVVOUU4yUTVSVjlKYzJaV01FZ3hhM2RDVUZOZk0xbHNhRFZzZWtsV1QxRXRRMW8wY1ROaFVYaERSbEp3Tkc4dFRXVnBOMnN6Umt4Q1kzcHRSRUZoTkZGVFJXdHBlSFI1VFdaTFVIbGFOMDkyWTBsUFZGRVNGMG81UzFGaGRYbENUR1pQTUhGMGMxQm5jVE5MYlZGdkdpSkJSSE55T1daUk1HOU1ObFJ6VVdselUyUnZSR2MwT1ZSMVNVZzRlRTVNZWxsMw",
-      "role": "(USA) Staff, Product Manager - Seller Disputes and Abuse Management",
-      "company": "Walmart",
-      "link": "https://www.linkedin.com/jobs/view/usa-staff-product-manager-seller-disputes-and-abuse-management-at-walmart-4445074059",
-      "posted_date": "2026-08-21",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "LinkedIn",
-      "description_snippet": "Position Summary...\n\nWhat you'll do...As a Staff Product Manager at Walmart, you will lead strategy and execution for complex products, driving end-to-end outcomes from discovery through value realization. This role requires deep customer and technical insight, strong stakeholder leadership, and the ability to define product vision, roadmaps, and go-to-market strategies. You will collaborate cross-functionally to deliver measurable business impact, leveraging data-driven decision making and emerging technologies. Additionally, you will mentor peers and influence product direction while ensurin"
-    },
-    {
-      "id": "jsearch_RnNKTFJEZ2RyNTAyUlRCSkFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVFJ5YVhnekxYWmxMVGxLZFRSM01UaDBjak5pUmtkQ1RFZzRRM1ZyYmtaMlJEZzRjSFY2UTNscVNFWktOVk5EZUhOWWRrTXpOalJyVTJacWVraEhSVTFoZEZKb2IzSmhVWFJpYmtFMVFtZEpNeko0Y1U1WVVWSnRNWGMxZDJkTFQwNWZaVkJ0T1MwMlprbFRhMGhYV0dsd1FXNTVhVU14Y2trNWVrbEtWRTk2ZW5jM2MyVVNGamxrUjFGaGRtbExRbTlEYUd0UVNWQndOR0p0UTFFYUlrRkVjM0k1WmxGTFlXZFpRVzgyU1VGbVJ6SlNRMGR6VkZwME5GWlZkMkZQT0dj",
-      "role": "Sr. Engineering Product Manager - Cisco Secure Client (Endpoint Security) REMOTE",
-      "company": "020 Cisco Systems, Inc.",
-      "link": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Sr-Engineering-Product-Manager---Cisco-Secure-Client--Endpoint-Security--REMOTE_2018597-1",
-      "posted_date": "2026-08-24",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Workday",
-      "description_snippet": "The application window is expected to close on: 09/25/2026 Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received. This is a remote role, offering the ability to work from any location within the U.S. Cisco is hiring a Senior Engineering Product Manager as we own the future of the endpoint! Cisco Secure Client is Cisco's unified endpoint security platform that works across desktop, mobile, and its management experience. The team builds security products that help people connect safely and work with confidence. We value thoughtful dec"
     }
   ]
 }
