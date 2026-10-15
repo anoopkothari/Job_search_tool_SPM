@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-14T19:07:36.218Z",
-  "total_fetched_today": 11,
+  "last_updated": "2026-10-15T18:48:01.346Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_NDVrSUMxTjZ0YkxNc1ZOMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHBpTUZRdGRHcE9TVU5xV2tsSVFqTkhRbHAyUW1KZlIyMTBjSE5VU0RSVVIwdHFaMmh3YnpaV2REaE5NMjV0V21aZlYzTklkV3hCUjFGR2JTMDBOSFJhU1dkS2JsOW9kR0Z3Y1RONlNrUktZMnBNYnpWSFgzWm9NVEo2Wkhwek5HVjJjVEZ0WVV4c1FURXRObUpMVEZsUGMzbEpVMnhDWmsxNVdtcG5ZMVpsZWw5QmFrVVNGM3BvWDFKaGRESTVUVmxsWHpCUVJWQTRUVTlUTFZGM0dpSkJSSE55T1daUk9HbDZibGg2YW5BemEyaG1aMmRNTkdsM1h6TlRWakp2VGpCMw",
+      "role": "Product Manager - Cybersecurity",
+      "company": "Volexity",
+      "link": "https://bebee.com/us/jobs/product-manager-cybersecurity-volexity-silver-spring--fj-2413671746",
+      "posted_date": "2026-10-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "BeBee",
+      "description_snippet": "Volexity is looking for an Associate Product Manager to join its rapidly growing product team.\n\nPlease apply for this role via our website at www.volexity.com/careers\n\nLocation\n\nHybrid, Silver Spring, Maryland (USA) preferred; Remote (USA) considered\nDESCRIPTION\n\nThis role has high overlap with the Forward Deployed Engineering role and is ideal for someone trained as an engineer who also has a business mindset and a desire to work closely with customers. It is an opportunity to learn product management, gain deep expertise in the cybersecurity industry, and help shape products used in real-wor"
+    },
+    {
+      "id": "jsearch_UzBFUTg2azlBb3ZjaHNrS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkJSY3psU2RYZDNSbU5vYXpGb1lrUkJUazV4ZG5sNWVHaG5hMDFIZEZKa1ZHaHJXSGREWDBwcGRHcEVXaTFJZGt3NFpWWXlWVWhUU2s1VUxXaEtkV2hvVkVWemREbE9la3d3YjBkSVpGOVlUMnhaVGpKek5WTXRSMnR0UzI1Tk5Va3dkMWRrWjBoaFpFUXlSVFYwU2pjeFRUUmtiVFF5WTFvelJtcFFVbmg1TmxJNVpXTVNGek40WDFKaGRHbERRbUpYYkd0a1ZWQXdXazlXT0ZGckdpSkJSSE55T1daUmNIbDZkMVpOYWxaNk5GZHplV0Y0WVVVMVFWcHNkbUpXWTBSbg",
+      "role": "Senior Product Manager- Agentic Commerce (Remote)",
+      "company": "Progressive Leasing",
+      "link": "https://jobgether.com/offer/6acd7be549c73d7b9973be25-senior-product-manager--agentic-commerce-remote",
+      "posted_date": "2026-10-12",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: United States\n\nProgressive Leasing is a leading provider of in-store and e-commerce lease-to-own solutions. With more than 20 years in FinTech, we’ve grown from start-up to industry leader by innovating, simplifying, and valuing people. We are a subsidiary of PROG Holdings (NYSE: PRG), a FinTech holding company with three business segments: Progressive Leasing, Purchasing Power (a leading employee purchase program for consumer products and services using payroll deduction), and Four, a Buy Now Pay Later (BNPL) platform.\n\nWe are currently hir"
+    },
+    {
+      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbk5aTTJkTVFXNU5iVFpETlMxdFVHdG1TSGxwTldrd1IzcHZRMm80UzBwdFVFbDRaMUEwYVRGd1psQjBhMmxZWWpOWE1EbFdMV0pPVDBGM1JHdzNWRkZaWjBWRlFtaFJiMGxPV1V0c1RXVkZNVzl5WWpWMVpUQnViM1ZZT1MxR05YRmZTakI2TlV4eWFFOVlUM0JHTm1wbVJpMWhjMVIyV21aaGN6aGhWRlpvVDBGZldqSVNGM3BvWDFKaGRESTVUVmxsWHpCUVJWQTRUVTlUTFZGM0dpSkJSSE55T1daUmIwb3dRMWR0VkRrNVF6UkhiMnh6UjNnMlpGaHFhSGxSVm05bg",
+      "role": "Product Manager, Self-Serve Merchant Experience",
+      "company": "Alia",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
+      "posted_date": "2026-10-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
+    },
+    {
+      "id": "jsearch_UjRKTWFmUHR3QUFWb0VGckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalpVVFdaMlYybElkbTF2ZEhSd1JDMXdVekUyUTNkQldtNVVhVUZCTmxSSVRuUnBhSFJDVFZack9USjFXRlJJV21zd016RkhUM2xsVTBoRVpGUTNibTFtWTJzMWMyTTNaMWhQTm5vd2FGaEZWRXBsT0d4V2VEWlplRTUwZFRaVU9UaEhVWEkyTWxKMmVXWjVkMjFQTVhkb2FXSjZiMUJJV0hVeVNDMUNhV3RKT0VVMExVMFNGM3BvWDFKaGRESTVUVmxsWHpCUVJWQTRUVTlUTFZGM0dpSkJSSE55T1daVU9HVlhUMDFJUm1aSmJVUnVOVkZDVFV0R1RFaEVhRWxIYXpoQg",
+      "role": "HIMS Group Product Manager",
+      "company": "Juno Search Partners",
+      "link": "https://bebee.com/us/jobs/hims-group-product-manager-juno-search-partners-washington-dc--lifeworq-1a6d92d0-12c5-44a9-993c-b9597a42ce01",
+      "posted_date": "2026-10-11",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "BeBee",
+      "description_snippet": "About the Opportunity A growing SaaS technology organization is seeking a Group Product Manager to help lead the strategy and continued evolution of its Risk Management Information Systems (RMIS) product portfolio.\n\nThis is not a traditional execution-focused Product Management role. The organization is looking for someone who brings deep RMIS, risk management, insurance technology, or closely related domain expertise combined with strong customer-facing experience, strategic product thinking, market research, and commercialization experience.\n\nThe Group Product Manager will work directly with"
+    },
+    {
+      "id": "jsearch_S3ppd2sydTUyQUlLVkdzaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmRRTUU1Q2FFTndUazlTWkU5b1NISkZMVEJsZEU1SlZETkRUbFJTU25ac2QxQmFXQzFuUTBkWFdrY3hRMjlNZEdrMGRXdG5Va2Q1ZG1aU1oxVjRZMGRxYm5CR2RUTlZTWGN0VVZoWWNFVnhja2RoTjJGd2NXVndaekpmTTJ4QmJUUTVabFpmYkRCTmNEbHlXVFJ1VnpkNWNuaG9XVmgxUkRSbWVuQmliRGgxTW0xUk5uUVNGek40WDFKaGRHbERRbUpYYkd0a1ZWQXdXazlXT0ZGckdpSkJSSE55T1daVFkyUlVhRE4zUVV3eldUQk1la3R4YkMwek1FeHJRa05wY1RSQg",
+      "role": "Sr. Product Manager - Bot Management",
+      "company": "Thales",
+      "link": "https://bebee.com/us/jobs/sr-product-manager-bot-management-thales-remote-or-united-states--jobgoal-23672_CD90ABDDE445AB3E51ED244CC9B5F634",
+      "posted_date": "2026-10-14",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "BeBee",
+      "description_snippet": "Location: Massachusetts, United States of AmericaThales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billions of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much more.\n\nMore than 30,000 organizations already rely on us to verify the identities of people and things, grant access to digital services, analyze vast quantities of information and encrypt data to make the connected wor"
+    },
     {
       "id": "jsearch_Tnk4ME9OTWROQXgtMVJHSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazR3VDBOVGRHOHdValZ5UzFCaGExaFdSak4zV0VWQ1ZWWnNhbkV4Wm5kTFQzTjRTMGMzT0ZGNGVteFliWGRvVW1sYU0wWm1XRUUxTVhrM1VsRmhkM2xRY3paVldFTktUSEI1UVdOYVlUQmtXbTB0Wmt0YUxWUkpORlpXWmxwVmNtZHZkak5VYzBkd1IyaG5VM2xOYUdwRmJFb3RVREl6VG1oV2FrVkdRV2hxVkVaTFlUQVNGM001VEZCaGIzSm1RMk5mYkRKeWIxQXdjR0ZQTmxFd0dpSkJSSE55T1daU2JtZFNXRzg1ZDJsR1NsSnpNalJYYjJSSmJYZE5ZWGd3Um5SQg",
       "role": "Principal Product Manager, Orbit",
@@ -71,20 +141,6 @@
       "match_score": 8,
       "source": "BeBee",
       "description_snippet": "Deep Origin is a biotech startup building an operating system for science that transforms how life science research is conducted. Led by Michael Antonov, co-founder of Oculus, and backed by Formic Ventures, we are redefining the infrastructure behind modern drug discovery. Our AI-driven platform enables scientists to accelerate discovery, reduce cost, and bring breakthrough innovations to life faster.\n\nAs we scale, engineering excellence is a critical lever in advancing our mission to dramatically reduce disease and extend human healthspan. We are looking for an experienced Director of Product"
-    },
-    {
-      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzF3WlV4UVFTMXhWVVJDY21oNlRHMXBZazkwWmxkMGR6SkJPV1l4WkcxMk1HbEdRVVF0TWpFMFJWbDFNRnA0ZEdadFgweDNMVTFzWDB4M01UZE1ibWgzVW1Wb1psbHpXR05GZEhoUU1sRm9TbU0yUXpNMkxYY3hlbFkwTUY5VlJtTXlTM0o2YlZacmQzSmhaRkZpVFRkTVpFcGtiVTAwVW5KdmJWRldjblF5Wms5Sk5XMFNGM001VEZCaGIzSm1RMk5mYkRKeWIxQXdjR0ZQTmxFd0dpSkJSSE55T1daVVRHbG5WMlZXU0U1YVVGOW1hVEZ6TjFkU2VtVkVjRUZEUWpCQg",
-      "role": "Product Manager, Self-Serve Merchant Experience",
-      "company": "Alia",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
-      "posted_date": "2026-10-13",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "LinkedIn",
-      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
     },
     {
       "id": "jsearch_YkdWSUg0X2RUSjY3Q2pxbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVW90V0RCYU1TMDVTQzFvUVZGYUxVdHRRVXB2TVVGbFVURkdZa0o1U1ZsR1JVRmhNbWxhTFdjNFJWQklTME5mZEhGSGNHZEJWR2hTUVZkMFUwOVdRMUp0UlZob1JtdExhSEZJYTJOQ2FUWlhSME56VDNFeE5FbEhjRFpVWWtGcVdtRjRTREZIYjNjdGJuUlFNRkZTY0ZoWmQwRk1WMUY1Y0haeFpVWkVWblkyUjFoMlUzWVNGM3BrVEZCaGNuWjNTbU5sY0hKMVJWQnJaVkJ6YjBGakdpSkJSSE55T1daVWVtbExOMG80VG1jMFdqSkxUMkpSWkdSaVJrSkpMVlZ4ZGxabg",
@@ -2745,62 +2801,6 @@
       "match_score": 10,
       "source": "BeBee",
       "description_snippet": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the world—empowering clinicians and their teams with technology, innovation, and world-class support to achieve more for their practices, their people, and their patients.\n\nAbout the Role\nWe are hiring a Senior Product Manager to le"
-    },
-    {
-      "id": "jsearch_V1cxeHRxRjg3TGdkb3pwakFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMmN6VWpKaU9EUkpRMjVNVkd4VVJVdGFNRUZZVjJwVlNuSlBXbTVPYjJScWJsWmhVbWcyV0dKc1oybFNVVE5ZYkdsYVYxVmFSWGN5VlZwZk9XRjRWekZsV0MxU2QwSnljRlZHV0VkUmVrVlRTakp0UTNWS01FaHZWMW80VjNOVE0wSnFVMVZxZVVKUUxVNXFla2h1ZHpsUk4wSTRWM3A1Y2pCWk1qVXdWemhOTURkVmVFd1NGMEpDTmxOaGRYRjNUV0o2Ym5kT05GQnlOSFp0ZFVGdkdpSkJSSE55T1daVWJEZHFZa04zTUcxNldERmZZVWwwUWs5NlMyVjFXVVpNYVhKbg",
-      "role": "Senior Product Manager (Marketplace)",
-      "company": "Binance",
-      "link": "https://builtin.com/job/senior-product-manager-marketplace/9920013",
-      "posted_date": "2026-08-15",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Built In",
-      "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom o"
-    },
-    {
-      "id": "jsearch_MFZOVVBrLUU4djhpd3FSTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMmRvWmtacVgzWmhRMk5wTlRZMWIwTmZVRUYyYkhCTmJGcENiSFJ3ZUdocWJFeHlVVlV0VHpVd1ZHeHZjMkpRVHpkSVVHNVhTRVJUUnpoNWMwZzRZak0zZG5wTGJrd3lUMFk1UTFWc01FVkRVRE15YjJ0aVkyMWhiall4U1c5VGVFUnROMkZOVWtzeE9HNHlTeloxU2pONllqVm5MVEl3UXpSZk5YQkRjRFpUYjBVNFIxWVNGMGRTTmxOaGNqSnVTMDlxVkd0UVNWQnpZMjF3YjFGdkdpSkJSSE55T1daVGNtRm1PVmRzUjE5dVRqVTFjWFYzUkY5NFkyVnBOVlo2U2xCbg",
-      "role": "Remote Sr. Product Manager: SaaS & Mobile",
-      "company": "Infotech Current Openings",
-      "link": "https://www.talent.com/view?id=634362689666551195",
-      "posted_date": "2026-08-24",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Talent.com",
-      "description_snippet": "Infotech® is seeking a Senior Product Manager to own the roadmap and mobile strategy for Appia, Doc Express, and Infotech's mobile inspection solutions.\n\nWho we are\n\nBuild the infrastructure that moves America forward. If you've driven on a highway in North America, there's a good chance Infotech software helped build it. We create the tools that power road construction from bid to build — digital bidding, cost estimation, document signing, inspection, and more. 88% of U.S. state transportation agencies rely on our software to deliver infrastructure projects with transparency, accuracy, and co"
-    },
-    {
-      "id": "jsearch_YnIzc0xIcm5LVzF5N3ViQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVJvWWpKT2F6ZGpiMjlIZEZSaGMwcERYM1JmY0ZoclJsWllOa0YzUkdWWVdFNXVObUZoVlhNeWFWVTFka0p0Y2xwRE5WSmxUVEZwUjJWeldVSkJWRVZKWlV4b04xbGpiRVZaYjBsYVUxaEhUV1paTkVGT1NVbDFhbEZDYldWUVJGUkRUbFJHTW5WT1lrOUpRM0Z2YzNodVprRTRjM1J3UzIxeExXNXBiMUJCVTJwYVZIVVNGMnBTTmxOaGRsQmFUWE5mVkhBNE5GQXpTVkJITmtGUkdpSkJSSE55T1daVFgwSXdjSHBxUVdsaGIxbHNSMkZ3VTFaMFMybFNWVWhrZEROUg",
-      "role": "Staff Product Manager, App Platform & Experience",
-      "company": "Affirm",
-      "link": "https://www.linkedin.com/jobs/view/staff-product-manager-app-platform-experience-at-affirm-4429610124",
-      "posted_date": "2026-08-21",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "LinkedIn",
-      "description_snippet": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.\n\nAs a Staff Product Manager on our Consumer team, you’ll help define how millions of consumers experience Affirm across our mobile apps, web experiences, and future consumer surfaces.\n\nAs the Staff Product Manager, App Platform & Experience, you will own the foundational systems, frameworks, and experiences that make Affirm intuitive, cohesive, and scalable. You will define the experience architecture that enables teams acr"
-    },
-    {
-      "id": "jsearch_QUE0bTQzR1VJN0VrWXBEeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakJvZFRaT1MwdG9kMHhFUTJNeGRVOUJVakF6VnpVeU9EUkRYMnhDVnpOS1RsVXdaVXBPWTJOTFR6UmpkV3BVYjBaWldESlpXbXBVTld0dVJXbFNOM3BuZDJnMmIycERUbmRTTTJkS09XOHpPRXROYWtJNWNXOU1jekE0VW5ab1JtOHRkWHBHVFVOa1gyRnBiVU4yZUhrNWFWRTVielZpVVRGSVZYUTBiVEZIVVVneFUyRVNGMEpDTmxOaGRYRjNUV0o2Ym5kT05GQnlOSFp0ZFVGdkdpSkJSSE55T1daU2NHSTBkR0ZQZDFOV1RrYzVUMXBzT0RORU4wazFlRTFvU210Mw",
-      "role": "Senior Product Manager - Contract",
-      "company": "TalentBurst, Inc.",
-      "link": "https://www.monster.com/job-openings/senior-product-manager-contract-walkersville-md--e53a621b-6d78-4389-9ba2-67dd131875f1",
-      "posted_date": "2026-08-21",
-      "location": "Walkersville, Maryland",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Monster",
-      "description_snippet": "Title: Product Manager, Bioprocessing\nLocation: Walkersville MD 21793\nDuration: 6+ months with Possible extension\n• Responsible for building business success through proactive lifecycle management, product development, and expansion of the assigned Portfolio responsibility.\n• This role acts as the central interface for developing and executing global portfolio strategies in close collaboration with colleagues in R&D, Sales, Strategy, and Marketing.\n• Client knows the stakes are high for cell and gene therapy developers, and time-to-market is critical.\n• That's why greater process efficiency, s"
     }
   ]
 }
