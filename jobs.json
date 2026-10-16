@@ -1,9 +1,23 @@
 {
-  "last_updated": "2026-10-15T18:48:01.346Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-10-16T18:33:14.792Z",
+  "total_fetched_today": 7,
   "jobs": [
     {
-      "id": "jsearch_NDVrSUMxTjZ0YkxNc1ZOMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHBpTUZRdGRHcE9TVU5xV2tsSVFqTkhRbHAyUW1KZlIyMTBjSE5VU0RSVVIwdHFaMmh3YnpaV2REaE5NMjV0V21aZlYzTklkV3hCUjFGR2JTMDBOSFJhU1dkS2JsOW9kR0Z3Y1RONlNrUktZMnBNYnpWSFgzWm9NVEo2Wkhwek5HVjJjVEZ0WVV4c1FURXRObUpMVEZsUGMzbEpVMnhDWmsxNVdtcG5ZMVpsZWw5QmFrVVNGM3BvWDFKaGRESTVUVmxsWHpCUVJWQTRUVTlUTFZGM0dpSkJSSE55T1daUk9HbDZibGg2YW5BemEyaG1aMmRNTkdsM1h6TlRWakp2VGpCMw",
+      "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGRRVldKb2NVbEtSblYwY1RGbk9XRnRTRnA2UzFvME4zTm5ZVWxzTFVoM1NtNVJlV2ROU3pWVmVrODNWMWgyY0dGeWEwRnhRemxOUWxOTlkxcFpOMDlYUXpkMk1XVkdlSE5JTkdWWk5rNVBkM1o2VDNFMVVWQm5abk5zZFV4SFJrNHplRzVwWWtNM2JEWXdhMnhNVFRONk1qazFZMjlhVDFoVFRVeEZOVXRKWVhWMk1qWVNGelpITTFOaGMzcGtTWEZJTFdsTVRWQnZXbFJqYTBFd0dpSkJSSE55T1daU1gwTkVkV000Y1MxUk5IUkdaemxpY21aQmNHVk1TVVJRYzJ4Mw",
+      "role": "(USA) Staff, Product Manager - Financial Services",
+      "company": "Walmart",
+      "link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Product-Manager-Financial-Services/-in-Walnut-Creek,CA?jid=1dc88f396c2eb815",
+      "posted_date": "2026-10-11",
+      "location": "Walnut Creek, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 12,
+      "source": "ZipRecruiter",
+      "description_snippet": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Staff Product Manager to lead high-impact product initiatives within the Enterprise Financial Services organization—a strategic function at the intersection of retail, technology, and financial innovation.\n\nYou will own the end-to-end product strategy for enterprise-scale financial capabilities spanning co-brand card programs, third-party wallet integrations, and lending enablement, powering how our customers and members transact, manage money, and engage with financial products across our ecosystem.\n\nThis role demands a leader who ca"
+    },
+    {
+      "id": "jsearch_NDVrSUMxTjZ0YkxNc1ZOMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmhNTkZocGNFZExSMUZOYVZNd1luZ3lRMWxCTFVwNGIwbEdZVjl4ZEZsamNuSnhlRTlTT0U5elpETlhhSFl3ZFV4R2VsTlBPSHBHVWxZMWMzcGFjRnBET1RaV1lsWkxUa0oxU1hocFVHMWpWVGx5WWpsRGVVZEhVWHBsT1d3MFV6ZElaREpIVkhFMmVFSkxZMnR4ZGkxVVUwNDNaSE5EWkdoWWQyWkRWVzlLVW1WQmRGY1NGM2R0TTFOaGIySk5TM0pMUXpKeWIxQnZXWFpuYlZFNEdpSkJSSE55T1daVE1HdHhVVlZ2YmxKME9WSXhlRFpNTlRSd1oxRnJjazFDU0ZwMw",
       "role": "Product Manager - Cybersecurity",
       "company": "Volexity",
       "link": "https://bebee.com/us/jobs/product-manager-cybersecurity-volexity-silver-spring--fj-2413671746",
@@ -15,6 +29,76 @@
       "match_score": 9,
       "source": "BeBee",
       "description_snippet": "Volexity is looking for an Associate Product Manager to join its rapidly growing product team.\n\nPlease apply for this role via our website at www.volexity.com/careers\n\nLocation\n\nHybrid, Silver Spring, Maryland (USA) preferred; Remote (USA) considered\nDESCRIPTION\n\nThis role has high overlap with the Forward Deployed Engineering role and is ideal for someone trained as an engineer who also has a business mindset and a desire to work closely with customers. It is an opportunity to learn product management, gain deep expertise in the cybersecurity industry, and help shape products used in real-wor"
+    },
+    {
+      "id": "jsearch_RGtrWUxMZjJ0dkp0Umc3MUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkYxWTBsYU1WOXBNM2RsTkRKR1VXdE5RekkzYldZeFNtOHdSVXg2WWt4S2RYTlJVV0ZhYjNaR2FtNDROMlpmTm1OdlRIbGxhVGgyZW1OalIyZEljRXRXVm5aWWJVUnZhMVJuY0dkbFduUjNjRmhuVUVKbVUyTndNa2s1YzFjeFIzbHBjVzlEZUZkU1kyRldTRlZ0Y21ONmFrVkhVREZxUTJOT1RWZE1RVzFoYUZGYVZ6WVNGek15TTFOaGRYSkNUM0JJY20xTVVWQnhOek5WTFVGakdpSkJSSE55T1daUmNYQlVZV2xtVm5NeWJrVnBWRWxNTlhvMlRYbFlSRUV6U1VkUg",
+      "role": "Senior Product Manager – Agent Marketplace",
+      "company": "Snowflake",
+      "link": "https://jobgether.com/offer/6acef7d049c73d7b997a2da9-senior-product-manager---agent-marketplace",
+      "posted_date": "2026-10-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: United States, California (USA)\nAt Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emer"
+    },
+    {
+      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakp6Y2xaeFpIWkZNWFZNUjNReGVucDVjRW93TkRGblQybzRhazVXWmswNFlXdEZaVTVVYVZsUmIweDVOV3h1TUROaGVHODVlWEpsU1ZKRmRsSmxiM0YyTWpKRlUyVXRXWFpJZEdGbFJsTllaVlpaUXpZM2FWVklUVGRKTmw5bE1EUlBObFJMWldsQ1JYVlZVVkUzWm0xTFlUQXhkMUJ1ZEVwcGJWWXpWSEpSTURoQmJVd1NGM2R0TTFOaGIySk5TM0pMUXpKeWIxQnZXWFpuYlZFNEdpSkJSSE55T1daUlNXcEZPWFV0YVdsaExVOVVkbEJNTlcxbGVsWmFVVmh2ZDJ4Qg",
+      "role": "Product Manager, Self-Serve Merchant Experience",
+      "company": "Alia",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
+      "posted_date": "2026-10-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
+    },
+    {
+      "id": "jsearch_UjRKTWFmUHR3QUFWb0VGckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3g0ZFd0eGJWTjVWR0ZVT0V0c1RWUmlWVU5PTTB4elkzRmlhRTU2U2s5b2VIcDZURUl6WW5KcVlrWTBjR0pVVFhkTGFrSmtWRE41YzNwdmRHMXBaRkZ3VkVsWVNFWlpVM1J3WkZOVmFsWmtaMGRQUzI1ZmNXcGtWRU5FWlhabllXWkVTREJsWjNaMVpIZEVia0pEUkhkQ2VFMWhSR2xzTkcxS09HUnFUbko1Ym1GQ1pUWVNGM2R0TTFOaGIySk5TM0pMUXpKeWIxQnZXWFpuYlZFNEdpSkJSSE55T1daVVJERllUWEJqYUhBemRFVlVjVkpLZUdKVFlVdFRhblJQTkMxQg",
+      "role": "HIMS Group Product Manager",
+      "company": "Juno Search Partners",
+      "link": "https://bebee.com/us/jobs/hims-group-product-manager-juno-search-partners-washington-dc--lifeworq-1a6d92d0-12c5-44a9-993c-b9597a42ce01",
+      "posted_date": "2026-10-11",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "BeBee",
+      "description_snippet": "About the Opportunity A growing SaaS technology organization is seeking a Group Product Manager to help lead the strategy and continued evolution of its Risk Management Information Systems (RMIS) product portfolio.\n\nThis is not a traditional execution-focused Product Management role. The organization is looking for someone who brings deep RMIS, risk management, insurance technology, or closely related domain expertise combined with strong customer-facing experience, strategic product thinking, market research, and commercialization experience.\n\nThe Group Product Manager will work directly with"
+    },
+    {
+      "id": "jsearch_S3ppd2sydTUyQUlLVkdzaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFJYTW5ZMlkxbDRhVjlQZEhoQllUUkVVRUZtYUc1dlNHcE9Xa2R2U1VJM2NIQlRVVGhMTXpReE9HTm1OME4wWVRaaFRHSldVbkJUZG1KcVRYTXlZVEZOWlUxT1YydFJOWHBoVFVGMk1ISmxVVTQ1Y0V0aFZuTlFiMG8zUTBKUlJYZE9XRzlOT0ZGVVFWSlFXVXRFTld3elVrbGxOMEZHVW14Uk1XdHVRVFpDT1RsVWNrc1NGek15TTFOaGRYSkNUM0JJY20xTVVWQnhOek5WTFVGakdpSkJSSE55T1daU1IxUnNaMGhYV0ZoSWVHVm5YMlJhTm5Rd1UwNDBXV2RqWXpkbg",
+      "role": "Sr. Product Manager - Bot Management",
+      "company": "Thales",
+      "link": "https://bebee.com/us/jobs/sr-product-manager-bot-management-thales-remote-or-united-states--jobgoal-23672_CD90ABDDE445AB3E51ED244CC9B5F634",
+      "posted_date": "2026-10-14",
+      "location": "Remote, Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "BeBee",
+      "description_snippet": "Location: Massachusetts, United States of AmericaThales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billions of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much more.\n\nMore than 30,000 organizations already rely on us to verify the identities of people and things, grant access to digital services, analyze vast quantities of information and encrypt data to make the connected wor"
+    },
+    {
+      "id": "jsearch_YUZWbW52b0lneWdOa2hIY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFpXVVZaWlVFbDRaVEowWjJ4TFZFMVJMV0pvTjA5amFDMUZhVEJGU1VscVoxWXRNMjlsVGkwdGJXVkJVbFEwUTBKbE4zcG9lRXBXVXpkaFpscHFkVXRTTVc0emNEUlZWMGhJWlRkbVpWQjZkRVJOU1dOR05qWkxjVWRoUW5wWFMySkVlVXhIYjNWdVVFWTVUMUpsTkdOeGFGZGhjRnBSY1V0YU9XaEtOblJmUWpsaGFUTVNGM2R0TTFOaGIySk5TM0pMUXpKeWIxQnZXWFpuYlZFNEdpSkJSSE55T1daU2VrNW1VM1JFYVdSSVVXbHZlamxtZWxaWFoxOU5jRWRRZFhobg",
+      "role": "Senior Product Manager-Technical, WW Ops Finance S&A",
+      "company": "Amazon",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-technical-ww-ops-finance-sa-amazon-washington-dc--jooble-5402664126769350258",
+      "posted_date": "2026-10-14",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "As a Senior Product Manager-Technical in WW Ops Finance Standardization & Automation you will lead the vision roadmap and execution by partnering with other Product Managers Finance partners Engineering and TPMs. You will understand the inputs from multiple internal and external sources and develop a product vision and strategy to achieve the goals of Ops Finance Standardization and Automation team. You will own Hydra products in S&A space.\n\nWe have a strong vision and iterating rapidly with incremental value to our customers and this will provide a highly visible charter and strategic signifi"
     },
     {
       "id": "jsearch_UzBFUTg2azlBb3ZjaHNrS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkJSY3psU2RYZDNSbU5vYXpGb1lrUkJUazV4ZG5sNWVHaG5hMDFIZEZKa1ZHaHJXSGREWDBwcGRHcEVXaTFJZGt3NFpWWXlWVWhUU2s1VUxXaEtkV2hvVkVWemREbE9la3d3YjBkSVpGOVlUMnhaVGpKek5WTXRSMnR0UzI1Tk5Va3dkMWRrWjBoaFpFUXlSVFYwU2pjeFRUUmtiVFF5WTFvelJtcFFVbmg1TmxJNVpXTVNGek40WDFKaGRHbERRbUpYYkd0a1ZWQXdXazlXT0ZGckdpSkJSSE55T1daUmNIbDZkMVpOYWxaNk5GZHplV0Y0WVVVMVFWcHNkbUpXWTBSbg",
@@ -31,48 +115,6 @@
       "description_snippet": "This a Full Remote job, the offer is available from: United States\n\nProgressive Leasing is a leading provider of in-store and e-commerce lease-to-own solutions. With more than 20 years in FinTech, we’ve grown from start-up to industry leader by innovating, simplifying, and valuing people. We are a subsidiary of PROG Holdings (NYSE: PRG), a FinTech holding company with three business segments: Progressive Leasing, Purchasing Power (a leading employee purchase program for consumer products and services using payroll deduction), and Four, a Buy Now Pay Later (BNPL) platform.\n\nWe are currently hir"
     },
     {
-      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbk5aTTJkTVFXNU5iVFpETlMxdFVHdG1TSGxwTldrd1IzcHZRMm80UzBwdFVFbDRaMUEwYVRGd1psQjBhMmxZWWpOWE1EbFdMV0pPVDBGM1JHdzNWRkZaWjBWRlFtaFJiMGxPV1V0c1RXVkZNVzl5WWpWMVpUQnViM1ZZT1MxR05YRmZTakI2TlV4eWFFOVlUM0JHTm1wbVJpMWhjMVIyV21aaGN6aGhWRlpvVDBGZldqSVNGM3BvWDFKaGRESTVUVmxsWHpCUVJWQTRUVTlUTFZGM0dpSkJSSE55T1daUmIwb3dRMWR0VkRrNVF6UkhiMnh6UjNnMlpGaHFhSGxSVm05bg",
-      "role": "Product Manager, Self-Serve Merchant Experience",
-      "company": "Alia",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
-      "posted_date": "2026-10-13",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "LinkedIn",
-      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
-    },
-    {
-      "id": "jsearch_UjRKTWFmUHR3QUFWb0VGckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalpVVFdaMlYybElkbTF2ZEhSd1JDMXdVekUyUTNkQldtNVVhVUZCTmxSSVRuUnBhSFJDVFZack9USjFXRlJJV21zd016RkhUM2xsVTBoRVpGUTNibTFtWTJzMWMyTTNaMWhQTm5vd2FGaEZWRXBsT0d4V2VEWlplRTUwZFRaVU9UaEhVWEkyTWxKMmVXWjVkMjFQTVhkb2FXSjZiMUJJV0hVeVNDMUNhV3RKT0VVMExVMFNGM3BvWDFKaGRESTVUVmxsWHpCUVJWQTRUVTlUTFZGM0dpSkJSSE55T1daVU9HVlhUMDFJUm1aSmJVUnVOVkZDVFV0R1RFaEVhRWxIYXpoQg",
-      "role": "HIMS Group Product Manager",
-      "company": "Juno Search Partners",
-      "link": "https://bebee.com/us/jobs/hims-group-product-manager-juno-search-partners-washington-dc--lifeworq-1a6d92d0-12c5-44a9-993c-b9597a42ce01",
-      "posted_date": "2026-10-11",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "BeBee",
-      "description_snippet": "About the Opportunity A growing SaaS technology organization is seeking a Group Product Manager to help lead the strategy and continued evolution of its Risk Management Information Systems (RMIS) product portfolio.\n\nThis is not a traditional execution-focused Product Management role. The organization is looking for someone who brings deep RMIS, risk management, insurance technology, or closely related domain expertise combined with strong customer-facing experience, strategic product thinking, market research, and commercialization experience.\n\nThe Group Product Manager will work directly with"
-    },
-    {
-      "id": "jsearch_S3ppd2sydTUyQUlLVkdzaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmRRTUU1Q2FFTndUazlTWkU5b1NISkZMVEJsZEU1SlZETkRUbFJTU25ac2QxQmFXQzFuUTBkWFdrY3hRMjlNZEdrMGRXdG5Va2Q1ZG1aU1oxVjRZMGRxYm5CR2RUTlZTWGN0VVZoWWNFVnhja2RoTjJGd2NXVndaekpmTTJ4QmJUUTVabFpmYkRCTmNEbHlXVFJ1VnpkNWNuaG9XVmgxUkRSbWVuQmliRGgxTW0xUk5uUVNGek40WDFKaGRHbERRbUpYYkd0a1ZWQXdXazlXT0ZGckdpSkJSSE55T1daVFkyUlVhRE4zUVV3eldUQk1la3R4YkMwek1FeHJRa05wY1RSQg",
-      "role": "Sr. Product Manager - Bot Management",
-      "company": "Thales",
-      "link": "https://bebee.com/us/jobs/sr-product-manager-bot-management-thales-remote-or-united-states--jobgoal-23672_CD90ABDDE445AB3E51ED244CC9B5F634",
-      "posted_date": "2026-10-14",
-      "location": "Remote, Oregon",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "BeBee",
-      "description_snippet": "Location: Massachusetts, United States of AmericaThales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billions of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much more.\n\nMore than 30,000 organizations already rely on us to verify the identities of people and things, grant access to digital services, analyze vast quantities of information and encrypt data to make the connected wor"
-    },
-    {
       "id": "jsearch_Tnk4ME9OTWROQXgtMVJHSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazR3VDBOVGRHOHdValZ5UzFCaGExaFdSak4zV0VWQ1ZWWnNhbkV4Wm5kTFQzTjRTMGMzT0ZGNGVteFliWGRvVW1sYU0wWm1XRUUxTVhrM1VsRmhkM2xRY3paVldFTktUSEI1UVdOYVlUQmtXbTB0Wmt0YUxWUkpORlpXWmxwVmNtZHZkak5VYzBkd1IyaG5VM2xOYUdwRmJFb3RVREl6VG1oV2FrVkdRV2hxVkVaTFlUQVNGM001VEZCaGIzSm1RMk5mYkRKeWIxQXdjR0ZQTmxFd0dpSkJSSE55T1daU2JtZFNXRzg1ZDJsR1NsSnpNalJYYjJSSmJYZE5ZWGd3Um5SQg",
       "role": "Principal Product Manager, Orbit",
       "company": "GitLab",
@@ -85,20 +127,6 @@
       "match_score": 14,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: United States\nGitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n\nThe same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected "
-    },
-    {
-      "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamxaVG13MmFVcE1iVkJ6WlVvdE9HYzNSamsyT0dkd2R6ZE5PSFowZVhVeGVGQjFXSFpqVFU1a1ptWnlTMWcyWlZnd00yMDFZeTFVWDJoVVluVmFVVGszUzNOVVgwRldNakpMVVVOb1NEWm1WMnMwVjNKbWJtRlJkelY1WWxoV1VsRTNTbkJEV2pGSGVtOXVhRGRaTFdrMVVFazNUM2RhWTBjMmQzZzNjRmhxZEVkUFpGa1NGemxrVEZCaGNESk9SR0pRVUd0UVNWQm9UMVJLYlZGVkdpSkJSSE55T1daVVVtNUNWM2hPZGpkbGJtVk9hM2QwY0ZaWE5tOUZZV3BsWVV4Mw",
-      "role": "(USA) Staff, Product Manager - Financial Services",
-      "company": "Walmart",
-      "link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Product-Manager-Financial-Services/-in-Walnut-Creek,CA?jid=1dc88f396c2eb815",
-      "posted_date": "2026-10-10",
-      "location": "Walnut Creek, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 12,
-      "source": "ZipRecruiter",
-      "description_snippet": "Position Summary...\n\nWhat you'll do...\nWe are looking for a Staff Product Manager to lead high-impact product initiatives within the Enterprise Financial Services organization—a strategic function at the intersection of retail, technology, and financial innovation.\n\nYou will own the end-to-end product strategy for enterprise-scale financial capabilities spanning co-brand card programs, third-party wallet integrations, and lending enablement, powering how our customers and members transact, manage money, and engage with financial products across our ecosystem.\n\nThis role demands a leader who ca"
     },
     {
       "id": "jsearch_MFdWLWVUZ3FLWS1ZejZZLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazlsYmpjNFltSm5TMVZuY25nNGNUWTJOM0JPVFV4bk5WZEpaRlowUm5Kc1lWQjNZWGxsZWpST2NXTkVOSHBRVFhwSmFGRTRMVzF0UVdGVmVGOTNSblJOVEVSNk1ESktXVFEyZEY5R2VHWlBWamRRY1VSalowOVFNRTF2ZHpjM1RGSlZSblpRY1VOM2FHNU9UbmhpTXpkaVQya3hWRXBzTWtRMloxSnRYMWhhYVRsd2JrTVNGM001VEZCaGIzSm1RMk5mYkRKeWIxQXdjR0ZQTmxFd0dpSkJSSE55T1daVGJHeEtOMDFTYlZvd1UyOXhhSFJWTFZsclFWaE1TVlZGVUc5Mw",
@@ -2773,34 +2801,6 @@
       "match_score": 2,
       "source": "BeBee",
       "description_snippet": "Ad Hoc is seeking a Senior Product Manager to shape strategy and drive cross-functional delivery for federal customers in a fully remote role. You’ll partner with Engineering, UX, DevOps, and Business Analysis to translate user needs into scalable platform initiatives and measurable outcomes.\nYou will own roadmaps, manage backlogs, mentor junior PMs, and advocate for user-centered design and iterative delivery."
-    },
-    {
-      "id": "jsearch_cVB2Uklpd25pZ1VTQk1vVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTV2WDNWRlRHbFBZM05xYm5OT1VtRkNUV3RaWVdOR2IxQTRaVVEyV0RkbWNIRjRNSFZ0ZUhOZk5VTlVYMTgxTTB3emMySTBUR0p2T0VGYWJYcFJhM1ZGTldOVGJFNDFNME5pWDA1UU5DMW5RWFphTUZKblpDMXNRbTVyUlhSMU5EWmFiMVJoZWswd1gyeG1OVFIxYTFKVE5XcHpaazE2VlhFdE1Yb3piMTlFYVc5eWJHVVNGMHg0TFZSaGRtRnBUbVpNYzIxTVVWQTRObUoyYjFFMEdpSkJSSE55T1daUlpHVlliR2RGVVdOdVkzbDFUMHRIZVRsVFZFNVJOVVpRY25kUg",
-      "role": "Consumer Data Product Manager - PVH Corp.",
-      "company": "PVH",
-      "link": "https://careers.pvh.com/fr-CA/jobs/consumer-data-product-manager-pvh-corp-bridgewater-new-jersey-united-states-f255d69d-fa87-49fa-838b-86a9007814a9",
-      "posted_date": "2026-08-24",
-      "location": "Bridgewater, New Jersey",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 11,
-      "source": "PVH Careers",
-      "description_snippet": "About Us:\n\nWe are brand builders who focus our passion and creativity to build Calvin Klein and TOMMY HILFIGER into the most desirable lifestyle brands in the world and at the same time position PVH as one of the best-performing brand groups in our sector. Guided by our values and enabled by our scale and global reach, we are driving fashion forward for good, as one team with one vision and one plan. That’s the Power of Us, that’s the Power of PVH+.   \n\nOne of PVH’s greatest strengths is our people. Our collective desire is to create a workplace environment where every individual is valued, an"
-    },
-    {
-      "id": "jsearch_dlRDcTZCbnB5VjFxVmM2N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGxhUjBKemNHOVpYMWhwV25WRVprSmxVbGxtWVVoNVZUSmllREJCTVZrMFRIQm5lSGhaWTBGNlkzRmxMVTlmY0RoMU5TMUZSM0JYVjJKRlRUQjBWa1o2UTNreFlWRXRNM2RaWHpsb05uVjJOM0JwVXpabU9ITjNNakZVTnpWclJtNU1Ua05JUmpBemExbEliMUY1U3paTE4yZGZWMWszVmxGamVXSkZTRmQwV0V0dGJYRVNGMVZvTmxOaGIyRmZRemhEY25WeU9GQmZkbFJWTkVGWkdpSkJSSE55T1daVWQxRlNjVFZsVG10ek5FUmhNVFkxWldObWFHNHRUWFpLTjNOMw",
-      "role": "Senior Product Manager USA - Remote",
-      "company": "Claire Manufacturing/Dandy",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-usa-remote-claire-manufacturing-dandy-northern--pureheal-28528_25199_cdbd192d22fd5b3185d26c217635afac",
-      "posted_date": "2026-08-22",
-      "location": "Kentucky",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 10,
-      "source": "BeBee",
-      "description_snippet": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the world—empowering clinicians and their teams with technology, innovation, and world-class support to achieve more for their practices, their people, and their patients.\n\nAbout the Role\nWe are hiring a Senior Product Manager to le"
     }
   ]
 }
