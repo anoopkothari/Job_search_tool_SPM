@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-10-16T18:33:14.792Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-10-17T17:40:36.795Z",
+  "total_fetched_today": 4,
   "jobs": [
+    {
+      "id": "jsearch_MFdWLWVUZ3FLWS1ZejZZLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV2d6VG5sRldHZGpTVlpJTjBkTE1ETlFUMmRpY1dKV1VrNXRWMGwxTkZsMFZVSnljMG8zUTJWM2NrdFNhMlJmU1VKaFdWSkxVVGM1UlZreGNqTjJSMWhNYVZwM1pVdElVbGR5T1d0MlpIWXpNbVIzYzBkS2IybFhWVXBLU0V4MWJuSTFSMUZHYVZaWUxYTTFRbmg0U2twZlJtOWxUVTg1U1hseFdHeEpZbTEyU1VweU1WSVNGMTgzVEZSaGNHWjFTalpoWnpWT2IxQXpZbUZEYlZGekdpSkJSSE55T1daU01sbFNVbkJ5Y0doUFdIVnJVSGxrTWxScFMycFNNelJHTlhGUg",
+      "role": "Product Manager ( Remote)",
+      "company": "Availity, LLC",
+      "link": "https://builtin.com/job/product-manager-remote/11622302",
+      "posted_date": "2026-10-11",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 11,
+      "source": "Built In",
+      "description_snippet": "Availity delivers revenue cycle and related business solutions for health care professionals who want to build healthy, thriving organizations. Availity has the powerful tools, actionable insights and expansive network reach that medical businesses need to get an edge in an industry constantly redefined by change.\n\nAt Availity, we're not just another Healthcare Technology company; we're pioneers reshaping the future of healthcare! With our headquarters in vibrant Jacksonville, FL, and an exciting office in Bangalore, India, along with an exceptional remote workforce across the United States, w"
+    },
+    {
+      "id": "jsearch_RGtrWUxMZjJ0dkp0Umc3MUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTVnBIVERsT01VeGtTM0YyZVUxbGJtOU1PVzR0VTJ4T1pYTXpkVFZKVW5OUWQwODNURFZEVWxSUWQxcGFkbmRCT0d4MU1GaDJOVFYwWW14bVJFcGhPRzg1TUVSV2FWSjVibDlMTlZsQlF6SnlURlJXYjFoTlJ6Um1jekZZTTJvMGF5MVNSRTFFYjAxRmEybGllbU5QTmtoNFZqZENkVUpHWWxaV00wMUlSRE5MVFZSVmVuZ1NGa1Z5VUZSaGRtSkNURmx1WWpWT2IxQndaV0ZqVFVFYUlrRkVjM0k1WmxGQ09FazJNM05PWkRSRVRVZDVVekZPU0VOa1ZWSjZibWRHYzJj",
+      "role": "Senior Product Manager – Agent Marketplace",
+      "company": "Snowflake",
+      "link": "https://jobgether.com/offer/6acef7d049c73d7b997a2da9-senior-product-manager---agent-marketplace",
+      "posted_date": "2026-10-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: United States, California (USA)\nAt Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emer"
+    },
+    {
+      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWFJSY1ZKSVFqTjBUMTkxVDBoeGJEWnVTM05wUzFOMVpXaHFjMVJNYTI5aVdreFdRMXBwTFRJdFkxSnNMV3BaTlhVNGNFSTFZMHByTkdvMlZFRllhV3hXV0RKdVFtaFhRVGRNZVROWVgzSkZVRXQ1ZUdJdFFWRnVaams0YTNOVFJWVm1PVlowTWtSTU1rRnRjMUpwTkRkM2JtUlRNMkZaYlVzNFlqUnhNRTVIZG5aWU5EY1NGMTgzVEZSaGNHWjFTalpoWnpWT2IxQXpZbUZEYlZGekdpSkJSSE55T1daU1VYQm5iMHhTVmxsRUxVaG5jMWhEZFc5Q1JHRnBTVzlVTnpWUg",
+      "role": "Product Manager, Self-Serve Merchant Experience",
+      "company": "Alia",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
+      "posted_date": "2026-10-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
+    },
+    {
+      "id": "jsearch_YUZWbW52b0lneWdOa2hIY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU4wTm14NWFtOHhZbkV5UjFoUGIwNUtiMEZTTUVWelUxcGpXVkk0VUVSc2FYSlZjWFpIVERSZlFXaGZkVlZ0T0dreFNXdENSWEZ0Ylc5bVRGbFlWalozTTFFdFVXODFkalZYYTE5cFoxVTVhRkF6ZDFNdGVGbDVhWGcyYVdaaWNXZHNZVGxHVWpSV2JHZzJNVlU0UTJwT09IaE9OWGRaTWt0M1VXUjBSVUZEV21kR1RWTVNGMTgzVEZSaGNHWjFTalpoWnpWT2IxQXpZbUZEYlZGekdpSkJSSE55T1daU1RtSTFSVU5SVURKaGFsSkhlSEkwWkVzeFNVSTFiVFZ3UldoQg",
+      "role": "Senior Product Manager-Technical, WW Ops Finance S&A",
+      "company": "Amazon",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-technical-ww-ops-finance-sa-amazon-washington-dc--jooble-5402664126769350258",
+      "posted_date": "2026-10-14",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "As a Senior Product Manager-Technical in WW Ops Finance Standardization & Automation you will lead the vision roadmap and execution by partnering with other Product Managers Finance partners Engineering and TPMs. You will understand the inputs from multiple internal and external sources and develop a product vision and strategy to achieve the goals of Ops Finance Standardization and Automation team. You will own Hydra products in S&A space.\n\nWe have a strong vision and iterating rapidly with incremental value to our customers and this will provide a highly visible charter and strategic signifi"
+    },
     {
       "id": "jsearch_SUtRY2NPTjlUbFdOVVBYNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGRRVldKb2NVbEtSblYwY1RGbk9XRnRTRnA2UzFvME4zTm5ZVWxzTFVoM1NtNVJlV2ROU3pWVmVrODNWMWgyY0dGeWEwRnhRemxOUWxOTlkxcFpOMDlYUXpkMk1XVkdlSE5JTkdWWk5rNVBkM1o2VDNFMVVWQm5abk5zZFV4SFJrNHplRzVwWWtNM2JEWXdhMnhNVFRONk1qazFZMjlhVDFoVFRVeEZOVXRKWVhWMk1qWVNGelpITTFOaGMzcGtTWEZJTFdsTVRWQnZXbFJqYTBFd0dpSkJSSE55T1daU1gwTkVkV000Y1MxUk5IUkdaemxpY21aQmNHVk1TVVJRYzJ4Mw",
       "role": "(USA) Staff, Product Manager - Financial Services",
@@ -29,34 +85,6 @@
       "match_score": 9,
       "source": "BeBee",
       "description_snippet": "Volexity is looking for an Associate Product Manager to join its rapidly growing product team.\n\nPlease apply for this role via our website at www.volexity.com/careers\n\nLocation\n\nHybrid, Silver Spring, Maryland (USA) preferred; Remote (USA) considered\nDESCRIPTION\n\nThis role has high overlap with the Forward Deployed Engineering role and is ideal for someone trained as an engineer who also has a business mindset and a desire to work closely with customers. It is an opportunity to learn product management, gain deep expertise in the cybersecurity industry, and help shape products used in real-wor"
-    },
-    {
-      "id": "jsearch_RGtrWUxMZjJ0dkp0Umc3MUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkYxWTBsYU1WOXBNM2RsTkRKR1VXdE5RekkzYldZeFNtOHdSVXg2WWt4S2RYTlJVV0ZhYjNaR2FtNDROMlpmTm1OdlRIbGxhVGgyZW1OalIyZEljRXRXVm5aWWJVUnZhMVJuY0dkbFduUjNjRmhuVUVKbVUyTndNa2s1YzFjeFIzbHBjVzlEZUZkU1kyRldTRlZ0Y21ONmFrVkhVREZxUTJOT1RWZE1RVzFoYUZGYVZ6WVNGek15TTFOaGRYSkNUM0JJY20xTVVWQnhOek5WTFVGakdpSkJSSE55T1daUmNYQlVZV2xtVm5NeWJrVnBWRWxNTlhvMlRYbFlSRUV6U1VkUg",
-      "role": "Senior Product Manager – Agent Marketplace",
-      "company": "Snowflake",
-      "link": "https://jobgether.com/offer/6acef7d049c73d7b997a2da9-senior-product-manager---agent-marketplace",
-      "posted_date": "2026-10-13",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States, California (USA)\nAt Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emer"
-    },
-    {
-      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakp6Y2xaeFpIWkZNWFZNUjNReGVucDVjRW93TkRGblQybzRhazVXWmswNFlXdEZaVTVVYVZsUmIweDVOV3h1TUROaGVHODVlWEpsU1ZKRmRsSmxiM0YyTWpKRlUyVXRXWFpJZEdGbFJsTllaVlpaUXpZM2FWVklUVGRKTmw5bE1EUlBObFJMWldsQ1JYVlZVVkUzWm0xTFlUQXhkMUJ1ZEVwcGJWWXpWSEpSTURoQmJVd1NGM2R0TTFOaGIySk5TM0pMUXpKeWIxQnZXWFpuYlZFNEdpSkJSSE55T1daUlNXcEZPWFV0YVdsaExVOVVkbEJNTlcxbGVsWmFVVmh2ZDJ4Qg",
-      "role": "Product Manager, Self-Serve Merchant Experience",
-      "company": "Alia",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
-      "posted_date": "2026-10-13",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "LinkedIn",
-      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
     },
     {
       "id": "jsearch_UjRKTWFmUHR3QUFWb0VGckFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR3g0ZFd0eGJWTjVWR0ZVT0V0c1RWUmlWVU5PTTB4elkzRmlhRTU2U2s5b2VIcDZURUl6WW5KcVlrWTBjR0pVVFhkTGFrSmtWRE41YzNwdmRHMXBaRkZ3VkVsWVNFWlpVM1J3WkZOVmFsWmtaMGRQUzI1ZmNXcGtWRU5FWlhabllXWkVTREJsWjNaMVpIZEVia0pEUkhkQ2VFMWhSR2xzTkcxS09HUnFUbko1Ym1GQ1pUWVNGM2R0TTFOaGIySk5TM0pMUXpKeWIxQnZXWFpuYlZFNEdpSkJSSE55T1daVVJERllUWEJqYUhBemRFVlVjVkpLZUdKVFlVdFRhblJQTkMxQg",
@@ -87,20 +115,6 @@
       "description_snippet": "Location: Massachusetts, United States of AmericaThales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billions of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much more.\n\nMore than 30,000 organizations already rely on us to verify the identities of people and things, grant access to digital services, analyze vast quantities of information and encrypt data to make the connected wor"
     },
     {
-      "id": "jsearch_YUZWbW52b0lneWdOa2hIY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFpXVVZaWlVFbDRaVEowWjJ4TFZFMVJMV0pvTjA5amFDMUZhVEJGU1VscVoxWXRNMjlsVGkwdGJXVkJVbFEwUTBKbE4zcG9lRXBXVXpkaFpscHFkVXRTTVc0emNEUlZWMGhJWlRkbVpWQjZkRVJOU1dOR05qWkxjVWRoUW5wWFMySkVlVXhIYjNWdVVFWTVUMUpsTkdOeGFGZGhjRnBSY1V0YU9XaEtOblJmUWpsaGFUTVNGM2R0TTFOaGIySk5TM0pMUXpKeWIxQnZXWFpuYlZFNEdpSkJSSE55T1daU2VrNW1VM1JFYVdSSVVXbHZlamxtZWxaWFoxOU5jRWRRZFhobg",
-      "role": "Senior Product Manager-Technical, WW Ops Finance S&A",
-      "company": "Amazon",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-technical-ww-ops-finance-sa-amazon-washington-dc--jooble-5402664126769350258",
-      "posted_date": "2026-10-14",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "As a Senior Product Manager-Technical in WW Ops Finance Standardization & Automation you will lead the vision roadmap and execution by partnering with other Product Managers Finance partners Engineering and TPMs. You will understand the inputs from multiple internal and external sources and develop a product vision and strategy to achieve the goals of Ops Finance Standardization and Automation team. You will own Hydra products in S&A space.\n\nWe have a strong vision and iterating rapidly with incremental value to our customers and this will provide a highly visible charter and strategic signifi"
-    },
-    {
       "id": "jsearch_UzBFUTg2azlBb3ZjaHNrS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkJSY3psU2RYZDNSbU5vYXpGb1lrUkJUazV4ZG5sNWVHaG5hMDFIZEZKa1ZHaHJXSGREWDBwcGRHcEVXaTFJZGt3NFpWWXlWVWhUU2s1VUxXaEtkV2hvVkVWemREbE9la3d3YjBkSVpGOVlUMnhaVGpKek5WTXRSMnR0UzI1Tk5Va3dkMWRrWjBoaFpFUXlSVFYwU2pjeFRUUmtiVFF5WTFvelJtcFFVbmg1TmxJNVpXTVNGek40WDFKaGRHbERRbUpYYkd0a1ZWQXdXazlXT0ZGckdpSkJSSE55T1daUmNIbDZkMVpOYWxaNk5GZHplV0Y0WVVVMVFWcHNkbUpXWTBSbg",
       "role": "Senior Product Manager- Agentic Commerce (Remote)",
       "company": "Progressive Leasing",
@@ -127,20 +141,6 @@
       "match_score": 14,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: United States\nGitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.\n\nThe same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected "
-    },
-    {
-      "id": "jsearch_MFdWLWVUZ3FLWS1ZejZZLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazlsYmpjNFltSm5TMVZuY25nNGNUWTJOM0JPVFV4bk5WZEpaRlowUm5Kc1lWQjNZWGxsZWpST2NXTkVOSHBRVFhwSmFGRTRMVzF0UVdGVmVGOTNSblJOVEVSNk1ESktXVFEyZEY5R2VHWlBWamRRY1VSalowOVFNRTF2ZHpjM1RGSlZSblpRY1VOM2FHNU9UbmhpTXpkaVQya3hWRXBzTWtRMloxSnRYMWhhYVRsd2JrTVNGM001VEZCaGIzSm1RMk5mYkRKeWIxQXdjR0ZQTmxFd0dpSkJSSE55T1daVGJHeEtOMDFTYlZvd1UyOXhhSFJWTFZsclFWaE1TVlZGVUc5Mw",
-      "role": "Product Manager ( Remote)",
-      "company": "Availity, LLC",
-      "link": "https://builtin.com/job/product-manager-remote/11622302",
-      "posted_date": "2026-10-11",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 11,
-      "source": "Built In",
-      "description_snippet": "Availity delivers revenue cycle and related business solutions for health care professionals who want to build healthy, thriving organizations. Availity has the powerful tools, actionable insights and expansive network reach that medical businesses need to get an edge in an industry constantly redefined by change.\n\nAt Availity, we're not just another Healthcare Technology company; we're pioneers reshaping the future of healthcare! With our headquarters in vibrant Jacksonville, FL, and an exciting office in Bangalore, India, along with an exceptional remote workforce across the United States, w"
     },
     {
       "id": "jsearch_OVB3UzhPUmhBSU5uc2hqX0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWRJVUU1cmQxSmhSMEpQWjJRMlVHcE9ORmx3VkUxbFpVOXhORVowTW5rME1uSktRMFZFY1ZVeFdUVjJja1EyWmpSRWVsVXRURFJMZW1KNGJHdG5jbWg0VW1NNVJERkNTVWhpVUVsbGVqUm1kVFl4VDNBeVQxQmhUV0ZPU1hWcWJXMWhXVXhHZEVJeFkySmhZa3hTYVhOcFltYzFWVGMzUmxocWVGZHBPRUppVEdSQlQxWVNGM1ZrVEZCaGNUTmFTVjlwU3pWUFZWQjVjRFk0YTBGakdpSkJSSE55T1daVU1WUk1PWGRJUkVSQmJtZDZPRmxKUms1Vlp6UmhRMEZUVlRObg",
