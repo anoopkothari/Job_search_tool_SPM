@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-10-18T17:43:36.250Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-10-19T20:18:10.395Z",
+  "total_fetched_today": 3,
   "jobs": [
+    {
+      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblZXVEZweFpYWjRSVjkwYlVkd2VuUkVOVGN3YUd0RGJ6WlZRMWhMZURGUFJHdFVUV3RLZEZjelRWZElOSGM0ZVUxSVoxQjBka1pTTlROVGFFZGhkMVpZU1ZJeFZtSmFhWGw0U1RBd01reDZOREJTWkZWb2F6bFNZelZwUlRCME1EaFFlRmt0U1VSR2FYaGFXR3hEZUZWRmFqVkxkRVUwV20xcVUwWnhiVVpoT0dGck5qZ1NGeTFJY2xkaGMybEdUWEJxYW10a1ZWQnBUUzF3YVZFd0dpSkJSSE55T1daUlNucE9iazU1VjNNelUyVk9UblJQTjJKVk5UUmpWMFZ4VFU1Qg",
+      "role": "Product Manager, Self-Serve Merchant Experience",
+      "company": "Alia",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
+      "posted_date": "2026-10-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
+    },
+    {
+      "id": "jsearch_YUZWbW52b0lneWdOa2hIY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmhZVDFabmRETk5VVm93ZVRSV2NraElYMVZYTW1SMWVsWXhiVzVYTWpCalVXVkVUa0pWVkc5TVVWcFZWak55VDAxSlYyTkxWRU5pY0ZwNE5UUk5NRUZOU2pNemF6VlNWWEJKVW0xaFdYZGxSVjl6TFZaeVJGQkhORGd6TnpWWGRtOWtkRVJJUTBzNFV6aHBRbVJhVlhWVGMwRkJjM1Z2VkZRdExYVjNUa0ZpUzFKa1dXUVNGeTFJY2xkaGMybEdUWEJxYW10a1ZWQnBUUzF3YVZFd0dpSkJSSE55T1daU1MxTmtUVVpvZFU1b00yY3lTMVpDYm01VWQwZDRTVEpxUlhKbg",
+      "role": "Senior Product Manager-Technical, WW Ops Finance S&A",
+      "company": "Amazon",
+      "link": "https://bebee.com/us/jobs/senior-product-manager-technical-ww-ops-finance-sa-amazon-washington-dc--jooble-5402664126769350258",
+      "posted_date": "2026-10-14",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "BeBee",
+      "description_snippet": "As a Senior Product Manager-Technical in WW Ops Finance Standardization & Automation you will lead the vision roadmap and execution by partnering with other Product Managers Finance partners Engineering and TPMs. You will understand the inputs from multiple internal and external sources and develop a product vision and strategy to achieve the goals of Ops Finance Standardization and Automation team. You will own Hydra products in S&A space.\n\nWe have a strong vision and iterating rapidly with incremental value to our customers and this will provide a highly visible charter and strategic signifi"
+    },
+    {
+      "id": "jsearch_TEJzOW1iZjFyMFVrSzNBWEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbW8wTFRkYUxWaENiRmhhVDJoeFdUVm9VM05VVnpjMGRGQXdOblpYYVZkUWIwdDFNRjlSZVhoRlEwUTRUMGhtWXpsRVZXRm9ZWEZyU2sxaGJqRllNMlpYUTI1UmQycGxUbTB5VTNKQmVWTTJNM1p2Tm1SeE1HRm1jM0J2U2tKSmJ6VlNVVFJaVWsweVZFZG5lRTVoWDNReU1VTmxObGg1VlhneVIzQjFOVGxFWjB0RmFqRVNGeTFJY2xkaGMybEdUWEJxYW10a1ZWQnBUUzF3YVZFd0dpSkJSSE55T1daVFptUTVZakZuYTNreFN6SkJTV2xxU1Uxd1luTnlZbXBqVW01Qg",
+      "role": "Remote Digital Product Manager",
+      "company": "UnitedHealth Group",
+      "link": "https://us.trabajo.org/job-5381-c8db04a22dd1436464e6aed13d8e515d",
+      "posted_date": "2026-10-12",
+      "location": "Minnetonka, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "Trabajo.org",
+      "description_snippet": "UnitedHealth Group is seeking a Digital Product Manager to maximize engineering output within an agile framework. You will own key product areas, define user stories, and ensure timely delivery of a quality product.\nThis role requires independence, attention to detail, and a hands-on approach to resolving issues. The role supports remote work from anywhere in the U.S., with in-office presence required in Minneapolis at least four days per week for local hires.\nJ-18808-Ljbffr"
+    },
     {
       "id": "jsearch_MFdWLWVUZ3FLWS1ZejZZLUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMFZtUmsxTGJVTjRVRVpTYUMwdExYTk5OMWczZDFwSU5XMUROV3BWY1hCWlFWcHdkVVozTVZkUFpreERkV2cxYUdwNE9FdHNjVE5uYkVweU1rRnJZMkZsWXpOT1ZGWlpiVEkzYVRWcU4yWjBObWwzZFdnMGFGQnZSRWRIU2pkdlNqRXpRelZ5WjJjeE5tODRRMU16Vmpkb01XcFZZVTU0UW1KM1RYTldiVkF4U1VwSFJYa1NGeTFuVkZaaGMyWk5TbGt0YUdsTVRWQXRZa3hJTmxGdkdpSkJSSE55T1daVVZFRkRla1oyY1RsblRGbG5UbUp5ZFVoQ1gzSk1aRmxaV21OMw",
       "role": "Product Manager ( Remote)",
@@ -15,20 +57,6 @@
       "match_score": 11,
       "source": "Built In",
       "description_snippet": "Availity delivers revenue cycle and related business solutions for health care professionals who want to build healthy, thriving organizations. Availity has the powerful tools, actionable insights and expansive network reach that medical businesses need to get an edge in an industry constantly redefined by change.\n\nAt Availity, we're not just another Healthcare Technology company; we're pioneers reshaping the future of healthcare! With our headquarters in vibrant Jacksonville, FL, and an exciting office in Bangalore, India, along with an exceptional remote workforce across the United States, w"
-    },
-    {
-      "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakJ5V0hJNFUwVmFZbTlZUnpSdk9IZG5VQzFMTFcxbGQyaGlVa1JXUkhacmEzcGFhMjVDZUhwQ1FUQnJOMEphVlZoTFpWbEdTRWxPU1ZkSGFqbHFiME15Y25GUVFYbHFNVGN5WTFkNVJWbGphVms0TTBkU1EwVjNNRXQ1ZFdJMVJ6WTFaRFl6TTFsT1pFWXpTRXhsUnpObk1sSmtVbk5YY2sxc2JXOXRNemN4YWtscGJIb1NGemRuVkZaaGNVeG9Samt5ZVhCMFVWQTVaRkIwZVVGckdpSkJSSE55T1daVVRuaDFZMUIxWlcxc2QwazNkRzlVZVd4SVlqbGxjV3cyTlZoUg",
-      "role": "Product Manager, Self-Serve Merchant Experience",
-      "company": "Alia",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-self-serve-merchant-experience-at-alia-4470392432",
-      "posted_date": "2026-10-13",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "LinkedIn",
-      "description_snippet": "About Alia\n\nAlia is an e-commerce popup and list-growth platform used by more than 4,500 merchants, from emerging DTC brands to household names like AG1, HexClad, and Dollar Shave Club. Our products, including Smart Triggering, Smart Offers, Smart Testing, Smart Timing, and Prism AI, help brands convert more visitors into subscribers and customers. Alia was founded without outside funding, grew to $13M ARR, and was acquired by Dotdigital in March 2026.\n\nThe Role\n\nMost of our merchants run Alia on their own. They sign up, build their popups, and grow their lists without a dedicated Customer Suc"
     },
     {
       "id": "jsearch_emNoZ01UXzRnZGNuQTcwUEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWGxFVUUxSVJVTnhUMjVWYmpWdU1sbHFXbmhTWHpsM2FrUTRlVjh3T0hnM1YyaHhaa3BWY0RoU1pGQTVXVVJxU1Y5VFVWbDROMUoyYVZOd1JraDRNbFl4VDBRMGVWRnJZMjlSWlU1dWVWbHljMjExVURCTGRHRlJlVXBmV1ZnNVdVbFBPR3czY0U5eU1FTk9UblZ1WldRM2VuRkxURkZqVFdoWWRVUk5jV2RyVGtzeVVta1NGME4zV0ZaaGNIRjJSSFIxZERWT2IxQnhZekpMY1VGekdpSkJSSE55T1daU2JXZzVVbmhmVERKb00yOVlMVnB3TWpSVlZFWklRVVl0TVRkbg",
@@ -85,20 +113,6 @@
       "match_score": 5,
       "source": "JobLeads",
       "description_snippet": "United States Digital Space LLC is looking for a Product Manager to own the Network Interconnect product line. You will champion a mature, high-impact product that enables secure, high-performance connectivity for organizations worldwide.\n\nYou will drive strategic direction, prioritize features from customer insights, and collaborate with engineering to deliver an exceptional user experience. This role sits within a growing infrastructure team shaping the interconnect platform."
-    },
-    {
-      "id": "jsearch_YUZWbW52b0lneWdOa2hIY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVjlxVDFOT1VWSkVUall4YmtSVVJraFJiWFpWTnkwM1VtOWljV2RuWTNGVmVVOU9iRUkzTjJ0NE9ITkxTV1pyV25neFZuWlJURUZqYkhoTWRHUkJRWGwxYm5aV05VcG1MWGhaZDJkWVdEaDVWekpJVkhsaFpHMTVMWE5IWms4eFVHWnpUVXBQZEhwck1GUnJZakE1VDFSWmRFOURlbE4wU1ZvNE1WODVlbWt3UlVwa2JsQVNGemRuVkZaaGNVeG9Samt5ZVhCMFVWQTVaRkIwZVVGckdpSkJSSE55T1daVU9UUlBSMDB5ZWtSeE4wTm5Sa1JxU1VoTFgxVjVhVW96TW1GMw",
-      "role": "Senior Product Manager-Technical, WW Ops Finance S&A",
-      "company": "Amazon",
-      "link": "https://bebee.com/us/jobs/senior-product-manager-technical-ww-ops-finance-sa-amazon-washington-dc--jooble-5402664126769350258",
-      "posted_date": "2026-10-14",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "As a Senior Product Manager-Technical in WW Ops Finance Standardization & Automation you will lead the vision roadmap and execution by partnering with other Product Managers Finance partners Engineering and TPMs. You will understand the inputs from multiple internal and external sources and develop a product vision and strategy to achieve the goals of Ops Finance Standardization and Automation team. You will own Hydra products in S&A space.\n\nWe have a strong vision and iterating rapidly with incremental value to our customers and this will provide a highly visible charter and strategic signifi"
     },
     {
       "id": "jsearch_RGthczh5dXhVbzBoVk90c0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlZhUkVoS1N6azJVblpyVkVWeFNFZHZUa3RuTVdGd04xSTNabE40TTNocmIxOVljVUZFTVRZNFV6YzBkWGxDY3pselVtb3dUMlpNTlRCM0xUWlZUelZMZFdoVFNqbDVhSGx4WjJFM2JHSklOalpWUjNkWE5ERlJOMHhOV1RZdFZtRkVZVlZ6UjJ0SFNtWXRURlJFYkZOb1JXUmFUbU54TWxCUmVqSjVRMWRQYWxWMlFUQVNGeTFuVkZaaGMyWk5TbGt0YUdsTVRWQXRZa3hJTmxGdkdpSkJSSE55T1daVUxYVlRWMm8zYzBoQ1lqTnhhemxxTTFoT1Jrd3lOMjVvUTFsUg",
@@ -2787,20 +2801,6 @@
       "match_score": 10,
       "source": "LinkedIn",
       "description_snippet": "Remote – United States | Full-Time | Direct Hire\n\nMaxIT Consulting – Max Corporate Group is seeking a highly technical Principal Product Manager – AI Infrastructure & Accelerated Computing for a leading global technology organization.\n\nThis is a strategic product leadership opportunity focused on next-generation cloud infrastructure, compute, GPU, AI, and HPC platforms. The ideal candidate combines deep infrastructure expertise with strong product strategy and business acumen, and is comfortable working with engineering teams on highly technical topics while communicating product direction and"
-    },
-    {
-      "id": "jsearch_aS11cTlaMjBuUGU4bmk0dUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDVIUTAxbldUaDVOMmRMWlZOTVgwZGhOa2t5Ym5kQ1JsRTJNbEpyYUVWVlRsWkxielZ3Y2s5eWFrNVVXRVJ3UVMxemVERkdTMGxsZWxsU1EwMHlTRVJ6VW5SMlpsRklWMUY0UmpRMmNWbENTbkJNTkc1WVozaDNZMW8zV1RSRFREbFFYMjh3ZFVSemFHUm1Oa2c1ZFRCMWREZFFSek5VUTJGSVkwSmlkMTlRYjJsNk5UY1NGMUp1VTFWaGNFYzRUbk5YWDNaeU1GQXpOekpOZDFGUkdpSkJSSE55T1daU04yWTJWVjlJVkZsb1dYWlRWVlY0ZG10NVFXOXFMVEJHWmxkQg",
-      "role": "Senior Product Manager, Conversational Experiences",
-      "company": "remitly",
-      "link": "https://careers.remitly.com/job/23751364/senior-product-manager-conversational-experiences-seattle-wa/",
-      "posted_date": "2026-08-23",
-      "location": "Seattle, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 9,
-      "source": "Remitly Careers",
-      "description_snippet": "Job Description:\nAt Remitly, we believe everyone deserves the freedom to access, move, and manage their money wherever life takes them. Since 2011, we've tirelessly delivered on our promise to customers sending money globally, providing secure, simple, and reliable ways to manage their money, ensuring true peace of mind. Whether it's supporting loved ones back home, growing a business across continents, or pursuing new opportunities abroad, we're not just here to move money— we're here to move our global customers forward.\nWe're looking for builders, reimaginers, and global thinkers who want t"
     }
   ]
 }
