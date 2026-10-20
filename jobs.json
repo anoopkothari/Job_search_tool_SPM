@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-10-19T20:18:10.395Z",
-  "total_fetched_today": 3,
+  "last_updated": "2026-10-20T18:51:08.681Z",
+  "total_fetched_today": 1,
   "jobs": [
+    {
+      "id": "jsearch_TDFXNlpHN3dsOTY4NTlqbkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVGxYWW5GS1kwaG1PSE4yYTBsUWRYZDRSVjlJWHpSU2FIcHVNbGhXU1VKUU0xSTVNVGxWT0dWbVJXTkJia0UxVTJaR2QxQlRWRlZ1U21aVE0wcHlOR2xKUld4aFFubEtXVVJpUjBGbGFUbG9RVXhRUVZOSlZFeGFSbWRpWm1wTk5HUjFiSFUzZFRnNVMzQjBORTVRV2xkUkxWWm1UbGRZUkZJM1FtbHlTakZtUlhkdGFrb1NGMTlpWmxoaGNFOVhUMk42U0RRdFJWQm5ZbGhHWjBFMEdpSkJSSE55T1daU1dIZHJXa1ZpU3pGV1J6QnNOMUZXWWxCeVpFSnlTemxmU2xkQg",
+      "role": "Principal Product Manager - Sales & Revenue Operations, Amazon Shipping",
+      "company": "Amazon",
+      "link": "https://bebee.com/us/jobs/principal-product-manager-sales-revenue-operations-amazon-shipping-amazon-washington-dc--jooble--2580792154402911481",
+      "posted_date": "2026-10-14",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "BeBee",
+      "description_snippet": "Amazon Shipping is building a high-growth business designed to transform how brands and merchants think about logistics. As our U.S.\n\nBusiness\n\nDevelopment organization scales we must increasingly drive growth through Business Developer (BD) productivity automation and scalable commercial capabilities rather than proportional increases in operational support and headcount. We are seeking a Principal Product Manager Sales & Revenue Operations to own the product strategy and roadmap for the experiences workflows tools and mechanisms used by Amazon Shippings U.S.\n\nBusiness\n\nDevelopers. This leade"
+    },
     {
       "id": "jsearch_c3NFaDlzMVFMbG0zc005WUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblZXVEZweFpYWjRSVjkwYlVkd2VuUkVOVGN3YUd0RGJ6WlZRMWhMZURGUFJHdFVUV3RLZEZjelRWZElOSGM0ZVUxSVoxQjBka1pTTlROVGFFZGhkMVpZU1ZJeFZtSmFhWGw0U1RBd01reDZOREJTWkZWb2F6bFNZelZwUlRCME1EaFFlRmt0U1VSR2FYaGFXR3hEZUZWRmFqVkxkRVUwV20xcVUwWnhiVVpoT0dGck5qZ1NGeTFJY2xkaGMybEdUWEJxYW10a1ZWQnBUUzF3YVZFd0dpSkJSSE55T1daUlNucE9iazU1VjNNelUyVk9UblJQTjJKVk5UUmpWMFZ4VFU1Qg",
       "role": "Product Manager, Self-Serve Merchant Experience",
@@ -2787,20 +2801,6 @@
       "match_score": 2,
       "source": "LinkedIn",
       "description_snippet": "About Ekotrope\n\nEkotrope provides software solutions for energy-efficient building design and verification. We develop innovative tools that empower construction professionals to create sustainable and cost-effective buildings. Our mission is to empower people with technology and insights to drive informed decisions that move our built environment towards sustainability. Our company values are very important to us, and we are striving to foster a diverse, equitable, and inclusive work environment.\n\nPosition Overview\n\nWe are looking for an experienced Product Manager to help Ekotrope discover, "
-    },
-    {
-      "id": "jsearch_Uk5xWDJYaDVmQzFWTkFzbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekkxZDNSZlgxOTBkVFZWVjJoalJFODFaRk5TVlZSV05WaHlYMnhGTFhWR1NVTkVRVGRtZDNKSFduQXlZVUZxZVdnMmJFcGxVVEp0YTJOWFlVUlhMVmRCV2xsclQxZzNhSFJMWW1wd1lpMDRiWGQ1VlV4elFqTmhNRmRPZWkxck9FOVRXRGhKYmtscFkyOTFlRkJZT0V4clVETm1lVTlRTFVWblJVSmFSWG94VmxoUVQwVVNGM1J1VTFWaGNuRjZRamRQYzNWeU9GQTJVRVJrTmtGSkdpSkJSSE55T1daUmNucDVWRXB6U0RKMGNYUkNVREl3WW1aaVVIVjBWRU5JYUVsQg",
-      "role": "Principal Product Manager – AI Infrastructure & Accelerated Computing",
-      "company": "MaxIT Consulting - Max Corporate Group",
-      "link": "https://www.linkedin.com/jobs/view/principal-product-manager-%E2%80%93-ai-infrastructure-accelerated-computing-at-maxit-consulting-max-corporate-group-4457188164",
-      "posted_date": "2026-08-24",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 10,
-      "source": "LinkedIn",
-      "description_snippet": "Remote – United States | Full-Time | Direct Hire\n\nMaxIT Consulting – Max Corporate Group is seeking a highly technical Principal Product Manager – AI Infrastructure & Accelerated Computing for a leading global technology organization.\n\nThis is a strategic product leadership opportunity focused on next-generation cloud infrastructure, compute, GPU, AI, and HPC platforms. The ideal candidate combines deep infrastructure expertise with strong product strategy and business acumen, and is comfortable working with engineering teams on highly technical topics while communicating product direction and"
     }
   ]
 }
