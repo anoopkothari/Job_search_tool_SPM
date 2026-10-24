@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-23T18:49:07.819Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-10-24T17:46:21.446Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_LWlPbHh4QjRmbXBHZExWaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXhaUW5GVlEwTlFOMngzVmtnd04xVktkekZTVERZd2IxaExkR1JSVjNOWGVuVTJWREUwY0c5SlUwWlpTRWwzVEVsNE4zVmxkVzQyUkdzNFpsWTVMVFZ5VVdZME1rSkZWRUl5TlRoM1pqSnlhR0YyT0ZoSGJVMU1lSFpNY1hkRFFURlBUV2hDWjNkbU9XRlFVMDFhVDFaSmRGSTJjRzFqVUc4NWNtcFJZa3BPVkRJMmJqRVNGMnRQTjJOaGRFaGpRbkUyYkdsTVRWQjFTbE5XYzFGdkdpSkJSSE55T1daVVJtcFJSemxNWDBab1RESkJhRTgxTVZsVGVFRmFXV3hXVURGMw",
+      "role": "Staff Product Manager, Technical",
+      "company": "Robots & Pencils",
+      "link": "https://www.linkedin.com/jobs/view/staff-product-manager-technical-at-robots-pencils-4480736109",
+      "posted_date": "2026-10-20",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "LinkedIn",
+      "description_snippet": "Location: Remote in US or Canada\n\nCompany Overview\n\nRobots & Pencils is an applied AI engineering firm building the next frontier of business architecture. We design and ship AI co-workers that integrate into enterprise operations and deliver measurable results for our clients. We're all in on AWS, combining deep UX capability with senior engineering talent to get AI into production fast and keep it there. We’ve earned the trust of leaders across Consumer Products and Retail, Education, Energy, Financial Services, Healthcare, and Manufacturing and more, and earned a reputation as the nimble al"
+    },
+    {
+      "id": "jsearch_NFZwdXdjQXdySDBjWUVmdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelJSWWpodllXMVBXRmsxVTJWcWR6SjBSRzUwVlU0MFlrRnVaazFvYmtwUU1DMHpiSGhZV1ZSdVZWQmpOSFZFYmxoVmMzTkVkbEJ3Wldsa2JscHhPV2haYjFSWk1sbE5XazlzVm14c1RrMUNRbWhQYmpSNlprVjVXRkV5UVVObmVHOTBRamxuYW1WQ1FYRm9UREJWUTJodVVVeGlSREZpVVhCbE4zRlFjR0pvU0RsNVQxSVNGMmRsTjJOaGNHMXBRMDU2UjNKMVJWQTNOa1JqZDBGWkdpSkJSSE55T1daVFUwaEViMGRDTms5UE0yZ3hYelZ1WkdJNGJUQXdjVEp3WjBabg",
+      "role": "Platform Product Manager: Cloud",
+      "company": "CACI",
+      "link": "https://us.trabajo.org/job-28652-b12b0dcecfa5dbbd90b2be12cac7a15f",
+      "posted_date": "2026-10-19",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Trabajo.org",
+      "description_snippet": "CACI is seeking an experienced Product Manager to lead customer-focused platform and production support services for cloud-native applications. The role emphasizes user relationships, operational efficiency, and high-quality delivery across Tier 3 support and platforms.\n\nYou will guide platform strategy, elevate user experience, streamline support processes, and drive improvements in production health in a highly visible environment.\nJ-18808-Ljbffr"
+    },
+    {
+      "id": "jsearch_Y1RsWjc1Z1Q1Y2RMeThqZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURE54Y1RWb05HNTNRMlZyUlZSQ1MyVnZNV1ZIWkZOVWFqQmtTVk5SYVhsVmFEZ3dRVnBZYUMxRVRFSTFkVTlUZERCVVRsQlRXbVJ6ZVVoTGRsSnFjelpaYzBjdGMxZHRlV0oyVDFKQ01qVXlUVjltUWxaTUxVbGhhbXhJY1ZWblVsTnRZMlZZTlhjM016VXdTMjlIT0UwNE1VeHVTRXQwT0c5RmMzcEhOMWwyUTJRMmFXSVNGMmRsTjJOaGNHMXBRMDU2UjNKMVJWQTNOa1JqZDBGWkdpSkJSSE55T1daUmNuSnlUemRRTjBzMVZDMUNVUzFvUkRSR1ZGbG1aR2RaYnpCQg",
+      "role": "Product Manager: CRO",
+      "company": "Trend Capital Holdings, Inc.",
+      "link": "https://us.trabajo.org/job-28652-fba2f1905e42e1cd58a64ebd2d1d9bfc",
+      "posted_date": "2026-10-18",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Trabajo.org",
+      "description_snippet": "Trend Capital Holdings, Inc. is seeking a Product Manager for the Power Fox Media division to own CRO across funnels and user journeys. You will design, test, analyze, and optimize messaging, landing pages, and automation flows to improve conversion and performance.\n\nIn a fast-paced startup-like environment, you will lead end-to-end initiatives, collaborate with tech and creative teams, and translate data into repeatable CRO frameworks and scalable live systems.\nJ-18808-Ljbffr"
+    },
+    {
+      "id": "jsearch_bTk4ZFZqVm02Ykd4eTF3akFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWhrY0RCNmJVMU1iUzFZWVVsRWRsZHFTakpEUVc1d2JURnJZWFJHY3pSNmNrRlFObGxPVmtSWVdsZHVXR04zVkRWWlJraHROR0ZCV1VWS1MzQkRXV0UxVUV0WGFHZHphbHBXWmsxeVluZHJRM1pVZDNoWFFsRlZiREZCWkdkQllWbDFPVXBLTlVKV1FWZ3lRVWRGVVc5eWJIRm9lVlpRVFdwS1MxVTBVR05JTVVGUU9Gb1NGMmRsTjJOaGNHMXBRMDU2UjNKMVJWQTNOa1JqZDBGWkdpSkJSSE55T1daVVMxWTVla1J0U0c5bGFYVkpiRmgwVERsTE9FZzFUSEJuTjBGUg",
+      "role": "Sr/Staff Product Manager, Research Products",
+      "company": "Runway",
+      "link": "https://jobgether.com/offer/6ad9839aa8fae18ba2dd6c69-sr-staff-product-manager-research-products",
+      "posted_date": "2026-10-21",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: United States\nWe are building AI to simulate the world through merging art and science.\n\nWe believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world.\n\nWorld models offer the most "
+    },
+    {
+      "id": "jsearch_TDN1OEtWM3p0akJ2Qm9TdkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV041WTBOS1pWZG9lRlo1WjNSU1pHWlRYMnhUVVVSTFMyUkdibXhsTjFOeWVHRXhjM2xmWm5GU1QyUmtZWFF5WTI5RmREVTBSemRZZDNSVVMxTnRjRFkyZFU1MWJYbHJiRnBJTTJ0SmFtbHZOMDVCZVRJd1REaGtTVFJFYjFCS05HeG1NbloxVlhaRGVEZHBMVlZTYldoVlUzWXpVV1owY2xwS09XODVXalZhTTI5emIyUVNGMnRQTjJOaGRFaGpRbkUyYkdsTVRWQjFTbE5XYzFGdkdpSkJSSE55T1daVE1XMUZkRzl3ZEZkRE5WQmxia3hFVERkRlJFeEtSR2RhTVhKMw",
+      "role": "Product Manager: Intelligence Hub & Workflows (Remote)",
+      "company": "Bamboo Health",
+      "link": "https://www.jobleads.com/us/job/product-manager-intelligence-hub-workflows-remote--united-states--e2fb644d6bdf906230225fce76c1a1a70",
+      "posted_date": "2026-10-19",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Bamboo Health is seeking a Product Manager II – Bamboo Intelligence Hub Platform to own the end-to-end workflow performance across three pillars for our centralized platform. This is a hands-on product role responsible for deeply understanding product capabilities, defining cross-pillar workflow requirements, and driving measurable utilization improvements in live customer environments.\n\nYou will be accountable for ensuring workflows are technically sound, operationally effective, and fully"
+    },
     {
       "id": "jsearch_dUZZYnBwT21RS2RRNERFMUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2RtUjNWak5ubHFWRzF4Y0ZGa0xYTTFObTlYUTJNd2NUaHlOREZpYm1oUWJGRmFZVVE1TkhFMU9XSlJWbTV4Y25BMFFuVlZNR05TVUZZNVNXZ3hMVXM0Tm01NFoycGtMWE0xVG1oMWVXTkZRMUp6WjBwSVdUZGphM2xRTFdOVlJEQXRjRFJhYzA1V1VYQnBOMmwxV0RaUFVuUlhXbmhTVUhnelRGcDBUR2hOYkhvMlVtNFNGMFp4ZW1KaGNsOXlUazlRVmpWT2IxQXlTekpJYjBGekdpSkJSSE55T1daUmFtTkVXSEJZZWpoVmFrVTNNek5KVWpCMlMweEJjM0Z3UkVoQg",
       "role": "Staff Product Manager, Enterprise Deployment Solutions |  USA | Remote",
@@ -45,20 +115,6 @@
       "description_snippet": "This a Full Remote job, the offer is available from: United States\n\nJob Description:\n\nDriving the Future of Customer Relationships in Banking\n\nCSI is seeking a Product Manager to help shape the future of how financial institutions acquire, engage, retain, and grow customer relationships. This role supports a suite of customer relationship management (CRM), onboarding, referral, workflow, sales, contact management, and customer intelligence solutions used by banks to better understand and serve their customers.\n\nThis is an ideal opportunity for a product professional who combines banking or fin"
     },
     {
-      "id": "jsearch_LWlPbHh4QjRmbXBHZExWaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGx2ZFV0R1NYZExlR28yV0UxMmIyaFFNVUY2V0hGWFJHeDBjM2hNYVZaQ1J6QkpiMjFaTUc5bmFuSnViRVkwUlhCVlgyWlVWVkkzUjFOS1F6aHZZVXg0TkZvMGFtSmhPR1oxVG5velZrc3RRVmR6Vmw5dlNsSmhlbXRLWm0xdGEzQmZiV0V0VDNSbVVtSmlVV2xGVkdSdlNrNU9VMnN6T1doTWNqTnRkRXRaTTJJeGVGWVNGME5oZW1KaGRpMURURmxQVjI1bGMxQjNUM2xNTmtFd0dpSkJSSE55T1daVFdVUXhNM2d6U1VvNWRIUkpObkpWYUVKM2NFRjZiRzVSUWpobg",
-      "role": "Staff Product Manager, Technical",
-      "company": "Robots & Pencils",
-      "link": "https://www.linkedin.com/jobs/view/staff-product-manager-technical-at-robots-pencils-4480736109",
-      "posted_date": "2026-10-20",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "LinkedIn",
-      "description_snippet": "Location: Remote in US or Canada\n\nCompany Overview\n\nRobots & Pencils is an applied AI engineering firm building the next frontier of business architecture. We design and ship AI co-workers that integrate into enterprise operations and deliver measurable results for our clients. We're all in on AWS, combining deep UX capability with senior engineering talent to get AI into production fast and keep it there. We’ve earned the trust of leaders across Consumer Products and Retail, Education, Energy, Financial Services, Healthcare, and Manufacturing and more, and earned a reputation as the nimble al"
-    },
-    {
       "id": "jsearch_Yzg4VjhySnIyMS04SllBQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkZWZW1neGFFY3hhRUZ0WlRrM1VYbG5VRVpJYjB0bVp6SlpjMmRYYkhKM2VUbENPRVZaYkRWU01IRXRRM056WVdORFN5MWliVTk1V2xKc1EyTklZVU52VUU5VVlrOHlSM0ZxWHpkRFVGTndTMmxJVWxkSE1sTXhZWEZTVDFsS1psSjBlRFZMTVZKVVNtTm1YM0JWUm10UmIwdGxkMTlDZDNRM1kyOVZTVzA1TXpOT2FUWVNGMGMyZW1KaGNtVlhTbU5mZFdsTVRWQjVjVTlOYjBGUkdpSkJSSE55T1daU2IxTjRSVmRDTVVsSFNHdFhVMGhvT1ZNMFRVY3lOakk1UkZWbg",
       "role": "Insurance Product Manager",
       "company": "Cover Genius",
@@ -85,48 +141,6 @@
       "match_score": 4,
       "source": "JobLeads",
       "description_snippet": "Partner Company is a fast-growing SaaS and data business focused on business verification and compliance technology. This remote-first team emphasizes AI-native product development and moves quickly in a small, cross-functional setup.\n\nWe are seeking a senior-level product manager with 7+ years of B2B PM experience to own end-to-end initiatives, translate market insights into clear requirements, and collaborate with engineering to define precise specs and acceptance criteria."
-    },
-    {
-      "id": "jsearch_NFZwdXdjQXdySDBjWUVmdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEE1VUU1QlVsWkdiMmt5YUhGNU5rRkRRVlZKWDFSVGRIRnNZM2xaUlhrdFNFTkhPRFJZU0cxalFrbGpNa0pUV2pWRldFNTRNRGhHU1hKdU4yZFliRGxXYldSa1JFVmZNakUzT1ZOdFQyc3RiMW8wTTNoUGNXMTFMVTlzWm04d1VEZFVUR05GUTFGRVpFWklWVnBsTlRad01IcExZVEpRVmxONFFtMVhkek5oY0RobGQyUVNGME5oZW1KaGRpMURURmxQVjI1bGMxQjNUM2xNTmtFd0dpSkJSSE55T1daUlpXY3pXVmR1T0dwWFFVdFNMVXAwUlZFeVRqaHFVRVpDWm5wQg",
-      "role": "Platform Product Manager: Cloud",
-      "company": "CACI",
-      "link": "https://us.trabajo.org/job-28652-b12b0dcecfa5dbbd90b2be12cac7a15f",
-      "posted_date": "2026-10-19",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Trabajo.org",
-      "description_snippet": "CACI is seeking an experienced Product Manager to lead customer-focused platform and production support services for cloud-native applications. The role emphasizes user relationships, operational efficiency, and high-quality delivery across Tier 3 support and platforms.\n\nYou will guide platform strategy, elevate user experience, streamline support processes, and drive improvements in production health in a highly visible environment.\nJ-18808-Ljbffr"
-    },
-    {
-      "id": "jsearch_Y1RsWjc1Z1Q1Y2RMeThqZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSHBMYnpGUllrVlVOekpTVkdKNVNtMVZNRWx5VlZkdlYyUjZWRzVNYkhWeFQxaEpUbk5EYjFVMldqTTFYMlJqVG1KR1dVZzJVVk14ZVVsdU1saDVjRUkxWkZWWmJURnBNRTgzTWt4WFpVYzNMVzh4TFV4Q09WbE1UbTR6YWt0SGNtMTVZV0YxYzBGTVFrcG1URTlPYzI5WVJsVldVbDg1YWprNVJFZ3hjRVprWDNOTE1HOFNGME5oZW1KaGRpMURURmxQVjI1bGMxQjNUM2xNTmtFd0dpSkJSSE55T1daVGNGaEdiRlpQWlVsNExXb3RUSHBxTjA5cFJ6bEhRM053WjJobg",
-      "role": "Product Manager: CRO",
-      "company": "Trend Capital Holdings, Inc.",
-      "link": "https://us.trabajo.org/job-28652-fba2f1905e42e1cd58a64ebd2d1d9bfc",
-      "posted_date": "2026-10-18",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Trabajo.org",
-      "description_snippet": "Trend Capital Holdings, Inc. is seeking a Product Manager for the Power Fox Media division to own CRO across funnels and user journeys. You will design, test, analyze, and optimize messaging, landing pages, and automation flows to improve conversion and performance.\n\nIn a fast-paced startup-like environment, you will lead end-to-end initiatives, collaborate with tech and creative teams, and translate data into repeatable CRO frameworks and scalable live systems.\nJ-18808-Ljbffr"
-    },
-    {
-      "id": "jsearch_bTk4ZFZqVm02Ykd4eTF3akFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUZWYWswMFpXRlFUazFUVW1kd1VIZExjbVZyUWs5bGExQk5SVVJpTmpsc1RYaDNNRUpUTlRsYWJ6TXpVVTk1VFZKc2VVWm1jbk13Um1adlMyTXhhMkpMYVUxVlNrZFNiRTVOTldNNFl6SnFjM1UxVUVWTlpsOWxXbXhvZDFSU09ETldRMkoyWkRjeGNHRTVhM2hKUzFOTlltOXJZbE5zUkdSSlQxUmpiMlpxWmtoSE4zUVNGMFp4ZW1KaGNsOXlUazlRVmpWT2IxQXlTekpJYjBGekdpSkJSSE55T1daVVUzTTFjMHA1WVZWd1oxaEVWbGhWYm01bFpIUlNjbUUyWXpWUg",
-      "role": "Sr/Staff Product Manager, Research Products",
-      "company": "Runway",
-      "link": "https://jobgether.com/offer/6ad9839aa8fae18ba2dd6c69-sr-staff-product-manager-research-products",
-      "posted_date": "2026-10-21",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States\nWe are building AI to simulate the world through merging art and science.\n\nWe believe that world models are at the frontier of progress in artificial intelligence. Language models alone won’t solve the world’s hardest problems – robotics, disease, scientific discovery. Real progress requires models that experience the world and learn from their mistakes, the same way that humans do. And this kind of trial and error can be massively accelerated when done in simulation, rather than in the real world.\n\nWorld models offer the most "
     },
     {
       "id": "jsearch_cHBKSjJvcnF4c2hhZlByNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXhXTkZKM1FYaFBkMUJ3T0RFeVh6Tk9abTFwYlUxUE5rUkxabFI2T0RkMVpuTkdlRzFFY21OdGFISklSbTl1ZFVsa2NUZExkRXhMV1ZkdmRrbFBVVEJsTm5RM2NuQlZjM0ZKYTBaTU5uUkZZMWhsVW1GalVYcGxRVU01WkZSc1JuWm9lazluY0dKRFdtWTFjbGN6TW14TGJFVnpPRkV6ZEd4WlNrTlRaelpXVkhGM1drSVNGMFJXTTJGaGRVOXFRMlJoUWpWUFRWQm9PRVJQYlVGUkdpSkJSSE55T1daVGFUVkVaWHBaTXpCTFIyaExSMlV4ZFY5Zk5HOHliVGhQUlhGMw",
@@ -2787,20 +2801,6 @@
       "match_score": 2,
       "source": "LinkedIn",
       "description_snippet": "Description\n\r\n\n\r\nEver wonder how you can keep the world’s largest selection of dangerous goods safe to deliver to Customers worldwide? Then come join a team with the charter to ensure safe, complaint, and timely fulfilment of Dangerous Goods for our customers, Selling partners, and Carrier partners.\n\r\n\n\r\nAmazon’s Dangerous Goods (DG) organization is looking for a technical Product Manager in the Operations Technology team to build technology systems that will solve business problems. As the world’s most customer-centric company, with customers including consumers, sellers, manufacturers, regul"
-    },
-    {
-      "id": "jsearch_WE9sbWlqTVRjRUI2LWhIVUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVJTT0hBemNrbGxObmxQUmxaak1UUkJNRkJzYWw4ME5VcDJPR3RNU1hGMGMyaHhRVFp2VjFocFYxa3hWVU10V21aT01VcFVRazlwTm13MVUwZGxhSFZOWkVaVGFXZ3laWEV4U1hCdmRXaGliazV6VTB0UmJUWktkRGczV1ZoSlZGZHNSMHhIYTNsSVIzUjZMVzlsUm5ScWIxQTNlSFU0VjAxU09ERlFWMU5UTFdaaFRqZ1NGMUZSWVdKaGRVTnZSSE5oYzIxMGExQjNabVV5TkVFd0dpSkJSSE55T1daVVJWODFOMEpOZVVGVWVtZHZXRmh0YkhoeloxOUxPWE5FVFd0Qg",
-      "role": "Tech Product Manager - ServiceNow Platform",
-      "company": "Five Star Bank",
-      "link": "https://www.linkedin.com/jobs/view/tech-product-manager-servicenow-platform-at-five-star-bank-4424410919",
-      "posted_date": "2026-08-29",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "LinkedIn",
-      "description_snippet": "Purpose : Five Star Bank is seeking a strategic and technically skilled Technical Product Manager – ServiceNow Platform to lead the vision, roadmap, and execution of our enterprise ServiceNow ecosystem. This is a high-impact leadership role that partners closely with senior stakeholders to define and drive the long-term platform strategy, ensuring alignment with business objectives and operational excellence.\n\nThe ideal candidate brings deep expertise in ServiceNow, including ITSM implementation, ITOM, CMDB, and asset management, along with a proven ability to lead complex, enterprise-wide ini"
     }
   ]
 }
