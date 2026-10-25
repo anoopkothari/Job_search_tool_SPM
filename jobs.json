@@ -1,9 +1,37 @@
 {
-  "last_updated": "2026-10-24T17:46:21.446Z",
-  "total_fetched_today": 5,
+  "last_updated": "2026-10-25T18:00:55.664Z",
+  "total_fetched_today": 7,
   "jobs": [
     {
-      "id": "jsearch_LWlPbHh4QjRmbXBHZExWaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXhaUW5GVlEwTlFOMngzVmtnd04xVktkekZTVERZd2IxaExkR1JSVjNOWGVuVTJWREUwY0c5SlUwWlpTRWwzVEVsNE4zVmxkVzQyUkdzNFpsWTVMVFZ5VVdZME1rSkZWRUl5TlRoM1pqSnlhR0YyT0ZoSGJVMU1lSFpNY1hkRFFURlBUV2hDWjNkbU9XRlFVMDFhVDFaSmRGSTJjRzFqVUc4NWNtcFJZa3BPVkRJMmJqRVNGMnRQTjJOaGRFaGpRbkUyYkdsTVRWQjFTbE5XYzFGdkdpSkJSSE55T1daVVJtcFJSemxNWDBab1RESkJhRTgxTVZsVGVFRmFXV3hXVURGMw",
+      "id": "jsearch_d3I3aUtlLXR2ZDlYMnVYREFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1JZYXpSaVMzaDFTWHBCTjNaSlJGbEZaM1JOWm5sb1pGQkpNVjloTkZaeVFsVTFUWFJNVTBwRVlVZzFibnBsU0ROWlJUZGFOMnRZV1VwNVJ6ZEJiV2h2VEhCSFRURmlSMDlIYlRsU1FXa3pSbTF3YzBSMFV6SkpWRzF3YkRsa1psbG1WR0l0TFVwVE5FVnlObVYzZUdGS2VEVmFORmxGZFdkMFNFRnNhbGh2TURacFUwMFNGM2d3VUdWaGRGZEhSVmx0ZHpWT2IxQjJZMWhmWjBGekdpSkJSSE55T1daVVR5MW9TM3BOWDNCMGNUVXdOR2xOZFRCNlNsODFXalJST0dKQg",
+      "role": "Product Manager II (AI Capabilities)",
+      "company": "Principal Financial Group",
+      "link": "https://careers.principal.com/careers-home/jobs/53114?lang=en-us",
+      "posted_date": "2026-10-22",
+      "location": "Des Moines, Iowa",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Careers At Principal - Principal Financial",
+      "description_snippet": "What You'll Do\n\nAt Principal, we're building innovative digital experiences that help make financial security accessible to all. We're seeking a Product Manager II to lead the strategy, governance, and ongoing evolution of AI-powered capabilities supporting our Individual Solutions and Workplace Investing businesses.\n\nThis role sits at the intersection of product management, artificial intelligence, customer experience, risk management, and operational excellence. You will be responsible for defining and executing the product roadmap for AI-enabled solutions while ensuring appropriate controls"
+    },
+    {
+      "id": "jsearch_WEhIM0FXN3c5b2xDMzZKT0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURzlVTm1rMmFtWm9Za2h6VmpsTk1VdEtiRmRUWDJSeGRYVnhhVzlSUkhwVVJGazJRek4xWkdscloyVlBTRVJrWlVWclNHSlZZeTB3WDJ4SldFdEhXWGxDVGtKbE9GWjVkVEJUU2pVNVYzQjBiVzEzTVVSd1QzQmlSWEpPYjJWVGEwdFBOVWt3VHpWaFIxSkhOMk5ET1ZoS1VqTnZMVkJaTUY5UU5YUnpiVUpTT0VoYVRXVVNGM05GVUdWaGNFZElRamRNYmpKeWIxQXdjR1pCWjBGTkdpSkJSSE55T1daU2RtdHdZbEJVUlZwcFYxQklja3hPWXpCM1VqSlhjVkpKVlZKUg",
+      "role": "Product Manager, Growth Strategy",
+      "company": "Integrated DNA Technologies",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-growth-strategy-at-integrated-dna-technologies-4480673008",
+      "posted_date": "2026-10-23",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "Bring more to life.\n\nAre you ready to accelerate your potential and make a real difference within life sciences, diagnostics and biotechnology?\n\nAt Integrated DNA Technologies (IDT), one of Danaher’s 15+ operating companies, our work saves lives—and we’re all united by a shared commitment to innovate for tangible impact.\n\nYou’ll thrive in a culture of belonging where you and your unique viewpoint matter. And by harnessing Danaher’s system of continuous improvement, you help turn ideas into impact – innovating at the speed of life.\n\nOur team at Integrated DNA Technologies (IDT), is united by a "
+    },
+    {
+      "id": "jsearch_LWlPbHh4QjRmbXBHZExWaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2s0U2tnMVZsRkZaMU50WlV4TVMwaFphM0JUTUhSR2ExVjVPVXQxUzJkRVFWVjFkbHBJVFRsQ2FIVTNlbmxNTnpoWlptZzNNREZaVkhNd2RWVXdhR04xVGxkUk5EaFNiVXhhTVVZdFpFMTFVVEJuY0dOaFVGTlRORVZXY3kxM01IWkNhSGR3ZFZsalNWRXROblZUWnpSV1NsVjJiVWxPTTBKa09FdEplVzVLZVhCemRsWVNGekZGVUdWaGJ6WlBSRWx1U3pGbE9GQnJUWHBFYTFGSkdpSkJSSE55T1daVFFYcDNWRlZaYUV4SVdFeFJabWxSVTJSQlExOTFiR3RsZVRkMw",
       "role": "Staff Product Manager, Technical",
       "company": "Robots & Pencils",
       "link": "https://www.linkedin.com/jobs/view/staff-product-manager-technical-at-robots-pencils-4480736109",
@@ -17,7 +45,21 @@
       "description_snippet": "Location: Remote in US or Canada\n\nCompany Overview\n\nRobots & Pencils is an applied AI engineering firm building the next frontier of business architecture. We design and ship AI co-workers that integrate into enterprise operations and deliver measurable results for our clients. We're all in on AWS, combining deep UX capability with senior engineering talent to get AI into production fast and keep it there. We’ve earned the trust of leaders across Consumer Products and Retail, Education, Energy, Financial Services, Healthcare, and Manufacturing and more, and earned a reputation as the nimble al"
     },
     {
-      "id": "jsearch_NFZwdXdjQXdySDBjWUVmdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelJSWWpodllXMVBXRmsxVTJWcWR6SjBSRzUwVlU0MFlrRnVaazFvYmtwUU1DMHpiSGhZV1ZSdVZWQmpOSFZFYmxoVmMzTkVkbEJ3Wldsa2JscHhPV2haYjFSWk1sbE5XazlzVm14c1RrMUNRbWhQYmpSNlprVjVXRkV5UVVObmVHOTBRamxuYW1WQ1FYRm9UREJWUTJodVVVeGlSREZpVVhCbE4zRlFjR0pvU0RsNVQxSVNGMmRsTjJOaGNHMXBRMDU2UjNKMVJWQTNOa1JqZDBGWkdpSkJSSE55T1daVFUwaEViMGRDTms5UE0yZ3hYelZ1WkdJNGJUQXdjVEp3WjBabg",
+      "id": "jsearch_S05tUzM4Vm9fYTZzckV5M0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVJmWjBOWFUzaEROM1poTVRkamJrNDBNVzFwVGtOWk4yeHFWMGxyU1dscFMxRlBURlpHYVV4TFYxbEpRVTVtVEVFeVFXaFNaVWxXTWtVd1MwVk9OM0UwWVdWeFlXRTNjbFZZU0hkbVdVVnBXVU5pZG1KdmVGRnZkRXRNV21nMFpXRTJZVUZMVDBsZmNteGFXSFpLZEd4ck9HSkJVSEIyYUdKaFdFNVVOVEY2ZFVOQlNsOFNGekZGVUdWaGJ6WlBSRWx1U3pGbE9GQnJUWHBFYTFGSkdpSkJSSE55T1daU1N6Qk9WRXRxVlU5SVMyVjZMVkZtYzFNeWRHNDVjekZRUTFsMw",
+      "role": "Remote Product Manager: Shape New Initiatives in Compliance",
+      "company": "Partner Company",
+      "link": "https://www.jobleads.com/us/job/remote-product-manager-shape-new-initiatives-in-compliance--united-states--e56a51c5ee95d9ba4cb266d5dd707d8a6",
+      "posted_date": "2026-10-18",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "JobLeads",
+      "description_snippet": "Partner Company is a fast-growing SaaS and data business focused on business verification and compliance technology. This remote-first team emphasizes AI-native product development and moves quickly in a small, cross-functional setup.\n\nWe are seeking a senior-level product manager with 7+ years of B2B PM experience to own end-to-end initiatives, translate market insights into clear requirements, and collaborate with engineering to define precise specs and acceptance criteria."
+    },
+    {
+      "id": "jsearch_NFZwdXdjQXdySDBjWUVmdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmhJWVdVelFWaGFaMkZPZUhwcGVXcFVaVTFqT1hsb1FWbHJkRFpYVG10SlJWcE5OV1owVkRaTmFuaFNXSGRzVWtSbmJIQTVTMGRZYUc5NVpIRjNkVFZ0TjJ4RlNEUXRTVU5qVjJwRVdFcHpWalp3U2xwcGNHeFpUbFJtVTNkcmFuaG5ZVVJFV1VKSlIzcHJWMGx5UW1KZlNWTkJlUzB6TTJ4RVdpMTVSR05UYUZNdGVVSVNGM05GVUdWaGNFZElRamRNYmpKeWIxQXdjR1pCWjBGTkdpSkJSSE55T1daVVJXSm1hM3BGYzB4Q1VrNDNUelF4WDJsM2FqQTNhWGh5WVZkUg",
       "role": "Platform Product Manager: Cloud",
       "company": "CACI",
       "link": "https://us.trabajo.org/job-28652-b12b0dcecfa5dbbd90b2be12cac7a15f",
@@ -31,7 +73,7 @@
       "description_snippet": "CACI is seeking an experienced Product Manager to lead customer-focused platform and production support services for cloud-native applications. The role emphasizes user relationships, operational efficiency, and high-quality delivery across Tier 3 support and platforms.\n\nYou will guide platform strategy, elevate user experience, streamline support processes, and drive improvements in production health in a highly visible environment.\nJ-18808-Ljbffr"
     },
     {
-      "id": "jsearch_Y1RsWjc1Z1Q1Y2RMeThqZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURE54Y1RWb05HNTNRMlZyUlZSQ1MyVnZNV1ZIWkZOVWFqQmtTVk5SYVhsVmFEZ3dRVnBZYUMxRVRFSTFkVTlUZERCVVRsQlRXbVJ6ZVVoTGRsSnFjelpaYzBjdGMxZHRlV0oyVDFKQ01qVXlUVjltUWxaTUxVbGhhbXhJY1ZWblVsTnRZMlZZTlhjM016VXdTMjlIT0UwNE1VeHVTRXQwT0c5RmMzcEhOMWwyUTJRMmFXSVNGMmRsTjJOaGNHMXBRMDU2UjNKMVJWQTNOa1JqZDBGWkdpSkJSSE55T1daUmNuSnlUemRRTjBzMVZDMUNVUzFvUkRSR1ZGbG1aR2RaYnpCQg",
+      "id": "jsearch_Y1RsWjc1Z1Q1Y2RMeThqZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHh4UW5oSGIzQnJNMjFUVEhBM1JrUk1TRzFGTFV0SFFuVlJVWFZ2ZWtwSGVsWnFWMGRRWVZSd1owdE9jRms1Um1oalpHeDBaMmxRTmtGUVdYWndWV3R4VFdobVNXaHRZVkk0Y1dnd1MzUm9VVlkyZVhkcFNHMXViRVppV0ZkSlFXSlVVa2hDU1ZrMFkyeFJhRWwxZGpjNFkwNUlWREZrVFVkVVVscEtSVEpLVDFkcVZuUVNGM05GVUdWaGNFZElRamRNYmpKeWIxQXdjR1pCWjBGTkdpSkJSSE55T1daU2IwVkpjV3BVT1dVMGJWSndkVmhsVkRjemNsaDNlVzlHVmxKbg",
       "role": "Product Manager: CRO",
       "company": "Trend Capital Holdings, Inc.",
       "link": "https://us.trabajo.org/job-28652-fba2f1905e42e1cd58a64ebd2d1d9bfc",
@@ -45,7 +87,7 @@
       "description_snippet": "Trend Capital Holdings, Inc. is seeking a Product Manager for the Power Fox Media division to own CRO across funnels and user journeys. You will design, test, analyze, and optimize messaging, landing pages, and automation flows to improve conversion and performance.\n\nIn a fast-paced startup-like environment, you will lead end-to-end initiatives, collaborate with tech and creative teams, and translate data into repeatable CRO frameworks and scalable live systems.\nJ-18808-Ljbffr"
     },
     {
-      "id": "jsearch_bTk4ZFZqVm02Ykd4eTF3akFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWhrY0RCNmJVMU1iUzFZWVVsRWRsZHFTakpEUVc1d2JURnJZWFJHY3pSNmNrRlFObGxPVmtSWVdsZHVXR04zVkRWWlJraHROR0ZCV1VWS1MzQkRXV0UxVUV0WGFHZHphbHBXWmsxeVluZHJRM1pVZDNoWFFsRlZiREZCWkdkQllWbDFPVXBLTlVKV1FWZ3lRVWRGVVc5eWJIRm9lVlpRVFdwS1MxVTBVR05JTVVGUU9Gb1NGMmRsTjJOaGNHMXBRMDU2UjNKMVJWQTNOa1JqZDBGWkdpSkJSSE55T1daVVMxWTVla1J0U0c5bGFYVkpiRmgwVERsTE9FZzFUSEJuTjBGUg",
+      "id": "jsearch_bTk4ZFZqVm02Ykd4eTF3akFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV2R6V0hST2VGOXhYMkZaZUdSUFlteG9NMFZGWTBwNFJVZGxORzFrWnpKaWVEQmlNbWcwYm0xeVR6QTFlVFJWYTNaMGVGaGxUbnAxWWxKWFpqWk5Tazl0TFU1RFN6Tm9UamxyU21OcE1sQk1aM1ZYTFdvMFJqbE9OVmxLVVZkd2NGVlpTWGt5UVRSVVlrRjJPVmRJV0RkU2MyaGtUbHBVZEdreFltaFdjMjkyZHpsNU1Ea1NGM2d3VUdWaGRGZEhSVmx0ZHpWT2IxQjJZMWhmWjBGekdpSkJSSE55T1daU2RXcFNlVzUwU1ZGbGFtaGpiVGM0V0RSamJWUmxUM0ZOUmxaMw",
       "role": "Sr/Staff Product Manager, Research Products",
       "company": "Runway",
       "link": "https://jobgether.com/offer/6ad9839aa8fae18ba2dd6c69-sr-staff-product-manager-research-products",
@@ -127,20 +169,6 @@
       "match_score": 5,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: United States\nAbout Cover Genius\nCover Genius is the global infrastructure for embedded protection. Active in over 60 countries and all 50 US States, we protect the customers of the world’s largest digital companies, including Klarna, Revolut, Stripe, Priceline, Agoda, Booking.com, Turkish Airlines, Tongcheng Travel, eBay, and Uber, with seamless, end-to-end experiences. Cover Genius has protected more than 73M customers globally across 240M policies with USD $3.2BN in gross written sales.\nComing off a stellar year with 40% YoY revenue growt"
-    },
-    {
-      "id": "jsearch_S05tUzM4Vm9fYTZzckV5M0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGRSUVhkWVpsQjVVamt0VlVzdGVqQXRXVjltYjFObVMxTnFSSEZUUVhsdVQxSXhYek5STmxCbmVHNDVjV0pPT1d4UlFuQlFNazlwYlVkVVFsbGFTM2RRVUhGd2VHUTNlbEF5UjJ0UVNUVkVaMlJaVjI5M1JGZEtlRkJDTXpoNllXOTVUekJtWkhneFYwYzNUemhvUlVkR1VYQjNNWEJLUnpOMmNYaExhRnB3VG5Wd05uRVNGMFp4ZW1KaGNsOXlUazlRVmpWT2IxQXlTekpJYjBGekdpSkJSSE55T1daVWRETjVNazEwVUVGWlZGQjBjRkZQTmtSVmJVcDBjWHBXTFdaQg",
-      "role": "Remote Product Manager: Shape New Initiatives in Compliance",
-      "company": "Partner Company",
-      "link": "https://www.jobleads.com/us/job/remote-product-manager-shape-new-initiatives-in-compliance--united-states--e56a51c5ee95d9ba4cb266d5dd707d8a6",
-      "posted_date": "2026-10-18",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "JobLeads",
-      "description_snippet": "Partner Company is a fast-growing SaaS and data business focused on business verification and compliance technology. This remote-first team emphasizes AI-native product development and moves quickly in a small, cross-functional setup.\n\nWe are seeking a senior-level product manager with 7+ years of B2B PM experience to own end-to-end initiatives, translate market insights into clear requirements, and collaborate with engineering to define precise specs and acceptance criteria."
     },
     {
       "id": "jsearch_cHBKSjJvcnF4c2hhZlByNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXhXTkZKM1FYaFBkMUJ3T0RFeVh6Tk9abTFwYlUxUE5rUkxabFI2T0RkMVpuTkdlRzFFY21OdGFISklSbTl1ZFVsa2NUZExkRXhMV1ZkdmRrbFBVVEJsTm5RM2NuQlZjM0ZKYTBaTU5uUkZZMWhsVW1GalVYcGxRVU01WkZSc1JuWm9lazluY0dKRFdtWTFjbGN6TW14TGJFVnpPRkV6ZEd4WlNrTlRaelpXVkhGM1drSVNGMFJXTTJGaGRVOXFRMlJoUWpWUFRWQm9PRVJQYlVGUkdpSkJSSE55T1daVGFUVkVaWHBaTXpCTFIyaExSMlV4ZFY5Zk5HOHliVGhQUlhGMw",
@@ -2773,34 +2801,6 @@
       "match_score": 3,
       "source": "LinkedIn",
       "description_snippet": "About Us\n\r\n\n\r\nAmphenol Network Solutions, headquartered in Liberty Lake, Washington, is a division of Amphenol Corporation, one of the world’s largest manufacturers of interconnect products, with global headquarters in Wallingford, Connecticut. Guided by a bold vision to connect people with technology, Amphenol serves a wide range of markets including IT Datacom, Mobile Devices, Mobile Networks, Broadband, Industrial, Automotive, Commercial Aerospace, and Military.\n\r\n\n\r\nAt Amphenol Network Solutions, we are at the forefront of global connectivity, delivering a high‑quality, seamless portfolio "
-    },
-    {
-      "id": "jsearch_YmluZzotMTg3NDk2MDkzLlJldHJv",
-      "role": "Product Manager",
-      "company": "AST",
-      "link": "https://www.careerbuilder.com/job-details/product-manager-tacoma-wa--0843beda-e891-4a3b-8b8d-7f813d5b8def?trk=bingjobs",
-      "posted_date": "2026-09-05",
-      "location": "Tacoma, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "CareerBuilder",
-      "description_snippet": "Product ManagerAt AST, we enhance the efficiency, productivity, and safety of flexible aseptic manufacturing processes for the worldwide Life Science Industry by offering innovative products, services, and solutions. Do you want to contribute to a shared vision and mission? Would you like to bring your unique talents to have a significant impact with a growing company? At AST we strive to build a workplace that enables every team member to meet and exceed their capabilities. We set our expectations high and provide the environment and resources necessary to bring out the very best.Competitive "
-    },
-    {
-      "id": "jsearch_YmluZzoxMzQ1OTcxMDMzLlJldHJv",
-      "role": "Senior Product Manager, DG Operations Tech",
-      "company": "Amazon",
-      "link": "https://www.linkedin.com/jobs/view/senior-product-manager-dg-operations-tech-at-amazon-4463733585?trk=bingjobs",
-      "posted_date": "2026-09-05",
-      "location": "Bellevue, Washington",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "LinkedIn",
-      "description_snippet": "Description\n\r\n\n\r\nEver wonder how you can keep the world’s largest selection of dangerous goods safe to deliver to Customers worldwide? Then come join a team with the charter to ensure safe, complaint, and timely fulfilment of Dangerous Goods for our customers, Selling partners, and Carrier partners.\n\r\n\n\r\nAmazon’s Dangerous Goods (DG) organization is looking for a technical Product Manager in the Operations Technology team to build technology systems that will solve business problems. As the world’s most customer-centric company, with customers including consumers, sellers, manufacturers, regul"
     }
   ]
 }
