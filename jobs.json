@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-11-02T22:58:15.257Z",
-  "total_fetched_today": 15,
+  "last_updated": "2026-11-03T20:43:35.946Z",
+  "total_fetched_today": 4,
   "jobs": [
+    {
+      "id": "jsearch_bjU3dnZGc3ZSSHgya092WUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVzFsVERkSU1GWm9hbEJRVFdVMFUydG5TMnQxTTB4QlFubHJYeTFETW1FM05tTmZhRkF6V2t0NVNtY3dUak0wYVhSVmNXSm5OVVkxZUZGclIzbG9jbFpxVHpGNWFWOVBhMjFOVmpKc1ZuVXhkMDF6V1hsdVltTTVYMGxFVGw5eUxWcHBUbFJqWWxKNWN6WmZlbTFVYUVnNFFURnFSMkpUTURCa2JYRndhRWg2UW5GQ01GRVNGMlJWWm5GaGRqZEhTRGhRWDNsamExQjZPWFpVYjFGbkdpSkJTRTR3UlRkR1FteG9MVW80UzJrdFNVSnFPR010Ulc5M2R6WXRhVXhUZFVSbg",
+      "role": "Sr. Product Manager - Ancillary Benefits Management - ABM - Remote",
+      "company": "Optum",
+      "link": "https://builtin.com/job/sr-product-manager-ancillary-benefits-management-abm-remote/11967851",
+      "posted_date": "2026-10-28",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Built In",
+      "description_snippet": "Requisition Number: 2394682\nOptum Insight is improving the flow of health data and information to create a more connected system. We remove friction and drive alignment between care providers and payers, and ultimately consumers. Our deep expertise in the industry and innovative technology empower us to help organizations reduce costs while improving risk management, quality and revenue growth. Ready to help us deliver results that improve lives? Join us in making healthcare work better for everyone through people-led, responsible AI while Caring. Connecting. Growing together.\nYou'll enjoy the"
+    },
+    {
+      "id": "jsearch_eUFwcEZKSEFlR0FRQVVHZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmhZWVhWdkxVZE5Wa1paYVVST09FNW1OMGx2UWpWcWJrWlBSRk5OZGxoRloyUTJiVEpKWkZvM1V6ZExVSFYxY0ZaNFZUQnZURFEyY2xGbmJsWktWVXd0VTJ0cE1URm9hSEprVjNsc09XNXVVbGxNWVVoc1ltY3pTbkJSTFhnelV6TjNjVzVpTXpBM05HSXhUMnQzU2paRGRIWXhSMmM0TjJwUWMyVlVNRFJvZFRacFJtNFNGMlJWWm5GaGRqZEhTRGhRWDNsamExQjZPWFpVYjFGbkdpSkJTRTR3UlRkSFlpMWtSVEZMWlMxMlUzSk1NRXhYTFdwTVJYUTNWemh4WTBwbg",
+      "role": "Sr Product Manager, Large Ag Autonomy",
+      "company": "Blue River Tech Partners",
+      "link": "https://jobgether.com/offer/6ae40178d6c8b081a7945e91-sr-product-manager-large-ag-autonomy",
+      "posted_date": "2026-10-29",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Jobgether",
+      "description_snippet": "This a Full Remote job, the offer is available from: United States\nWe’re Blue River, a team of innovators driven to create intelligent machinery that solves monumental problems for our customers. We empower our customers – farmers, construction crews, and foresters - to implement safer and more sustainable solutions, driving increased profitability with less reliance on scarce labor. We believe that focusing on the small stuff, pixel-by-pixel and task-by-task, leads to big gains.\n\nBlue River Technology works within John Deere’s vision to “innovate on behalf of humanity” by quickly identifying "
+    },
+    {
+      "id": "jsearch_S05tUzM4Vm9fYTZzckV5M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEI2YW1OME9IRnlUMHhRVVZWSFdFTkNkbVJZYUZCZmRqSndhbkZPTlc5M2JUTkRSMUV6TnkxQk0zZHdNVE5VUTFsd2VrTTBSVE0zV2xGaFRUQXhiM04wYVU5QmEwdzVjM2R6Umw5VlpXVllSMjFMYkZCNVoyVkljbGRvWWtOSVNVODJSR2QyTVcxSVdtNHpVV3huY0hkWGFETTJkSE5TY1VSelFVcDVhMkpJV0dwb01tc1NGMlJWWm5GaGRqZEhTRGhRWDNsamExQjZPWFpVYjFGbkdpSkJTRTR3UlRkSFFqQktPVWMwUlZoUWN6VTNXSEZwWTA1SFFWRlNWREUxVkROMw",
+      "role": "Remote Product Manager: Shape New Initiatives in Compliance",
+      "company": "Partner Company",
+      "link": "https://www.jobleads.com/us/job/remote-product-manager-shape-new-initiatives-in-compliance--united-states--e56a51c5ee95d9ba4cb266d5dd707d8a6",
+      "posted_date": "2026-11-01",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "JobLeads",
+      "description_snippet": "Partner Company is a fast-growing SaaS and data business focused on business verification and compliance technology. This remote-first team emphasizes AI-native product development and moves quickly in a small, cross-functional setup.\n\nWe are seeking a senior-level product manager with 7+ years of B2B PM experience to own end-to-end initiatives, translate market insights into clear requirements, and collaborate with engineering to define precise specs and acceptance criteria."
+    },
+    {
+      "id": "jsearch_c1E0ZkZ1RG5kUzNxcC1sVEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbUZ6YjFsSU9WTnZZbTk1WkVGSGF6ZzJha2RqZWxZNFdHZE5SRFpWUkZRNGJVdGhVMkZFTjB4U09UWXRVazV1VWxCb01FNDRVbWc1YUVsNFltUXpVMFJxT0RKeFJrWTFNRmt4UzFack5GWlNiekJ1VVZock1tUlNPVFZ5ZGtsTlNYbEhSVlV5UTBJM01ISkhlbWR1U0ZSa1RrRjNUSGxyYVhSdFRGRnpYMHBvVlRSMU5WSVNGMkZGWm5GaGNVUlFSblppVlhoak9GQjZiMHd4ZDBGTkdpSkJTRTR3UlRkRlRVOTFXV2hJWkVaVGJsOTZMV2hKUmt4V1RqazVRa0ZrUkVKUg",
+      "role": "Remote Product Manager",
+      "company": "Acxiom",
+      "link": "https://us.trabajo.org/job-3991-aab84058b5131a7b1e19e3a41b24a19d",
+      "posted_date": "2026-10-30",
+      "location": "United States",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Trabajo.org",
+      "description_snippet": "Acxiom seeks a Product Manager to lead data and identity product strategy for global markets. You will align stakeholders across data engineering, analytics, and product teams to craft compelling commercial offerings and shape our data culture. The role requires independent ownership within defined scope, driving roadmap, backlog, and performance metrics while collaborating with privacy, legal, and compliance teams to address requirements throughout the lifecycle."
+    },
     {
       "id": "jsearch_YmNobFl4OHRDaEhUOC0tWkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTF2TTFCYU5rZ3hhR1JuYUZwT2JGRlBORXBSYWxaVVp6VkxabmhUTkZaSlRqZGxSbFZ6TTA5b2RUZFJMVGxQZEY5RVlVRnBOaTFOV2xJMmRHTnFjVzAyVUU5Wk5uTmFOVWRRWXpaU1gwRmxUVTF4UzJZNVVHVkhlRlUwYzFNNVgxRlRabWxhU0RnMGVqQXRMV1pXZEVoMFkxaGFYMmxDV1ZWRWFrZHVVWGxvTVc5MGJHOFNGMmhDV0hCaGNEZFVUbUpIZG5CMFVWQTVOWEZVY1ZGdkdpSkJTRTR3UlRkRmRGa3pOMGg1TkVOMGVsTnRTVVZXVUU5RWRWcGhhMjU2Y1U1Ug",
       "role": "Remote Senior Product Manager I, Data Platform and Platform API",
@@ -113,20 +169,6 @@
       "match_score": 6,
       "source": "ZipRecruiter",
       "description_snippet": "The Role\n\nCambio is looking for a Senior to Lead level Product Manager to lead the development of AI features that cut across workstreams, starting with an MCP integration and a customer workflow builder, and serving as a model for how the rest of the org builds with AI. This role is ideal for someone with a strong track record of shipping LLM-powered products, who thrives at the intersection of product strategy and customer value.\n\nThis is a high-impact role critical to driving our mission to decarbonize commercial real estate at scale.\n\nWhat you will be doing\n\n• Translate real-world decarbon"
-    },
-    {
-      "id": "jsearch_eUFwcEZKSEFlR0FRQVVHZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1F3TVdGcWRXNDFhaTFTYzJzdFRFa3hNa2N3TWtkNE4wMU5VbTg1WWw5bVdqRlNjbXRqUlROVVUzTkRXREIzU2tGSFdtRTNTbEZSV1hSYVJtOXNTMmxsWjFnd2RrTjRPRlI2YnpCWFFXeFVaVGhLT0RKdmFYWmhiR1pwV1VGc1VWVjVVVFJUYlhkd1ptdFJjM1ZhUkUxcVNXOURkRzlOVWtKdWEybE9abWhKVWpGNloxVVNGMU5vV0hCaGRVTm5UbU5mT1hCMFVWQTRUREpZZVZFd0dpSkJTRTR3UlRkSFoycFVkVGN5UjBOc01YZGlkMlJYYVVwSmVqVkZTMHRaVldkQg",
-      "role": "Sr Product Manager, Large Ag Autonomy",
-      "company": "Blue River Tech Partners",
-      "link": "https://jobgether.com/offer/6ae40178d6c8b081a7945e91-sr-product-manager-large-ag-autonomy",
-      "posted_date": "2026-10-29",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States\nWe’re Blue River, a team of innovators driven to create intelligent machinery that solves monumental problems for our customers. We empower our customers – farmers, construction crews, and foresters - to implement safer and more sustainable solutions, driving increased profitability with less reliance on scarce labor. We believe that focusing on the small stuff, pixel-by-pixel and task-by-task, leads to big gains.\n\nBlue River Technology works within John Deere’s vision to “innovate on behalf of humanity” by quickly identifying "
     },
     {
       "id": "jsearch_NnZFa3hSWHlXSEtGUmFGWUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXalJpY1VNeVJEUjNRMkoyVkVORmNWTjBORTloY1VFd1lYTlZRVjlmYWs5TWFrUXdNMjgxUW5Zd1oyMHlOSEZ5ZGxNM09ITmxkRlI1TkdNeFIxaHRWVlpGY1U1SVNUQlBZbFpQYVc1SVFqSkxVV0YwYTFJM1psUnlhSHBEVmxCTldHUkNaVUZKVFhCb09VOUdTVEZaVEY5RFoyUlRaVU5QZVRCTmJqZFNiVEpaYkdsa1l6Z1NGMU5vV0hCaGRVTm5UbU5mT1hCMFVWQTRUREpZZVZFd0dpSkJTRTR3UlRkSWFVRlRkV05KUmpONmRUVmlPVFZUYUUxc1preFhVWE5GY21OMw",
@@ -407,20 +449,6 @@
       "match_score": 6,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: United States\n\nWe are growing a product-management team that runs AI-powered products and applies AI across the whole product lifecycle. As a Senior Product Manager | Applied AI , you will own the vision, strategy, roadmap and delivery of one or more products — at least one of them AI-powered — while using AI day to day to work faster and make sharper decisions and mentoring other Product Managers as you do. What \"Applied AI\" means here. This is a product role, not an engineering role. We expect confident, practical command of AI as a produc"
-    },
-    {
-      "id": "jsearch_S05tUzM4Vm9fYTZzckV5M0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa05XY1cxQ2QweGxTSFp4V1UxdVNuaFFkRmxqU0doNU4xa3pla3hTY2t0aU1HeG5kV2xNWTBkTFpIUTBObFJaV0VGQldEYzRTRzlZTXpJMFdGRlFjRzVGWlUxdE9HeDNla0ZmZGpBNU9HRk9aVVp4VjJrMmJVVkJPSGN6TFdrNU9WbEdSV1ZJYkZabmNITjNXVUZ5ZVdwWkxVeEdMVEZXWldkbVdHUlhVVFY1Y1hwcFFsZ1NGMlpRVkd0aGNqZGxRalZVWDNCMFVWQjBVSEY0YTBGVkdpSkJTRTR3UlRkRmJGbzRUakZoVTBNMFFreHVWVFl3TjFOUlZFa3lhR0kyTlZSbg",
-      "role": "Remote Product Manager: Shape New Initiatives in Compliance",
-      "company": "Partner Company",
-      "link": "https://www.jobleads.com/us/job/remote-product-manager-shape-new-initiatives-in-compliance--united-states--e56a51c5ee95d9ba4cb266d5dd707d8a6",
-      "posted_date": "2026-10-25",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "JobLeads",
-      "description_snippet": "Partner Company is a fast-growing SaaS and data business focused on business verification and compliance technology. This remote-first team emphasizes AI-native product development and moves quickly in a small, cross-functional setup.\n\nWe are seeking a senior-level product manager with 7+ years of B2B PM experience to own end-to-end initiatives, translate market insights into clear requirements, and collaborate with engineering to define precise specs and acceptance criteria."
     },
     {
       "id": "jsearch_dl8xUWtLNldheTcwQ29PakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa1o1VFZsd1ExOVlOM3AzYlVoVU4xTXpkbWN5UkZKd2NsaFpkV3cyVDBKVllVRnJaMDlPUmtzNWN6RTNSVEZmTW1aNWQwcG1aR1pGZFhCQk5YcG5RazFvTmtoWU5XdFJUMjFyWDFOTmJXbEtlRGxYYVU4ek9UZGlPRTE1UTFsbGIwbHJWbU5WZGxoNGNVRmhSM05aVG5ONVIzQmlNVFF0ZGtnNVIxWXlaR2xJYjFnelZIa1NGMWhRVkd0aGNsUTVTbk5JVlRWT2IxQjZOMWhqYzBFNEdpSkJTRTR3UlRkSU9IVTBTRXBTUjNocVkzQkZRVU42VG10U01rVlVSamN4VGtsQg",
@@ -2773,34 +2801,6 @@
       "match_score": 9,
       "source": "Monster",
       "description_snippet": "For over four decades, PAR Technology Corporation (NYSE: PAR) has been a leader in restaurant technology, empowering brands worldwide to create lasting connections with their guests. Our innovative solutions and commitment to excellence provide comprehensive software and hardware that enable seamless experiences and drive growth for over 100,000 restaurants in more than 110 countries. Embracing our \"Better Together\" ethos, we offer Unified Customer Experience solutions, combining point-of-sale, digital ordering, loyalty and back-office software solutions as well as industry-leading hardware an"
-    },
-    {
-      "id": "jsearch_TEVLWkk1Y2lTZEE4SkthckFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMEZRY21Sa2VEbElWVXhuVjIxYWIyNUxaWGxNV1daUWFuVXRObWRXYmtodE1HUlNZbm94ZUhwUWRFWnpWRTFKTFZGUWNEUmFVVGc0TmpKTU1tbG5URUpVWW0xMVFtVlVkMkV5VWxsUk5VTXRVMko0V2xaTlZTMUJUbW8xY1RWTFRIQjFOa2RuWHpSV1dUSlVWVkYwT1dRMGRFaHpTbXBNVEZoQlFuTkxiMGwwZUhjMU5VZ1NGbTF6YVhWaGIyRTNURzk2YmpGelVWQnlUa3M0UTFFYUlrRkVjM0k1WmxFd01HbHhTVkZDTVVOWU9YRkJiV0pCYm1WYU5WTlNiM0EzV1ZF",
-      "role": "Remote Senior Product Manager",
-      "company": "Bill",
-      "link": "https://us.trabajo.org/job-3137-08f6934de48d70fab2d3b95d3cc753d9",
-      "posted_date": "2026-09-13",
-      "location": "Santa Clara, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Trabajo.org",
-      "description_snippet": "Innovate with purpose At BILL, we believe in empowering the businesses that drive our economy. By replacing outdated financial processes with innovative tools, we help businesses—from startups to established brands—make smarter decisions and gain control of their operations. And we don’t stop there: we’re creating the future of financial automation so businesses can spend more time on what matters. Working here means you become part of a vision-driven team that’s ready to tackle challenges and build cutting-edge solutions. We value purpose, drive, and curiosity—and we thrive in a fast-paced, e"
-    },
-    {
-      "id": "jsearch_T3R0T0c0cEsySWk5T3BJOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbU10YldnMlRsWkxabTU0VjFkVldHbEVhRGhOV0dSMGJqRnlPSHBvZW5oV1pub3dWVEphV1MxeVRHUTFhR2x1WTNGSlRFRTVWV3Q2WTFWRFEwVldRamhzYjJ0SlpERnZZekJGYUdObFpIQnhSemxaT1dKUWVrdG5UVUUyUms1QlNYUlVkRzlrWjJOcFRqTndWbTFZTkdRNVYzUnRSSEJQVWxCckxVUTBibFJpWVZCVmJuY1NGMGh6YlhWaGMxYzRTMDFsY2pWT2IxQXlXVzA1TkVGM0dpSkJSSE55T1daU1ZuRnhPWE5zTUdaRmVXVnhhM0JsTVZad0xVNTRSMHRSUlhKUg",
-      "role": "Principal Product Manager, Platform 9",
-      "company": "Jobgether",
-      "link": "https://www.jobilize.com/job/us-de-all-cities-principal-product-manager-platform-9-jobgether-hiring",
-      "posted_date": "2026-09-13",
-      "location": "Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Jobilize",
-      "description_snippet": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Principal Product Manager, Platform based in the United States.\n\nAs a Principal Product Manager, Platform, you will shape secure, scalable, enterprise-grade capabilities that power next-generation developer and AI experiences.\nYou will define foundational platforms, APIs, and services that enable developers, partners, integrators, and enterprise customers to build and extend powerful solutions.\nThe role combines deep technical expertise with product strategy, data-d"
     }
   ]
 }
