@@ -1,7 +1,119 @@
 {
-  "last_updated": "2026-11-06T20:40:19.371Z",
-  "total_fetched_today": 11,
+  "last_updated": "2026-11-07T19:13:25.222Z",
+  "total_fetched_today": 8,
   "jobs": [
+    {
+      "id": "jsearch_U3dwX0V0VTJNb1VHMW5YUkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVXg1VW1SaFpESkdaV1ZRY0c5Q04xVlJaMkptVW5NelRYWmlVbHBmVkRKbWNuQnZia05wTVVwbFNGQTFhazUyYlRsNmJXOVZPR3hxVFZaamMwRjJZa0pPZWtkcFREVkpWM1pQZGtWS2QzSmljbk5sYm1wamRraExVbXMwU1ZWTmVWVllabUYwZDJ4bGR5MHhTMmxYUm5CT1NqWjFabTU1U1ROU1QzUjViV3RrYTFwVlUxRVNGMDh6YW5aaGNtNVhRbUp4TUdoMlkxQjBOWHBwY1VGakdpSkJTRTR3UlRkR00xcHlZWFp3TmtrMVEzRklkbVZ4YWs1MGFuQnlSbEoyU1cxUg",
+      "role": "Senior Product Manager with Security Clearance",
+      "company": "Gridiron IT Solutions",
+      "link": "https://us.trabajo.org/job-3013-87b3555ba93d96f118f316c4d43f0df9",
+      "posted_date": "2026-11-04",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Trabajo.org",
+      "description_snippet": "Product Manager Work Type: Full Time (Hybrid)\nLocation: Washington, DC\nClearance: Top Secret (SCI Eligible + Ability to obtain DHS EOD Clearance) Role Description: As the Product Manager, you will own the complete product lifecycle and drive the strategic vision to enable enterprise capabilities. You will define product requirements, prioritize the roadmap, and guide a cross-functional team of 12-15 full time equivalents including developers, designers, and analysts to deliver maximum value to users and stakeholders. You will be responsible for translating business needs into technical require"
+    },
+    {
+      "id": "jsearch_UGJYWm54SVZDRXZFdnNHV0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbGx4WDNscU5EZGxTR3cxUVVWSU9IaENTVXM1Y25OYWExUXhWMGhzVldOYU5sVlNSMmgxV1hSSk5IRk9OWGcyZWpKSFVUZFJValJoTlhocFpWUTNNMmg2WHpJd1YyOU5jMDkzVmxaNGMxOXdlRWhYTFdGdFUwVk5PRUZ4U2tSdWFHbDRhMFpKU1ROSlJsWlJSSE42ZGpacVRFVktiVTFaVjFKT04ydHRSSEIwTUhkVE1Fa1NGMVZZYW5aaGNubFRUVTFRVmpkTk9GQnZkakkxTWxGTkdpSkJTRTR3UlRkRlFVVnJSR0Z0TkVoR2VtSXhVblZFVm5wUFIwZDJjR0l5YTNSQg",
+      "role": "Senior Product Manager, Risk",
+      "company": "Coinbase",
+      "link": "https://www.linkedin.com/jobs/view/senior-product-manager-risk-at-coinbase-4487006694",
+      "posted_date": "2026-11-03",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "LinkedIn",
+      "description_snippet": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase.\nSen"
+    },
+    {
+      "id": "jsearch_aUYyYmtKRkpXeVQ4WFpuNkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamRVUjAxUmNuWTVTa2hMVlZRM1YwbFpUMVo1TlVSaVNGQmhPRFZzWVdONmJreHBNWHBmV1d0VE9ESm9hamxsT1dwTWFHOUJTelJRWm05MVVUZDVjVEJ4Y2tGUlMycGFWRU5wTTBFdGEyWlpRMlI0Ym5sTFowRXhZbTFvUkhwTWNXWTNSblp4V2tka1lrTjJSMjlMYW1wZk9FdENVbmM0ZDB4cE1YUTVabWhhWkVaWUxVb1NGMVZZYW5aaGNubFRUVTFRVmpkTk9GQnZkakkxTWxGTkdpSkJTRTR3UlRkRlpHWnZkV1ZIY2tGcmIyMUNWakpCYm1KR1ozTnlWWEJZZW5WMw",
+      "role": "Senior Product Manager 1 (Digital Experience)",
+      "company": "Principal Financial Group",
+      "link": "https://careers.principal.com/jobs/53322?lang=en-us",
+      "posted_date": "2026-11-02",
+      "location": "Des Moines, Iowa",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Careers At Principal - Principal Financial",
+      "description_snippet": "What You'll Do\n\nWe’re looking for a Sr. Product Manager I to join our Digital Experience team. In this role, you’ll lead and evolve our enterprise web experience, optimizing customer-facing digital journeys at scale while coaching product managers and partnering closely with UX and technology.\n\nYou'll focus on:\n• Product Strategy: Define and lead the product strategy for a portion of the enterprise digital experience, focused on optimizing web‑facing customer and employer journeys through data, customer insights, and cross‑functional alignment\n• Product Discovery: Ensure effective discovery pr"
+    },
+    {
+      "id": "jsearch_OFRWUW5aMzAwMkgweVFTeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEpaZEZSR1l6bEhaRFpGWHpOalpEQkNOV1UwU25CWE1rWm1VVWgxVlV3MVMxWXlhVEl4WmpVeGFHTklha1ZtT1hsdFNESkZTMjFwTUZoaE1IWlpXWGxPVkRReE5rTTBUVmQzUlROM1RWRXhOSFY2Y2xGUmVtUk1XVXAwWDJ4eWRFWjBVVzFWTURSV1RHUTJiRWxwY0V4UVZsVlZNVWRQU1ZJM1pEUkxkalZ6TW01WmJGRVNGMVZZYW5aaGNubFRUVTFRVmpkTk9GQnZkakkxTWxGTkdpSkJTRTR3UlRkR1NWaElkbUYzV1RFM00yNVVXV3MwVWs5S1QyZENYMnhCTlRoQg",
+      "role": "Product Manager-in-Training (YC cofounder/CEO-led)",
+      "company": "Jerry",
+      "link": "https://www.builtinsf.com/job/product-manager-training-yc-cofounder-ceo-led/12015891",
+      "posted_date": "2026-11-01",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Built In San Francisco",
+      "description_snippet": "About us:\n\nJerry.ai is a Series C, YC-backed tech startup with 5M+ customers and $240M in funding. Founded in 2017, product launched in 2019, and achieved profitability in 2024.\n\nWhy we exist:\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right"
+    },
+    {
+      "id": "jsearch_Q0kzZGVGdkJTRWpEYm4yT0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWhvZEZsUFJtSjJWblpMTjFkV2ExWm1jeTFrVmxONmNISk9lakJPV0ZOMGRGbHpMVkZyUzBwWmJtMDJOVEZ6VkZOZlVuUjFOVzlzWnpsdmNreDFSRnBtV2tVNE0xSlpkakpmVkdoT01uVkZkbmh2VDFWbFgzQmFXRW80TVZkRmFsUTBTMU00V25aRVVFNW1iemxRYldOUFMxUnpZa3RvZUdwTVIwZFNjRVpYTFRSNFlrWVNGMVZZYW5aaGNubFRUVTFRVmpkTk9GQnZkakkxTWxGTkdpSkJTRTR3UlRkR1ZUZENjVkkzU2s5dGNHVXRTMmQzYkZWVGFHdHFkRWRWY0hkQg",
+      "role": "[Remote] Senior Product Manager - AI & Healthcare Innovation",
+      "company": "Evolent",
+      "link": "https://jobright.ai/jobs/info/6a462f53c2d11a6a4666cef1",
+      "posted_date": "2026-11-03",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Jobright",
+      "description_snippet": "Note: The job is a remote job and is open to candidates in USA. Evolent Health LLC partners with health plans and providers to improve outcomes for people with complex health conditions. The Senior Product Manager will lead AI product initiatives, initially focused on the Auth Intelligence application, and guide product strategy, development, launch, and performance. The role collaborates with data science, clinical, operational, and technical teams to develop and scale AI-enabled capabilities.\n\nResponsibilities\n• Lead the product lifecycle from strategic planning to tactical activities, inclu"
+    },
+    {
+      "id": "jsearch_ZmRzV3gxSjk4WThfdVc2akFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTFmYzA5b00zbFlTR0pEUTJaMmREWmpUM296VldOalJtTnZkMHN3YVVWMVVVRTBjVzVJYlhCd1ZGUk9RelJOTjBaUlVEVlRSM1I2VDJkSlZGZGZZMHhRVkdWeVdHMXVXbVZXTld4SFh6UlNjVkJOYkhBM1owTnZNSEpmWVUxNmRUbFhOVkpqUWxCNE5HRjZhR2RRU0V0NWFUSlpiR05ZYW01SVkyNDRkRkp4VEdrellUY1NGMDh6YW5aaGNtNVhRbUp4TUdoMlkxQjBOWHBwY1VGakdpSkJTRTR3UlRkSGREWkZWekZDYURsb00xWllZVWN0TFZrM1gyVkRlR2gwTFcxMw",
+      "role": "Senior Digital Product Manager - Forecasting & AI",
+      "company": "BioSpace",
+      "link": "https://www.jobleads.com/us/job/senior-digital-product-manager-forecasting-ai--washington--ec5aa08d8e2dc67529b94d42ab36ae542",
+      "posted_date": "2026-10-31",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "JobLeads",
+      "description_snippet": "Amgen seeks a Sr. Digital Product Manager, Forecasting, to lead strategy, discovery, development, and adoption of high-impact digital products that improve forecasting, planning and decision support.\n\nYou will bridge business strategy with data science and technology to turn analytics into intuitive, scalable products used across Commercial, Supply Chain, Manufacturing, Finance, and R&D. Strong leadership and collaboration are essential."
+    },
+    {
+      "id": "jsearch_UHVKVVJpZW0zOEpEVV9tTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0ZvU1V0SGVGVnFVUzF3Y1ZKRFNGODBSRE5UWmxSVVdFczJTRmhQWjJkRVVFNTFUMmRyTFhCNlFVVXdRVzlJY1haM1EwWktZVlphZW5Rd1ZFNXNiWGQyVjFKZlpFOTNPVGRJVTNwNldIVTNPVzF2Um5aMFJraFFlbWQzYWtaWGQxOXNlVlU0WkhOaFFqaG1UbmRyUTBoYVJsQTRXVTQwVW1Wb1VFcHBOVTlNWm1adFNsVVNGMVZZYW5aaGNubFRUVTFRVmpkTk9GQnZkakkxTWxGTkdpSkJTRTR3UlRkSWR6TmFTbm8yUmtGMVZuVTRVWEpPWjNCTU5rVnpSM1JPY2toQg",
+      "role": "Group Product Manager — AI-Driven SaaS",
+      "company": "Nelnet",
+      "link": "https://us.trabajo.org/job-2283-63c75e730739698e279a92000856651e",
+      "posted_date": "2026-11-02",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Trabajo.org",
+      "description_snippet": "Nelnet’s NextGen portfolio is seeking an experienced Group Product Manager to lead a small team of Product Managers, owning one or more NextGen solutions from discovery to shipping. You will shape a cohesive strategy, align across engineering, design, and client support, and drive measurable outcomes for campuses and students.\n\nYou’ll own the portfolio strategy, drive AI-enabled initiatives, and collaborate with sales and GTM teams to ensure successful launches in a dynamic higher-education\nJ-18808-Ljbffr"
+    },
+    {
+      "id": "jsearch_bThuUnp0MHJFeFRLM0pyUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWFo1YzI1cWFrNHhNM0p3T1haWWNrZG5ibkkxVUVkMmExbG5OWGs1WDFwbVNWTmxlRFExTjBSYWRreFpRVlJoWW5WQlVqazVRbEZWYkVSVWNsSlphblpFTVd4MU5IRnFXVk5qWlVzMlVYZDJjbmxLYjBSbmNISnRhRTVFWWpaSmFXazVSMjUyUkVaUFEwaElWM0JVTXpkR1UzTTRUMDh5UkRCS1J6SXlNWFpoU1hSd2JISVNGMVZZYW5aaGNubFRUVTFRVmpkTk9GQnZkakkxTWxGTkdpSkJTRTR3UlRkRmMzcHBTV3RZWDJJMU5VZEtNRzB5Ym1oa2RHUk5ZelE1TURWMw",
+      "role": "PRODUCT MANAGER 2ND SHIFT",
+      "company": "JBS Foods",
+      "link": "https://jobs.jbsfoodsgroup.com/jobs/18433681-product-manager-2nd-shift",
+      "posted_date": "2026-11-03",
+      "location": "Marshalltown, Iowa",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "JBS Foods Careers",
+      "description_snippet": "Description\n\nProduct Manager\n\nDivision/Department: Pork\n\nLocation: Marshalltown\n\nJob title: Product Manager\n\nReports to: Marco Herrera\n\nSalary Class: Exempt\n\nType of position:\n\nFull-time\n\nHours: 2nd Shift\n\nGeneral Description:\n\nMonitor all plant operations; encourage and confirm correct procedures are being followed to maximize value and increase productivity. Audit products manually and receive audits to verify proper procedures and efficiency. Test new products and packaging for cost effectiveness, efficiency and value. Communicate in person or by phone with customers to increase satisfactio"
+    },
     {
       "id": "jsearch_bnlZWEMzcWNuZ2h5RWItMkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZa1pNV2xKNU1XcEpSWEpoZDFObFVXZzBRMDFaYkZGSFZ6QmlXbFp6YTNkbFowVnZMVTFsVTBoUE1HUnZkSGxMYzBoeFRUQkVaSFZSVldOSExVcHRTbXR2U3pCaFJtczBkRWR3U0ZOR2JHdFZiVVJMYjFacFRUTnZNR2RUU2xGdFVrMU5SR1ZsZGtwUGVHaEliVWRLYzFneWNIUXROblZYWmxNeVRVaERWUzFaYXpCMlpVSVNGazFVZG5WaGMxbEtPRFpETm5aM1gzaHFORGQzUTNjYUlrRklUakJGTjBkRFlUVmpVRmhrZW5Oa2JVSjBMV0YyUWxRMFR6Wm1VVUZFVFdj",
       "role": "Technical Product Manager, Optum Insight API Platform 2375195 | Boston, Massachusetts | Remote",
@@ -29,34 +141,6 @@
       "match_score": 9,
       "source": "Olympia Jobs Expertini",
       "description_snippet": "United States\nSuitability/Public Trust\nFully remote\nProject/Program Management\n• *Overview**\nGovCIO is currently hiring for a Senior Product Manager to lead strategy, delivery, and oversight of a custom-developed product within the OCC portfolio, supporting the Veterans Health Administration (VHA) Office of Connected Care. This role owns shared services intake and coordination, with additional support for FHIR data governance and data quality — advising clients and aligning product goals, stakeholder needs, and technical execution to mission-critical outcomes. Strong candidates bring product m"
-    },
-    {
-      "id": "jsearch_U3dwX0V0VTJNb1VHMW5YUkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1UwTVVNeFVGQTFiREl6TFV4eGNWWkdVVmRRUXpOTGVrMW1YeTFGTlY5TGFtRTRXbFJFTkhSUFZrbzBlbWhRTjNBeVNIUlhNMTg0U1dKbFowUkZkVlpDWW5GVldWaHdibVl3YldWRGVqbDFhR1pEVVZSeGVXOVJWakZuWlZsMWVIRkxNRnAzUTBkWU5HVTVORWRwUm1saFpWazNSbU5DYUhSeVNXaGlUMkp0Wm1wS016WVNGMFJVZG5WaGNYSTFTVGRMTm0xTVVWQnBOWEl3ZFVGckdpSkJTRTR3UlRkR1RXUjFSekp3U0U5UlR6SXlWbU52Wm1OSFdXUnhjM2xwUkU1bg",
-      "role": "Senior Product Manager with Security Clearance",
-      "company": "Gridiron IT Solutions",
-      "link": "https://us.trabajo.org/job-3013-87b3555ba93d96f118f316c4d43f0df9",
-      "posted_date": "2026-11-04",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Trabajo.org",
-      "description_snippet": "Product Manager Work Type: Full Time (Hybrid)\nLocation: Washington, DC\nClearance: Top Secret (SCI Eligible + Ability to obtain DHS EOD Clearance) Role Description: As the Product Manager, you will own the complete product lifecycle and drive the strategic vision to enable enterprise capabilities. You will define product requirements, prioritize the roadmap, and guide a cross-functional team of 12-15 full time equivalents including developers, designers, and analysts to deliver maximum value to users and stakeholders. You will be responsible for translating business needs into technical require"
-    },
-    {
-      "id": "jsearch_UGJYWm54SVZDRXZFdnNHV0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0ZFT1RWWlR6VXlhbmxDZUVKc2NISnFVMFpLUm5SZlIzaHBUVE56WmtKS2IzQndUamgyYUdsU1dFTk9jWEZUWlhKUFVFMVFSVE0yVjBGcmNETmtTRkZJWkVjNGRUSjNhM05RVm1SWlFuVnBiazU1ZWkxZk1XNUxSbUZrUjNkWU1tdGZNMHRZUWtkclVrWjFORmhCTTNJM2FFUmtZekpUVWpnelgyMHRUa2RZV0dKUmVsQVNGMFJVZG5WaGNYSTFTVGRMTm0xTVVWQnBOWEl3ZFVGckdpSkJTRTR3UlRkSE5uVTNNMUpuU1ZoNWNteE9ibkJtUkY5VFRXdE1Vek4zVUhSQg",
-      "role": "Senior Product Manager, Risk",
-      "company": "Coinbase",
-      "link": "https://www.linkedin.com/jobs/view/senior-product-manager-risk-at-coinbase-4487006694",
-      "posted_date": "2026-11-03",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "LinkedIn",
-      "description_snippet": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” learn more about working at Coinbase.\nSen"
     },
     {
       "id": "jsearch_U1hCVTh5Y0ozUGxXVXZuc0FBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZbFV4TFZscFlrZEpTWEZtT1hjNVV6WlRRa3BuYzBwelYxZEdkMWhEY0ZCd2FreFljVU4zVWkweGEwVTJaaTEwYlhwRFkwOU9jVlExWDFjNFMyRjZSa0pzVjFRMU4wRkdZMFZyWm1sUk5FdzBZVVZwUnkxRFNWVnFUazVyVlRsQlNrSjZhM2QzZEhWYVQwSllRWFphVERaR04zZG9aakJWU21KNGQwVndVMDVRV1ZKZk1rc1NGazFVZG5WaGMxbEtPRFpETm5aM1gzaHFORGQzUTNjYUlrRklUakJGTjBkUlVtRm9Ra0ZwTXpKWFNWOVVTamhpZWxKd1ZIRk1hM1pWZEVF",
@@ -115,34 +199,6 @@
       "description_snippet": "Position: AI-Powered SaaS Product Manager (Remote)\n\nHSI is seeking a Product Manager to lead the strategy, roadmap, and delivery of AI-powered experiences across our SaaS products and platform. The role partners closely with engineering, UX, and business stakeholders to translate customer needs into impactful solutions.\n\nYou will drive lifecycle from discovery to launch, prioritize work based on customer value and technical feasibility, and use AI tools to prototype, analyze, and accelerate learning.\n\nThis posting is for the AI-Powered SaaS Product Manager (Remote) role at HSI, based in United"
     },
     {
-      "id": "jsearch_ZmRzV3gxSjk4WThfdVc2akFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmRyYWw5MlZ6QkpRVTQyVW5GSVF6QTBUMEZYYUhBMVUxQkdURVZWZVZoNFFVTlBhblYyTUd4SVgwVlJOVE5ETlVwMVMzQldlVk4wU2pSZmJucGpkMFUyVjBKMlgyRlVRVjl1ZUZCUE1YaDZWMjlRZVhReVYwTlhabVZFY2xkRVdFbFRaMlZvVWtWWVpuQkhkVUpxWHpVM0xYQkNSVWc1VjNWd1JuaDBOWFkyY25sRE5UWVNGMEZFZG5WaGNsTlJRa3B5WnpKeWIxQnlPVkJTTkZGdkdpSkJTRTR3UlRkR2QzSmpWWGhLZW1wSk5tSnZVRWROYUhKTFdUZFRhV2h5UkZwUg",
-      "role": "Senior Digital Product Manager - Forecasting & AI",
-      "company": "BioSpace",
-      "link": "https://www.jobleads.com/us/job/senior-digital-product-manager-forecasting-ai--washington--ec5aa08d8e2dc67529b94d42ab36ae542",
-      "posted_date": "2026-10-31",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "JobLeads",
-      "description_snippet": "Amgen seeks a Sr. Digital Product Manager, Forecasting, to lead strategy, discovery, development, and adoption of high-impact digital products that improve forecasting, planning and decision support.\n\nYou will bridge business strategy with data science and technology to turn analytics into intuitive, scalable products used across Commercial, Supply Chain, Manufacturing, Finance, and R&D. Strong leadership and collaboration are essential."
-    },
-    {
-      "id": "jsearch_UHVKVVJpZW0zOEpEVV9tTkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGhSWTA4dFdFMUJWMGx6VTA1MVYzUlNlSGRwTkU5R1NteHdSVTVSYzBZelRGTjZSMk4yYzJac2FuaGpNRFJmVVZVeFRYWTVjM0pyYTFsdGJuZDVPV1pVVW05Uk0zcFFiMUpYTkRKcWJrd3RlVVZFU25seExXbGplV0ozUTJKWVZEVlFObFZvV1hkaU4ydEtlR0pKTTJwcVF6VjJiM1ZHWkZaVmRsVkxibWx3ZUVwNFlXb1NGMEZFZG5WaGNsTlJRa3B5WnpKeWIxQnlPVkJTTkZGdkdpSkJTRTR3UlRkRk9FdExjVFJaTkdSRVJYTmtiRk54Tm1OWWRGaElSMUZyYW1SMw",
-      "role": "Group Product Manager — AI-Driven SaaS",
-      "company": "Nelnet",
-      "link": "https://us.trabajo.org/job-2283-63c75e730739698e279a92000856651e",
-      "posted_date": "2026-11-02",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Trabajo.org",
-      "description_snippet": "Nelnet’s NextGen portfolio is seeking an experienced Group Product Manager to lead a small team of Product Managers, owning one or more NextGen solutions from discovery to shipping. You will shape a cohesive strategy, align across engineering, design, and client support, and drive measurable outcomes for campuses and students.\n\nYou’ll own the portfolio strategy, drive AI-enabled initiatives, and collaborate with sales and GTM teams to ensure successful launches in a dynamic higher-education\nJ-18808-Ljbffr"
-    },
-    {
       "id": "jsearch_WkNWZFdiRkxVbEZQUGtYeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbXBNWDIxYWJIZGZURXhOVGpkcWJGZEViMlJEWVZkdGFsQmZNWGRyYzJNNVVFNHpjSFZmWTBORldUUnBYMEUwZDE4d2JsUlpjamcwWWpObVZYSkJhalE1TWtOc1EyMUhPVlEyYTI1WmVEaEVSVk5JV21wVWQxTnNha0ZCYUVrMVpITllNemgyVGtOMk9YWlVURk14T0VGcmJ6QjNXR28xZEROb1oxZHpZMjlLUmxkMWRIRVNGMGw2ZG5WaGNGTTBSSEZ1Ukd0UVNWQjFkbDlYWjFGakdpSkJTRTR3UlRkRmMzTkRPWFkwTmxGcldqVlZjMjkxZFVnelQwZExaaTFQVEdaMw",
       "role": "Remote Lead Product Manager: Scale SaaS",
       "company": "Placements24",
@@ -171,20 +227,6 @@
       "description_snippet": "This a Full Remote job, the offer is available from: United States, California (USA)\nAbout Us\nFieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of advisory, audit, and tax practitioners at the world's largest CPA firms. Put simply, we build software for the people who enable trust between businesses.\nWe're based in San Francisco, CA, but built as a remote-first company that enables you to do your best work from anywhere. We're backed by top investors including Goldman Sachs, Bessemer Venture Partners, 8VC, and Y"
     },
     {
-      "id": "jsearch_OFRWUW5aMzAwMkgweVFTeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkpGTWtRMVJGZ3RSRzlrY1hGb09ETkZaVkpVWkhCTFVFWk5VWFl6TTNKa1RIUm1aVk5SVVVwQlQxZG9OM1l3UVhwbGNGazJPRTVTVEdkcVFraFpjVkZ4U2tGMlZrNTVORGxYVGxsMmFrVnhRVmd3UkVseVVscFhOakkxZW0wM1IxazFUM0F6VEZKU05YQk9kRzVVY2kxUFVHVkxZazVDUjNSbVNFczVUbUpSTWtkbFEySVNGMlZRVEhOaGNVaFBSbUZxV1RWT2IxQTNaVWhLYlZGVkdpSkJTRTR3UlRkSGFFTlhXVUZFZDA1NlptbHJlV3g2Y1hKaE5FWndWVkJMY2tabg",
-      "role": "Product Manager-in-Training (YC cofounder/CEO-led)",
-      "company": "Jerry",
-      "link": "https://www.builtinsf.com/job/product-manager-training-yc-cofounder-ceo-led/12015891",
-      "posted_date": "2026-11-01",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Built In San Francisco",
-      "description_snippet": "About us:\n\nJerry.ai is a Series C, YC-backed tech startup with 5M+ customers and $240M in funding. Founded in 2017, product launched in 2019, and achieved profitability in 2024.\n\nWhy we exist:\n\nYour car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.\n\nImagine having a trusted friend in your pocket who takes care of everything: they find you the right"
-    },
-    {
       "id": "jsearch_eDhqc25rLTB0TGFiaTJJQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFEwT1RWUlpXaGxiSFZGWlZSQkxVVkROMkZPTkZCM01VcG9WREZLV2pkMlZWSmhjSGRxWjNjNGFHWjVkWFpSZEZKSmNGRnhkRk0yUzFwdVJXeFFkRlZWUVY5QlgwRklTSE0xYlV0dGFubEVVVkJtWm5rM2FFUk9XVk5OZWs5VVUyZEVVMnB4U1c5alJ6aENhWGt5WkZaNWFHSmpZVFJXUm04d1dHaE9Na0V3V2sxMVJXTVNGMnBmVEhOaGRsUkZRWFI1Y1hCMFVWQTNZMGRFY1VGRkdpSkJTRTR3UlRkSWNIVnpTbWRIV2twaFFYcFBhR0ZuYVVReVkxaGtVR0ZGYm1aUg",
       "role": "Remote Principal Product Manager, Growth and Experience",
       "company": "Change.org",
@@ -197,34 +239,6 @@
       "match_score": 3,
       "source": "Talent.com",
       "description_snippet": "We’re hiring a Principal Product Manager, Growth and Experience to shape how participants discover, engage with, and return to Ideas for Change, where communities move from sharing ideas to shaping real policy. You’ll own the key moments in the participant journey: driving conversion at every stage, building engagement that lasts, and inviting others into the conversation.\nThe ideal candidate is a growth-minded product builder who knows what moves a funnel and can prove it. They are comfortable moving from data to decision: finding the drop-off between idea and goal voting, designing the test "
-    },
-    {
-      "id": "jsearch_bThuUnp0MHJFeFRLM0pyUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWhRWVRsQmMyNU5VR3BTYUZCMFVWcElTelV0VjFwNFJsQlZXVTFpV2tSWllUbDFTM3BNVXpkV1RqSmpWbTB5UVRGdE1FZDZiRkZ0Um5kV1VFNWlZVFJtYTNSeWIzaHRiek5yUVdaUFFraDBUa3cwUkcxaGJsWXRkV2xvWVZBMk5tcEdjRUpyTVVsSVdUUnZSR0pOVUZOTmJuQldNRWx1UmxCWFFtaFZaMUZDVDJ0Uk9XWVNGMlZRVEhOaGNVaFBSbUZxV1RWT2IxQTNaVWhLYlZGVkdpSkJTRTR3UlRkR2NVdHFaRUkxZFZKUFdrdFJWV1F4YzBZMlJrZFNRVk54TmxsUg",
-      "role": "PRODUCT MANAGER 2ND SHIFT",
-      "company": "JBS Foods",
-      "link": "https://jobs.jbsfoodsgroup.com/jobs/18433681-product-manager-2nd-shift",
-      "posted_date": "2026-11-03",
-      "location": "Marshalltown, Iowa",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "JBS Foods Careers",
-      "description_snippet": "Description\n\nProduct Manager\n\nDivision/Department: Pork\n\nLocation: Marshalltown\n\nJob title: Product Manager\n\nReports to: Marco Herrera\n\nSalary Class: Exempt\n\nType of position:\n\nFull-time\n\nHours: 2nd Shift\n\nGeneral Description:\n\nMonitor all plant operations; encourage and confirm correct procedures are being followed to maximize value and increase productivity. Audit products manually and receive audits to verify proper procedures and efficiency. Test new products and packaging for cost effectiveness, efficiency and value. Communicate in person or by phone with customers to increase satisfactio"
-    },
-    {
-      "id": "jsearch_aUYyYmtKRkpXeVQ4WFpuNkFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxXVmg1UnpGUGVFdERTRTlWU1dsT09VNXVlREo2YTIxWll6QmhkblZWUldsekxXUXdPWFpJTjFsNU9HbHdaM0JHVjJWcFYwNTVlbkl5Y21ORmRtWmtlaTFJVkRWRWFsUjFRMVl4WkdKVk0zSldabDlOVUdKMVZWcDVjVEpOVkdkeFFtZHNha05vU25SUVdFOTFiVXRoTldaQ1FqZFViV05aVTFCaE1UVmpMV2QyV1dwck9HZ1NGbmhLZW5KaGNVeDRRMlpsZVRRdFJWQjZkSHBNVDBFYUlrRklUakJGTjBadVpFSktaM0kwVms1NWFGbDBXV2RaVlZacFkxY3liRlZTUVdj",
-      "role": "Senior Product Manager 1 (Digital Experience)",
-      "company": "Principal Financial Group",
-      "link": "https://careers.principal.com/jobs/53322?lang=en-us",
-      "posted_date": "2026-11-02",
-      "location": "Des Moines, Iowa",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Careers At Principal - Principal Financial",
-      "description_snippet": "What You'll Do\n\nWe’re looking for a Sr. Product Manager I to join our Digital Experience team. In this role, you’ll lead and evolve our enterprise web experience, optimizing customer-facing digital journeys at scale while coaching product managers and partnering closely with UX and technology.\n\nYou'll focus on:\n• Product Strategy: Define and lead the product strategy for a portion of the enterprise digital experience, focused on optimizing web‑facing customer and employer journeys through data, customer insights, and cross‑functional alignment\n• Product Discovery: Ensure effective discovery pr"
     },
     {
       "id": "jsearch_c1E0ZkZ1RG5kUzNxcC1sVEFBQUFBQT09OkVzc0JDb3dCUVVSRVlsZGxZazl5VFZkVGVrOUJabHBFY0VoalRuWm5MV3hLU2w5NWRsWTFiVE00TW10WVdXWllSekZTWld0NWVuTlljR2d6TFhBdGFUTjJaRWgyUzBKaWEzVmZYMGRzTm5aT1ZYUnpNWFozYVdacmVHcFROelJOWVRZMGNqZG1PVlZJYjJWMVdEUXpZV28zVURjMVkwUlhNRzV2WmxZeFVYbG5NalYwY0dOMmJVaEllVEJLY0dSMGFWSVNGbmhLZW5KaGNVeDRRMlpsZVRRdFJWQjZkSHBNVDBFYUlrRklUakJGTjBaR1ZVeDRkbUZNVXpaRlFrYzVjMHhJVW5SRU5tOXRkVFJEUVVF",
@@ -2787,20 +2801,6 @@
       "match_score": 10,
       "source": "Workday",
       "description_snippet": "EverCommerce (Nasdaq: EVCM) is a leading service commerce platform, providing vertically-tailored, integrated SaaS solutions that help more than 745,000 global service-based businesses accelerate growth, streamline operations, and increase retention. Its modern digital and mobile applications create predictable, informed, and convenient experiences between customers and their service professionals. With its EverPro, EverHealth, and EverWell brands specializing in Home, Health, and Wellness service industries, EverCommerce provides end-to-end business management software, embedded payment accep"
-    },
-    {
-      "id": "jsearch_VG5SNTViN1Z3N2lQcVBDc0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURVJUU1ZobGVrNDNZMDl0VUU5NlpGOU1XRXRoYWpFMWFGOHpiMHBpYzJoT056bHNNMU5FWVhWalZHeGxlbHBTTmtKYWJ6UTJZVFJhY1RsVlRHTktlVTFEWlRGM1FYRjJlVk5FUzFaRVNFaGFTRGQyY25WM1gwSmljMWM1U0ZkUE5VTTBUMHhvUmxGYWFWaGFjMjlQTlRscE1IQldla2xoUWpWV2RVRlJMVkJ0WDJSTVRWTVNGMlU0VnpKaGNYWXhSV0ZoYkdsTVRWQm9URmMzYlVGVkdpSkJSSE55T1daVU1qQkhlWFJFTjBSTGVGaEdVRzVrUW5oSWNWTkpaa0o1YWpGQg",
-      "role": "Sr. Product Manager- Processing Remote (United States) · Remote",
-      "company": "Arcadia Power, Inc.",
-      "link": "https://www.jobleads.com/us/job/sr-product-manager-processing-remote-united-states-remote--northern--ecd86b67592380d6d0f3cd160ab4b9b8a",
-      "posted_date": "2026-09-18",
-      "location": "Eastern, Kentucky",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "JobLeads",
-      "description_snippet": "Arcadia is the AI-powered energy intelligence platform for businesses. We replace fragmented tools and manual workflows with one platform to pay utility bills, buy energy, and advance sustainability — across every location, at enterprise scale.\n\nTrusted by Fortune 2000 companies, Arcadia combines unified data, AI-powered analytics, and expert advisory to help enterprise teams save money, mitigate risk, and cut carbon .\n\nWe deliver this through three comprehensive solutions:\n\n• Utility Bill Management: Automating the entire utility bill lifecycle — from data capture and validation to payment pr"
     }
   ]
 }
