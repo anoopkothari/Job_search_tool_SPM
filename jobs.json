@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-11-09T23:41:06.149Z",
-  "total_fetched_today": 9,
+  "last_updated": "2026-11-10T21:07:43.658Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_emNoZ01UXzRnZGNuQTcwUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa042YUZOUVZtMVBaVTVTTFc1NVdWWndTRlZDUVZkTlFqVkdOemxMTTFrMldsQnFlbXRYU0hKT1ZHTkRNRk41ZFVWM1YxQkdZMWR0WVMxVk5GQjFTMnN3ZFZSUWMybEVlWE53TmpSUVMySnZhR1Y1UjJKNmFIQmtaalZUVFdwSlpGaGpRMGhWVFhKMlV6WnhjWEptUzFWd2NIVldZMkZaWDNOSVdrNTNiME5pVEZseWIwc1NGMnhKWm5waGNYWTNTRXhZWm10UVNWQjFTVXhTT0ZGTkdpSkJTRTR3UlRkSVoycHVVRWRyUkVOVGNtSktaVU40TVd0UE1WRkVSSFZ1UTNSUjowOTI4Mzk1ZQ",
+      "role": "Product Manager, Member Engagement",
+      "company": "Ash",
+      "link": "https://builtin.com/job/product-manager-member-engagement/11001712",
+      "posted_date": "2026-11-08",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Built In",
+      "description_snippet": "About the Role\n\nAsh is seeking a Product Manager, Member Engagement to join our Platform team. In this role, you'll own the member engagement product roadmap including email, SMS, and AI-powered voice outreach from channel logic and configuration to performance measurement and iteration. You'll collaborate with product managers, engineers, and the marketing team to deliver high-quality member engagement content. This role is foundational as outreach is the first and often only chance to reach members who've been missed by traditional care. The work you do here turns a mailed kit into a complet"
+    },
+    {
+      "id": "jsearch_LTJGbHFfN0RHU2EtQS1sekFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVk5OZUZvMldHWjRVRWhEYTBKWVZGRnRTbEJvVFZsTVIzSklYMnhTYlVSMFoyMVNkVUowVjI5VE1uRnNjWFpzY1U0MFgwVlVNeTA1U1ZKVFkxTkhXbGRRY0Mxd2JGUlFVSHBrZWtsQ1VERXdUMHBXYW5kRWFtbHRiVWRXZFVjMlEyNUtjSGQ0UVY5WFR5MXRaekJ2YW1SbkxVTXljRkYwWDBabmFrdDFiREZ3TUdKd2NWY1NGMnhKWm5waGNYWTNTRXhZWm10UVNWQjFTVXhTT0ZGTkdpSkJTRTR3UlRkR1VHVllkVTVsV1VSS2FFRkhUR04yTVZKNFdtSkJVelZtWTBabjo5Nzk4ZTI1NA",
+      "role": "Senior Product Manager, Admin Workflows",
+      "company": "1Password LLC",
+      "link": "https://us.trabajo.org/job-2570-7031497e9f400d9e9ae45f02567259e4",
+      "posted_date": "2026-11-04",
+      "location": "New Castle, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "Trabajo.org",
+      "description_snippet": "1Password is seeking a Senior Product Manager to own the Admin Workflows for Enterprise Password Manager.\n\nIncrease your chances of reaching the interview stage by reading the complete job description and applying promptly.\n\nYou will champion API-centric workflows and shape a roadmap for admin capabilities, dashboards, reporting, and user confirmation flows, collaborating across engineering, design, marketing, and GTM teams to deliver scalable, secure admin experiences. xhuatnn\n\nThis remote role supports USA and Canada, with a base salary range of $133,000–$186,000 USD and a comprehensive bene"
+    },
+    {
+      "id": "jsearch_bThuUnp0MHJFeFRLM0pyUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFp1Wm1KeExWSTRlVmRDY2xWeGJqUmpUVzV6VXpCR1EwaEVORkJoUjNsbU5saFlWRWRQVlZaTmFGSkZhbE5qTjNwWVVGQndZVzgwVmpSWlMyMHllRGd5VjNsdFRUaHBTamwyT0MxZmIwRjBNVjlhVEZGaFkzTkhRVjlITkcwMVNGSlJVV3MyVFROZmRIbFVkVGxZUlZkbVkyeE1aVGhDUlhWbFpESXpZalJSUlRZMVMyd1NGMnhKWm5waGNYWTNTRXhZWm10UVNWQjFTVXhTT0ZGTkdpSkJTRTR3UlRkRlltZ3RRWFpSTTJsRmJqUndSbkJ5UTFKdFZUbDRNM1Z0VjFObjphNTY1NzU0Zg",
+      "role": "PRODUCT MANAGER 2ND SHIFT",
+      "company": "JBS Foods",
+      "link": "https://jobs.jbsfoodsgroup.com/jobs/18433681-product-manager-2nd-shift",
+      "posted_date": "2026-11-03",
+      "location": "Marshalltown, Iowa",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "JBS Foods Careers",
+      "description_snippet": "Description\n\nProduct Manager\n\nDivision/Department: Pork\n\nLocation: Marshalltown\n\nJob title: Product Manager\n\nReports to: Marco Herrera\n\nSalary Class: Exempt\n\nType of position:\n\nFull-time\n\nHours: 2nd Shift\n\nGeneral Description:\n\nMonitor all plant operations; encourage and confirm correct procedures are being followed to maximize value and increase productivity. Audit products manually and receive audits to verify proper procedures and efficiency. Test new products and packaging for cost effectiveness, efficiency and value. Communicate in person or by phone with customers to increase satisfactio"
+    },
+    {
+      "id": "jsearch_YlhycThfUVBiNVg5dlllWUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEJ6YzJWMmFXUjZObXQ2VFVwclVHYzVVM0pYWDNsRE5UZ3piRnBYVG0xT1VIcDVXbEpwYVRKSFZWaEdZVm80YlVRMGN6RlJTVzVGU1cxSWMwOUpkVU5yTkVOWWJGUmpXbDk1T0V4d1lsZEVVR3BaTjJsZk16SlhVRVpXVlcxd2VWUmxZbFp1VjFSWmJYWm1VV1F6VURWM1Ywb3haSFZLV2xGRFIwTTRSV280VFdoNGQzRVNGMjVaWm5waGNGTkRSRFJ5YzNsamExQnVaakpXZDFGTkdpSkJTRTR3UlRkSU1sRkNRMXB1UjJsbWRYaDFNSHBVVGt4WVpWbFZZMkZCTTNkQjoyN2YwZmZmMg",
+      "role": "Remote Product Manager",
+      "company": "Ekotrope",
+      "link": "https://us.trabajo.org/job-2570-6731000db0bf32257187286bd33991fe",
+      "posted_date": "2026-11-04",
+      "location": "Brockton, Massachusetts",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "Trabajo.org",
+      "description_snippet": "Ekotrope, Inc.\n\nPlease make sure you read the following details carefully before making any applications.\n\nis seeking a Compliance Product Manager to drive discovery, evaluation, and delivery of new product opportunities that grow energy-code permitting and compliance adoption.\n\nYou will work with customers and developers to define MVPs, nurture early adopters, enable sales, and balance complexity and value while maintaining high customer satisfaction and supporting revenue growth. xhuatnn\n\nThis full-time remote role offers a market-competitive salary of $80K–$100K per year and is described as"
+    },
+    {
+      "id": "jsearch_c3ZwemZ4ckpLTTRqOXB1ZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXalJHYW1SU2RVSkJaMGQyUmtSUFIwMVNjVUZLWDJaU1dGaHpZbUprUzFsRU1rWlROblp0VVRWMVpWTnJkVjlzV0dsM1RGazBjRlJyZGxka1oxSkdla1pUYzBwU2FVMVdjVlZZTWxCb1UxQjNZVlIyYWxscFNHRnRhV1ZVZDBSRk5uZDZjMGRIV0RrM1RuaEdNVXRyU21KMmVsSTJReTFFUkUxdFZURTNNbVZGYmtwZlRqTVNGMjVaWm5waGNGTkRSRFJ5YzNsamExQnVaakpXZDFGTkdpSkJTRTR3UlRkRldqZFFjekpSUVhCMGF6RldWa296UnpBdFQySjBOMjE2UkV0MzowZDYyOTJiOQ",
+      "role": "Growth-Driven Product Manager (Remote) at Quora United States",
+      "company": "Quora",
+      "link": "https://rodrickwalters.com/wp-job/job/growth-driven-product-manager-remote-at-quora-united-states-elJzQXhscm9FeHA4aFRCbUZVb2M4YlJlbUE9PQ==",
+      "posted_date": "2026-11-03",
+      "location": "West Palm Beach, Florida",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "RodrickWalters.com",
+      "description_snippet": "Quora, a remote-first consumer platform, is seeking a growth-oriented Product Manager to lead user growth initiatives across web and mobile. You will own the end-to-end growth funnel and partner with engineering, design, data science, and product operations to drive activation and retention. You should have 5+ years in product management for consumer products, a proven track record of driving user growth, and the ability to base decisions on qualitative and quantitative data. #J-18808-Ljbffr"
+    },
     {
       "id": "jsearch_SDNxYnZVRjVUR2RwNmNDcUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEoyYVRoR1NGSnViVlpYWkhwM2RraEhNRTVqVW5GTWVUSnlSa2xKVVhCVlRWWXhSV0p0WVMxd2RsazRZemRFWXpOcGRVMUxWVVYyTldsM2JDMVFhVmxIYVdWc2VYVnNZVjlVTkZreU1FNVVMWFJZTUVWQmJFMVFjamRoY3pnMFZpMXVOMWRWY0RkeVdEUlJSVjlwWlhoNVNGcHFWbWxsWWtaNWQwSkpTVTlPY1RreWRYSVNGMEZzY25saGRUWnRTMHh5VjJ0UVNWQnNTV2xPYVVGdkdpSkJTRTR3UlRkR2VrbG1Ra1pzVms1cFNETnFUVUZPUVhwbU5GaENhQzFPWlRCQjoxMTkxM2U4Yg",
       "role": "Staff Product Manager",
@@ -45,20 +115,6 @@
       "description_snippet": "We provide a powerful system for technical leaders at companies like PayPal, Atlassian, and Citi who want to take control of how they hire top engineers, elevate their teams and contractors, and stay ahead. At the core of Karat’s system are live, expert-led interviews, analytics designed to give leaders maximum visibility, and the most robust interview performance dataset in the world.\nAs Principal Product Manager, you will own the product vision, strategy, and execution for the technical assessment and interview-innovation side of our platform. You'll leverage deep user empathy and product th"
     },
     {
-      "id": "jsearch_emNoZ01UXzRnZGNuQTcwUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWHBNY25rMlUxRldXRkppVEhGNFZYRTRNbUZXUlRSMVltNURSRGM1TXpaRVgzRTNZVkZ0UTBwWFgwSnFPWEZUWjI5UVltNU1jMHRpYlRKNmRVeHNOVlZKTFRNNVJVSTRTMjlQWmtOZlh5MUNiVUpwVVZRdFRVMVBUMkpwWjNkTFRqTkhNREpHYXpCUGJIWmpRVlV5ZVd4RWFETlNkekJNTkdsTWVuSjBiRU5WVDNjMmNIRVNGemhHYm5saGRFdElUR1ZYU1dkTVVWQjZjRFpCTUVFNEdpSkJTRTR3UlRkSFEzSXRkVU5QZUcxSGQzZFhYM1ZhTlhneWNsWm9OM2RsWjJOUjowOTI4Mzk1ZQ",
-      "role": "Product Manager, Member Engagement",
-      "company": "Ash",
-      "link": "https://builtin.com/job/product-manager-member-engagement/11001712",
-      "posted_date": "2026-11-08",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Built In",
-      "description_snippet": "About the Role\n\nAsh is seeking a Product Manager, Member Engagement to join our Platform team. In this role, you'll own the member engagement product roadmap including email, SMS, and AI-powered voice outreach from channel logic and configuration to performance measurement and iteration. You'll collaborate with product managers, engineers, and the marketing team to deliver high-quality member engagement content. This role is foundational as outreach is the first and often only chance to reach members who've been missed by traditional care. The work you do here turns a mailed kit into a complet"
-    },
-    {
       "id": "jsearch_RmpOeUttc0lMOG5qM1MxWUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZams1UlhBeU5rZG9aR1I0UVhwaFowdGpaeTEwTFU0eWJGcFpiSEpJYTBWZk5VVk5SM0pIWDNjMmJHRmxTSEprYmxoaFJIaFFMVFZVYUhGU2FUQXlTRzlSUW5GYWNtVjVWWE5mZWxnMk5pMTRNRk5TWlZWWFIyczBZalpGVjJFeVQzTTFjbWhNWVhSQ09XWkdaMUl4TjA5RWRrNVJPRVp6TFVsSFIyMWhOVUY2VTFwTGN6VVNGMEZzY25saGRUWnRTMHh5VjJ0UVNWQnNTV2xPYVVGdkdpSkJTRTR3UlRkSWRVdENRMFZpVVZOTVVrTkZTbEpuZG5KMWN6aEtTR3RVWkhOQjowMThmNzM1Zg",
       "role": "Trust & Safety Product Manager (Fully Remote) (39)",
       "company": "Partner Engineering and Science",
@@ -99,34 +155,6 @@
       "match_score": 2,
       "source": "JobLeads",
       "description_snippet": "Amgen seeks a Sr. Digital Product Manager, Forecasting, to lead strategy, discovery, development, and adoption of high-impact digital products that improve forecasting, planning and decision support.\n\nYou will bridge business strategy with data science and technology to turn analytics into intuitive, scalable products used across Commercial, Supply Chain, Manufacturing, Finance, and R&D. Strong leadership and collaboration are essential."
-    },
-    {
-      "id": "jsearch_bThuUnp0MHJFeFRLM0pyUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXBCTTNCWloxZGlkakZUYVhwNExVRnpNRmh3YVdNMWRtZFZlbmhyYXpCdFVUVkJOM296Y0Vkc1EwVnVWbkpDV2xadVVVWTRjVjlRVlVsWVNXWkNRbFpZVlc1bGNXdEtjbWRTTVZwbmFHMDFRMDVKYjJKUGVtdDJRVUV3UlVFd1Qwd3hTVE5KZW5RNE5FVjBPVWxxTnpkRFZFUkhlWGRvZDJOR2RHcFNjMjlMUldaNGVqRVNGemhHYm5saGRFdElUR1ZYU1dkTVVWQjZjRFpCTUVFNEdpSkJTRTR3UlRkSWMwOHlRa3RtYldoWWNUTlhWWGhwWjI1dGNIWlBTMkphWmpSUjphNTY1NzU0Zg",
-      "role": "PRODUCT MANAGER 2ND SHIFT",
-      "company": "JBS Foods",
-      "link": "https://jobs.jbsfoodsgroup.com/jobs/18433681-product-manager-2nd-shift",
-      "posted_date": "2026-11-03",
-      "location": "Marshalltown, Iowa",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "JBS Foods Careers",
-      "description_snippet": "Description\n\nProduct Manager\n\nDivision/Department: Pork\n\nLocation: Marshalltown\n\nJob title: Product Manager\n\nReports to: Marco Herrera\n\nSalary Class: Exempt\n\nType of position:\n\nFull-time\n\nHours: 2nd Shift\n\nGeneral Description:\n\nMonitor all plant operations; encourage and confirm correct procedures are being followed to maximize value and increase productivity. Audit products manually and receive audits to verify proper procedures and efficiency. Test new products and packaging for cost effectiveness, efficiency and value. Communicate in person or by phone with customers to increase satisfactio"
-    },
-    {
-      "id": "jsearch_c3ZwemZ4ckpLTTRqOXB1ZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWhMVkRJMGMxSnFSMVY2Ym5JNFZXTk5MVEkzWVRSYU1XZ3hlRWxOYkRCc1JEVktkM2wxYTBadFNHSnBVblZMYVdoMU5sTTBVREZLT1VKNWVWUlBXaTFFTm1SNk5tMWhUV1pVTUZCdmVHOHdSMjUyYkd0bFpVcE1Ta3RWVG5VNVZGbHFXVE5NVWtwaVJsWnlablpUUTFaNk1tdFJTRmhsWTBGMVVWTkNTRTVKTFdvMlFUY1NGMEZzY25saGRUWnRTMHh5VjJ0UVNWQnNTV2xPYVVGdkdpSkJTRTR3UlRkSWNIUnpVVzFNYTJsd09IRnhhVVZ6UlRKMlpIYzJZMWhQWjJaUjowZDYyOTJiOQ",
-      "role": "Growth-Driven Product Manager (Remote) at Quora United States",
-      "company": "Quora",
-      "link": "https://rodrickwalters.com/wp-job/job/growth-driven-product-manager-remote-at-quora-united-states-elJzQXhscm9FeHA4aFRCbUZVb2M4YlJlbUE9PQ==",
-      "posted_date": "2026-11-03",
-      "location": "West Palm Beach, Florida",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "RodrickWalters.com",
-      "description_snippet": "Quora, a remote-first consumer platform, is seeking a growth-oriented Product Manager to lead user growth initiatives across web and mobile. You will own the end-to-end growth funnel and partner with engineering, design, data science, and product operations to drive activation and retention. You should have 5+ years in product management for consumer products, a proven track record of driving user growth, and the ability to base decisions on qualitative and quantitative data. #J-18808-Ljbffr"
     },
     {
       "id": "jsearch_UGJYWm54SVZDRXZFdnNHV0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkpTYld0R1dsRkNSV1I2T0ZOYWJuRTJNSGwzWVhsT1gwOUZOa3hDWWw4NVQxRnZRV2Q0WWsxb2JFMHlXR056V0RBeU5UVTNlVFpPVjNaalRVZG1jMkZsZFc1ak4wMWtjR0ZWVmxadmMwOXRPV0pqVERoblFsOUVkV1ZxUW01S1NGWjRaWFJXVDNoVmMyazVYM1ZNU2xWNVoxOVROa3RvYmprMlRYTTJZV1JNVjA5MFRVOFNGMWROY25kaGNYcE9SV0ZNY0drdFoxQTBXa2hyZVZGckdpSkJTRTR3UlRkSVdWbFNZbXRETW1sWmJFaFRSMEpxTTFwR09HNU9WMDh6VTA5QjoyNjkzZGEwZQ",
@@ -2773,34 +2801,6 @@
       "match_score": 7,
       "source": "Jobilize",
       "description_snippet": "Join to apply for the Product Manager II, Derivatives (Remote) role at Jobright.ai\n\n3 days ago Be among the first 25 applicants\n\nJoin to apply for the Product Manager II, Derivatives (Remote) role at Jobright.ai\n\nGet AI-powered advice on this job and more exclusive features.\n\nCoinbase is a company on a mission to increase economic freedom in the world by building an emerging onchain platform for the global financial system. They are seeking a Product Manager II for their Institutional team to develop and enhance products that empower institutions in the global cryptoeconomy. This role involves"
-    },
-    {
-      "id": "jsearch_eU5TS3E0VEtiWWZyM0ZHMUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTV0pTYWtoMGRXMW9UMnRRWDJaU1dYQnBUVmgxTURSSGRUbDBMVWRXZWpCUU4zUnFjM1V5V2t4MmNWcFZTbm93VVVOUVdGbGhZemhPV0dGc0xVeGhVRW8yTkdwT1oxOW1PREo1YkRoalpqSkpNUzFzUkV0dk4yRlVSemRrTFVkYVQyVjZhM1Y2YzNscVlYcDBNSFZDVVhSbGF6RkVWV2RJUjFaVWJWRkZObXMxV2tGcU4xY1NGakprVXpaaGRFZFZRMTgyYm5aeU1GQXhURGRIWTFFYUlrRkVjM0k1WmxSVE5IaHdTa0pYVlZSTk5Vb3RSVmw1U21JNU5uTnhlWEJCUW1j",
-      "role": "Remote Sr. Product Manager, Platform",
-      "company": "Tenstorrent",
-      "link": "https://bebee.com/us/jobs/remote-sr-product-manager-platform-tenstorrent-durham-nc--jooble--5771310701706100783",
-      "posted_date": "2026-09-26",
-      "location": "Oak Grove, North Carolina",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "BeBee",
-      "description_snippet": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible.\n\nWe value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for "
-    },
-    {
-      "id": "jsearch_LUVHeW9RcFlIT2xWR2lfUEFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBURmRLUkc1ZmQza3haUzFhY21sd1FrTnhUWFYxY2sxeVJUWm1lVGxzWlhOR01rWjBkMU5yWTBKNVpuWnpjbVpuUzFwTldFd3dOMEY2WVZWcmVEVnpUV293TFU1SFNuWlNTMGRhWVhOcmJGbEVkelZyV0hBeWVHaHRXamR5TW1ST1oyNU5hMUEzVWtOd1VYUnFNM2xhVkROdldVZEpWSEZUZEVOZlMyOXdTek5XYmtzMlIzb1NGakprVXpaaGRFZFZRMTgyYm5aeU1GQXhURGRIWTFFYUlrRkVjM0k1WmxSR09GUkdVRU5aWW1oNWIwdEViWFZhTmxBNVlXNDJWVTl6UWtF",
-      "role": "Senior Product Manager",
-      "company": "Zoom",
-      "link": "https://careers.zoom.us/jobs/senior-product-manager-remote-united-states-75fbe324-7879-4b01-ae6b-5ee33401dbda",
-      "posted_date": "2026-09-22",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Zoom Careers",
-      "description_snippet": "What you can expect\nWe are seeking a Senior Product Manager to join the Workvivo team. In this role, you'll focus on deeply understanding our customers and defining the right problems to solve. You'll lead discovery efforts to uncover meaningful opportunities, validate assumptions, and ensure we deliver impactful solutions. You'll bring AI-first thinking to our product strategy, shaping how we apply emerging technologies to elevate employee experience.\n\nAs part of Workvivo (a Zoom company), you'll collaborate closely with stakeholders across design, engineering, and go-to-market teams, ensurin"
     }
   ]
 }
