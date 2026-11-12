@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-11-11T21:53:07.564Z",
-  "total_fetched_today": 3,
+  "last_updated": "2026-11-12T21:40:46.270Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_d3I3aUtlLXR2ZDlYMnVYREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa2x5VnpnM2VIVllkRVZYZUZSTE9ITnlTa2hXY0VWTFJ6SmtaRTV3VFhkemMxQjBVVFJKWVdSWlYwSlFWRkl6T1Zaa1RVcFRVbWRRYUdoUFZsSlZZWGszYUZSclFucHljVGhFV1RSd1FpMWhZWEJFTnpCcmJXaEVjRTB6YW1wQlMwZzFiRXhVY2xGQ2RXbE5NQzFMTmxWM1JtOUpSMGczVFRSVmVEUlFURjlqWVZkZk9VVVNGMWRxVERKaGNXWjBUbkJYWmpWT2IxQjBZakkyTUVGSkdpSkJTRTR3UlRkSU0wMWFORXRGVVdGeWRFUk1iRVJWUkU5bVYyOW5jbVJ1VVc1Mzo4OGFjOTFlNg",
+      "role": "Product Manager II (AI Capabilities)",
+      "company": "Principal Financial Group",
+      "link": "https://careers.principal.com/careers-home/jobs/53114?lang=en-us",
+      "posted_date": "2026-11-06",
+      "location": "Des Moines, Iowa",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "Careers At Principal - Principal Financial",
+      "description_snippet": "What You'll Do\n\nAt Principal, we're building innovative digital experiences that help make financial security accessible to all. We're seeking a Product Manager II to lead the strategy, governance, and ongoing evolution of AI-powered capabilities supporting our Individual Solutions and Workplace Investing businesses.\n\nThis role sits at the intersection of product management, artificial intelligence, customer experience, risk management, and operational excellence. You will be responsible for defining and executing the product roadmap for AI-enabled solutions while ensuring appropriate controls"
+    },
+    {
+      "id": "jsearch_RGJVdUxQNU5QN01JRmxodUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVGhJV1cxQmVFa3RhMnBoYjIxWlkwNVNlRTVLVWt0UlZrb3RNalJGWW5VM2FXSjNOa0pWUkU1VVVtOXNSek5WUTJ0MFpEVmthMGR1YVdsVFIweFJSM2RhVldJeGRtZGpiMUpVY2twTlZHVlZWakZqWmxCbExVbFJZbXc1VDJaNk16WkhPRVJRVkVSM1MwcG1VbFp4UWtaSmJ6azBaRFJWTUVwR1lWZGlaVXBLVnkxTGJIZ1NGMWRxVERKaGNXWjBUbkJYWmpWT2IxQjBZakkyTUVGSkdpSkJTRTR3UlRkRldIZHBRbEZhZVhGYVdWRTJNRzh5Um5CdFIzVnBUR1k1YVdwMzo4ZDhmOWVmZQ",
+      "role": "Staff Product Manager, Marketing Automation - US (Remote)",
+      "company": "Luxury Presence Inc",
+      "link": "https://www.monster.com/job-openings/staff-product-manager-marketing-automation-us-remote-beverly-hills-ca--0fe5073c-3e87-4ddd-b8c6-ed1b6f58e032",
+      "posted_date": "2026-11-08",
+      "location": "Beverly Hills, California",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Monster",
+      "description_snippet": "Staff Product Manager, Marketing Automation - US (Remote)\n\nUnited States\n\nProduct - Product /\n\nFull-time /\n\nRemote\n\nApply for this job\n\nLuxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n\nRole Overview\n\nWe're looking for a Staff Product Manager to own a core part of how our clients mark"
+    },
+    {
+      "id": "jsearch_d2FlRHNMNEl4V0M0UXBvWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkF6V0VWSVRFbERkbGRyZW1KNVZqZHNkVUozWjJkbllXcHlZVU5QVFZKaWVUa3liMFpFV1ZsUlYydzJTVzh0WW1KTVZtMXRaV051ZVhWYVpESk9SVTlCUkZkTllVZHpUVkJUYmpWT01uSk9UemQzY21OMVgybGtkR2Q2VjBSWmJEZzRjVzV2TVUxamJVdHNVbGRPYTBjdFRqaHNOMjFTU0hGdmNGcEtjbU41TTB4UE1XY1NGMGw2VERKaGNDMVdUazkxTUdoMlkxQnZkbVZ2TFVGakdpSkJTRTR3UlRkSE9HOVVPV016TTFKTlgxZGlhRlJQY0ZFdGVUSTRVbW80TmxwUjo3NjBmOGNmMg",
+      "role": "Product Manager Lead- Consumer Credit Cards",
+      "company": "PNC",
+      "link": "https://careers.pnc.com/global/en/job/R238435/Product-Manager-Lead-Consumer-Credit-Cards",
+      "posted_date": "2026-11-10",
+      "location": "Wilmington, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "PNC Careers",
+      "description_snippet": "Position Overview\n\nAt PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As a Product Manager Lead within PNC's Retail Lending organization, you will be based in Pittsburgh or Philadelphia, PA or Wilmington, DE.\n\nThis position will focus on defining strategy and leading execution for key Consumer Ca"
+    },
+    {
+      "id": "jsearch_dnlKc0I5cGZjZTNJMG15ZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmhQYW5oV2NuWnBaMmxuTTJRNE5EbE1SV0ZtTld3d2RHRlZkRkZ1ZDNCVU5IRnFhSEUyVTIxSWJYVkJSamxOVWtzM05IRTRZeTF4V0RaTU4xRllWVnBOUXpSd2VsQnJXbFZNZW1oNU5WZzJSRFpZUTFwVk9EUkRRbTFOVjFOMFpEQmFOMnd4UVVkNFRXOTNaRFpTTkRBNFRVSXlUSEUxUWxwNldYRlBWVU5rZFhwQk1WTVNGMWRxVERKaGNXWjBUbkJYWmpWT2IxQjBZakkyTUVGSkdpSkJTRTR3UlRkSU9XUlVia2xHYjNkalZIWlpZalU1ZDFCd1JVeElhMnhRUzBKQjoyYmM3YzdmMA",
+      "role": "Remote Data Product Manager – Healthcare Dashboards & AI",
+      "company": "Habitat Health",
+      "link": "https://www.jobleads.com/us/job/remote-data-product-manager-healthcare-dashboards-ai--oregon--e70baa3ca7ed97a70f0fb63a37414500a",
+      "posted_date": "2026-11-08",
+      "location": "Oregon",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 3,
+      "source": "JobLeads",
+      "description_snippet": "Habitat Health is hiring its first Data Product Manager to own the roadmap for our data products and infrastructure. You will serve as the key bridge between Product and Data, coordinating with C‑Suite and VP-level stakeholders to align on strategy and delivery, while collaborating with engineers to ship data solutions that meet business needs.\n\nYou’ll balance high level objectives with user needs, manage Discovery, Specs, Delivery, and UAT, and help design dashboards that enable rapid decision"
+    },
+    {
+      "id": "jsearch_UUlmdjFTbGVVOXlONjBqN0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVE0zTkVkV1QzVmFjM0Y0ZFZrNFYzaEtWRzVUZVVOSlMwSkdPRnBNWVVSbWMybDNjM3BHU0V4bGRXeHRXblIwZFhwS1IyRk5UM0JGTlVJelMwdGxkWHByUW1Kc2VTMXFWekIzUlRoTlYwOUxOUzE2Y0ZkSlkwbEhTRkpuVEdzMVJsSTBVVzVoVkZwcGExUklNbXhRVG1aSmFrb3pkamRqYnpOM2FVcHlZVVZYT0V0Q1N5MFNGMDlVVERKaGRta3lTVFJRWXpGelVWQnBjUzF3TUVFd0dpSkJTRTR3UlRkSFFYQkhXV0pQZVhScWRtbHlhbUV0WjFsQmRUSTJTbk0yYm1SbjphYjBlZmFlYg",
+      "role": "PRODUCT MANAGER - REMOTE",
+      "company": "Palco",
+      "link": "https://www.ziprecruiter.com/c/Palco/Job/PRODUCT-MANAGER-REMOTE/-in-Scranton,PA?jid=4b669ab9a33ff2a6",
+      "posted_date": "2026-11-07",
+      "location": "Scranton, Pennsylvania",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "ZipRecruiter",
+      "description_snippet": "PRODUCT MANAGER - REMOTE\n\nWe’re Palco. We provide the management, support, and systems behind self-directed programs—the services that help people hire, pay, and manage their own caregivers with confidence. With 25+ years of experience as a national provider operating in over 17 states, we keep people at the center of everything we do. Through innovative technology and decades of expertise, we help states and partners run stronger, more compliant, and efficient programs. Our mission is to challenge the status quo and build smarter, more human-centered solutions that put power back in people’s "
+    },
     {
       "id": "jsearch_WkdIUlJSN2JPUzl6WkFCb0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFZYVFhOR01FRnJhelJTWXpRMFYyODNhVFpTUXpoRlEydEpabTF2ZGpWMVYyOTRNbEpSVUZwYVRXOXROM2RYV0ZGRGRIWlNiMnBLWmsxeFV6WlVhR0pwVWtkVFMyVnlSWFJSTFdKTGFrRmxiRlk0YUZocVFqTnNkMDFCTFZabmNuRjVkbWwyTlRONmJHTm5WRUZHWVdVMmNtZFdObXhIWVhweE9VUlZSVkY0YzFCdlMxOFNGM2RQVURCaGNEWkZUVFJEWDNBNE5GQmZZV2xzTUVFMEdpSkJTRTR3UlRkRldrOTRVakowWlZSR2JEWjJOM2huTW5sTk0xbHlURXRSZVdsMzpjMDY4OTZiMw",
       "role": "Senior Product Manager, Payments & TRUST Network",
@@ -15,20 +85,6 @@
       "match_score": 9,
       "source": "LinkedIn",
       "description_snippet": "Ready to do the most impactful work of your career? At Coinbase, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.” Learn more about working at Coinbase.\n\nWh"
-    },
-    {
-      "id": "jsearch_RGJVdUxQNU5QN01JRmxodUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVE5SYUhCZmVUUnFTVkJIZEZsaE9WaHZVbFUyTTNwUVJsRndaM0p2TVhSTFFpMUZjblpsY1hSdGVteEZiVmRDVnpWVVFWYzFlbmd6UVhOeE5XVndhbUpZUjJSbmFIZEdUazlmWTA1MU9FMDNWRnBaZFhaaFl6bERjblZvTkdVM09IZ3RXV0ZaWVhGelRETnNRMVJ3UkZKUVMyNVRiazVvZWpkMFlsUmxNV3h1TWtkRlpFY1NGM2RQVURCaGNEWkZUVFJEWDNBNE5GQmZZV2xzTUVFMEdpSkJTRTR3UlRkSVVFeHZTMWxRZGtGMFlqaHRUbk5QTkRaaVpHOVlWVGxJV1RsQjo4ZDhmOWVmZQ",
-      "role": "Staff Product Manager, Marketing Automation - US (Remote)",
-      "company": "Luxury Presence Inc",
-      "link": "https://www.monster.com/job-openings/staff-product-manager-marketing-automation-us-remote-beverly-hills-ca--0fe5073c-3e87-4ddd-b8c6-ed1b6f58e032",
-      "posted_date": "2026-11-08",
-      "location": "Beverly Hills, California",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Monster",
-      "description_snippet": "Staff Product Manager, Marketing Automation - US (Remote)\n\nUnited States\n\nProduct - Product /\n\nFull-time /\n\nRemote\n\nApply for this job\n\nLuxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n\nRole Overview\n\nWe're looking for a Staff Product Manager to own a core part of how our clients mark"
     },
     {
       "id": "jsearch_LTJGbHFfN0RHU2EtQS1sekFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkZxUkc1NllWRklNV1JPTUV0TVFqazVVa0l6TjJSSGVtWXRZM1ZwUVhKblFuSm5kWEpYY2toMll6Rmxha0V6U1Y5WVgxTlljamxPUXpWMVkwdE5lR1ZWVDNSc1lraHpORVF5VGxkUlRWWnNNMWRQWmxOb2VIVjJhSGxZYnpKMFlVVm1PRU13YjNsQ2RXWnlTbU5XWlZwR09GZEVOR2RuUTFnMExTMXRNV3BYTmpCR1pFWVNGM2RQVURCaGNEWkZUVFJEWDNBNE5GQmZZV2xzTUVFMEdpSkJTRTR3UlRkR2FqQjRRbVUyYzFsT1lrMURhWE5xU0VSQlVFeE1lRU53UlhoUjo5Nzk4ZTI1NA",
@@ -939,20 +995,6 @@
       "match_score": 15,
       "source": "Talent.com",
       "description_snippet": "Senior Product Manager, Agentic AI Platform\n\nWashington, DC | Los Angeles, CA | Seattle, WA (Remote)\n\nVoyager is an innovative defense, national security and space technology company committed to advancing and delivering transformative, mission-critical solutions. We tackle the most complex challenges to unlock new frontiers for human progress, fortify national security, and protect critical assets to lead in the race for technological and operational superiority from ground to space.\n\nForge the Future: Join Voyager Technologies\n\nThe future belongs to those who build it. At Voyager Technologie"
-    },
-    {
-      "id": "jsearch_d3I3aUtlLXR2ZDlYMnVYREFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFZYUjJwSFpVOHphM3BvWTBGblRuWmpUMjFOT1ZOTE9FRnZTSGxoWDNGWWNURnpMWEphWjFWU1gwbEZXbTgxTURGTllWUnpWVUZ4YW1SYWNVZGpkMHRMT1RoUk1YTXhiVFpZZUcxVFR6QnNNSEZvYURacmVWRk1ka1IwYlhKemFXNHphWGd4YzB4TlZtUnFXWEExTFRoWE5WYzBXRVEwYWtGeFEydG5NelpwTUZCa1dGSVNGMWxHVkdsaGNYWlhURGx4YTNCMFVWQnZXVk5WYlVFNEdpSkJTRTR3UlRkRlZFRk1UblZpU0UxcE16aGhiR1J3YkcxT056Rm9ObGN4U20xMw",
-      "role": "Product Manager II (AI Capabilities)",
-      "company": "Principal Financial Group",
-      "link": "https://careers.principal.com/careers-home/jobs/53114?lang=en-us",
-      "posted_date": "2026-10-22",
-      "location": "Des Moines, Iowa",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 8,
-      "source": "Careers At Principal - Principal Financial",
-      "description_snippet": "What You'll Do\n\nAt Principal, we're building innovative digital experiences that help make financial security accessible to all. We're seeking a Product Manager II to lead the strategy, governance, and ongoing evolution of AI-powered capabilities supporting our Individual Solutions and Workplace Investing businesses.\n\nThis role sits at the intersection of product management, artificial intelligence, customer experience, risk management, and operational excellence. You will be responsible for defining and executing the product roadmap for AI-enabled solutions while ensuring appropriate controls"
     },
     {
       "id": "jsearch_ckg3eTBuZER4UTdOZmlPY0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWEJZVHpaUk9XTkliRkpST0dWTGNGUkZRMWt0YVZrMGNqSjNjVmxVWm05WVRreG1PWEowVVU1SFVHOVpPSGh2V0VnM1QxSndOazFWVVdGcVJHNXBhR2h5YTFWc1V6UTFhRlo2Y1ZkUlJXbENhVmx6ZVdKRWJXVXpVemxmVFhwb1JuRklTMDlOWTJsQ1pVMHlWMmRuUVhRMVRGUjZjbkpVU0RVNWFWTlZVVGwxWnpNNVdEWVNGMWRXVkdsaGRHWnlSR1IxWTJoMlkxQXdOa1JvTFVGSkdpSkJTRTR3UlRkSFZ6RnNNVVZQTVZaTGNVTnhURzA1Y21WRWFqVnZPRFJNY0U5Mw",
@@ -2759,48 +2801,6 @@
       "match_score": 2,
       "source": "BeBee",
       "description_snippet": "Salary : $109,512.00 - $147,264.00 Annually\n\nLocation : Thurston County - Tumwater, WA\n\nJob Type: Full Time - Permanent\n\nRemote Employment: Flexible/Hybrid\n\nJob Number: 2026-07942\n\nDepartment: Dept. of Labor & Industries\n\nDivision: Insurance Services - Administration\n\nOpening Date: 09/23/2026\n\nClosing Date: 10/4/2026 11:59 PM Pacific\n\nSalary Information: The high end of the salary range, Step M is typically a longevity step\n\nDescription\n\nOur Mission: Keep Washington Safe and Working!Our Values: Customer Focus, One L&I, Respect, Diversity, Equity and Inclusion, Learning and Growth, Reliability "
-    },
-    {
-      "id": "jsearch_UWgzWUpjRldPRTQtaG1yZ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVpsY25WS1lrdHBaVnBYYVhrNVMzaHRWVXd5TVMxNk1EZHpNbXgzVFRWVVlXcGlXRTR3WDFkbVVFTjFjMkUzWkdWSlRGWnBjR0l3WW1SUFFpMW9XV05hZFdacVZtdFhZbDh0VEVwTlJYUlhaa0pNT0ZaT1IyNUVja1ppYzB4clMyVXRZM0Z2ZUhjemNHdHVjSGc1ZGw5SVZYaFZiV05MTWxaMVdEVktTMkpPVnpaWFNrUVNGelJDVXpoaGIwUnRSWFpsWjJ0UVNWQTNMV0poYzBGSkdpSkJSSE55T1daVExWRmhVbkZSTTNCck1tZFlWbFpvWkdvd1V6Qk1OV2RuYlZkbg",
-      "role": "Global Product Manager - Remote",
-      "company": "Stryker",
-      "link": "https://www.linkedin.com/jobs/view/global-product-manager-remote-at-stryker-4471554570",
-      "posted_date": "2026-09-29",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "LinkedIn",
-      "description_snippet": "We are seeking a highly motivated Global Product Manager to join our team. In this role, you will be responsible for supporting the marketing and commercialization efforts across our neurovascular portfolio. You will work closely with customers and regional marketing teams to link insights to strategy and drive downstream marketing excellence and maximize market adoption of our life-saving neurovascular products.\n\nWhat you will do:\n\n• Understand key competitors and their relative strengths/weaknesses\n• Understand customer groups, including why customers buy the product or service approach for "
-    },
-    {
-      "id": "jsearch_U1piTjcwby1hWFFJNlp2bEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlJJWjNSRFpXcFdjRE0wU1hSUWRXWlpWVE5FWHpSMlpXZG5ORzQxZUhwdlpYQTVjM2hhY210ZmJUUldXREJZTUV4VGEzQjFRbVJhZDFreWNXMXNjekZCWXpCd1gwODFSMjkwYXpkemJHcEpabUZaU1MweVdEbFZkVWx5VDJ4VVlubHplRFZGZEUxRVRrUTFZV3BrTUdWVVdFUTRTMjVUZHpkTGNFaHdVMmg1Wm5Bek5uUVNGMVpvVnpoaGRHMDRSUzFIWjJsTVRWQTJabVU1T0VFMEdpSkJSSE55T1daUldXVkdkelJWV2pCV01HRnRTVTV4U1hjMFdIa3RjREppVDNsUg",
-      "role": "Regional Product Manager Atomic Spectroscopy (REMOTE East Coast)",
-      "company": "PerkinElmer",
-      "link": "https://bebee.com/us/jobs/regional-product-manager-atomic-spectroscopy-remote-east-coast-perkinelmer-williamstown-nj-united-st--oneredce-26479_164064667230",
-      "posted_date": "2026-09-24",
-      "location": "New Jersey",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 1,
-      "source": "BeBee",
-      "description_snippet": "When joining PerkinElmer, you select an experienced and trusted leader in scientific solutions, with the support of a global service network and distribution centers, providing the right solution, at the right time, to meet critical customer needs. With over an 80+ year legacy of advancing science and a mission of innovating for a healthier world, our dedicated team collaborates closely with commercial, government, academic and healthcare customers to deliver our broad portfolio of analytical solutions, and OneSource services.\n\nJob Title\nRegional Product Manager Atomic Spectroscopy (REMOTE Eas"
-    },
-    {
-      "id": "jsearch_S2NnWGl1ZW9EMmpEektRRUFBQUFBQT09OkVzc0JDb3dCUVVwcFZEUjBTMFZJT0ZOclZXVklSbUpSYnpsSWVUQktlVWQ2YkdkT1Z6UnNVazVoYjJodFh5MTBVM1ZmWjA5V1RYVm5WbTFQYnpGTmVtNVNSMEZ4UkZabE5tRkhXV05TVjNKUWJqaHBWa1ZKUW5wMVRscEZRamw1TVdWclVWRlROVmRsU1hWSVVVSTBTVEJWWmtOVmIxOUhRbXRoYzNCbWNtcEJPVTV6TkdSNlEzWkdlRTgwVG5OS2NXUVNGakprVXpaaGRFZFZRMTgyYm5aeU1GQXhURGRIWTFFYUlrRkVjM0k1WmxReE1rOXNlRXN3U0RKMVVVUlRiak5DTldGUVYyOWhZMUU0WjFF",
-      "role": "Senior Product Manager, AI Eastern Time Zone Remote, United States 8",
-      "company": "M Files",
-      "link": "https://www.jobilize.com/job/us-dc-all-cities-senior-product-manager-ai-eastern-time-zone-remote",
-      "posted_date": "2026-09-21",
-      "location": "Washington, District of Columbia",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 10,
-      "source": "Jobilize",
-      "description_snippet": "Senior Product Manager, AI (Eastern Time Zone Remote, United States)\n\n5 days ago Be among the first 25 applicants\n\nGet AI-powered advice on this job and more exclusive features. Direct message the job poster from M-Files\nTalent Acquisition\n\nDual HR Certified (SHRM-CP,PHR) | Skilled and Passionate About Recruitment Optimization, Employer Branding, and Coaching\n\nWho we are\n\nM-Files is redefining how work gets done. Our AI-native document management system offers purpose-built business use cases, spanning universal and industry-specific workflows, to enable secure collaboration, automate processe"
     }
   ]
 }
