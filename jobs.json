@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-11-13T21:07:01.508Z",
-  "total_fetched_today": 7,
+  "last_updated": "2026-11-14T19:38:59.959Z",
+  "total_fetched_today": 4,
   "jobs": [
+    {
+      "id": "jsearch_UHAzMThyWVpaYmpMQWVqeUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbU5XWjJ3dE1HTnhjbXRXZHpoM2RVSkNSRFF0VmxKbVJGUnBkMkpGVnpsd1lWZEdaME4yVmpNeWFsTk5OeTF6Y214dWNtUlRkVUV3YWtsaGRHZHdaRFppVWtwaVdIUm5ja2RDWW0xVFZHUktiVlJET0MxVWJHWXljVk50VG5KMFZqWTFlRkZKY1U4M2FuSTJRa1IyVFRkNE9YazBlVkppY0VWWE1Vc3RUVE5XTlV0d1dHRVNGekJ5YWpSaGNVODRUMkZmTW5samExQjZUbTV4YlVGakdpSkJTRTR3UlRkR016SXhXakJzVG0xRk1tZHRTVE5MYlcxelFWUkpjWEJXYWxWQjoyNDBhMTdiZA",
+      "role": "Senior Product Manager, IT",
+      "company": "Marsh & McLennan Companies",
+      "link": "https://careers.atmae.org/job/senior-product-manager-it/86905144/",
+      "posted_date": "2026-11-09",
+      "location": "Piscataway, New Jersey",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 11,
+      "source": "The Association Of Technology, Management, And Applied Engineering (ATMAE) Jobs - ATMAE",
+      "description_snippet": "Our not-so-secret sauce.\n\nAward-winning, inclusive, Top Workplace culture doesn't happen overnight. It's a result of hard work by extraordinary people. The industry's brightest talent drive our efforts to deliver purposeful work and meaningful impact every day. Learn more about what makes us different and how you can make your mark as a Senior Product Manager, IT at Marsh Agency.\n\nMarsh Agency helps people and organizations manage risk and prepare for the future through insurance, benefits, retirement, and wealth management strategies. We believe in hands-on proactive service, data-driven insi"
+    },
+    {
+      "id": "jsearch_MFdWLWVUZ3FLWS1ZejZZLUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVlZ0VERWbVkycEtVbXR2Y1dRNVZVSnJTamh4VTNwVVF6WXlWVTQxV1RSWVkxOUhjVmx2Y1cwMFNrNDFTREZoV1dVeFFsVk9aRFJsYTNJeVFYYzBhRVZmU0RoWlQwTjVkbVJCYjJsblpGUkhlR3RRU0VReFduSmhZM2R4VDJkdGRFVkpZMWh4Y1ZNMVlXbENhM2x6VmpaM1IyeE9kM05NVW1KWmFWUmFNMkZNVW5sMGVEVVNGMjV5YWpSaGNXbzVRbk0yWjJ0UVNWQjRaSGxwZDFGbkdpSkJTRTR3UlRkSFIzRkVja2g1WDFSMk16UXhSVmd4WHprMVoxWkxZMDAzU1c5Mzo5YjcyNWM3Ng",
+      "role": "Principal, Product Manager ( L5)",
+      "company": "Twilio",
+      "link": "https://jobs.twilio.com/careers/job/1099557146281",
+      "posted_date": "2026-11-13",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 9,
+      "source": "Twilio Careers",
+      "description_snippet": "Who we are\n\nAt Twilio, we're shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n\nOur dedication to remote-first work, and strong culture of connection and global inclusion means that no matter your location, you're part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we're acquiring new skills and experiences that make work feel tr"
+    },
+    {
+      "id": "jsearch_OVB3UzhPUmhBSU5uc2hqX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV055Y1ZGSk9XNXJaRU40TFdaNGNXOU5TamxhV1RBdFpVUkVaM2xYY1VaSWJXUlhhRmhqUjFKeVlteEhka0kwVm5SWFQzZ3lOMjh0WlhRM2FVMTBRamQ0VUY5T2R6SllWR3R0ZWxGMk5XNVliVmgxZUdaSVRrVXhlVlJLT0hScE9XbENOVTFuWjNaV2JtUXhhMUpuVFRkclprdFFORkZOY1VsRlpYRnZia05NWTNwZlptOFNGMjV5YWpSaGNXbzVRbk0yWjJ0UVNWQjRaSGxwZDFGbkdpSkJTRTR3UlRkSWVIUnVWVXd0ZEdkaGMxQm9RVmhmZWpsQmFrUmFUMGRCTW5SbjphNWVlZDIyMw",
+      "role": "Senior Product Manager (Remote)",
+      "company": "GovCIO",
+      "link": "https://virtualjobs.usnlx.com/richmond-va/senior-product-manager-remote/03D7497BB7524E2C95B7DDDB31BFF4BE/job/",
+      "posted_date": "2026-11-12",
+      "location": "Richmond, Virginia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "USNLX Virtual Jobs - National Labor Exchange",
+      "description_snippet": "United States\n\nSuitability/Public Trust\n\nFully remote\n\nProject/Program Management\n\nOverview\n\nGovCIO is seeking a Senior Product Manager to own the delivery strategy and continuous improvement of a complex, high-visibility product — or closely related set of products — within the VA Telehealth portfolio. These products are integral to how Veterans and VA clinical staff connect for virtual care, making this a mission-critical role with real impact on daily Veteran health outcomes.\n\nReporting to the Program Manager, the Senior PM serves as the primary product lead across VA stakeholders, clinical"
+    },
+    {
+      "id": "jsearch_RlI4N0U3dVRld01oMFY4b0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXakpyYURkd1FYaG9XVGRsUkdoVU5IZGxjMFJXT0hOcVFsaFFZMmR4ZGtsclkxaFFOVEppU2tSMkxYbENPSGRHWkVOMmRVczBUVEJRYmxWMFNuTnhkMU51UkRBeGFsRkpjM2xZYlhoTk5WTlJaR0ZYTm5SeFdFNUdRM2hwYXpKVlUyaGlSMkV3WlhGNVEwSmZRakJ6TmxBME1qQkZRbXh0YzBKU01EY3ROSGxmUVhreFYyOFNGekJ5YWpSaGNVODRUMkZmTW5samExQjZUbTV4YlVGakdpSkJTRTR3UlRkR2QzbEVTa3h2TWpaelpWQk9YM0pTYldsalZWVnZWSEpIYUVkMzpiNDk3ZjRjMw",
+      "role": "Senior Product Manager - Cost and Coverage",
+      "company": "Highmark Health",
+      "link": "https://careers.highmarkhealth.org/senior-product-manager-cost-and-coverage/job/J287742",
+      "posted_date": "2026-11-10",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Highmark Health",
+      "description_snippet": "Company :\nHighmark HealthJob Description :\n\nJOB SUMMARY\n\nThe Senior Product Manager, Cost and Coverage owns the end-to-end financial front door for members from understanding the cost of care to collecting payment from members upfront or providing financing options where needed, and ensuring the post-encounter Explanation of Benefits is simple and accurately matches the cost estimate provided. This role defines the product strategy, vision, and value proposition of Highmark’s cost transparency and coverage experiences. The ideal candidate outlines the strategic vision and business case, gains "
+    },
     {
       "id": "jsearch_bmU5MjZGY3l2WTh3aUNFRUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1pvYldONk1rdHFTREJ5VmtjNVdIaHhlakJhWlc4MlYzUjFkbWhKTjE5cWMwTmpRalZMYUdadWNVOHhWR2RXY1dkMGQwdDNVRUp1T0hveFVtTjJPVmRqWldweU1tNDJiVlZJVDE5UWRqQXpjRWhDWDJnMVlXcFhOVVF3WmpWTFJqZHhNMmRZZDNkSWVrbFhSMEZmU0ZjMFRXaFlia0V4ZDFGcmVVeHRTbDlxYVZjM01ESVNGekF6ZGpOaGNFczVSemRsYWpWUFZWQjFkR0l3T0VGWkdpSkJTRTR3UlRkSFMyeFNhRkUzUzIxWWVWTnJlSFJsZWtobWFuVnJaMUoyUkVoQjoyMDUxZTRhMg",
       "role": "Lead Technology Product Manager - Remote",
@@ -2745,62 +2801,6 @@
       "match_score": 7,
       "source": "LinkedIn",
       "description_snippet": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.\n\nWHY JOIN US\nIf you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!\n\nABOUT THE ROLE\nWe are looking for a Senior BI Product Manager to act as the subject-matter expert across Quote-to-Cash and Order-to-Cash processes, connecting financial data to re"
-    },
-    {
-      "id": "jsearch_S3ppd2sydTUyQUlLVkdzaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV2x6VjB0Rk5Fd3lhVzFSZFhwUmJtOVBaR3R5VEY5SUxVeG1XVGhCTTBSdWRFaEhjWFUxVG5sSWVWRTVMWGRuU0Zaa05qTTVlRWhJYkRKaFkwbDRheTEzYVUxeFpYWXpWRjlUVUVScGRUUjVVMDAwWm5RdFFUSm1ialkyU2xWU1FTMXdlbWM1UTNKZkxWbDNaM2h0ZG5oZllVNXhNbXRSVDFCVlJWTmllRll6VDJocFUwVVNGMHRTVnpoaGRua3dRV0Y1Y1RWT2IxQjJVRk5WTWxGakdpSkJSSE55T1daVFJXeHNhMFpxUWxWQ0xUQmxOR3B2VDE4d1VqazBSV2Q2TkRaQg",
-      "role": "Sr. Product Manager, Driver Management",
-      "company": "Samsara",
-      "link": "https://bebee.com/us/jobs/sr-product-manager-driver-management-samsara-remote-or-united-states--oneredce-28831_352BF0E3EDDA12F37FDD2C5AA46966BF",
-      "posted_date": "2026-09-24",
-      "location": "Remote, Oregon",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "BeBee",
-      "description_snippet": "Who we are\n\nSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are e"
-    },
-    {
-      "id": "jsearch_T1Jod1V6Y2J3RkhnQjZ0LUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURE5yTTNBd1FrVjZjVzVzVVdGdVNuaERNRTE1TUc4MmVYWndOMjFvTURKTFozWXdlRzFZT0daTmQzWjRjekl0U2xOU1ZFSjRjSHBmUlVGUlJTMXFhRnB1UzBkblRHVm1VelowT1Y5Mk1tOUVkSHBRTWxoa1FrMUZRa2RsU1hSRldIYzBPWGt5ZG04MFVtMDFNVmRZU2pGMFZXbE9XbWs0TUUwNWIyTXhabUZEU0Roek1rWVNGemhDVXpoaGRWZEZUVTVoZWpWT2IxQTRUa1J0ZDBGckdpSkJSSE55T1daU2FuTlhhRk40VWkwemJIbHJWR1p4TWs0eFFrZzBjWHB0TTFkMw",
-      "role": "U.S. Product Manager, Zoic Labs",
-      "company": "Zoic Studios",
-      "link": "https://jobgether.com/offer/6ab36431865119c687df9ec0-u.s.-product-manager-zoic-labs",
-      "posted_date": "2026-09-22",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States\n\nAbout Zoic Labs\n\nZoic Labs is an Experience Engineering company, focused on the strategic design and development of immersive, interactive and user-centric experiences.\n\nWe blend principles of UX/UI design, psychology, advanced technology, and storytelling to create seamless, engaging, and functional digital and physical interactions. Our dynamic and multi-disciplinary team has deep expertise in video game, XR, and web tool design and leverages a robust product development pipeline.\n\nWe work for a diverse mix of government and"
-    },
-    {
-      "id": "jsearch_TG52RVBtWWlOWDdPMU1BRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV1o1WlVaV1pHdzVMV1JDVlVsdVgxOVFVa1paV1hWTlZqbEdjMk0xYUd0ZlMyTm1VMlJ3VkcxeFRFbFZWMHhqTlRCNFRXbFhNV3MxVVd4TGVVdHVOMUZmZVdsbVptUTBTSGxqUzBSUU56TlpTekpYTVVnMk1EZFZXRkZmZGt0cmVGbG9Na1ptY1hSNVNsQnpWRnBrYVhWRlVITTFSVGh0Wm5JMlNtSjVRMVpHYjBOSWJ6Y1NGMHRTVnpoaGRua3dRV0Y1Y1RWT2IxQjJVRk5WTWxGakdpSkJSSE55T1daVFMzaElXSGQxTVdKckxYWkNOVWRIYTNOdk1GODJXVkpQY2poMw",
-      "role": "Staff Product Manager, Applied Science",
-      "company": "Pinterest",
-      "link": "https://www.pinterestcareers.com/jobs/8082033/staff-product-manager-applied-science/",
-      "posted_date": "2026-09-23",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Pinterest Careers",
-      "description_snippet": "About Pinterest:\n\nMillions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.\n\nDiscover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.\n\nAt Pinterest, AI isn't just a fea"
-    },
-    {
-      "id": "jsearch_NnpZcl9ta1h1UjBSb3FrQ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGhCY1ZVMFNHa3dVMFo2WDNadWNHSndlWE5GTnpKS2JrMU1TbkZtVVhKSmFHZFBRWEl0VHpSWlVXdHRTelYyZVdWWmFGTTVRMTlHYlU5WVRHUkhhSE01WkVFd2FtUmxkak5RY0ZRMGRYaG1TbTloV0Zvd2VGRnlXa2RzY1VseFQyVkNWR2N0U3pScmRWTmxSV1owTlRWeFlubE9UbFpyWVZOalgyTlFVMkkxUVdOcVNFZ1NGMUZvVnpoaGNGOXRTWEZFYWpWT2IxQnpkbVpUYlZFMEdpSkJSSE55T1daVWRHZDFha3BEZUV3M1UwNW9lazFsTUZGVVVubFBjM3BpZVhObg",
-      "role": "Staff Product Manager, Marketing Platform",
-      "company": "Aspire Software",
-      "link": "https://jobgether.com/offer/6ab669ec865119c687f01db9-staff-product-manager-marketing-platform",
-      "posted_date": "2026-09-25",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States\nReady to be a Titan?\nMarketing Pro helps ServiceTitan customers leverage their operational data for automated and one-time marketing campaigns across email, SMS, direct mail, reputation, social, and paid advertising, tying that activity back to booked jobs and revenue. The product is in the middle of a real transformation: instead of handing shop owners a set of manual marketing tools, we're building a system that pulls rich operational data straight from ServiceTitan, the system of record for the trades, and uses it to automat"
     }
   ]
 }
