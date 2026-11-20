@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-11-19T22:31:27.510Z",
-  "total_fetched_today": 2,
+  "last_updated": "2026-11-20T22:03:47.542Z",
+  "total_fetched_today": 3,
   "jobs": [
+    {
+      "id": "jsearch_cENOWmtwdWxPWV9nb1B4bkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFl5Tm01SmFsQkxNaTExU0hkcGNVaHNiemw1YzNSWk1XZHVaVVZOVmxGQ1NUaGtWVVp4YmpKQlgzbGZlVlp5ZGpWUk5GRk5OalUyTlRkbk16VlpVVFpXYlhKNlUyaDRNbGd6TW01UFNFeGZjRnBaYVhwSE5IcGlXV2hEZFV4bVpWY3hWbXRwWlZkMVlWRjNWbW96WXpsNlZVTlJjbEpMWjJFME1VRlhTRUZUVG1wQmJXWVNGM0Z6VFVGaE9XRkVTM1Z4Wm10UVNWQXlMV1kxYTBGVkdpSkJTRTR3UlRkRmFVaFdlRkJKUVhKdVNEYzFOM2hKVDA5eFVreFFNbmhSVEdsbjpiMjIyYzEwZQ",
+      "role": "Product Manager - Remote in EST or CST only",
+      "company": "Major Scale",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-remote-in-est-or-cst-only-at-major-scale-4491412387",
+      "posted_date": "2026-11-17",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "LinkedIn",
+      "description_snippet": "Major Scale is a boutique talent advisory firm. We work with early-to-growth stage tech companies, helping them build teams without the usual recruiting noise, hyperbole, or pressure.\n\nWe are partnering with high-growth, Series C fintech that has raised more than $120M from top-tier financial and venture investors to find a Product Manager with to own product launches and upgrades across their full lifecycle. You'll work on the company's most pressing problems, from revenue-generating, client-facing features to UI/UX upgrades and automation. About 40% of the role is customer-facing, working di"
+    },
+    {
+      "id": "jsearch_RlI4N0U3dVRld01oMFY4b0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWt5Y0VzdGF6RjVOM2xpVVZZeldrUlJiRmxrY0dsMVgwSnBaR1JZT1VwVVIxSndTVmxVZEcwM1dscFRSbkZqZWxwVGJFMVdSakJ2YTBSeFZqUlZXbUY1WnpoUFQycHpjRU5tY3psRFVIUkVSSEJXWVZoRVZEQndhVVV6Wm5GWExXWXhRV0ozWWtkMmExVnZRM3BFTkROT2IxTmhibk5oY1d0Wk5HWjVkSFEzU1ZSdU9WQVNGM2R6VFVGaE5HNW9TV05MTkcxMGExQTBUbUZSZVZGWkdpSkJTRTR3UlRkR1NuRTBWRmxrTkdWVWVtbzFMVTR4WDJsc2FuWm5URk5DZFhOMzpiNDk3ZjRjMw",
+      "role": "Senior Product Manager - Cost and Coverage",
+      "company": "Highmark Health",
+      "link": "https://careers.highmarkhealth.org/senior-product-manager-cost-and-coverage/job/J287742",
+      "posted_date": "2026-11-18",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Highmark Health",
+      "description_snippet": "Company :\nHighmark HealthJob Description :\n\nJOB SUMMARY\n\nThe Senior Product Manager, Cost and Coverage owns the end-to-end financial front door for members from understanding the cost of care to collecting payment from members upfront or providing financing options where needed, and ensuring the post-encounter Explanation of Benefits is simple and accurately matches the cost estimate provided. This role defines the product strategy, vision, and value proposition of Highmark’s cost transparency and coverage experiences. The ideal candidate outlines the strategic vision and business case, gains "
+    },
+    {
+      "id": "jsearch_SFVqbnFQRl9Xd2w1cGJpeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXak54TUZkMVltTXlNVjl2VlU5bGRETTViWEYxUkd4dmR6aGhSVkZ4WjJwaVZEVnVWemRxWWtGZmNWb3lkbEZZZG5GSFZrdGFWMnd0T1hoSlVFWm5jVkIyZDBwcFpYRktSWFZ4U25wemFUSjZlRlJXZVc0d1JIcGlZbDlGVmtKbVFYcFdVemR0YTFaNk5IQjFlR2x3UTBvemFqUnBNR2hvYlhCeU9GOTJhemhaTVhSMVRXNFNGM0Z6VFVGaE9XRkVTM1Z4Wm10UVNWQXlMV1kxYTBGVkdpSkJTRTR3UlRkR1RqbGxaMHBwT1Rrd1NuSmlhekE0ZWxoalQwMUJhbTV1ZEhWbjpkMjlkZjk4ZQ",
+      "role": "Product Manager — Day-0 AI Model Launch (Remote)",
+      "company": "Royper Royco LLC",
+      "link": "https://www.jobleads.com/us/job/product-manager-day-0-ai-model-launch-remote--united-states--ec967207733a82eb3f183cbb25fbe3de1",
+      "posted_date": "2026-11-15",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Nebius is hiring a Product Manager for new model launches on Token Factory. You will own end-to-end delivery, coordinating with engineering, billing, legal, marketing, and partners to ensure timely, high-quality launches and strong post-launch outcomes.\n\nRemote work from the United States is welcome. This role requires 5+ years in product/engineering or similar roles, with deep knowledge of model serving, GPUs, and AI workflows. You’ll drive launch quality and cross-team alignment."
+    },
     {
       "id": "jsearch_Y1l1aW40X3ZMRGZRZW9LVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEJWY1hKTFFtRklkMjFtTFRjemFtaHFiVnBzWkdkb1NVMDFaRE5NUm1SR1lWRjZhVGRsVkZOSWEyVk9kalpPWkVacmFHcEdTMEpuWkVsb1pGTk5VemxGVFhoQ1RFRlhTRGMxYXpZMGNtbGlXV05MYm05WlpscDRZbVJ3TUU0MU5XbEVNRXhhVUVkdU1qTkdkM05VY1dKaFJGSlBlR2hMWDE5cVFVSnlRemRaZW5oclVXMFNGMjl1YWw5aGNGOXlSVTVEU0d0MlVWQjBTWEp3TmxGM0dpSkJTRTR3UlRkR1NUSlVibTlRV2tKdVRFRndORUZoY0ZKMU5rbE9RMFkxU0hoUjplNWQ4YzY0Yw",
       "role": "Principal Product Manager, UI Platform",
@@ -15,20 +57,6 @@
       "match_score": 7,
       "source": "Expedia Group",
       "description_snippet": "At Expedia Group, we help travelers explore the world, one journey at a time. As a global travel company powered by passionate people, trusted partnerships, and leading technology, we connect travelers, partners, and advertisers through our consumer brands, B2B network, and travel advertising business.\n\nHere, you'll do meaningful work that helps millions of people discover, book, and experience travel with more ease, confidence, and joy. Our five Behaviors-Traveler First, Think Big, Operate with Excellence, Ownership Mindset, and Succeed Together-help foster a supportive environment where peop"
-    },
-    {
-      "id": "jsearch_cENOWmtwdWxPWV9nb1B4bkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVnBCUVhGNVpYTjFiR0ZRUlhWTlprTmlZMWM1TUY5akxXczFaMXBTVDFoaGRXYzRWVTF4TjBaQ1ZUZGZPR3BqWW5WcU9XdFhMVlZaZVd4RVRUTlVSRXRNVURGUlRuRTRiR3BaZUVwR1lWOVhjRXBNTFU1R1UzVXdRVUZmU2twTWIzcHlTblJDV2pWTWMwMXJOek5RTldwVFEzbzVZMWxDTlVKd09VMTFjbkpHWkRJdGQxUVNGMjl1YWw5aGNGOXlSVTVEU0d0MlVWQjBTWEp3TmxGM0dpSkJTRTR3UlRkR2VqVXdkMXB2YURVemJWQk9VV2RCY1dGNFJHMDFTVUZsYlVkUjpiMjIyYzEwZQ",
-      "role": "Product Manager - Remote in EST or CST only",
-      "company": "Major Scale",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-remote-in-est-or-cst-only-at-major-scale-4491412387",
-      "posted_date": "2026-11-17",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 6,
-      "source": "LinkedIn",
-      "description_snippet": "Major Scale is a boutique talent advisory firm. We work with early-to-growth stage tech companies, helping them build teams without the usual recruiting noise, hyperbole, or pressure.\n\nWe are partnering with high-growth, Series C fintech that has raised more than $120M from top-tier financial and venture investors to find a Product Manager with to own product launches and upgrades across their full lifecycle. You'll work on the company's most pressing problems, from revenue-generating, client-facing features to UI/UX upgrades and automation. About 40% of the role is customer-facing, working di"
     },
     {
       "id": "jsearch_bVh2bEJueHY0WDRiQUh5c0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbVUyZUdnMVpubGZjMlpoVEZSQk1GWlVRMlZKWW1ZNVRVZHZlR05FY0d0eVoydFVTMEZXTm5CTlRGaEJOV2xaVTFoQlMybFRja1l0U1RGNU1qTkpOWEpOUjBkbFJYcHpVM0V0U2xoUk0zcDVNVmxDY1dGSVJVWTJOa3BTT0d3eVdqRnlNbXN4VGw5dk5HWlRNQzA0YzB4QlprdzBORTVHY1dsYWVWSm9aa2MxVkY5TWFuVVNGMFJwWWkxaGRHNU5UVFJwUVdoaVNWQjNka3RUZDFGVkdpSkJTRTR3UlRkSFR6SlRYMmxuZGtodWVWcFNOVE40UjBkR2MyOTRTMWczTVVGQjplMDNiYTQ1ZA",
@@ -379,20 +407,6 @@
       "match_score": 9,
       "source": "Twilio Careers",
       "description_snippet": "Who we are\n\nAt Twilio, we're shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n\nOur dedication to remote-first work, and strong culture of connection and global inclusion means that no matter your location, you're part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we're acquiring new skills and experiences that make work feel tr"
-    },
-    {
-      "id": "jsearch_RlI4N0U3dVRld01oMFY4b0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXakpyYURkd1FYaG9XVGRsUkdoVU5IZGxjMFJXT0hOcVFsaFFZMmR4ZGtsclkxaFFOVEppU2tSMkxYbENPSGRHWkVOMmRVczBUVEJRYmxWMFNuTnhkMU51UkRBeGFsRkpjM2xZYlhoTk5WTlJaR0ZYTm5SeFdFNUdRM2hwYXpKVlUyaGlSMkV3WlhGNVEwSmZRakJ6TmxBME1qQkZRbXh0YzBKU01EY3ROSGxmUVhreFYyOFNGekJ5YWpSaGNVODRUMkZmTW5samExQjZUbTV4YlVGakdpSkJTRTR3UlRkR2QzbEVTa3h2TWpaelpWQk9YM0pTYldsalZWVnZWSEpIYUVkMzpiNDk3ZjRjMw",
-      "role": "Senior Product Manager - Cost and Coverage",
-      "company": "Highmark Health",
-      "link": "https://careers.highmarkhealth.org/senior-product-manager-cost-and-coverage/job/J287742",
-      "posted_date": "2026-11-10",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Highmark Health",
-      "description_snippet": "Company :\nHighmark HealthJob Description :\n\nJOB SUMMARY\n\nThe Senior Product Manager, Cost and Coverage owns the end-to-end financial front door for members from understanding the cost of care to collecting payment from members upfront or providing financing options where needed, and ensuring the post-encounter Explanation of Benefits is simple and accurately matches the cost estimate provided. This role defines the product strategy, vision, and value proposition of Highmark’s cost transparency and coverage experiences. The ideal candidate outlines the strategic vision and business case, gains "
     },
     {
       "id": "jsearch_NU1fbXQ0OGh3UU45d2V1NEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXaTAzUmtKUmRYSnRkVGcwY2tFNGNFWm5lVzEzY25WMVpUbHlZV2QxU0hadlRWcFRabkZ2Vmt0UmNUSlBVVXAwWTJwNU1FcFJTWFZyY3pCalNuRXpUbTExT1VKaVNEQkViMGhsYTNrMlJqaEVhMHBVTkZGM1ZETTNkM1ZPTFhoSFRFeHNWRk5YVTNwTU5UQmZNV2xrYlhWTVIwVlVYMVUzUWs0NGFGbHRhM05tWWxsQ056WVNGemRZZGpOaGRDMWxUSEkyV2pWUFZWQmZiMnB1TFZGRkdpSkJTRTR3UlRkSVVFZExiRXR0Y1Rkc2JuVlhWblJGY21aU1VWWlpaVTUzTFVwQjpjMzFhNzNhZA",
@@ -2787,20 +2801,6 @@
       "match_score": 3,
       "source": "Jobilize",
       "description_snippet": "About Calm\nCalm is the leading mental health brand on a mission to make the world happier and healthier.\nKnown for its flagship consumer appranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countriesCalm helps people sleep better, stress less, and live more mindfully through content and tools from experts and beloved celebrity voices.\nBuilding on this foundation, Calm has created a broader portfolio including evidence-based solutions like Calm Health, offered through employers, health plans and providers, designed to expandaccess to mental h"
-    },
-    {
-      "id": "jsearch_cFE0cWY5dUp6bzhMbVpMV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURTl4ZEc5aFUzaFFNM2hDYkROT1RXODRZV1JKZWxKcE0wdEZOV3RVTkU5bk5HSlNTblZIY2pZMFNGODBkM1ZMY21sa1FVTlRSRlZQZURGR2RqZ3dSemcyVERsUFIxVnJYMnR0VjJnelJtUXpiMFF5TFdaTmNsUXpXbnBMYzBreE1VUnJhMjFTZFVGTFYyTXdha3Q0VW5OclgzQm5OMHRJTlZjdFZEUmplWEJYV0hKR1RrUVNGMGhCYmtGaGRsaFpURFJQWlRWT2IxQXdTbTV4Y1ZGdkdpSkJSSE55T1daUmJHdHdSVTkyUjNkVmRXVlFXRFJyWnpOUlJrSXpNakpZVjB0Qg",
-      "role": "Remote Senior Product Manager, Atom Engine",
-      "company": "Onebrief",
-      "link": "https://us.trabajo.org/job-2850-3596f4fe23357d2bc7575fbd9faff3d0",
-      "posted_date": "2026-09-25",
-      "location": "Naperville, Illinois",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "Trabajo.org",
-      "description_snippet": "Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination.\nMilitary planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when the stakes are real.\nWe are a distributed team of builders from military, operational, and technology backgrounds who care deeply about improving how im"
     }
   ]
 }
