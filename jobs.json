@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-11-20T22:03:47.542Z",
-  "total_fetched_today": 3,
+  "last_updated": "2026-11-21T20:43:31.830Z",
+  "total_fetched_today": 6,
   "jobs": [
+    {
+      "id": "jsearch_d003UUtzeERkYkpENTMzQUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVFpwVlVsalRqRkpTRXhNYlRoMGVYQm5kMFYyZVhjdGNXNHhiRmRmU2tsWWEzRm5UMGRzVkhVMmExUkJhbk5uTjIxU01ETjZaRkJsTmtsdVMwaHVTVlZZTVVzek5FbFlSR3M0VGxCeGNqRXpTbkJxY1ROa1NqTTFlR1Z1V1VGQ1NEbG1UbkJ5YldFMVVHVnlSV1ozYmtGYWRXZ3llR1ZoU0VRNVNsSldXRU5NWmpWNmJsa1NGMkZCU1VOaE5uWmpSbVZmYzJsTVRWQnNjRWgzY1ZGTkdpSkJTRTR3UlRkR2RqaHRRVlpCTjBabVVrSTFlbU5WWlhFeGRXTlNOVGR5YWtOQjo4OTJiZGU0Ng",
+      "role": "Senior Product Manager- Informatics (IC)",
+      "company": "CVS Health",
+      "link": "https://jobs.cvshealth.com/us/en/job/R1056028/Senior-Product-Manager-Informatics-IC",
+      "posted_date": "2026-11-17",
+      "location": "Washington, District of Columbia",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 8,
+      "source": "CVS Health Careers",
+      "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\nJob Profile Summary\n\nLeads product strategy and execution for the organization's Epic electronic health record (EHR) platform and related clinical informati"
+    },
+    {
+      "id": "jsearch_S0FJclB5T05xbFdRSXhPSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbGhNUTNSeVUwZHFSbTlqYkVOUE4yRTRTV3RwUlRKTGJXSlFUMjFRV0VOQmN5MWFiRzlKUlhnMlZEbHVTRko0WjJwdVFsQjRObVJPTWpCaWFqWkNPRFk0ZGtoQ1IzQmtkUzFmZDBoSGJGZFRNRTFDZUdwbk56ZEhhVEJJY1VsNGJHWjVVbTV2WkZVM01GZFVXa0pQZFVGcE1IbG9hbXhmYW5JM1pFcDRkemhUV2tzek1sRVNGMWQzU1VOaExXVjNUMWxmY2pWT2IxQnZOSG8zTFVGekdpSkJTRTR3UlRkSGVERTRkMnhrYzJ4TWQwNHpXblpIWlZKV1MyMVRXVlJPU0hOMzowZTgxMjA3MQ",
+      "role": "Sr Product Manager, Platform Data & AI - Remote",
+      "company": "UnitedHealth Group",
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/sr-product-manager-platform-data-and-ai-remote/34088/103437772928",
+      "posted_date": "2026-11-16",
+      "location": "Eden Prairie, Minnesota",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 7,
+      "source": "UnitedHealth Group",
+      "description_snippet": "Optum Insight is improving the flow of health data and information to create a more connected system. We remove friction and drive alignment between care providers and payers, and ultimately consumers. Our deep expertise in the industry and innovative technology empower us to help organizations reduce costs while improving risk management, quality and revenue growth. Ready to help us deliver results that improve lives? Join us in making healthcare work better for everyone through people-led, responsible AI while Caring. Connecting. Growing together.\n\nAt Optum Insight, we are building digital p"
+    },
+    {
+      "id": "jsearch_d2FlRHNMNEl4V0M0UXBvWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVjlZZEVWQlkxbzFUWEJFWm5kelJUbFdaemRoYzNWSWQyeFhkRTE0TWpkc1dFTmtRWEkyV1hsU2JtMWhjelJqZDJkNlkzcHdNa0ZxY0ZabFpYTlRSWGsyUTJsTlRXOTRjVUo2VlV0NVFYaExUbGMzV0hsSU5tOUhSalpLV1d3elMyaFZOVmR4TVVreWFUUkliblpQWWpOalRteHRiblZUVlZsMlUyODBiMkZqTlhKeldtY1NGMkZCU1VOaE5uWmpSbVZmYzJsTVRWQnNjRWgzY1ZGTkdpSkJTRTR3UlRkSVpWb3paMWxWZW5Gb2NUbGtiM1pTVUZoTFNWcFVZMHh4WTNKUjo3NjBmOGNmMg",
+      "role": "Product Manager Lead- Consumer Credit Cards",
+      "company": "PNC",
+      "link": "https://careers.pnc.com/global/en/job/R238435/Product-Manager-Lead-Consumer-Credit-Cards",
+      "posted_date": "2026-11-15",
+      "location": "Wilmington, Delaware",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "PNC Careers",
+      "description_snippet": "Position Overview\n\nAt PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As a Product Manager Lead within PNC's Retail Lending organization, you will be based in Pittsburgh or Philadelphia, PA or Wilmington, DE.\n\nThis position will focus on defining strategy and leading execution for key Consumer Ca"
+    },
+    {
+      "id": "jsearch_X0FORHh0bjE5M0laTmhWbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3hwWVhkTWVrZENUR2xOT0daR1FuQnBlVlZUTkVNM1ZsRmxiMTlTVjNWSGVGcFVPRlpNYjBVMmJHbzVjRTVYZDFsR0xWOTNRMU5VY2pOc05VUmliM0pqWW1OYWNWOVlXRGN6VFdoTE5XWnBja1JTZEhVeE1GRm1lSEZrZDB0NGFqaFhSME5XVmtKRE5HVTFTVXhEWVZSbWVtaDRiRXg1TUhWRFFWa3hPRlozU2xJeWMzRVNGMk4zU1VOaE9FUlVRWFoxY1RWT2IxQjZZVU4xZVZGckdpSkJTRTR3UlRkRlJIQTRUMEZMUVVRME9XNWhkazlxTFZWZldVVlhVVmh5WmxaQjpiZDAxMGZkNA",
+      "role": "Product Manager Remote, UTC±3 hours View Role",
+      "company": "Finviz",
+      "link": "https://www.jobleads.com/us/job/product-manager-remote-utc-3-hours-view-role--united-states--eff377ca7910373dda5848e332ee5768a",
+      "posted_date": "2026-11-15",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "JobLeads",
+      "description_snippet": "Finviz is a leading stock screening platform with a strong presence in the American market, serving 3 million monthly visitors. Our platform is trusted and regularly used by professionals from leading financial institutions—such as HSBC, Goldman Sachs, and Bank of America—as well as by enthusiastic beginners. With an international team across the United States, Slovakia, and the Czech Republic, we’re building tools that make a real impact.\n\nAs a Product Manager, you'll play a critical role in shaping the future of our platform. You'll help define and guide the development of innovative feature"
+    },
+    {
+      "id": "jsearch_SE9raVVqemlBNFV0Mmw3U0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVFl3VTNZMFowOUNUSGc0TVRkdVNXbEhPVEZmUzJWS1NWZHVUblZCU1VwSFdsWmFhVEY0U25SVU1qbEhWbDloVDJoVVNFMXNWRU5SVTJWSVVHdDJaakZPVUVJd1VFNVRURk53VjNReVluTk5kMVJLUnpCVk9UbE9jVVZEY1VobVJYQnlNWEJOWHpaQ2FEaE1ha0pZVHpkVU4ybEpTbW94YWxWdGNVZGFWVzVZZEZkcmNUQVNGMkZCU1VOaE5uWmpSbVZmYzJsTVRWQnNjRWgzY1ZGTkdpSkJTRTR3UlRkSU0xQjVVa3N5ZEVZME0wRmhSWFEzVWpSdFZsaDBaMU54ZFRKUjplNTNiNmQ1ZQ",
+      "role": "Product Manager - Soft Starters and Micro Drives",
+      "company": "Eaton",
+      "link": "https://hiringcafe.com/job/product-manager-soft-starters-and-micro-drives-eaton-raleigh-north-8n6ygcp02cklujvb",
+      "posted_date": "2026-11-17",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 4,
+      "source": "Hiring Cafe",
+      "description_snippet": "Eaton’s Industrial Controls Division (ICD) is currently seeking a Product Manager - Soft Starters and Micro Drives to join the team. This is a remote role within the US and includes approximately 25% travel.\nPreferred locations include Raleigh, NC; Moon Township, PA or Menomonee Falls, WI.\n\nThe expected annual salary range for this role is $113000 - $165000 a year.\nPlease note the salary information shown above is a general guideline only. Salaries are based upon candidate skills, experience, and qualifications, as well as market and business considerations.\nWhat you’ll do:\n\r\nIndustrial Contro"
+    },
+    {
+      "id": "jsearch_UlpoR2h2emc4dXdnU1dETUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbXRUVWt3eU9VNTRjMUo0ZVVkdFlubGtWVVExVWtad2VtZGlNWFk0VmxsM1RGVnpNMDQzTW5sblpsTjFSVVF0U2xNNVpYZE5PR05sTUMxVE0xRkhRVmhmWW1FM1JUVjNTV3R2Tld3d1YxWmlWelpJYUhOVU1HUnVPRzE1YlZsRFMxbGhYMDV2TkdRNE1YQjJiVjlpZDNBMk9FUXlielZRTkV4bE0wSm5ORlZEUm5GS05GZ1NGMWQzU1VOaExXVjNUMWxmY2pWT2IxQnZOSG8zTFVGekdpSkJTRTR3UlRkSGJGSlVkalJhUlZkSmVWbHViV2xQU0hJNGVIUkJOVlpYVVZkMzoxNmNjM2U5Yw",
+      "role": "Sr. Product Manager Product Manager - Core Experience",
+      "company": "Rula Health",
+      "link": "https://www.ziprecruiter.com/c/rula/Job/Sr.-Product-Manager-Product-Manager-Core-Experience/-in-Remote,US?jid=dba54d6ead8cea89",
+      "posted_date": "2026-11-18",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "ZipRecruiter",
+      "description_snippet": "At Rula, we are a remote-first company that believes mental health is just as important as physical health. We recognize that mental health issues can be complex and multifaceted, and we are dedicated to treating the whole person, not just the symptoms.\n\nWe aim to create a world where mental health is no longer stigmatized or marginalized, but rather is embraced as an integral part of one's overall well-being.\n\nWe believe that by providing quality care that is both evidence-based and compassionate, we can empower individuals to take charge of their mental health and achieve their full potentia"
+    },
     {
       "id": "jsearch_cENOWmtwdWxPWV9nb1B4bkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFl5Tm01SmFsQkxNaTExU0hkcGNVaHNiemw1YzNSWk1XZHVaVVZOVmxGQ1NUaGtWVVp4YmpKQlgzbGZlVlp5ZGpWUk5GRk5OalUyTlRkbk16VlpVVFpXYlhKNlUyaDRNbGd6TW01UFNFeGZjRnBaYVhwSE5IcGlXV2hEZFV4bVpWY3hWbXRwWlZkMVlWRjNWbW96WXpsNlZVTlJjbEpMWjJFME1VRlhTRUZUVG1wQmJXWVNGM0Z6VFVGaE9XRkVTM1Z4Wm10UVNWQXlMV1kxYTBGVkdpSkJTRTR3UlRkRmFVaFdlRkJKUVhKdVNEYzFOM2hKVDA5eFVreFFNbmhSVEdsbjpiMjIyYzEwZQ",
       "role": "Product Manager - Remote in EST or CST only",
@@ -339,20 +423,6 @@
       "description_snippet": "Position Summary...\n\nWhat you'll do...Role summary:\n\nLead the vision, strategy, and execution for Wally, Walmart's AI-powered merchandising assistant, helping redefine how merchants make decisions and get work done. We are seeking an AI-native product leader who is deeply fluent in modern AI systems and passionate about translating emerging capabilities into meaningful business impact at enterprise scale. You will partner closely with engineering, data science, and business leaders to build trusted, high-impact AI experiences for merchants. This is a unique opportunity to shape an AI-native pr"
     },
     {
-      "id": "jsearch_X0FORHh0bjE5M0laTmhWbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVjlzVm5wSGFqQk9UV2RYVWtKVVdsZGhibXA2U1VFMVIzVkRia3RZYUZWNlYwbzRkRmhhZGxKMU5HdGFhbVowWWpKNE4zTlFTMFpZY1VOT1MyNXJVMGR0VTJ0bU1YZGhXQzFQYVhaWE5IcFFVek0zZFdkd1VXSm5hR3hWTlVaTFMxQm9USHB3ZEhSemVsb3haWFJpVGpsNWIzRjFWVkpuVFRZNE5uWldNMDFQUkY5elZFa1NGMGRvUkRaaGNsOXhUWE5mYURCUVJWQTVjRjlDTmxFNEdpSkJTRTR3UlRkRlpVdFhOMGRKVGxGeFNsSmlUbUZLUmt3NWFYVnNNWFl3YkcxMzpiZDAxMGZkNA",
-      "role": "Product Manager Remote, UTC±3 hours View Role",
-      "company": "Finviz",
-      "link": "https://www.jobleads.com/us/job/product-manager-remote-utc-3-hours-view-role--united-states--eff377ca7910373dda5848e332ee5768a",
-      "posted_date": "2026-11-08",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "JobLeads",
-      "description_snippet": "Finviz is a leading stock screening platform with a strong presence in the American market, serving 3 million monthly visitors. Our platform is trusted and regularly used by professionals from leading financial institutions—such as HSBC, Goldman Sachs, and Bank of America—as well as by enthusiastic beginners. With an international team across the United States, Slovakia, and the Czech Republic, we’re building tools that make a real impact.\n\nAs a Product Manager, you'll play a critical role in shaping the future of our platform. You'll help define and guide the development of innovative feature"
-    },
-    {
       "id": "jsearch_eTNXbEVvWUs0OTBibmZadUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkUzZVVSelIwZElkM04yTFMxQ1RXRkxVM0pWT1ZSUVMyeEJkWFpRZVZabFJFVllhRzQxUTA4elFtZHNVR3RJVlVGbVNEVTNjM1pUVGtKZmRTMDNZa0UyZFVOVVFsOHlRa1pEY1hCVFRYUllVVjlLWjJ4Mk1ucHZWemxXVEdkSVVIWjVVM05MU21kbWVtc3RObWhZTlZkRWJrWlZNMWRLVjJ4RlIzWkxabDlJV210eE9XNFNGMHBvUkRaaGRUWjRSRXhoTVdkTVVWQnRORE5sTkZGVkdpSkJTRTR3UlRkR09FMVBja2swYVVaMlkwdFlTRkk1WTFOTk1GOHhSSEkwVEU5bjo0ZTdjZGY5NA",
       "role": "Product Manager, Clinical Data",
       "company": "Junction",
@@ -463,20 +533,6 @@
       "match_score": 6,
       "source": "Monster",
       "description_snippet": "Staff Product Manager, Marketing Automation - US (Remote)\n\nUnited States\n\nProduct - Product /\n\nFull-time /\n\nRemote\n\nApply for this job\n\nLuxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.\n\nRole Overview\n\nWe're looking for a Staff Product Manager to own a core part of how our clients mark"
-    },
-    {
-      "id": "jsearch_d2FlRHNMNEl4V0M0UXBvWEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEJHUlZOeGMxVkVUVFZZT0RKalkwMWllbFZqTVRsV2JqbFRUbEZpYkRnNVQwcEhNM2Q1TjJWSmJqQTFNbmhLZEZKQ1NHVmZhbkpmUlhwaFJVUjNjVWRSWTB0SFQwVmhWVWxzTWxoYVgyOWxNbEJPWDNONFZWWjJVMHRaTFZjMGVEYzBaRWR3VDFsUmFUWkJia2xWZGpSUk5GbFhMVWxUZUc4eVduRlZaRWczVjFkYVNUZ1NGekF6ZGpOaGNFczVSemRsYWpWUFZWQjFkR0l3T0VGWkdpSkJTRTR3UlRkRk5rdDNVVGRVYlZCa1FscEpOUzFHZEZWellsSlJlUzFxVGtabjo3NjBmOGNmMg",
-      "role": "Product Manager Lead- Consumer Credit Cards",
-      "company": "PNC",
-      "link": "https://careers.pnc.com/global/en/job/R238435/Product-Manager-Lead-Consumer-Credit-Cards",
-      "posted_date": "2026-11-10",
-      "location": "Wilmington, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "PNC Careers",
-      "description_snippet": "Position Overview\n\nAt PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As a Product Manager Lead within PNC's Retail Lending organization, you will be based in Pittsburgh or Philadelphia, PA or Wilmington, DE.\n\nThis position will focus on defining strategy and leading execution for key Consumer Ca"
     },
     {
       "id": "jsearch_dnlKc0I5cGZjZTNJMG15ZEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmhQYW5oV2NuWnBaMmxuTTJRNE5EbE1SV0ZtTld3d2RHRlZkRkZ1ZDNCVU5IRnFhSEUyVTIxSWJYVkJSamxOVWtzM05IRTRZeTF4V0RaTU4xRllWVnBOUXpSd2VsQnJXbFZNZW1oNU5WZzJSRFpZUTFwVk9EUkRRbTFOVjFOMFpEQmFOMnd4UVVkNFRXOTNaRFpTTkRBNFRVSXlUSEUxUWxwNldYRlBWVU5rZFhwQk1WTVNGMWRxVERKaGNXWjBUbkJYWmpWT2IxQjBZakkyTUVGSkdpSkJTRTR3UlRkSU9XUlVia2xHYjNkalZIWlpZalU1ZDFCd1JVeElhMnhRUzBKQjoyYmM3YzdmMA",
@@ -2745,62 +2801,6 @@
       "match_score": 7,
       "source": "LinkedIn",
       "description_snippet": "The Opportunity\n\nAs a Technical Product Manager Lead, you will drive software and product innovation, focusing on developing advanced software solutions to meet client needs. Within our Advisory - Other practice, you will combine technical skills with creative thinking to deliver innovative software products that enhance business performance. As a Senior Manager, you will leverage your skills and network to deliver quality results, motivating and coaching teams to solve complex problems. You will apply sound judgment, recognizing when to take action and when to escalate, while developing and s"
-    },
-    {
-      "id": "jsearch_ZzVSeERhQ0Q2SGZxdFowSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWhVVERaUGQyeFVORkYyYUd0Sk4zZFNjbk14UldkM09YbzVia0pLZUZKTFJUVjJNM0pzVFU0MmRreHRYMjVQYTA1SFVGQnllV05PUms4eVFubFlkVjlLVFhZM0xWcHhVRGxKZFY4MFRYTlRTM1JTUkdsNmEzRnVWRFpaY1VWMVRXeDNVUzE0VWt0RllXcHpaVlk1ZUdjMVdGcGxZMDA1Um01cVFWbHNRbFYxYmxsU1drOFNGMVpuYmtGaGRESkNTV1YyVnpWT2IxQnVYMWRUZVVGRkdpSkJSSE55T1daVExXSlRSbU4wYnkxVU1WWm5ObU0xYlRJMVRUWklOR2RCUW5kQg",
-      "role": "Product Manager - Acquisition Services",
-      "company": "Continental Finance Company",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-acquisition-services-at-continental-finance-company-4471556110",
-      "posted_date": "2026-09-29",
-      "location": "Wilmington, Delaware",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 7,
-      "source": "LinkedIn",
-      "description_snippet": "Come join a growing financial technology company that’s leading the marketplace in both the marketing and servicing of credit cards! Continental Finance Company specializes in credit card options for those consumers with less than perfect credit. We are seeking an experienced Product Manager to lead credit card acquisition and decisioning initiatives and manage a dedicated Agile product team.\n\nThis role will partner closely with Marketing and Credit Risk as core business stakeholders, along with Data Science and Technology teams, to launch new credit card products, execute acquisition strategi"
-    },
-    {
-      "id": "jsearch_d0pnRmZ1bjhsMFJ1TU0zVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVTV0ZUV0TFdGUkhVSGxoZFZvNVdVeGFlVzVvYlVSelpEVXRSRE0yVW1rMVVrbGtZMHh5UldST1ZHaDBPRkpPVVZWT2ExTTNXRlJZYUdveFZXZDBOMGRoVUhGclVGUnJNM2xqUlZoTldFNURVakYyUVhOSVNuSkpWaTExYUd4ZlExaFhURGw1TjJoQk9IQmZZWE5mYlVsRVFtSldiRlJuYzBsWVl6Tm9Xa28xVVUwMGFqVVNGMGhCYmtGaGRsaFpURFJQWlRWT2IxQXdTbTV4Y1ZGdkdpSkJSSE55T1daUlNUUkxVVFJtTTNaRlJ6WnBXVU5QZVZNNFVraDFNekZzYzJWMw",
-      "role": "Product Manager @ fast-growing, mission-driven tech startup",
-      "company": "Hirepath",
-      "link": "https://hirepath.m8s.66ghz.com/remote-jobs/product-manager-fast-growing-mission-driven-tech-startup",
-      "posted_date": "2026-09-30",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Hirepath",
-      "description_snippet": "Title Product Manager Location Fully remote Company overview Crosstie is the workflow orchestration layer for property and casualty insurance operations. We coordinate and execute work across people, systems, and decisions to reduce administrative burden, accelerate cycle times, and improve outcomes for carriers, TPAs, self-insured organizations, and their customers. Founded at Harvard University’s Innovation Lab and backed by MassMutual Ventures and General Catalyst, we’re building execution-grade infrastructure for the future of insurance. We’d love to connect with curious and motivated indi"
-    },
-    {
-      "id": "jsearch_OUNuVEdRMjFiMEZWbVVFQ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMGRLWlRCbldGUjJUbmxyWkdzMFVuSm1SSGx2UkdwQ2NVbE9OVFJ4U21oT2JVOUthbkpQVGxSd05uVjFabXh5VHkxVU9IcHhOV0ZRUW5oMFdrczBPVkI2T1hWRlltUXlTemwxUlZod2VVUkhXa2xMT1ROd2MwaHdVM2x5TFhGS016RlFNMDVMTlVaMFZYSm5OSFJwUVd0SU0wMUdORXRJY1VZdGVuaHJWVUowYmt0U1RVc1NGMEZCYmtGaGMyNW1UR0l6U210UVNWQnZOa3RHYTBGWkdpSkJSSE55T1daU1YxZFRkVFJVTVc5cWRVUnhZbWhzTlc1UFVYaHZjVVpLU3pSbg",
-      "role": "Product Manager, North America - Remote",
-      "company": "Hitachi Global",
-      "link": "https://careers.hitachi.com/product-manager-north-america-remote/job/R0120995",
-      "posted_date": "2026-09-25",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 4,
-      "source": "Hitachi Careers - Hitachi Global",
-      "description_snippet": "Job Description\nAre you a strategic thinker with a passion for product innovation and market growth? Join Hitachi Energy as our Product Manager – Transformer Components and take the lead in shaping the future of our Insulation and Components portfolio across North America. In this role, you’ll drive product strategy, identify market opportunities, and collaborate with cross-functional teams to develop and launch offerings that meet evolving customer needs. Your insights will guide the product lifecycle and ensure our solutions remain competitive and impactful.\nResponsible to ensure compliance "
-    },
-    {
-      "id": "jsearch_TmdlMVlFSFp6WTdrcnlWNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMmhIVFRkUVNrOUlXbVoyZDJrNWVFMVlUMDVIZUd4M2RUaFBRM2RUZDNaTVNYaDJTMnBIZEdKTlIzQmtibGN6Wm1oTmNsZFlUblJzU0RaWFNEVmxjMTk1VDFRMFZrWlBaRkpTTlRoMlZtZElkbmcyZEZwMk9XNVJkMVZsYnpGSFdtaG5iRUk0Y0VwT05VYzBhMGhDTFZsTU9YbzNZbmRKY1dwS1RXVnRPRVZSWjNsV1ZsVVNGMGhCYmtGaGRsaFpURFJQWlRWT2IxQXdTbTV4Y1ZGdkdpSkJSSE55T1daUlV6aERNVTFITm1OMlZHeFBVRU0xUWxGWFpHdFFWR296TjBWMw",
-      "role": "Growth Product Manager New Remote, United States 31",
-      "company": "calm io",
-      "link": "https://www.jobilize.com/amp/job/us-nh-all-cities-growth-product-manager-new-remote-united-states-31",
-      "posted_date": "2026-09-29",
-      "location": "New Hampshire",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Jobilize",
-      "description_snippet": "About Calm\nCalm is the leading mental health brand on a mission to make the world happier and healthier.\nKnown for its flagship consumer appranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countriesCalm helps people sleep better, stress less, and live more mindfully through content and tools from experts and beloved celebrity voices.\nBuilding on this foundation, Calm has created a broader portfolio including evidence-based solutions like Calm Health, offered through employers, health plans and providers, designed to expandaccess to mental h"
     }
   ]
 }
