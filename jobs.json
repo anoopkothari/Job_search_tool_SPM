@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-11-26T23:25:47.426Z",
-  "total_fetched_today": 4,
+  "last_updated": "2026-11-27T23:06:21.243Z",
+  "total_fetched_today": 5,
   "jobs": [
+    {
+      "id": "jsearch_YzAyZ2xqOEVnN21wZGVWb0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbVJyWW0xRlkzRndOalo0ZVdGS2N6WlJXbXBVYzNSV2VIWnVVbXhzYjFWcWFXODRla1Y1WVhwRk9YVndRVUl4YUU1aWVGUnBVSHBmTldaNlFuZFplRGQzU3pnNVdEaHROVXgwZUVkVFUwNW9WVEJ3WjB4SlFUWk1hV3RLTUhOYU9FRlRkMUpTUVVaYVFsSjBibXRDWTNaTFVWOVpPR2hCYkZaM1duQjJhbmg0YWw5aU5IY1NGemRCZDB0aE5YcG9SRzloVWpRdFJWQnJiMlZCYjFGRkdpSkJTRTR3UlRkR1EyaHVTV2x0WVdGbWFqWk5hV3AxVmtkelJqUnpSbTVhTldSbjo2ZDY5NDljNg",
+      "role": "Senior Group Product Manager, Connected Cameras",
+      "company": "General Motors",
+      "link": "https://search-careers.gm.com/en/jobs/jr-202624191/senior-group-product-manager-connected-cameras/",
+      "posted_date": "2026-11-22",
+      "location": "Warren, Michigan",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 10,
+      "source": "General Motors Careers",
+      "description_snippet": "At General Motors, our product teams are redefining mobility. Through a human-centered design process, we create vehicles and experiences that are designed not just to be seen, but to be felt. We’re turning today’s impossible into tomorrow’s standard – from breakthrough hardware and battery systems to intuitive design, intelligent software, and next-generation safety and entertainment features.\n\nEvery day, our products move millions of people as we aim to make driving safer, smarter, and more connected, shaping the future of transportation on a global scale.\n\nThe Role\nAs Senior Group Product M"
+    },
+    {
+      "id": "jsearch_MGZCREFNb2dZb3dFVXNacEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVnBuVnpWVGNrOXBMVUo2V2xVMWRsTTVWbWxPVVZabk9WUk9NbUpZY0Vac2RGcHpVVVZaUVU1TVQxUnZUemwxVlhONmExVlVhVFJaWTFKTFlUZE5RbXRXYTNkWFpERlZTVXhpWTFVeFMzSTJNMGd6TjJsSE1VSm9Na1YzVmxWcFFrTlRVR1poUlRCalUyUkRZVXMyUVZwdGMxTkROa2haYTJGQmFWcFBWbFpqYmxCYVRESVNGemRCZDB0aE5YcG9SRzloVWpRdFJWQnJiMlZCYjFGRkdpSkJTRTR3UlRkRkxYWmxWRXR3WVZoNFZEaG5hMlI1T0ZWWFVXdDJOa3BIUzFWMzoyN2YwZmZmMg",
+      "role": "(Remote) Product Manager",
+      "company": "Harris Computer Systems",
+      "link": "https://www.monster.com/job-openings/-remote-product-manager-nashville-tn--cfc12f7a-05f5-4d50-b83f-9be4c6fc92ab",
+      "posted_date": "2026-11-20",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 6,
+      "source": "Monster",
+      "description_snippet": "SmartWorks, a division of Harris; is seeking a Product Manager who will bring together product ownership, customer and market engagement, and cross-functional enablement. These reinforce each other: time spent with customers makes your requirements sharper, and deep product knowledge makes you more credible in front of customers.\n\nThis remote role welcomes candidates anywhere in Canada and the US. Travel is required as needed, approximately 25%. Candidates must hold a current, valid passport and be legally eligible to travel internationally. This includes either passport based visa exemption o"
+    },
+    {
+      "id": "jsearch_d3ZXcFA4ZmsxUjIyTjl5b0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWGx1Y21OTWF6TTRjQzFSUlc1NlZraEhXVTh6YkhaNlZFVTVSM0ZsVlRabU1tTnBZbDk0V2s1eGNVUTNaVlo1WDJ4clRDMXFUV1ZxWHpGaGFsUXpXRWRqVG1WRlJqTmhTazF5Y3podFJqSXdTbUZMWWs5aFFrTXlNbkJVVEhOWFR6UmFNRFJ4WlUxU2MwaEROR2RMYTNsbmQwcGlNV3R0YlhSbWVqSm9jbEoyYm1SMFJXY1NGemRCZDB0aE5YcG9SRzloVWpRdFJWQnJiMlZCYjFGRkdpSkJTRTR3UlRkSU9YaERhRnBzWmxVNFdIZDFPVEZ1VWtGb04xY3RPWFV6ZEVGUjo0ODQxMTVkMg",
+      "role": "Product Manager Lead, Parcel Protection",
+      "company": "CWILL",
+      "link": "https://us.trabajo.org/job-5003-b5479d1841f308df25b870792b750f8d",
+      "posted_date": "2026-11-23",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 5,
+      "source": "Trabajo.org",
+      "description_snippet": "About CWILL\n\nCWILL (pronounced 'quill') is a post-purchase and retention suite built for Shopify brands. Reduce support tickets, recover lost revenue from returns, and turn one-time buyers into loyal fans — with tools purpose-built for every touchpoint that follows the sale.\nAbout the Role\n\nCWILL Shipping Protection lets shoppers protect their orders against loss, theft and damage at checkout, and gives merchants a fast, fair way to handle claims and reorders. We're now growing parcel protection into a standalone line of business — and we're building the team in the US, starting with this role"
+    },
+    {
+      "id": "jsearch_UWZGVmV5VnhIaDkwbkNnbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbGRFYUdkT2JXRllSamhvYVUxQmIzVTRSbk4wWjBWd1lqTTFVak5EVEZabGFtNW1hRGREWTAwek0wdHVZbGxHYTNwMVJXeFFVbkpKZFRka1lUZFFkVWhPVm1OUWNHcEdTa3hzU2paelQwdFhaakp1YWxGMmIxZHRYMDVqYlVwaVJWZFplazh6TUhCelFuZGxObHBTYzNVMGNsQlJRalpWYmt3NFJUbHNWbGxpZEROd1dqa1NGek5uZDB0aE5GTldTbGxJWjNObFRWQXRMWEoyYTBFMEdpSkJTRTR3UlRkSWMxTTJORk5aTWpOcU9WazNUbUpIVGkxV1YwcE5MV2xxTmpSQjo2MmFiZDE2Nw",
+      "role": "Product Manager Anderson-Negele Remote, United States Posted an hour ago",
+      "company": "Ralliant",
+      "link": "https://www.jobleads.com/us/job/product-manager-anderson-negele-remote-united-states-posted-an-hour-ago--united-states--e9d3ab7bb230bd54ef9f0b24deddbabe2",
+      "posted_date": "2026-11-24",
+      "location": "Remote",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 2,
+      "source": "JobLeads",
+      "description_snippet": "Remote## Product ManagerRemote, United StatesFind out how well you match with this jobJob ID: 10767**About the role**We are hiring a Product Manager to own the strategy, roadmap and commercial success of a line of hygienic sensors and instrumentation for the food, beverage and life sciences industries. You will turn customer and market insight into clear product requirements, work hand in hand with engineering to bring products to market, and equip sales to win. This role suits someone who is equally comfortable on a plant floor talking with a process engineer and in a business review defendin"
+    },
+    {
+      "id": "jsearch_cEFYalhZZ1pPTDhQa1RRMUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEJuWkVOa2FrbzVPV3RaWWtSTGQyVktPV1I1UzFCRlJGSk9OVXB4VnpsVmQzTnBhVEUxYTB0bFdVWkJjbGRpYTFOMmREWkhiV0ZETmw5VVlXaG9NVVp5V205Q2FIaHljRTgwY0hNek1IQnNNekZrUkd4b1drTjFNbVprZFhSWmJETkdkMkphWDBSU2VIb3lia0kwZFVoZlVHeE1SMlpRTFdWT1lXeHpUVFZzYVhWYWFFNFNGemRCZDB0aE5YcG9SRzloVWpRdFJWQnJiMlZCYjFGRkdpSkJTRTR3UlRkSVNIaE1PRkJZY2xWR2VqWnVWVzFpTkc1dmJGVmZPVUZaYWxOQjpiZWY4ZWJjOA",
+      "role": "AI-First Product Manager — Remote (LATAM)",
+      "company": "Somnio Software",
+      "link": "https://www.jobleads.com/us/job/ai-first-product-manager-remote-latam--thrall--e7a405e8be78627994672875ade8b322b",
+      "posted_date": "2026-11-23",
+      "location": "Thrall, Texas",
+      "active": true,
+      "resume_link": "",
+      "application_status": "Not Applied",
+      "match_score": 1,
+      "source": "JobLeads",
+      "description_snippet": "Somnio Software, a remote-first software company, seeks a Product Manager to shape product direction and deliver measurable value for users and clients. You will collaborate with clients and the development team to discover problems, define scope, and prioritize a clear backlog.\n\nYou will own user stories, acceptance criteria, and work across development, UX/UI, and QA, while leading agile ceremonies and balancing deadlines, quality, and scope."
+    },
     {
       "id": "jsearch_MnYzeGRhaVd1ZXo2RXpwd0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFEzTmpSUGFGRnFaRGxsYjB4b01uaHRhR1V6YTNWdGFGaFRVV05WY0dGZk0zWnVhRVpDZFcwNFNEVktMVVo2T0hGcU5HSjRTWEJmTW5sUlZHOHROVmhKZWxKblkyOXpjbUZsV2t0WFNUSnFOak5YZDJGTk9GZDRjRU0zYlZsMVF6TjVXVE5WZEROQmFqQkpUMFpOZERKT2IyOVZNVk5VVVdkb1NFOUhUR3hzUjJFMWNXOFNGemx5T0VsaE9ETmZTazFmUW5KMVJWQm9ZbVpyYTBFd0dpSkJTRTR3UlRkRloxTlRaMWhUZVRGbGRFZE9YelpOYVVVeFpIbDJPRXhUWW5GUjo5M2MyNjU4OA",
       "role": "Digital Product Manager Lead Senior- Mobile & Online Banking Security",
@@ -43,20 +113,6 @@
       "match_score": 6,
       "source": "ZipRecruiter",
       "description_snippet": "SmartWorks, a division of Harris; is seeking a Product Manager who will bring together product ownership, customer and market engagement, and cross-functional enablement. These reinforce each other: time spent with customers makes your requirements sharper, and deep product knowledge makes you more credible in front of customers.\n\nThis remote role welcomes candidates anywhere in Canada and the US. Travel is required as needed, approximately 25%. Candidates must hold a current, valid passport and be legally eligible to travel internationally. This includes either passport based visa exemption o"
-    },
-    {
-      "id": "jsearch_UWZGVmV5VnhIaDkwbkNnbkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa296UWtKNVVVUlRaVlJwTnpGcldGWjBjWHBKT0doQ2IyNVdjRlZZTlVSUU9YbzFUVXRpTlhWT01sTXdSemg2ZDFNMVNreExWRVUzVG1KcllsZEZZamwxWVVvelVrVTBTSFpmZUdSU05qZFdMVmxWZVRKRGNHcEllWFZNVUZCbGQxQXlSRnBoZWxGTFRqUm5OVmhwTWxaeFZUSmtiWEZtTVdadVdGOTBOV2t5UW05VFYyVVNGM2hNT0VsaE9EZFNTMXBJWkhObFRWQXlkbUZSTkVGSkdpSkJTRTR3UlRkR1RqVlJNV1J2VEhOSldreFpaSFJaYlVkYVJVTmZSa3hRWmtabjo2MmFiZDE2Nw",
-      "role": "Product Manager Anderson-Negele Remote, United States Posted an hour ago",
-      "company": "Ralliant",
-      "link": "https://www.jobleads.com/us/job/product-manager-anderson-negele-remote-united-states-posted-an-hour-ago--united-states--e9d3ab7bb230bd54ef9f0b24deddbabe2",
-      "posted_date": "2026-11-24",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 2,
-      "source": "JobLeads",
-      "description_snippet": "Remote## Product ManagerRemote, United StatesFind out how well you match with this jobJob ID: 10767**About the role**We are hiring a Product Manager to own the strategy, roadmap and commercial success of a line of hygienic sensors and instrumentation for the food, beverage and life sciences industries. You will turn customer and market insight into clear product requirements, work hand in hand with engineering to bring products to market, and equip sales to win. This role suits someone who is equally comfortable on a plant floor talking with a process engineer and in a business review defendin"
     },
     {
       "id": "jsearch_RWVRLUZoWm9xLW1TelJVVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTFEVUdkT2VsSnRVVlpNVkZkMFowdzBWMjlpYW01eVozUjRZVlYxTm1WcU0xUnZRMHAwYUdwb1pVMWZkMFJzTlU4NWMyeEZiR2hRZVdob05rZGtNVlpDWkhOQ1V6QnFlRkk0Ym05WGREVmthMHRKTW5oQlNqQlhiV00zWnpWWE9HVlVObUpFT1ZwSllrMDVVbGxJVFU5eFh6UnpTekY1WkdWNWVqRnZkVVl6TkdkTGRWSVNGMlZ0TkVoaExYRkxSbk15WVRRdFJWQTRkR0Z6YjBGckdpSkJTRTR3UlRkR1R6VjZjVkJYYm1rMFZuaFFlV05mZFZkMVdVNWtTMnRQUXpGQjoyZWYwMzRhZA",
@@ -2745,62 +2801,6 @@
       "match_score": 5,
       "source": "Jobgether",
       "description_snippet": "This a Full Remote job, the offer is available from: United States\nHims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for results. By normalizing health & wellness challenges and innovating on their solutions, we’re making better health outcomes easier to achie"
-    },
-    {
-      "id": "jsearch_X2VvUGxpZTdRZHJXSndZOUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURUZsWW1kbWRrWnBkbGRpVkdoZlEySTFOWGxrWDBScllUQlhlVmhIVG1jelRYcHJSekZIVUU1SFV6RTVSSEZSZG14WE16RTBSa2g1Y21sblpUVkVYMFJSTUVGcmNHd3RlVzFNY0U1SVFYQnVXVzB4VVhGM1RXVnlURFZCUkVwWVZUZDBZakpqUzFWa09XNUtkMGx5YURCUE5VUkhjV0ZUYldwQ1FuQjZSbVV6V1U0MVNVSVNGMHB4Y2tkaGNYcHZTemx5VDJ0UVNWQXlXa3M1Y1VGSkdpSkJSSE55T1daU00ydFdObko0VFRoTlUyTlJiSEZDTWxOdFNVdG5aUzFTWmkxQg",
-      "role": "Senior Digital Product Manager",
-      "company": "Walmart",
-      "link": "https://walmart.stoncareer.it.com/jobs/senior-digital-product-manager-2814e2.html",
-      "posted_date": "2026-10-04",
-      "location": "Urbandale, Iowa",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 5,
-      "source": "Walmart.stoncareer.it.com",
-      "description_snippet": "Your Next Step in Urbandale\nFlexible Role in Urbandale: Senior Digital Product Manager Company: Walmart Location: Urbandale, IA\nCompensation: $107.6k-$215.3k/Year (approx. $3.1k/Week) Benefits: A competitive compensation package is offered. Project-based work with clear objectives.\nCore Focus\nThis role centers on ...\\nOutlined below are the optional preferred qualifications for this position. If none are listed within the Customer Service space in Urbandale.\n• This Urbandale-based role is an excellent opportunity for professionals skilled in ...\\nOutlined below are the optional preferred quali"
-    },
-    {
-      "id": "jsearch_b3ZqaERKQUhoMnh3WWU2LUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV3A2WjBsU2JtcFBNak4zUm0xUE9HeFNiWGRvUTFOMFFYSnNSWEk1YkMwM04zZGFTblZyTUhGYWMwbFpTR3hsTUVjeGF6VjJPRjl6TFhWR2FWSmpTMk41TjNsNldFbG5jbVo1WmpOT1kxZHZhblZtYVV0eFIydG5TVm96VmtaNFl6TnhOWE10Y1ZNdFFrcE9Oa04zUkhBNFRtdE1ZMFJhWmpkaVQwOW9PV1U0TFc1TGJXSVNGemhoYmtkaGMzbzRTVXBtYzIxTVVWQTRjM28wYjBGbkdpSkJSSE55T1daVVpGTlFhV1YzYldabVkxUjNNVXc1U1ZBdFdVMUZYMEUxUzJSQg",
-      "role": "Lead Product Manager",
-      "company": "Lennar",
-      "link": "https://jobgether.com/offer/6abd723c8a27695aea128d14-lead-product-manager",
-      "posted_date": "2026-09-30",
-      "location": "Remote",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Jobgether",
-      "description_snippet": "This a Full Remote job, the offer is available from: United States, California (USA)\n\nSr Product Manager, Purchasing\n\nWe are Lennar \n\nLennar is one of the nation's leading homebuilders, dedicated to making an impact and creating an extraordinary experience for their Homeowners, Communities, and Associates by building quality homes and providing exceptional customer service, giving back to the communities in which we work and live in, and fostering a culture of opportunity and growth for our Associates throughout their career. Lennar has been recognized as a Fortune 500® company and consistentl"
-    },
-    {
-      "id": "jsearch_WTBSODNtaDlLanB3MGdtQ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVWgwWlY5bVQySlBWREk0ZDE5TlFrNU9kR05oUTFCcFpsVTBTRWRDVFRKbE9WUXRUa0UxUTNOQ1ZubHpaekZuVnpkaFZqRklhWEZYVm5jeFRFNWhkWEJ0YzFKVmQwbFVXRW90VERKb0xWZHBjRGRGZEcwNGNVVjJZa3RPWmtsbmMyeEVhMHRDWjBKaGFYbFRSblpUZEhBMGNWZERORFpRWkU0d2FEbEZiVGw2YldoTWVrd1NGemhoYmtkaGMzbzRTVXBtYzIxTVVWQTRjM28wYjBGbkdpSkJSSE55T1daU1RXeExTVGxOV0V3MmQwVjNXR1JCYVhaMVoydHZjRTFWU2tkQg",
-      "role": "Product Manager, Vendor Finance Tech — Remote & AI-Driven",
-      "company": "Jobleads-US",
-      "link": "https://bebee.com/us/jobs/product-manager-vendor-finance-tech-remote-ai-driven-jobleads-us-pennsylvania--jooble-5109016507544714611",
-      "posted_date": "2026-10-05",
-      "location": "Pennsylvania",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "BeBee",
-      "description_snippet": "PNC Financial Services Group, Inc. is seeking a Product Manager within the C&IB Business Technology Servicing organization to drive the product strategy, roadmap, and execution across multiple teams.\n\nYou will liaise between technology, business, risk, compliance, and third-party vendors to ensure alignment on objectives and timely delivery. The role requires deep knowledge of software development life cycle and agile methodologies, with openness to emerging technologies including AI to\n\nJobleads-US"
-    },
-    {
-      "id": "jsearch_LUE0algtZE5Dc09IZjZXd0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWx1VjNkbVFsbFlZemhFWTB0YVMyZHJWM2h4WjI4eWIwMWFXbWRsTUdOVFMzTkVjRVpwVEU5cVQzaElOVloyWWxWSFMwUTRTbVkzUTBzNE9EUlFYM1pTWTFvd1FVZEtSRWRLU1hsSVpVNXRVRzFVY3pkbFQyVklaR3hsVkhOSmFXWnFWMnBmVm5CYU5pMWhaRkJQT1ZBd1pHOTNTbmxDVEZSbFpqaHlaRWg0V0c5ZlRqRVNGMW8yY2tkaGNYWXhURTh5ZERWT2IxQnNaakpJYTBGVkdpSkJSSE55T1daU1VVeFhaRzkyZG5kdFdXNXRXV05IY25wMWFWWlNhVU50Y1Rsbg",
-      "role": "Senior Product Manager, Clinician Experience U.S. Remote",
-      "company": "Parachute Health",
-      "link": "https://www.jobilize.com/job/us-ny-brooklyn-senior-product-manager-clinician-experience-u-s-remote",
-      "posted_date": "2026-10-05",
-      "location": "Brooklyn, New York",
-      "active": true,
-      "resume_link": "",
-      "application_status": "Not Applied",
-      "match_score": 3,
-      "source": "Jobilize",
-      "description_snippet": "U.S. Remote\n\nParachute Health is transforming post-acute care as the leading digital ordering platform for medical equipment and supplies. We connect major health systems, health plans, and suppliers to help patients get the life-saving products they need at home. Since launching, we've connected 300,000+ clinicians and 3,000+ supplier locations across all 50 states and helped 15M+ patients. What started as a DME ePrescribing tool has become the order management platform of choice for home medical equipment.\n\nJoin our team and make a difference in patient care.\n\nAbout the Role\n\nYou are a PM on"
     }
   ]
 }
